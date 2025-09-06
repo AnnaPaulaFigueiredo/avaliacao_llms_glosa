@@ -1,0 +1,212 @@
+json
+[
+  {
+    "ID": "32728inp",
+    "ORIGINAL": '"Aprendizado de máquina é uma área da inteligência artificial que se concentra no desenvolvimento de algoritmos e sistemas que podem aprender e fazer previsões a partir de dados. Ele tem o potencial de revolucionar uma ampla variedade de indústrias, de diagnósticos médicos a carros autônomos. Tecnologias como aprendizado profundo e redes neurais aumentaram drasticamente as capacidades do aprendizado de máquina, e o campo está se expandindo rapidamente. O aprendizado de máquina continuará na vanguarda da inovação tecnológica nos próximos anos."',
+    "FIGURATIVO": "O aprendizado de máquina continuará na vanguarda da inovação tecnológica nos próximos anos.",
+    "REESCRITO": "O aprendizado de máquina continuará sendo um dos principais motores da inovação tecnológica nos próximos anos.",
+    "RESULTADO": '"Aprendizado de máquina é uma área da inteligência artificial que se concentra no desenvolvimento de algoritmos e sistemas que podem aprender e fazer previsões a partir de dados. Ele tem o potencial de revolucionar uma ampla variedade de indústrias, de diagnósticos médicos a carros autônomos. Tecnologias como aprendizado profundo e redes neurais aumentaram drasticamente as capacidades do aprendizado de máquina, e o campo está se expandindo rapidamente. O aprendizado de máquina continuará sendo um dos principais motores da inovação tecnológica nos próximos anos."'
+  }
+]
+
+json
+[
+  {
+    "ID": "39756inp",
+    "ORIGINAL": '"Círculos" de Mac Miller',
+    "FIGURATIVO": '"Círculos"',
+    "REESCRITO": 'O álbum',
+    "RESULTADO": 'O álbum "Círculos" de Mac Miller'
+  }
+]
+
+json
+[
+  {
+    "ID": "39783inp",
+    "ORIGINAL": "\"O serviço tem uma saída de A e B\"",
+    "FIGURATIVO": "saída de A e B",
+    "REESCRITO": "resultados de A e B",
+    "RESULTADO": "\"O serviço tem resultados de A e B\""
+  }
+]
+
+json
+[{'ID': '40298inp', 'ORIGINAL': nan, 'FIGURATIVO': nan, 'REESCRITO': nan, 'RESULTADO': nan}]
+
+json
+[
+  {
+    "ID": "46840inp",
+    "ORIGINAL": '"A Noite Estrelada" (Vincent van Gogh) e "A Noite Antes do Circo" (Vik Muniz)',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"A Noite Estrelada" (Vincent van Gogh) e "A Noite Antes do Circo" (Vik Muniz)'
+  }
+]
+
+json
+[
+  {
+    "ID": "47309inp",
+    "ORIGINAL": "\"Foi um prazer trabalhar com você.\"",
+    "FIGURATIVO": "\"Foi um prazer trabalhar com você.\"",
+    "REESCRITO": "Foi agradável trabalhar com você.",
+    "RESULTADO": "\"Foi agradável trabalhar com você.\""
+  }
+]
+
+json
+[
+  {
+    "ID": "2781out",
+    "ORIGINAL": """"\nEncontre o palíndromo mais longo em uma sequência de caracteres fornecida\n"""\n\ndef find_longest_palindrome(s):\n# Inicializar resultado \nmax_length = 1 \n\n# Inicializar índice inicial e final\nstart, end = 0, 0\n\n# Iterar sobre a sequência de caracteres de entrada\nfor i in range(1, len(s)):\n\n# Encontre o palíndromo de comprimento par mais longo\nlow, high = i-1, i \nwhile low >= 0 and high < len(s) and s[low] == s[high]:\nif high - low + 1 > max_length:\nstart = low \nend = high \nmax_length = high - low + 1 \nlow -= 1\nhigh += 1\n# Encontre o palíndromo de comprimento ímpar mais longo\nlow, high = i-1, i+1 \nwhile low >= 0 and high < len(s) and s[low] == s[high]: \nse alto - baixo + 1 > max_length:\ninício = baixo\nfim = alto\nmax_length = alto - baixo + 1\nbaixo -= 1\nalto += 1\n\n# retornar resultado\nretornar s[início:fim+1]\n\nse __nome__ == \'__main__\':\ns = "babad"\nprint("O palíndromo mais longo é: ", fim="")\nprint(find_longest_palindrome(s))",
+    "FIGURATIVO": "se alto - baixo + 1 > max_length:\ninício = baixo\nfim = alto\nmax_length = alto - baixo + 1\nbaixo -= 1\nalto += 1",
+    "REESCRITO": "if high - low + 1 > max_length:\nstart = low\nend = high\nmax_length = high - low + 1\nlow -= 1\nhigh += 1",
+    "RESULTADO": """"\nEncontre o palíndromo mais longo em uma sequência de caracteres fornecida\n"""\n\ndef find_longest_palindrome(s):\n# Inicializar resultado \nmax_length = 1 \n\n# Inicializar índice inicial e final\nstart, end = 0, 0\n\n# Iterar sobre a sequência de caracteres de entrada\nfor i in range(1, len(s)):\n\n# Encontre o palíndromo de comprimento par mais longo\nlow, high = i-1, i \nwhile low >= 0 and high < len(s) and s[low] == s[high]:\nif high - low + 1 > max_length:\nstart = low \nend = high \nmax_length = high - low + 1 \nlow -= 1\nhigh += 1\n# Encontre o palíndromo de comprimento ímpar mais longo\nlow, high = i-1, i+1 \nwhile low >= 0 and high < len(s) and s[low] == s[high]: \nif high - low + 1 > max_length:\nstart = low\nend = high\nmax_length = high - low + 1\nlow -= 1\nhigh += 1\n\n# retornar resultado\nretornar s[início:fim+1]\n\nse __nome__ == \'__main__\':\ns = "babad"\nprint("O palíndromo mais longo é: ", fim="")\nprint(find_longest_palindrome(s))"
+  }
+]
+
+json
+[
+  {
+    "ID": "18403out",
+    "ORIGINAL": "\"A tendência mais quente em tênis: eleve seu estilo!\"",
+    "FIGURATIVO": "eleve seu estilo",
+    "REESCRITO": "melhore seu estilo",
+    "RESULTADO": "\"A tendência mais quente em tênis: melhore seu estilo!\""
+  }
+]
+
+json
+[
+  {
+    "ID": "21160out",
+    "ORIGINAL": '"Tigres e Leões" de Eminem com Juicy J.',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"Tigres e Leões" de Eminem com Juicy J.'
+  }
+]
+
+json
+[
+  {
+    "ID": "23583out",
+    "ORIGINAL": """"\nCriar um modelo de aprendizado de máquina para prever o IMC (Índice de Massa Corporal) usando temperatura e altura de pessoas em uma determinada população\n"""\n\nimportar pandas como pd\nimportar numpy como np\nde sklearn.model_selection importar train_test_split\nde sklearn.linear_model importar LinearRegression\n\n# Carregar os dados\ndata = pd.read_csv(\'temperature_height_data.csv\')\n\n# Dividir em recursos (temperatura e altura) e rótulo (IMC)\nX = data.iloc[:, :2]\ny = data.iloc[:, 2]\n\n# Dividir em conjuntos de treinamento e teste\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)\n\n# Treinar o modelo\nregressor = LinearRegression()\nregressor.fit(X_train, y_train)\n\n# Fazer previsões\ny_pred = regressor.predict(X_test)\n\n# Avaliar previsões\nscore = regressor.score(X_test, y_test)\nprint(\'R-squared score:\', score)",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": """"\nCriar um modelo de aprendizado de máquina para prever o IMC (Índice de Massa Corporal) usando temperatura e altura de pessoas em uma determinada população\n"""\n\nimportar pandas como pd\nimportar numpy como np\nde sklearn.model_selection importar train_test_split\nde sklearn.linear_model importar LinearRegression\n\n# Carregar os dados\ndata = pd.read_csv(\'temperature_height_data.csv\')\n\n# Dividir em recursos (temperatura e altura) e rótulo (IMC)\nX = data.iloc[:, :2]\ny = data.iloc[:, 2]\n\n# Dividir em conjuntos de treinamento e teste\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)\n\n# Treinar o modelo\nregressor = LinearRegression()\nregressor.fit(X_train, y_train)\n\n# Fazer previsões\ny_pred = regressor.predict(X_test)\n\n# Avaliar previsões\nscore = regressor.score(X_test, y_test)\nprint(\'R-squared score:\', score)"
+  }
+]
+
+json
+[
+  {
+    "ID": "31475out",
+    "ORIGINAL": '"Precisamos descobrir uma maneira de resolver esse problema", disse John.\n\n"Vai ser difícil", respondeu Sarah. "É uma questão complexa e teremos que olhar para ela de todos os ângulos para chegar a uma solução."\n\n"Bem, vamos começar dividindo o problema em partes menores e analisando cada uma delas separadamente", sugeriu John.\n\n"Boa ideia", concordou Sarah. "Podemos então olhar para os componentes individuais e encontrar soluções para cada um deles."',
+    "FIGURATIVO": "olhar para ela de todos os ângulos",
+    "REESCRITO": "examinar todos os aspectos",
+    "RESULTADO": '"Precisamos descobrir uma maneira de resolver esse problema", disse John.\n\n"Vai ser difícil", respondeu Sarah. "É uma questão complexa e teremos que examinar todos os aspectos para chegar a uma solução."\n\n"Bem, vamos começar dividindo o problema em partes menores e analisando cada uma delas separadamente", sugeriu John.\n\n"Boa ideia", concordou Sarah. "Podemos então olhar para os componentes individuais e encontrar soluções para cada um deles."'
+  }
+]
+
+json
+[
+  {
+    "ID": "33137out",
+    "ORIGINAL": """"\nCriar um classificador Random Forest para prever o sentimento de uma determinada frase\n"""\n\nfrom sklearn.ensemble import RandomForestClassifier\nimport numpy as np \n\n# criar a entrada para o classificador: \nsentence = np.array([[1,0,0,0,1]]) # representar a frase como um vetor de uns e zeros, sendo 1 positivo e 0 negativo \n\n# definir o rótulo \nlabel = np.array([1]) # 1 positivo e 0 negativo \n\n# criar e treinar o classificador Random Forest \nclf = RandomForestClassifier() \nclf.fit(sentence, label) \n\n#testar o classificador \ntest_sentence = \'A comida aqui é realmente incrível.\'\ntest_sentence_vector = np.array([[1,0,0,0,1]]) \nprediction = clf.predict(test_sentence_vector) \n\n# saída da previsão de sentimento \nprint(prediction) # saída: 1 (sentimento positivo)",
+    "FIGURATIVO": "sentimento positivo",
+    "REESCRITO": "classificação de sentimento como positivo",
+    "RESULTADO": """"\nCriar um classificador Random Forest para prever o sentimento de uma determinada frase\n"""\n\nfrom sklearn.ensemble import RandomForestClassifier\nimport numpy as np \n\n# criar a entrada para o classificador: \nsentence = np.array([[1,0,0,0,1]]) # representar a frase como um vetor de uns e zeros, sendo 1 positivo e 0 negativo \n\n# definir o rótulo \nlabel = np.array([1]) # 1 positivo e 0 negativo \n\n# criar e treinar o classificador Random Forest \nclf = RandomForestClassifier() \nclf.fit(sentence, label) \n\n#testar o classificador \ntest_sentence = \'A comida aqui é realmente incrível.\'\ntest_sentence_vector = np.array([[1,0,0,0,1]]) \nprediction = clf.predict(test_sentence_vector) \n\n# saída da previsão de sentimento \nprint(prediction) # saída: 1 (classificação de sentimento como positivo)"
+  }
+]
+
+json
+[
+  {
+    "ID": "33140out",
+    "ORIGINAL": """"\nDivida 887 por 3 usando Python\n"""\n\nresult = 887/3\nprint(result) # Saída: 295.6666666666667",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": """"\nDivida 887 por 3 usando Python\n"""\n\nresult = 887/3\nprint(result) # Saída: 295.6666666666667"
+  }
+]
+
+json
+[
+  {
+    "ID": "33472out",
+    "ORIGINAL": '"Google e Apple se unem para revelar aplicativo revolucionário"',
+    "FIGURATIVO": "revolucionário",
+    "REESCRITO": "muito inovador",
+    "RESULTADO": '"Google e Apple se unem para revelar aplicativo muito inovador"'
+  }
+]
+
+json
+[
+  {
+    "ID": "34753out",
+    "ORIGINAL": '"Explore o mundo conosco - Aonde sua jornada o levará?"',
+    "FIGURATIVO": "Aonde sua jornada o levará?",
+    "REESCRITO": "Para onde você irá?",
+    "RESULTADO": '"Explore o mundo conosco - Para onde você irá?"'
+  }
+]
+
+json
+[
+  {
+    "ID": "38336out",
+    "ORIGINAL": "Um antivírus é um tipo de software que verifica os arquivos e dados de um computador em busca de software malicioso (malware), como vírus de computador, worms, cavalos de Troia, spyware, ransomware e outros programas potencialmente prejudiciais. O antivírus então tenta colocar em quarentena ou excluir os arquivos infectados, bem como alertar o usuário sobre a ameaça.",
+    "FIGURATIVO": "cavalos de Troia",
+    "REESCRITO": "programas que se disfarçam de programas legítimos",
+    "RESULTADO": "Um antivírus é um tipo de software que verifica os arquivos e dados de um computador em busca de software malicioso (malware), como vírus de computador, worms, programas que se disfarçam de programas legítimos, spyware, ransomware e outros programas potencialmente prejudiciais. O antivírus então tenta colocar em quarentena ou excluir os arquivos infectados, bem como alertar o usuário sobre a ameaça."
+  }
+]
+
+json
+[
+  {
+    "ID": "39470out",
+    "ORIGINAL": "\"Sinta-se em casa onde quer que esteja com o nosso Sistema de Casa Inteligente\"",
+    "FIGURATIVO": "Sinta-se em casa",
+    "REESCRITO": "Seja confortável",
+    "RESULTADO": "\"Seja confortável onde quer que esteja com o nosso Sistema de Casa Inteligente\""
+  }
+]
+
+json
+[
+  {
+    "ID": "41733out",
+    "ORIGINAL": """"\nCrie uma Rede Neural Multicamadas Perceptron (MLP) com três entradas e uma saída.\n"""\n\nimport keras\nfrom keras.models import Sequential\nfrom keras.layers import Dense\n\n# defina o modelo\nmodel = Sequential()\nmodel.add(Dense(12, input_dim=3, activation='relu'))\nmodel.add(Dense(1, activation='sigmoid'))\n\n# compile o modelo\nmodel.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])\n\n# resuma o modelo\nmodel.summary()",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": """"\nCrie uma Rede Neural Multicamadas Perceptron (MLP) com três entradas e uma saída.\n"""\n\nimport keras\nfrom keras.models import Sequential\nfrom keras.layers import Dense\n\n# defina o modelo\nmodel = Sequential()\nmodel.add(Dense(12, input_dim=3, activation='relu'))\nmodel.add(Dense(1, activation='sigmoid'))\n\n# compile o modelo\nmodel.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])\n\n# resuma o modelo\nmodel.summary()"
+  }
+]
+
+json
+[
+  {
+    "ID": "42886out",
+    "ORIGINAL": "Tivemos umas férias pequenas e exóticas.",
+    "FIGURATIVO": "pequenas",
+    "REESCRITO": "curtas",
+    "RESULTADO": "Tivemos umas férias curtas e exóticas."
+  }
+]
+
+json
+[
+  {
+    "ID": "49573out",
+    "ORIGINAL": '"A solidão expressa a dor de estar sozinho e a solitude expressa a glória de estar sozinho." ― Paul Tillich',
+    "FIGURATIVO": "A solidão expressa a dor de estar sozinho e a solitude expressa a glória de estar sozinho.",
+    "REESCRITO": "A solidão expressa a sensação ruim de estar sozinho e a solitude expressa a sensação boa de estar sozinho.",
+    "RESULTADO": '"A sensação ruim de estar sozinho e a sensação boa de estar sozinho." ― Paul Tillich'
+  }
+]
+

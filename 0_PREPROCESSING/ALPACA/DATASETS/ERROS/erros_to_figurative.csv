@@ -1,0 +1,1116 @@
+ID,ORIGINAL,TOTAL_TOKENS
+1ins,Quais são as três cores primárias?,16
+11ins,Qual é a capital da França?,10
+2374ins,Descreva o que é um buraco negro,13
+8441ins,Quais são os benefícios de aprender uma língua estrangeira?,25
+9378ins,O que é um evento Cisne Negro?,14
+9748ins,Compare esses dois itens.,11
+10160ins,Crie uma analogia para ilustrar o conceito de buraco negro.,21
+12040ins,Qual é a cor do céu?,12
+16885ins,"Crie uma história de terror de três frases que incorpore ""corvos negros"" e ""medos supersticiosos"".",38
+17764ins,Como você descreveria o conceito de “buraco negro”?,23
+20439ins,Resuma as características de um buraco negro.,16
+22650ins,Escreva uma breve descrição das características de um buraco negro.,27
+31422ins,Crie uma analogia para o buraco negro,14
+33737ins,Dê-me três fatos sobre buracos negros.,20
+35712ins,Liste 5 tipos de buracos negros.,15
+38895ins,Crie um GIF em loop de um gato correndo.,17
+39228ins,Explique o que é um buraco negro em menos de 50 palavras,20
+39563ins,Explique como se forma um buraco negro.,15
+42297ins,Explique o conceito de buraco negro para uma criança.,19
+45164ins,Descreva o impacto dos buracos negros na evolução das galáxias.,28
+46489ins,Em que circunstâncias um cisne negro poderia ser uma metáfora,25
+49559ins,"Escreva uma definição de ""buraco negro"" em duas frases.",24
+51406ins,Defina o termo “buraco negro”.,16
+113inp,Eu fui à loja.,11
+125inp,"Los Angeles, Califórnia",10
+139inp,Ela escreveu um livro.,12
+292inp,"""A educação é a chave para o sucesso.""",19
+296inp,O padrinho,7
+316inp,John correu rapidamente para a loja.,15
+739inp,O artigo,7
+743inp,O artigo,7
+782inp,Engenheiro de software,9
+946inp,iPhone 11 Pro,7
+952inp,Inteligência Artificial e Aprendizado de Máquina,20
+1216inp,"Em 2018, o ano mais recente para o qual há dados disponíveis em 2021, o Centro Nacional de Estatísticas de Saúde dos Centros de Controle e Prevenção de Doenças (CDC) relata 38.390 mortes por arma de fogo, das quais 24.432 foram por suicídio. A taxa de mortes por armas de fogo por 100.000 pessoas aumentou de 10,3 por 100.000 em 1999 para 12 por 100.000 em 2017, com 109 pessoas morrendo por dia ou cerca de 14.542 homicídios no total, sendo 11,9 por 100.000 em 2018.",178
+1253inp,Um laptop,6
+1323inp,Golden retriever,7
+1503inp,12 e 5,7
+1541inp,Programas: Adobe Photoshop,9
+2504inp,"Berlim, Alemanha",10
+2750inp,João Smith,7
+2828inp,4 centímetros,9
+2871inp,Alice no Pais das Maravilhas,14
+3091inp,Esta é uma frase de exemplo.,15
+3202inp,f(x) = x^2,12
+3245inp,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",25
+3330inp,Cidade de Nova York,10
+3390inp,A vida é cheia de surpresas.,15
+3439inp,O gato sentou-se no tapete.,15
+3546inp,Aplicativo de entrega de supermercado,18
+3598inp,João Smith,7
+4134inp,"Princípio - Uma verdade, teoria ou regra básica
+
+Axioma – Uma verdade evidente
+
+Teorema - Uma afirmação ou proposição que é provada ou demonstrada",64
+4135inp,Computação em nuvem,13
+4177inp,João Smith,7
+4933inp,Harry Potter e a Pedra Filosofal,14
+5025inp,Produto: Smartphone,10
+5189inp,Java e Python,7
+5250inp,O impacto das mídias sociais na saúde mental,21
+5340inp,Computação em nuvem,13
+5359inp,Qual é o pico mais alto do mundo?,17
+5361inp,A noite estrelada,10
+5375inp,Tecnologia: Aprendizado de Máquina,20
+5469inp,Pode me ajudar?,11
+5509inp,"Atender telefone, reservar voo, escrever relatório",21
+5635inp,Samsung Galaxy S20,8
+5829inp,Inteligência artificial,10
+6422inp,Esta é uma frase aleatória.,16
+7060inp,“A União Europeia está a trabalhar numa nova lei que obrigará as empresas a permitir que os trabalhadores se desliguem dos e-mails fora do horário de trabalho”.,63
+7148inp,O caderno,7
+7191inp,"""Olá Mundo""",10
+7314inp,"Eu queria dar um tempo de todas as más notícias do mundo, então decidi me afastar um pouco. Fui à praia e aproveitei o sol, a areia e as ondas. Conheci algumas pessoas novas e tive ótimas conversas. Foi um ótimo momento para fugir das preocupações do mundo.",112
+7376inp,Java e Python,7
+7538inp,O Regresso,7
+7598inp,"1965 - a missão Apollo 11
+1973 - a primeira chamada de celular
+1989 - a queda do Muro de Berlim",35
+7634inp,O Apanhador no Campo de Centeio,16
+7655inp,Tópico: Mudanças Climáticas,17
+7693inp,Maçã e Laranja,11
+8810inp,Ela foi até a loja.,14
+9092inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9093inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9095inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9096inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9097inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9098inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9099inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9101inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9102inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+10246inp,Produto: Apple iPhone 12,11
+10460inp,Quais são as três cores primárias?,18
+10476inp,Pode me ajudar?,11
+10514inp,das Alterações Climáticas,16
+10552inp,Posso tomar uma xícara de chá?,18
+10583inp,Qual é a capital da França?,12
+10833inp,John Doe,6
+10890inp,Apple Inc.,7
+11056inp,Espécies invasivas,11
+11067inp,O cachorro latiu.,12
+11126inp,sapatos da Nike,9
+11148inp,Inteligência artificial,10
+11402inp,AirPods da Apple,9
+11499inp,Nelson Mandela,7
+11550inp,Agrupamento K-Means,12
+11807inp,O Rei Leão,8
+11887inp,"O estudo investigou as propriedades de fadiga por compressão e tração de borracha de pneu de caminhão submetida a temperaturas de cura variando entre 25 e 120 °C. Foram consideradas as temperaturas de cura da borracha à base de β-dicetona composta com negro de fumo, sílica e óxido de zinco.",103
+11907inp,Tópico: Natureza,11
+11931inp,O apanhador no campo de centeio,16
+11932inp,Apple e Samsung,7
+12676inp,Carro elétrico,10
+12701inp,Tópico: Mudanças Climáticas,17
+12801inp,O artigo “O lado negro do consumo excessivo de mídias sociais” discute as consequências negativas do uso excessivo das mídias sociais.,54
+12806inp,O caderno,7
+12999inp,"Texto 1: As pétalas de rosa gigantes flutuavam na brisa. 
+Texto 2: As pétalas do girassol balançavam ao vento.",52
+13018inp,João Smith,7
+13534inp,Das Alterações Climáticas,16
+13580inp,"A Culpa é das Estrelas, de John Green",17
+13612inp,João Smith,7
+13625inp,O céu é azul,11
+13653inp,Estados Unidos,9
+13692inp,Alice no País das Maravilhas,14
+13895inp,"""Não pare de tirar dinheiro do caixa eletrônico
+Olhando para o 'Gram, ficando bravo porque um negro tem mais bandas
+Não pare, empilhe, sim, eu estou dentro
+Meu dinheiro é longo, você não consegue encontrar o fim""",92
+13952inp,[Sem entrada],9
+13970inp,Evento histórico: a crise dos mísseis cubanos,21
+13990inp,das Alterações Climáticas,16
+13992inp,Inteligência artificial,10
+14011inp,(sem entrada),9
+14013inp,(sem entrada),9
+14015inp,(sem entrada),9
+14036inp,"Stephen Hawking foi um cientista britânico nascido em Oxford em 1942. Ele era um especialista em cosmologia e física teórica, e seu livro mais popular foi Uma Breve História do Tempo. Hawking também era conhecido por suas pesquisas pioneiras sobre buracos negros e mecânica quântica.",104
+14064inp,Harry Potter e a Pedra Filosofal,14
+14085inp,Mídia social,10
+14097inp,O Rei Leão,9
+14120inp,Inteligência artificial,10
+14121inp,Processamento de linguagem natural,12
+14130inp,Computação quântica,13
+14136inp,"O apanhador no campo de centeio, de J. D. Salinger",24
+14162inp,Produto: Smartphone,10
+14244inp,Floresta aleatória,11
+14261inp,Olá Mundo,8
+14287inp,Agricultura orgânica,12
+14336inp,A terra é redonda.,11
+14360inp,Este é o melhor dia de todos!,16
+14522inp,Devemos reservar um tempo para apreciar o que nos rodeia.,21
+14561inp,Linguagem de programação: Python,15
+14729inp,Produto A e Produto B,13
+14730inp,Inteligência artificial,10
+14731inp,Inteligência artificial,10
+14735inp,Exploração espacial,10
+14830inp,Das Alterações Climáticas,16
+14874inp,Espécies invasivas,11
+14880inp,Apple e Samsung,7
+14882inp,Inteligência artificial,10
+15069inp,Tópico: Mudanças Climáticas,17
+15149inp,y = mx + b,10
+15473inp,A queda do Muro de Berlim em 1989,15
+15597inp,Processamento de linguagem natural,12
+15600inp,print('Olá mundo'),11
+15790inp,Olá Mundo,8
+15891inp,Los Angeles,7
+15963inp,Eu amo sorvete.,13
+15988inp,iPhone 11 e Google Pixel 4,10
+16061inp,sem entrada,8
+16062inp,sem entrada,8
+16063inp,sem entrada,8
+16066inp,sem entrada,7
+16067inp,sem entrada,7
+16069inp,sem entrada,8
+16722inp,Cientista de Dados,10
+16735inp,Realidade aumentada,10
+16809inp,Floresta Aleatória,11
+16880inp,Cidade de Nova York,10
+16965inp,"Los Angeles, Califórnia",11
+16996inp,A Redenção de Shawshank,13
+17014inp,"Laranja, Maçã, Banana",13
+17130inp,x + y > 5,9
+17181inp,"1. Maçã: $ 399
+2.Samsung: $ 499
+3.LG: $ 599",27
+17615inp,Vincent Van Gogh,9
+17691inp,Estados Unidos,9
+17844inp,Smart TV,6
+18635inp,AirPods da Apple,9
+18641inp,Toronto e Vancouver,7
+18673inp,João Smith,7
+18715inp,"Japão, Índia",12
+18732inp,"imprimir(""Olá mundo"")",13
+18752inp,Corporação ABC,9
+18778inp,A ascensão da inteligência artificial,15
+18779inp,Sustentabilidade ambiental,12
+18970inp,Inteligência artificial,10
+18985inp,"Bolsa, sapatos, camisa",14
+19044inp,"Laranja, Maçã, Banana",13
+19127inp,Tema: Amizade,10
+19217inp,Ele abriu a porta.,12
+19264inp,Eu amo sorvete.,12
+19343inp,"Paris, França",8
+19374inp,João Smith,7
+19436inp,Energia solar,8
+19437inp,Energia solar,8
+19503inp,Visualização de dados,11
+19538inp,O gato perseguiu o rato.,15
+19540inp,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",25
+19590inp,"Paris, França",8
+19639inp,"""Olá Mundo""",10
+19748inp,Estou muito feliz.,12
+20911inp,"Prezado professor Smith,",10
+20921inp,O Rei Leão,8
+20923inp,A noite estrelada,10
+20970inp,Aquecimento global,10
+20973inp,Inteligência artificial,10
+20987inp,3 e 5,7
+21175inp,Gatos e cachorros,11
+21182inp,Ela foi até a loja.,14
+21262inp,Ele foi até a loja.,13
+22155inp,Los Angeles Lakers,7
+22253inp,Olá Mundo!,9
+22399inp,<sem entrada>,9
+22583inp,iPhone 12,6
+24386inp,Tópico: Mudanças Climáticas,17
+24402inp,Gerente de marketing,9
+24435inp,John Doe,6
+24444inp,A Internet,6
+24470inp,Aprendizado de máquina,14
+24472inp,Processamento de linguagem natural,12
+24590inp,Maria Curie,7
+25143inp,Aprendizado de máquina,14
+25404inp,Comédia romântica,12
+25424inp,Apple AirPods Pro,9
+25480inp,Elevação do nível do mar,15
+25537inp,O cachorro perseguiu o gato.,17
+25584inp,Ele correu rapidamente.,12
+25620inp,Das Alterações Climáticas,16
+26162inp,Visualização de dados,11
+26233inp,Categoria: Ficção Científica,17
+26234inp,Número: 8,10
+26259inp,O homem correu rapidamente.,14
+26637inp,Engenheiro de software,10
+27368inp,O gato sentou-se no tapete.,15
+27510inp,Donald Trump,6
+27513inp,IA na saúde,9
+27737inp,O cachorro perseguiu o gato.,17
+27853inp,São Francisco,7
+27916inp,1 quilômetro,10
+28091inp,Donald Trump,6
+28118inp,Apple e Samsung,7
+28171inp,Estados Unidos,9
+28583inp,"'Jayden, Malcolm e Jimmy foram para a escola'",18
+28624inp,"Alex estava estudando há semanas para sua grande prova de matemática. Ele estava nervoso, mas se sentia confiante de que conseguiria. Quando o teste começou, ele ficou cada vez mais ansioso. Ele começou a duvidar de si mesmo e ficou cada vez mais confuso à medida que avançava. Ele tinha certeza de que iria falhar, mas continuou tentando.",125
+28625inp,"Alex estava estudando há semanas para sua grande prova de matemática. Ele estava nervoso, mas se sentia confiante de que conseguiria. Quando o teste começou, ele ficou cada vez mais ansioso. Ele começou a duvidar de si mesmo e ficou cada vez mais confuso à medida que avançava. Ele tinha certeza de que iria falhar, mas continuou tentando.",125
+28795inp,O padrinho,8
+28842inp,"Malcolm X foi um ministro muçulmano afro-americano, ativista dos direitos humanos e um proeminente líder nacionalista negro nas décadas de 1950 e 60.",57
+28912inp,"TV a cabo: $ 49,95, Modem a cabo: $ 25,49, Cabo HDMI: $ 17,99",33
+29142inp,Harry Potter e a Pedra Filosofal de J.K. Rowling,20
+29647inp,Sequóia,7
+29720inp,Quais são os benefícios de aprender uma língua estrangeira?,26
+29772inp,Aprendizado de máquina,14
+29942inp,4 centímetros,9
+30097inp,Ciência de Dados,12
+30122inp,João Smith,7
+30146inp,França e Alemanha,10
+30216inp,O impacto da tecnologia na educação,17
+30292inp,Tópico: Mudanças Climáticas,17
+30300inp,Categoria: Ficção Científica,17
+30339inp,Barack Obama,7
+30642inp,"print(""Olá mundo!"")",12
+30817inp,Produto A e Produto B,13
+30958inp,Nova Iorque,9
+30959inp,Sustentabilidade ambiental,12
+31162inp,Nova Iorque,9
+31299inp,Inteligência artificial,10
+31301inp,Computação em nuvem,13
+31524inp,Tesla Modelo 3,8
+31627inp,Qual é o pico mais alto do mundo?,17
+31705inp,f(x) = x^2,12
+31743inp,Cientista de Dados,10
+31773inp,"A Culpa é das Estrelas, de John Green",17
+32219inp,A crise dos mísseis cubanos,14
+32260inp,O apanhador no campo de centeio,16
+32562inp,A Guerra dos Tronos,11
+32575inp,4 centímetros,9
+32725inp,"Matriz: [""verde"", ""céu azul"", ""montanha azul"", ""buraco negro"", ""maçã vermelha"", ""mar azul""]",42
+32728inp,"""O aprendizado de máquina é uma área da inteligência artificial que se concentra no desenvolvimento de algoritmos e sistemas que podem aprender e fazer previsões a partir de dados. Tem o potencial de revolucionar uma ampla variedade de indústrias, desde diagnóstico médico até carros autônomos. Tecnologias como como o aprendizado profundo e as redes neurais aumentaram drasticamente as capacidades do aprendizado de máquina, e o campo está se expandindo rapidamente.",166
+32734inp,Das Alterações Climáticas,16
+32784inp,<sem entrada>.,9
+32940inp,Um laptop,6
+32960inp,Gatos e cachorros,11
+32961inp,O cão está latindo.,13
+32997inp,Olá Mundo!,9
+33062inp,Estou tão animado!,11
+33199inp,Aprendizado de máquina,14
+33368inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33369inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33370inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33371inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33372inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33639inp,Barack Obama,7
+33643inp,[Link para o artigo],11
+34708inp,Carvalho,7
+34712inp,El Nino,7
+34846inp,Grande Canyon,7
+34980inp,Mídia social,9
+35058inp,Toyota Camry,8
+35154inp,Inteligência artificial,10
+35160inp,O impacto das mídias sociais na saúde mental,21
+36855inp,Exploração espacial,10
+36932inp,Um smartphone,6
+37277inp,Computação em nuvem,13
+37390inp,das Alterações Climáticas,16
+37522inp,Computação em nuvem,13
+37570inp,Os benefícios de comer alimentos orgânicos,19
+38432inp,João foi até a loja.,14
+38744inp,Realidade aumentada,10
+38872inp,Cidade de Nova York,10
+38909inp,Inteligência Artificial e Aprendizado de Máquina,21
+38921inp,3 e 7,7
+38928inp,Pessoa A: “Precisamos mostrar solidariedade aos nossos irmãos e irmãs negros”.,41
+38966inp,"Nome: Emma Smith
+Gênero: Filme de ação
+Filme Favorito: O Cavaleiro das Trevas",35
+38972inp,Visualização de dados,11
+38973inp,Os benefícios de comer alimentos orgânicos,19
+38984inp,"O apanhador no campo de centeio, de J. D. Salinger",25
+39004inp,Agrupamento K-Means,12
+39086inp,"WASHINGTON (CNN) – Uma corrida presidencial aberta e a vontade dos candidatos, grupos de interesse, sindicatos e empresas de comprarem tempo de televisão conduzirão a gastos históricos em publicidade política e de defesa de questões no ciclo eleitoral de 2008, mostra uma análise.",102
+39095inp,A capital da França é Paris.,13
+39199inp,IA na saúde,9
+39272inp,< sem entrada >,9
+39273inp,<sem entrada>,9
+39274inp,<sem entrada>,9
+39276inp,<sem entrada>,9
+39339inp,Realidade aumentada,10
+39358inp,iPhone 11,6
+39382inp,Gerente de marketing,9
+39534inp,Energia solar,8
+39636inp,Tecnologia de reconhecimento de voz,18
+39638inp,"Berlim, Alemanha",10
+39667inp,Programas: Adobe Photoshop,9
+39935inp,A ascensão da inteligência artificial,15
+40027inp,"Maçã, laranja, banana",13
+40355inp,O Regresso,7
+40489inp,A Ronda Noturna de Rembrandt,14
+40507inp,Produto A e Produto B,13
+40557inp,<sem entrada>,9
+40575inp,O padrinho,8
+40649inp,das Alterações Climáticas,16
+40656inp,iPhone 12,6
+40756inp,Tópico: Exploração Espacial,15
+40781inp,Inteligência artificial,10
+40869inp,Arábia Saudita,9
+40920inp,iPhone 11,6
+40947inp,Grande Canyon,7
+41123inp,"123 Main Street, Anytown, EUA",13
+41185inp,Apple Inc.,7
+41998inp,João Smith,7
+42290inp,"O conteúdo da página da web inclui textos, imagens e vídeos.",29
+42292inp,"O conteúdo da página da web inclui textos, imagens e vídeos.",29
+42372inp,Eu vou para a loja.,12
+42380inp,'Les Demoiselles d'Avignon' de Picasso,19
+42582inp,Eu vou para a loja.,12
+43297inp,Esta é uma frase aleatória.,16
+43377inp,Este é um exemplo de frase.,14
+43773inp,Desenvolvedor de software,10
+43799inp,Tom Cruise,6
+44007inp,Maria Curie,7
+44053inp,Albert Einstein,6
+44193inp,Maria Curie,7
+44315inp,Retriever Dourado,10
+44344inp,Alice e Bob,7
+44350inp,Das Alterações Climáticas.,17
+44573inp,Esta é uma frase de exemplo.,15
+44588inp,Harry Potter e a Pedra Filosofal,14
+44622inp,Maçã e Laranja,11
+44662inp,Produto: Apple iPhone 12,11
+44752inp,Eu sou um estudante.,12
+44952inp,Carvalho,7
+45745inp,<sem entrada>,9
+46064inp,"Resumo: O ajuste fino de prompts contínuos para tarefas alvo emergiu recentemente como uma alternativa compacta ao ajuste fino completo do modelo. Motivados por esses resultados promissores, investigamos a viabilidade de extrair uma interpretação discreta (textual) de prompts contínuos que seja fiel ao problema que eles resolvem. Na prática, observamos um comportamento ""inconstante"" entre a tarefa resolvida por prompts contínuos e suas projeções discretas vizinhas mais próximas: podemos encontrar prompts contínuos que resolvem uma tarefa enquanto são projetados para um texto arbitrário (por exemplo, definição de um texto diferente ou mesmo um tarefa contraditória), estando dentro de uma margem muito pequena (2%) do melhor prompt contínuo do mesmo tamanho para a tarefa. Fornecemos intuições por trás desse comportamento estranho e surpreendente, bem como extensas análises empíricas que quantificam o efeito de vários parâmetros. Por exemplo, para modelos maiores, observamos maior desobediência, ou seja, podemos encontrar prompts que mapeiam mais de perto qualquer texto arbitrário com uma queda menor na precisão. Estas descobertas têm implicações importantes relacionadas com a dificuldade de interpretar fielmente prompts contínuos e sua generalização entre modelos e tarefas, fornecendo orientação para progressos futuros em modelos de linguagem de prompts.",475
+46065inp,"Resumo: O ajuste fino de prompts contínuos para tarefas alvo emergiu recentemente como uma alternativa compacta ao ajuste fino completo do modelo. Motivados por esses resultados promissores, investigamos a viabilidade de extrair uma interpretação discreta (textual) de prompts contínuos que seja fiel ao problema que eles resolvem. Na prática, observamos um comportamento ""inconstante"" entre a tarefa resolvida por prompts contínuos e suas projeções discretas vizinhas mais próximas: podemos encontrar prompts contínuos que resolvem uma tarefa enquanto são projetados para um texto arbitrário (por exemplo, definição de um texto diferente ou mesmo um tarefa contraditória), estando dentro de uma margem muito pequena (2%) do melhor prompt contínuo do mesmo tamanho para a tarefa. Fornecemos intuições por trás desse comportamento estranho e surpreendente, bem como extensas análises empíricas que quantificam o efeito de vários parâmetros. Por exemplo, para modelos maiores, observamos maior desobediência, ou seja, podemos encontrar prompts que mapeiam mais de perto qualquer texto arbitrário com uma queda menor na precisão. Estas descobertas têm implicações importantes relacionadas com a dificuldade de interpretar fielmente prompts contínuos e sua generalização entre modelos e tarefas, fornecendo orientação para progressos futuros em modelos de linguagem de prompts.",475
+46391inp,Computação quântica,13
+46561inp,Inteligência artificial,10
+46610inp,Aquecimento global,10
+46626inp,O Grande Gatsby,9
+46768inp,Esta é uma frase aleatória.,16
+46821inp,Gato e cachorro,11
+46840inp,"""A Noite Estrelada"" (Vincent van Gogh) e ""A Noite Antes do Circo"" (Vik Muniz)",36
+46843inp,Alice e Bob,7
+46874inp,Carros elétricos,10
+46934inp,O Grande Gatsby,9
+47130inp,Nova Iorque,9
+47210inp,Gerente de marketing,9
+47382inp,[Link para o artigo],11
+47500inp,sapatos da Nike,9
+47501inp,Realidade aumentada,10
+47727inp,Tesla Modelo 3,8
+48362inp,Ele abriu a porta.,12
+48467inp,João Smith,7
+48468inp,Cidade de Nova York,10
+48528inp,Torta de maçã,11
+48624inp,"Este artigo fornece informações detalhadas sobre buracos negros, um fenômeno na astronomia em que a gravidade é tão forte que nem mesmo a luz, a partícula mais rápida do universo, consegue escapar de seu alcance.",87
+48633inp,Inteligência artificial,10
+48690inp,Inteligência artificial,10
+48691inp,Corporação ABC,9
+48778inp,"Objeto 1: Maçã
+Objeto 2: Laranja",19
+48823inp,5 e 8,7
+49485inp,Das Alterações Climáticas,16
+49524inp,Vingadores Ultimato,11
+49740inp,Qual é a capital da França?,12
+49836inp,"123 Main Street, Anytown, EUA",13
+50162inp,Esta é uma frase de exemplo.,15
+50163inp,Donald Trump sofreu impeachment em 18 de dezembro de 2019.,20
+50164inp,Donald Trump sofreu impeachment em 18 de dezembro de 2019.,20
+50223inp,"Maçã, Laranja, Banana",13
+50344inp,Los Angeles,6
+50421inp,"Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno",31
+50425inp,Este é um exemplo de frase.,14
+50436inp,Bom dia,8
+50554inp,Apple AirPods Pro,9
+50589inp,Cidade de Nova York,10
+50628inp,Torta de maçã,11
+50687inp,Produto: Smartphone,10
+50747inp,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",25
+50774inp,"Maçã, Banana, Uvas",12
+50808inp,"imprimir(""Olá mundo"")",13
+51412inp,Bolo de chocolate,8
+51706inp,das Alterações Climáticas,16
+51797inp,Vingadores Ultimato,11
+51854inp,Cidade de Nova York,10
+51923inp,A Noite Estrelada de Vincent van Gogh,15
+51999inp,Michelle Obama,6
+1out,"As três cores primárias são vermelho, azul e amarelo.",24
+11out,A capital da França é Paris.,10
+97out,A área do retângulo é 50 cm2.,16
+98out,A capital de Espanha é madrid.,12
+207out,"A contração de ""they are"" é ""they're"".",16
+304out,Estou cansado.,7
+306out,<Sem saída>,8
+526out,Sentimento positivo.,8
+550out,"- Maçãs
+- Bananas
+- Laranjas
+- Uvas
+- Morangos",25
+562out,Los Angeles Lakers,5
+751out,y = mx + b,8
+776out,"Olá, como vai?",10
+985out,Sentença declarativa.,9
+1168out,O triângulo é um triângulo obtusângulo.,21
+1218out,"Aumentei a taxa de mortes por armas de fogo de 10,3 por 100.000 para 12 por 100.000 de 1999 a 2017.",37
+1457out,A capital do Canadá é Ottawa.,11
+1553out,Esta frase é uma pergunta.,14
+1568out,Sentença interrogativa.,10
+1595out,"Grécia: Atenas, França: Paris, Índia: Nova Deli",24
+1596out,Buenos dias.,8
+1779out,O cachorro latiu.,11
+1811out,Sentença declarativa.,10
+1850out,"Alemanha, França e Reino Unido.",15
+1931out,Nenhuma saída necessária,12
+1934out,Nenhuma saída necessária,12
+2374out,"Um buraco negro é um objeto no espaço cuja atração gravitacional é tão forte que nada, nem mesmo a luz, consegue escapar de seu interior. É formado a partir do núcleo colapsado de uma estrela massiva e é considerado o objeto mais denso do universo. Um buraco negro normalmente tem uma massa muitas vezes maior que a do nosso Sol, e sua massa pode ser determinada pela quantidade de radiação que ele libera.",142
+2574out,"Olá, como vai?",11
+2604out,A Mona Lisa de Leonardo da Vinci.,13
+2753out,Ele foi até a loja.,12
+2781out,"""""""
+Encontre o palíndromo mais longo em uma determinada string
+""""""
+
+def find_longest_palindrome(s):
+	# Inicializa o resultado 
+	comprimento_máx = 1	 
+	
+	# Inicializa o índice inicial e final
+	início, fim = 0, 0
+	
+	# Itera sobre a string de entrada
+	para i no intervalo(1, len(s)):
+				
+		# Encontre o palíndromo de comprimento par mais longo
+		baixo, alto = i-1, eu 
+		enquanto baixo >= 0 e alto < len(s) e s[low] == s[high]:
+			se alto - baixo + 1 > max_length:
+				início = baixo 
+				fim = alto 
+				max_length = alto - baixo + 1 
+			baixo -= 1
+			alto += 1
+		# Encontre o palíndromo de comprimento ímpar mais longo
+		baixo, alto = i-1, i+1 
+		enquanto baixo >= 0 e alto < len(s) e s[low] == s[high]: 
+			se alto - baixo + 1 > max_length:
+				início = baixo 
+				fim = alto 
+				max_length = alto - baixo + 1 
+			baixo -= 1
+			alto += 1
+	
+	#resultado retornado
+	retornar s[início:fim+1]
+	
+se __nome__ == '__principal__':
+	s = ""babad""
+	print(""O palíndromo mais longo é: "", end="""")
+	imprimir (encontrar_palíndromo mais longo(s))",519
+2786out,A capital do Canadá é Ottawa.,11
+3304out,"A teoria da relatividade de Albert Einstein é significativa porque revolucionou a nossa compreensão do universo. Substituiu a noção secular de espaço e tempo absolutos pelo conceito de espaço-tempo, permitindo-nos compreender fenómenos como ondas gravitacionais, buracos negros e a expansão do universo. Também abriu a porta para avanços na física que antes não eram possíveis, como foguetes mais poderosos e experimentos mais precisos em física de partículas.",166
+3346out,A capital da Índia é Nova Delhi.,14
+3402out,Sentimento negativo.,10
+3439out,Sentença declarativa.,10
+3501out,Sentimento positivo.,9
+3536out,A área do triângulo é 6 cm^2.,18
+3545out,Ela escreveu um livro.,12
+3818out,"A automação residencial é uma tecnologia em rápido crescimento que oferece comodidade e maior segurança nas residências. Muitas vezes inclui automação de temperatura e iluminação, vigilância, sistemas e aparelhos de segurança. Muitos dos benefícios incluem poupança de energia, maior segurança e conveniência, mas há um lado negro que deve ser considerado. Os riscos incluem vulnerabilidade a violações de dados e hacks, aumento de custos e aumento da sensação de falta de privacidade.",186
+3867out,Um ponto no tempo salva nove.,13
+4134out,"Princípio - Uma verdade, teoria ou regra básica
+
+Axioma – Uma verdade evidente
+
+Teorema - Uma afirmação ou proposição que é provada ou demonstrada",63
+4153out,A inclinação da linha é 2.,14
+4180out,"As cores do arco-íris são vermelho, laranja, amarelo, verde, azul, índigo e violeta.",39
+4342out,"""Um centavo economizado é um centavo ganho.""",20
+4472out,Positivo negativo,9
+4699out,Sentença interrogativa.,10
+4912out,Sentença declarativa,9
+4913out,Frase completa.,8
+4942out,Albert Einstein,5
+5035out,print('Olá mundo'),10
+5041out,dlroW olleH,9
+5419out,O sentimento da frase é positivo.,13
+5509out,"Atender telefone, reservar voo, escrever relatório",20
+5538out,Ele estava andando até a loja.,14
+5714out,Frase completa.,8
+5814out,"As cores do arco-íris são vermelho, laranja, amarelo, verde, azul, índigo e violeta.",39
+6183out,Sentença declarativa.,10
+6357out,Sentimento positivo.,9
+6434out,Sentimento positivo,8
+6778out,Ela correu para a loja.,13
+7057out,Sentimento positivo.,9
+7081out,Forrest Gump,7
+7120out,Esta é uma questão.,11
+7131out,Sentimento negativo,9
+7148out,Comédia romântica,11
+7226out,A Mona Lisa de Leonardo da Vinci.,13
+7293out,Eu fui à loja.,11
+7494out,Voz passiva,7
+7598out,"1965 - a missão Apollo 11
+1973 - a primeira chamada de celular
+1989 - a queda do Muro de Berlim",34
+7676out,iPhone 11.,6
+7730out,O esquema de rima do poema é AABB.,18
+7737out,A raiz quadrada de 64 é 8.,14
+7796out,Esta é uma frase declarativa.,14
+8187out,Eu li o livro.,10
+8545out,"Alemanha, França e Reino Unido.",15
+8549out,Esta frase é uma afirmação.,16
+8687out,"Maçã, Laranja, Banana",12
+9009out,Ele estava caminhando para a loja.,15
+9263out,Eu fui à loja.,11
+9378out,"Um evento Cisne Negro é um evento raro e imprevisível que tem um impacto duradouro e de grande escala e muitas vezes é difícil de explicar depois que o evento já aconteceu. É um termo cunhado por Nassim Nicholas Taleb para descrever um acontecimento inesperado que tem um impacto profundo no mundo. Exemplos de eventos do Cisne Negro podem incluir crises económicas, convulsões políticas e revoluções sociais.",147
+9392out,"Os sete mares do mundo são: Mar do Norte, Mar Báltico, Mar Mediterrâneo, Mar Negro, Mar da Arábia, Mar da China Meridional e Mar do Caribe.",54
+9596out,"- Leopardo de Amur
+- Tartarugas marinhas
+- Elefante africano
+- Abutre de garupa branca
+- Rinoceronte negro",45
+9855out,Eu irei à loja.,11
+10017out,Esta frase é informal.,10
+10061out,A poluição do ar na cidade está piorando.,20
+10120out,"animal, cachorro, Labrador, Fido, ama",17
+10160out,"Um buraco negro pode ser comparado a uma pessoa com um apetite enorme. Não importa o que você coloque na frente deles, eles consumirão tudo, nunca se fartando e ficando cada vez mais famintos. À medida que mais e mais massa é adicionada a um buraco negro, sua atração gravitacional fica mais forte, assim como quanto mais um glutão consome, mais faminto ele fica.",132
+10460out,"As três cores primárias são vermelho, azul e amarelo.",25
+10470out,"Havia dois irmãos, Mary e Richard, que tinham acabado de se mudar para uma nova cidade. Um dia, enquanto exploravam a floresta perto de sua casa, descobriram um objeto misterioso. Era uma pequena caixa feita de metal e coberta de runas estranhas. Quando abriram a caixa, descobriram um colar dentro. Depois de olharem mais de perto, perceberam que se tratava de um colar mágico, com poder de realizar desejos. Mas logo descobriram que o colar também tinha um lado negro - ele realizaria qualquer desejo, a um alto custo.",191
+10474out,Ele está escrevendo uma carta.,14
+10476out,Sentença interrogativa.,10
+10583out,A capital da França é Paris.,11
+10589out,Por que a galinha atravessou o parquinho? Para chegar ao outro slide!,29
+10728out,"O foguete espacial era um pilar branco e brilhante de poder e energia, apontando diretamente para o céu noturno negro. Ele estava cercado por um brilho dourado das chamas brilhantes que saíam de cada um de seus motores enquanto ele lentamente saía da plataforma de lançamento e subia para o céu. O chão tremeu com um rugido estrondoso enquanto o foguete se afastava, subindo cada vez mais alto enquanto disparava para o espaço.",153
+10849out,"Começando com um aquecimento, os exercícios de alongamento ajudam a relaxar os músculos antes do treino. Adicionar uma rotina intensa de exercícios à sua programação também ajuda a melhorar sua saúde e bem-estar geral.",86
+11009out,"O que tem quatro patas mas não anda?
+Uma cadeira!",23
+11064out,Agência de Inteligência Central,14
+11146out,Eu sou seu estudante.,12
+11259out,Sentimento negativo.,10
+11386out,Um amigo na necessidade é um amigo de verdade.,19
+11502out,Sentença declarativa.,10
+11701out,O cachorro latiu.,11
+11822out,"1. Tenda
+2. Saco de dormir
+3. Lanterna
+4. Fogão de acampamento
+5. Partidas",35
+11887out,"Este estudo analisou como o calor afeta a resistência da borracha usada em pneus de caminhões. Examinamos os efeitos das temperaturas de cura de 25°C a 120°C na borracha do pneu, que foi misturada com negro de fumo, sílica e óxido de zinco. Descobrimos que quanto maior a temperatura de cura, mais “forte” a borracha se torna.",133
+11911out,O volume do cubo é 64 cm3.,13
+12169out,Sentimento negativo.,10
+12370out,"Malcolm X (19 de maio de 1925 - 21 de fevereiro de 1965), nascido Malcolm Little e mais tarde também conhecido como El-Hajj Malik El-Shabazz, foi um ministro muçulmano afro-americano e ativista dos direitos humanos. Desde então, alguns de seus ideais e ensinamentos inspiraram muitos movimentos em todo o mundo. Ele é mais conhecido pelas suas opiniões controversas sobre o nacionalismo negro e os direitos civis, que eram frequentemente aplicáveis ​​a outras questões raciais e socioeconómicas.",181
+12415out,"Maçã, queijo mussarela, caminhão",19
+12455out,Forrest Gump,7
+12456out,Willian Shakespeare,6
+12476out,Nome comum.,8
+12607out,Recentemente assisti ao filme O Dia Chegará. É uma hilária comédia de humor negro que segue um infeliz aspirante a revolucionário que é recrutado por um agente do FBI para encenar um ataque. É estrelado por Anna Kendrick e apresenta performances incríveis de alguns dos atores cômicos mais talentosos da atualidade.,105
+12712out,<Sem saída>,9
+12757out,A sentença é uma sentença declarativa.,17
+12897out,Uma maçã por dia mantém o médico longe.,23
+12999out,"Texto 1: As pétalas de rosa gigantes flutuavam na brisa. 
+Texto 2: As pétalas do girassol balançavam ao vento.",51
+13067out,A avaliação é negativa.,13
+13090out,A sentença é uma sentença declarativa.,17
+13102out,Ele está pronto para começar a trabalhar.,17
+13112out,Ela está indo para a loja.,13
+13310out,A ligeira raposa marrom saltou sobre o cão preguiçoso.,23
+13625out,O céu é azul.,11
+14036out,"Stephen Hawking (1942-2018) foi um cientista britânico e especialista em cosmologia e física teórica, mais conhecido por escrever o livro Uma Breve História do Tempo e por sua pesquisa pioneira sobre buracos negros e mecânica quântica. Ele nasceu em Oxford em 1942.",99
+14133out,"Yoda e Darth Vader são personagens muito diferentes. Yoda é um pequeno, sábio e benevolente Mestre Jedi, enquanto Darth Vader é um poderoso Lorde Sith e um servo do lado negro da Força. Yoda é um mestre da diplomacia e da razão, enquanto os métodos de Darth Vader são limitados pelo medo, pela coerção e pela coerção. Yoda se concentra no autoaperfeiçoamento, enquanto Darth Vader se concentra apenas em cumprir a vontade de seu mestre sombrio. Além disso, os métodos de Yoda são compassivos e pacíficos, enquanto os de Darth Vader são implacáveis ​​e violentos.",201
+14326out,Um ponto no tempo salva nove.,13
+14523out,Devemos reservar um tempo para apreciar o que nos rodeia.,20
+14671out,Ele falou alto.,9
+14791out,"fofo, adorável, lindo",16
+15057out,"SELECIONE *FROM Clientes ONDE País=""EUA"";",21
+15059out,Eu sou um estudante.,11
+15120out,John foi ansiosamente à loja.,14
+15184out,"imprimir(""Olá mundo"")",12
+15332out,Sentimento negativo.,10
+15600out,Olá Mundo,7
+15647out,"Três espécies animais que estão ameaçadas devido à atividade humana são o rinoceronte negro, a baleia azul e o elefante africano.",51
+15995out,Porque eles compõem tudo!,15
+16086out,Sentença interrogativa.,11
+16087out,O vendedor foi muito pouco profissional.,20
+16141out,Sentença declarativa.,10
+16162out,O cachorro latiu.,11
+16283out,Esta é uma frase declarativa.,14
+16301out,Michelle Obama,5
+16528out,Eu li o livro.,10
+16885out,"Os habitantes da cidade eram supersticiosos com os corvos negros que circulavam em torno de suas casas. Com o passar dos dias, seus medos só foram validados quando estranhas ocorrências começaram. Ninguém sabia o que os causou, mas alguns culparam os pássaros misteriosos e rapidamente perceberam a horrível verdade de que os corvos haviam sido amaldiçoados por espíritos malignos.",137
+16934out,"Japão, Índia",11
+17015out,Sentimento negativo.,10
+17041out,"imprimir(""Olá mundo"")",12
+17061out,Sentimento negativo,10
+17130out,x + y > 5,8
+17181out,"1. Maçã: $ 399
+2.Samsung: $ 499
+3.LG: $ 599",26
+17296out,O filme foi terrível.,12
+17379out,"A tendência identificada neste artigo é o número crescente de negros americanos que procuram educação médica, especialmente à luz dos efeitos desproporcionais da pandemia da COVID-19 nas suas comunidades.",77
+17500out,Sentimento positivo.,9
+17619out,Sentimento positivo.,9
+17678out,2 e 12,6
+17764out,"Um buraco negro é uma região incrivelmente densa do espaço, criada quando uma estrela entra em colapso devido à sua própria gravidade. Como a estrela é tão densa, nada consegue escapar dela, nem mesmo a luz, e é por isso que ela cria um “buraco negro” no espaço. A gravidade dentro de um buraco negro é tão forte que qualquer coisa perto dele, incluindo estrelas, planetas e até galáxias inteiras, é puxada e eventualmente consumida.",167
+18010out,"Smith, J. (2020). O futuro da IA. Revista AI, 21(2), 45–50.",28
+18130out,Sentimento: Positivo,10
+18172out,Voz passiva,7
+18237out,O triângulo é um triângulo retângulo.,19
+18308out,"Um quadro-negro, mesas, cadeiras, livros e um apontador de lápis.",31
+18335out,Positivo negativo,9
+18468out,"- Maçãs
+- Bananas
+- Laranjas
+- Uvas
+- Morangos",26
+18742out,Toronto e Vancouver,6
+18985out,"Bolsa, sapatos, camisa",13
+19044out,"Maçã, Banana, Laranja",12
+19109out,Estou cansado.,8
+19199out,Harry Potter,5
+19270out,"Os cientistas fazem uso de diversas observações para estudar o universo, como catalogar estrelas e outros objetos celestes, medir a radiação e estudar a química do gás e da poeira intergalácticos. Outras observações incluem a busca de planetas ao redor de outras estrelas, a procura de evidências de buracos negros e o uso de radiotelescópios para procurar sinais de possíveis civilizações extraterrestres.",154
+19303out,Frase imperativa.,9
+19456out,Das Alterações Climáticas.,16
+19498out,Processamento de linguagem natural,11
+19538out,O rato foi perseguido pelo gato.,17
+19671out,Olá! Como posso ajudá-lo?,16
+19711out,O Rei Leão (1994),10
+20079out,A sentença é uma sentença declarativa.,17
+20439out,"Um buraco negro é uma região extremamente densa do espaço com intensa atração gravitacional. É formado por uma estrela em colapso que se tornou tão densamente compactada que nada, nem mesmo a luz, consegue escapar à sua poderosa força gravitacional. É caracterizado por uma singularidade em seu núcleo, uma fronteira invisível conhecida como horizonte de eventos e um disco de acreção circundando o horizonte de eventos. Os buracos negros são frequentemente associados aos monstros supermassivos que existem no centro de muitas galáxias.",179
+20769out,Um ponto no tempo salva nove.,13
+20796out,Bom dia! Tenha um ótimo dia!,18
+21198out,Este é um exemplo da tarefa.,14
+21208out,Willian Shakespeare,6
+21583out,Estou ansioso para ouvir de você em breve.,19
+21590out,"Computador, Rápido, Pesquisa",15
+21707out,Frase completa.,8
+21762out,"As três cores primárias são vermelho, azul e amarelo.",25
+21863out,"Desculpe, a tarefa requer uma saída visual que não pode ser gerada pelo modelo.",32
+21868out,"Desculpe, a tarefa requer uma saída visual que não pode ser gerada pelo modelo.",32
+21907out,"Judy: Cientista
+David: Músico
+Bob: CEO",20
+21930out,Porque eles inventam tudo!,13
+22253out,"print(""Olá mundo!"")",11
+22292out,A inclinação da linha é 2.,14
+22523out,Ele foi à loja comprar mantimentos.,15
+22571out,O sol brilhava intensamente.,13
+22899out,"""Se na primeira vez você não conseguir, tente, tente novamente.""",29
+22939out,"- 1895: Teoria da Relatividade Especial 
+- 1905: Efeito Fotoelétrico, Equivalência Massa-Energia
+- 1911: Explicação do Movimento Browniano 
+- 1915: Teoria Geral da Relatividade 
+- 1916: Explicação matemática dos buracos negros
+- 1920: Teoria do campo unificado
+- 1923: estatísticas de Bose-Einstein",115
+23199out,"O que tem quatro patas mas não anda?
+Uma cadeira!",23
+23250out,O céu era um manto de estrelas.,16
+23575out,O triângulo é um triângulo obtuso.,19
+23583out,"""""""
+Crie um modelo de aprendizado de máquina para prever o IMC (Índice de Massa Corporal) usando temperatura e altura de pessoas em uma determinada população
+""""""
+
+importar pandas como pd
+importar numpy como np
+de sklearn.model_selection importar train_test_split
+de sklearn.linear_model importar LinearRegression
+
+#Carrega os dados
+dados = pd.read_csv('temperatura_altura_dados.csv')
+
+# Dividir em características (temperatura e altura) e rótulo (IMC)
+X = dados.iloc[:, :2]
+y = dados.iloc[:, 2]
+
+# Dividir em conjuntos de treinamento e teste
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0,2, random_state = 0)
+
+# Treine o modelo
+regressor = LinearRegression()
+regressor.fit(X_train, y_train)
+
+# Fazer previsões
+y_pred = regressor.predict(X_test)
+
+# Avaliar previsões
+pontuação = regressor.score(X_test, y_test)
+print('Pontuação R-quadrado:', pontuação)",357
+23676out,A avaliação é negativa.,13
+23787out,'Olá Mundo!',9
+24062out,Ela está indo para a loja.,14
+24164out,"A Guerra Civil Americana começou em 1861 e terminou em 1865. Durante este período, numerosos eventos moldaram a guerra e influenciaram o seu resultado. Esses eventos podem ser classificados em diversas categorias. Os eventos políticos incluem os debates Lincoln-Douglas, a eleição de Abraham Lincoln e a secessão dos estados do Sul. Os eventos militares incluem a Batalha de Antietam, a Batalha de Gettysburg e a Batalha de Vicksburg. Os eventos sociais incluem a Proclamação de Emancipação, o alistamento de soldados negros no Exército da União e a adoção do recrutamento. Os esforços diplomáticos incluem as negociações do presidente Lincoln com a Grã-Bretanha e a França, o apelo de Lincoln à paz vindo do Sul e o apelo do presidente confederado Jefferson Davis ao público para o reconhecimento da Confederação.",271
+24181out,Estou cansado.,8
+24266out,"O primeiro capítulo de To Kill a Mockingbird apresenta a protagonista, Scout Finch, e seu irmão, Jem. É ambientado no condado de Maycomb, Alabama, durante a Grande Depressão. O capítulo revela o relacionamento de Scout com seu pai Atticus e sua governanta Calpurnia, bem como seu conhecimento geral sobre o racismo na área. A narradora relembra sua infância e relembra a metáfora do mockingbird que tem sido usada para se referir a pessoas inocentes. O capítulo também aborda a educação peculiar de Scout e sua compreensão de sua comunidade. Ficamos sabendo que Scout e Jem estão sob os cuidados de seu pai, que recentemente concordou em assumir o caso de Tom Robinson, um homem negro acusado. Vemos também a presença de Boo Radley, o estranho e misterioso vizinho que patrulha o bairro à noite.",277
+24495out,Ele era tão corajoso quanto um leão.,16
+24563out,Aprendizado de máquina,13
+24626out,Sentimento negativo,9
+24694out,Esta afirmação é uma opinião.,17
+24848out,Esta é uma frase declarativa.,14
+25319out,2 e 12,6
+25534out,"console.log(""Olá Mundo!"");",13
+25543out,Sentença interrogativa.,10
+25789out,"A missão de resgate no espaço tinha um objetivo: encontrar e trazer de volta uma tripulação de astronautas que havia sido enviada em missão para explorar uma região misteriosa do espaço. Após semanas de busca, a tripulação finalmente conseguiu localizar os astronautas presos. 
+
+A missão de resgate não foi tarefa fácil. A tripulação teve que enfrentar perigosos campos de asteróides, buracos negros traiçoeiros e o frio implacável do espaço profundo. Mesmo os pilotos mais experientes tiveram dificuldade em controlar a sua nave espacial nestas condições hostis. 
+
+A missão foi um sucesso – a equipe de resgate conseguiu localizar os astronautas presos e trazê-los de volta à Terra em segurança. Seguiu-se uma grande celebração e os astronautas resgatados foram aclamados como heróis. Foi um momento triunfante e brilhante de vitória para a missão de resgate e uma recompensa pela sua coragem face ao perigo.",330
+25821out,Sentimento negativo,9
+25934out,Lamento ouvir isso. Há algo que eu possa fazer para ajudar?,28
+26041out,O sentimento da frase é positivo.,13
+26050out,Estou muito feliz.,11
+26289out,"Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno",30
+26315out,Sentença declarativa.,10
+26506out,"Três espécies de animais ameaçadas de extinção são a salamandra gigante chinesa, o gorila da montanha e o rinoceronte negro.",49
+26794out,Sentimento positivo,8
+26855out,"Maçã, Banana, Uvas",11
+26862out,Qual é a capital da França?,12
+26938out,Sentimento negativo.,10
+27005out,Sentença declarativa.,10
+27121out,Nome comum.,8
+27154out,"maçã, banana, laranja",12
+27174out,O sentimento da frase é positivo.,13
+27353out,"Afluente - Rico, Repugnante - Detestável",18
+27422out,"Minha cor favorita é (A) vermelho, (B) roxo, (C) amarelo.",30
+27425out,"Moro nos Estados Unidos da América, mas sou originário do Canadá.",25
+27441out,Sentimento positivo,8
+27444out,Branca de Neve,8
+27695out,"Tudo começou com uma faísca. Tudo começou pequeno, nada mais do que o sussurro de um fósforo aceso. Mas o vento estava forte naquele dia e aquela faísca cresceu, viajando por toda parte. As pessoas começaram a notar a fumaça ao longe, cobrindo o céu com um sinistro manto negro. 
+
+À medida que o fogo se espalhava, as pessoas se dispersavam e os animais escapavam o mais rápido que podiam. Infelizmente, nem todos conseguiram escapar a tempo. Bombeiros, policiais e voluntários da comunidade se uniram em um esforço para conter o incêndio e proteger a vida das pessoas em seu caminho. Eles lutaram bravamente e, eventualmente, o fogo foi dominado. 
+
+Os danos, no entanto, foram muito mais extensos do que se imaginava. Casas, empresas e memórias viraram fumaça.  Mas no meio da destruição e do desespero, uma coisa permaneceu constante: a resiliência do espírito humano. Pessoas de todas as origens e idades uniram-se para reconstruir, começando das cinzas como a fênix de antigamente. Eles mostraram que nada, nem mesmo um fogo crepitante, pode extinguir a vontade do coração humano.",427
+27737out,O gato foi perseguido pelo cachorro.,19
+27962out,Esta frase é uma pergunta.,15
+28828out,"A teoria da relatividade de Einstein é uma das teorias mais importantes da física moderna. Revolucionou nossa compreensão do espaço e do tempo e introduziu uma nova visão do universo. Explica como funciona a gravidade, como o espaço e o tempo estão interligados e fornece a base para a compreensão de fenómenos como buracos negros e outros eventos exóticos. A relatividade também previu a expansão do universo e lançou as bases para a cosmologia moderna.",157
+28842out,"Malcolm X foi um influente líder nacionalista negro que se dedicou a lutar pelos direitos civis e a defender melhores oportunidades para os afro-americanos. Ele ganhou destaque como ministro na Nação do Islã e adotou uma postura mais radical mais tarde em sua vida, altamente crítico do movimento dominante pelos direitos civis.",116
+28912out,"TV a cabo: $ 49,95, Modem a cabo: $ 25,49, Cabo HDMI: $ 17,99",32
+28955out,Esta é uma frase declarativa.,14
+29161out,A rápida raposa marrom salta sobre o cachorro preguiçoso.,26
+29175out,Ela está indo para a loja.,13
+29296out,Eu vou para a loja.,11
+29575out,"Gorilas, tigres, elefantes africanos, rinocerontes negros, gorilas da montanha, tartarugas-de-couro, leopardos da neve, orangotangos, pangolins, rinocerontes brancos do norte e vaquitas.",82
+29591out,"Verso 1:
+Toda noite eu fico acordado
+E conte as estrelas no céu
+Esperando que algum dia eu te encontre
+E descubra por que me sinto tão vivo
+
+Coro:
+O tempo continua passando
+Mas minha saudade não morre
+Um amor tão forte, tão difícil de encontrar
+Estou procurando por você o tempo todo
+
+Versículo 2:
+E quando estou perdido no escuro
+Meus pensamentos se voltam para o nosso passado
+Sua beleza como o sol da manhã
+Seu toque gentil, meu único
+
+Coro:
+O tempo continua passando
+Mas minha saudade não morre
+Um amor tão forte, tão difícil de encontrar
+Estou procurando por você o tempo todo
+
+Ponte:
+E quando o sol se põe no oeste
+E as estrelas entram para ver
+Vou fechar meus olhos, sonhar com você
+E o amor que parece tão verdadeiro
+
+Coro:
+O tempo continua passando
+Mas minha saudade não morre
+Um amor tão forte, tão difícil de encontrar
+Estou procurando por você o tempo todo",348
+29807out,Ele foi à loja comprar mantimentos.,15
+29942out,O volume do cubo é 64 cm3.,13
+30033out,Nelson Mandela,6
+30034out,Tom Cruise,5
+30063out,Qual é a cor do céu?,12
+30173out,Sentença declarativa.,10
+30309out,William Shakespeare,5
+30366out,"""O sucesso não é definitivo, o fracasso não é fatal: o que conta é a coragem de continuar."" - Winston Churchill",40
+30367out,Vicente Van Gogh,9
+30768out,"<html>
+<cabeçalho>
+</cabeçalho>
+<corpo>
+</corpo>
+</html>",36
+30846out,"1. ""O lado negro das mídias sociais: o impacto das mídias sociais na saúde mental"", do professor Rami Yacoub.
+2. ""Impacto negativo do uso da mídia social: uma revisão da literatura"", do Dr. Sanju Kanwar e Shveta Rajpal.
+3. ""Mídia social e seu impacto na vida das pessoas"", da Dra. Priya Agrawal.",122
+30911out,"Cinco espécies ameaçadas de extinção são o rinoceronte negro, o gorila da montanha, o wombat de nariz peludo do norte, o pau-rosa de Madagascar e a tartaruga-de-pente.",67
+31284out,"“O sucesso não é definitivo, o fracasso não é fatal: é a coragem de continuar que conta.” -Winston Churchill",43
+31398out,<sem saída>,9
+31422out,"Um buraco negro é como um poço sem fundo, com uma força gravitacional tão forte que nem mesmo a luz consegue escapar de seu alcance.",51
+31426out,SELECT * FROM nome_tabela;,12
+31475out,"“Precisamos descobrir uma maneira de resolver este problema”, disse John.
+
+“Vai ser difícil”, respondeu Sarah. ""É uma questão complexa e teremos que analisá-la de todos os ângulos para encontrar uma solução.""
+
+“Bem, vamos começar dividindo o problema em partes menores e analisando cada uma delas separadamente”, sugeriu John.
+
+""Boa ideia"", Sarah concordou. ""Podemos então analisar os componentes individuais e encontrar soluções para cada um deles.""",178
+31527out,A rápida raposa marrom salta sobre o cachorro preguiçoso,25
+31711out,Ele abriu a porta.,11
+31724out,Alan Turing,5
+31822out,Hoje é sexta-feira.,14
+32236out,Sentimento positivo.,9
+32285out,O esquema de rima do poema é AABB.,18
+32339out,"Os personagens de To Kill a Mockingbird incluem Atticus Finch, um advogado e pai sábio e compassivo; Jem, filho de Atticus, que começa a compreender as complexidades do mundo ao seu redor; Scout, filha pequena de Atticus, que vive muitas aventuras; Boo Radley, um vizinho misterioso; e vários outros personagens da cidade de Maycomb. A história gira em torno da defesa de Atticus de um homem negro falsamente acusado e como seus filhos são afetados pelos acontecimentos do julgamento.",169
+32405out,Por que a galinha atravessou o parquinho? Para chegar ao outro slide!,29
+32588out,Esta é uma questão.,11
+32645out,Bom dia! Tenha um ótimo dia!,18
+32646out,Esta noite irei dar um passeio no parque.,19
+32783out,Um ponto no tempo salva nove.,13
+32997out,"console.log(""Olá mundo!"");",13
+33032out,A rápida raposa marrom salta sobre o cachorro preguiçoso.,26
+33137out,"""""""
+Crie um classificador Random Forest para prever o sentimento de uma determinada frase
+""""""
+
+de sklearn.ensemble importar RandomForestClassifier
+importar numpy como np 
+
+# cria a entrada para o classificador: 
+sentença = np.array([[1,0,0,0,1]]) # representa a sentença como um vetor de uns e zeros, sendo 1 positivo e 0 negativo 
+
+#define o rótulo 
+label = np.array([1]) # 1 sendo positivo e 0 sendo negativo 
+
+#criar e treinar o classificador Random Forest 
+clf = RandomForestClassifier() 
+clf.fit(frase, rótulo) 
+
+#teste o classificador 
+test_sentence = 'A comida aqui é realmente incrível.'
+test_sentence_vector = np.array([[1,0,0,0,1]]) 
+previsão = clf.predict(test_sentence_vector) 
+
+# gera a previsão do sentimento 
+print(predição) # saída: 1 (sentimento positivo)",299
+33140out,"""""""
+Divida 887 por 3 usando Python
+""""""
+
+resultado = 887/3
+imprimir (resultado) # Saída: 295.6666666666667",44
+33472out,"""Google e Apple se unem para revelar um aplicativo revolucionário""",25
+33594out,Está chovendo muito.,12
+33737out,"1. Os buracos negros são regiões do espaço com uma atração gravitacional tão forte que nem mesmo a luz consegue escapar deles.
+2. Eles são frequentemente formados quando uma grande estrela morre e colapsa sobre si mesma devido ao seu imenso campo gravitacional.
+3. Um único buraco negro pode conter a massa de milhões ou mesmo bilhões de estrelas.",140
+33883out,"1. Barraca
+2. Saco de dormir
+3. Lanterna
+4. Fogão de acampamento
+5. Fósforos",39
+34094out,Sentimento positivo,8
+34385out,"Roxo, azul, amarelo, vermelho",17
+34425out,"Misture os ingredientes, pré-aqueça o forno, asse o bolo, decore o bolo",29
+34587out,"print(""Olá mundo!"")",11
+34755out,O cachorro latiu.,11
+34792out,O Rei Leão (1994),10
+34917out,“Explorando o lado negro do consumo de bebidas alcoólicas pelos adolescentes – um aviso terrível para os pais.”,42
+35076out,Ela comeu uma maçã.,13
+35117out,<nooutput> – Os visuais não podem ser criados por um modelo de linguagem.,29
+35123out,<nooutput> – Os visuais não podem ser criados por um modelo de linguagem.,29
+35336out,Triângulo retângulo.,12
+35472out,Hoje é sexta-feira.,14
+35482out,y = mx + b,9
+35535out,"cedro, beija-flor, onça, carvalho",18
+35544out,Sentimento positivo,8
+35712out,"- Buraco Negro Estelar 
+- Buraco negro supermassivo 
+- Buraco Negro de Massa Intermediária 
+- Buraco negro recuando
+- Buraco Negro Primordial",47
+35785out,"Olá, como vai?",11
+36176out,A raiz quadrada de 64 é 8.,14
+36582out,A rápida raposa marrom salta sobre o cachorro preguiçoso,25
+36757out,Frase imperativa.,9
+36862out,Sinto muito por ouvir isso. Há algo que eu possa fazer para ajudar?,32
+36941out,Ele/Ela está indo para a loja.,15
+37016out,<sem saída>,9
+37117out,Sentença interrogativa.,10
+37290out,Sentimento positivo.,9
+37431out,O rato foi perseguido pelo gato.,17
+37462out,Ele está indo para a loja.,12
+37614out,O sentimento da frase é negativo.,14
+37671out,"imprimir(""Olá mundo"")",12
+37878out,"João – Editor de Vídeo 
+Tina – Gerente de Mídias Sociais
+Alice – Desenvolvedora Web",36
+37982out,A capital da Índia é Nova Déli.,17
+38043out,Esta é uma frase declarativa.,14
+38052out,"Olá, como vai?",11
+38072out,Eu fui à loja.,11
+38075out,Eu fui à loja.,11
+38252out,iPhone 11.,6
+38344out,"Mesa, quadro-negro, livros.",15
+38432out,John foi ansiosamente à loja.,14
+38507out,Sinto muito por ouvir isso. Há algo que eu possa fazer para ajudar?,31
+38895out,Crie um GIF em loop de um gato correndo.,17
+38920out,A área do triângulo é 6 cm^2.,18
+39028out,Eu sou seu estudante.,12
+39095out,Qual é a capital da França?,12
+39114out,Sentimento negativo.,10
+39179out,Al + O2 → Al2O3,12
+39437out,"<html>
+  <cabeça>
+  </head>
+  <corpo>
+  </body>
+</html>",33
+39491out,<sem saída>,9
+39509out,Falso. O sol nasce no leste.,14
+39563out,"Um buraco negro é criado quando uma estrela muito massiva fica sem combustível nuclear e o seu núcleo já não consegue resistir à gravidade estelar. O núcleo colapsa para dentro numa reação em cadeia que ricocheteia para fora, empurrando as camadas exteriores da estrela para o espaço numa explosão de supernova. Eventualmente, o núcleo para de entrar em colapso, comprimindo-se em um único ponto de raio infinitamente pequeno e densidade infinitamente grande, conhecido como singularidade. Isto cria um campo gravitacional extremamente poderoso do qual nada, nem mesmo a luz, pode escapar, dando origem à sua distinta silhueta escura.",230
+40147out,Falso. O sol nasce no leste.,14
+40259out,Sentença declarativa.,10
+40290out,Esta frase descreve uma ação.,15
+40458out,Esta é uma questão.,11
+40612out,Olá! Como posso ajudá-lo?,16
+40757out,"- Albert Einstein: Teoria da relatividade
+- Marie Curie: Radioatividade 
+- Isaac Newton: Leis do movimento, gravitação universal 
+- Charles Darwin: Teoria da evolução 
+- Galileo Galilei: astronomia telescópica, cinemática 
+- Stephen Hawking: teoria do buraco negro, singularidade espaço-tempo 
+- Alan Turing: Máquina de Turing, programação de computadores 
+- Linus Pauling: Ligações químicas, estrutura molecular",141
+40768out,Pode me ajudar?,10
+40915out,Esta é uma frase declarativa.,14
+41216out,Ele correu para a loja.,12
+41291out,Sentença interrogativa.,10
+41405out,"As Vinhas da Ira, Para Matar um Mockingbird, Homem Invisível, 1984",27
+41589out,Taylor Swift,5
+41605out,Sentimento positivo.,9
+41733out,"""""""
+Crie uma rede neural Multilayer Perceptron (MLP) com três entradas e uma saída.
+""""""
+
+importar Keras
+de importação sequencial de keras.models
+de keras.layers importar Denso
+
+#define o modelo
+modelo = Sequencial()
+model.add(Dense(12, input_dim=3, ativação='relu'))
+model.add(Dense(1, ativação='sigmóide'))
+
+#compila o modelo
+model.compile(loss='binary_crossentropy', otimizador='adam', métricas=['accuracy'])
+
+# resumir o modelo
+modelo.resumo()",185
+41772out,Decidi dar uma caminhada porque o tempo estava agradável.,24
+41842out,Frase imperativa.,9
+41903out,A área do retângulo é 50 cm2.,17
+41951out,"Astronauta, foguete, buraco negro, satélite, cratera.",23
+42297out,"Um buraco negro é uma área no espaço tão poderosa e densa que nem mesmo a luz consegue escapar de sua atração. Os buracos negros são como o oposto das estrelas – em vez de emitirem luz, absorvem tudo, até mesmo a luz. Os cientistas sabem que os buracos negros existem porque podem ver a forma como afectam as estrelas e outras matérias ao seu redor. É como um vácuo gigante que suga e prende qualquer coisa próxima, como um gigantesco poço sem fundo no espaço.",181
+42372out,Ele/Ela está indo para a loja.,15
+42418out,Estados Unidos,8
+42448out,Ele está indo para a loja.,12
+42534out,Por que os cientistas não confiam nos átomos? Porque eles compõem tudo!,31
+42562out,Agência de Inteligência Central,14
+42582out,Eu irei até a loja.,13
+42817out,Sentença declarativa,9
+42883out,"Você pode encontrar um artigo que critica a impressão 3D, como ""O lado negro da impressão 3D: ar respirável, mudanças climáticas e poluição"" do The Guardian.",59
+42955out,Como você chama um urso sem dentes? Um ursinho de goma!,24
+43086out,"Mãe - Enfermeira 
+Pai - Professor 
+Irmã - Estudante",26
+43133out,O sentimento da frase é positivo.,13
+43375out,Sentença declarativa,9
+43524out,Esta é a melhor maneira de fazer isso.,18
+43558out,Uma pedra que rola não junta musgo.,17
+43595out,Compare esses dois itens.,11
+43728out,João Smith,6
+43788out,Qual é o pico mais alto do mundo?,16
+43916out,Buenos dias.,8
+44175out,"A principal diferença entre ondas eletromagnéticas e gravitacionais é a sua origem. Ondas eletromagnéticas, como a luz, são geradas por campos elétricos e magnéticos. As ondas gravitacionais são geradas pela aceleração da massa, como quando dois buracos negros colidem. As ondas eletromagnéticas viajam à velocidade da luz, enquanto as ondas gravitacionais viajam à velocidade da gravidade. As ondas eletromagnéticas podem ser refletidas, refratadas ou absorvidas, enquanto as ondas gravitacionais só podem ser absorvidas.",194
+44202out,Taylor Swift,5
+44210out,y = mx + b,9
+44335out,Sentimento negativo.,10
+44384out,A rápida raposa marrom salta sobre o cachorro preguiçoso.,26
+44510out,Sentimento positivo.,9
+44528out,"Esta é uma cidade pequena, pacífica e bonita.",23
+44591out,"P: O que o peixe disse quando bateu na parede?
+R: Droga!",29
+44630out,"imprimir(""Olá mundo"")",12
+45152out,Qual é a capital da França?,11
+45164out,"Os buracos negros têm um impacto significativo na evolução das galáxias. Eles engolem gás e poeira próximos, suprimindo assim a formação de estrelas nas regiões circundantes. Isto pode levar ao encerramento da formação estelar numa galáxia, alterando assim a sua evolução e aparência. Além disso, os buracos negros também ajudam a regular o crescimento de uma galáxia, limitando a quantidade de material disponível para formar estrelas.",172
+45553out,"Itália, França, Alemanha, Espanha, Polónia",21
+45708out,Ela foi até a loja.,13
+45718out,"Os biscoitos são lanches pequenos e saborosos que vêm em todos os formatos, tamanhos e sabores. O giz é uma substância barata, semelhante a poeira, popularmente usada em quadros negros e calçadas. A tinta é um tipo de meio líquido composto por um pigmento, um aglutinante e um solvente usado para adicionar cores brilhantes e acabamentos interessantes a diversas superfícies.",134
+45721out,"Monalisa, de Leonardo da Vinci, apresenta uma mulher serena com um sorriso misterioso e conhecedor que cativou gerações de amantes da arte.",53
+45737out,Uma pedra que rola não junta musgo.,17
+45818out,"Console.WriteLine(""Olá Mundo"");",13
+46142out,"imprimir(""Olá mundo"")",12
+46489out,"O termo ""cisne negro"" é frequentemente usado como uma metáfora para descrever um evento ou ocorrência que é altamente improvável, mas tem um impacto massivo e inesperado. É usado para nos lembrar que tais eventos, embora raros, podem ocorrer e ocorrem e devem ser preparados, mesmo que essa probabilidade pareça pequena.",118
+46604out,Ele estava andando até a loja.,14
+46779out,A ligeira raposa marrom saltou sobre o cão preguiçoso.,23
+47066out,Eu sou um estudante.,11
+47264out,Duas espécies de plantas ameaçadas de extinção incluem a flor-de-macaco-de-Santa-Bárbara e a margarida-de-árvore-de-Tongariro. Duas espécies de animais ameaçadas de extinção incluem o tigre-de-Sumatra e o rinoceronte-negro.,100
+47430out,O sentimento da frase é negativo.,14
+47456out,O gato sentou-se no tapete.,14
+47591out,Eu quero ir a loja.,12
+47614out,Nenhum preconceito foi detectado.,14
+47750out,Esta frase é uma afirmação.,16
+47892out,Foi um belo dia.,12
+47957out,"O Telescópio Espacial Hubble é um telescópio espacial lançado em 1990 e é a espaçonave de observação mais longeva e bem-sucedida já lançada. Permitiu algumas das observações mais detalhadas e precisas já feitas de objetos astronômicos distantes, como galáxias e quasares, desempenhando um papel crítico no estudo da matéria escura, dos buracos negros e da expansão do universo.",143
+48209out,Triângulo retângulo.,12
+48215out,A porta foi aberta por ele.,14
+48762out,"""A educação é a chave para o sucesso.""",19
+49019out,Nenhum viés desse tipo foi detectado.,17
+49049out,Sentença declarativa.,10
+49162out,"Console.WriteLine(""Olá Mundo"");",13
+49203out,Ela está indo para a loja.,13
+49306out,Sentimento negativo.,10
+49378out,Ela fê-lo.,10
+49559out,"Um buraco negro é uma região do espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, consegue escapar da sua atração. Eles são formados quando uma grande estrela morre e colapsa sobre si mesma, formando um objeto incrivelmente denso, muito menor que seu tamanho original.",107
+49573out,"""A solidão expressa a dor de estar sozinho e a solidão expressa a glória de estar sozinho."" -Paul Tillich",39
+49652out,"1. Leão
+2. Elefante Africano
+3. Girafa
+4. Cão Selvagem Africano
+5. Rinoceronte Negro",38
+49740out,A capital da França é Paris.,11
+49777out,Sem saída,7
+49780out,Sem saída,7
+49781out,Sem saída,7
+49783out,Sem saída,7
+49784out,Sem saída,7
+49824out,Estou ansioso para ouvir de você em breve.,19
+49932out,"Paris, França",7
+49933out,"Berlim, Alemanha",9
+50120out,SELECT * FROM nome_tabela;,12
+50341out,"(1) “É um ótimo dia”, disse ele. (2) ""Com certeza"", ela concordou, aproveitando o sol brilhante. (3) Ele sentiu o calor do sol no rosto e sorriu, pensando em todas as possibilidades.",82
+50421out,"Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno",30
+50564out,"1. O Silêncio dos Inocentes 
+2. Ilha do Obturador 
+3. Psicopata 
+4. Cisne Negro 
+5. Lembrança",48
+50752out,Ele correu para a loja.,12
+50829out,A menina pintou com pincel à tarde.,16
+50848out,Sentimento negativo.,10
+50916out,"A contração de ""eles são"" é ""eles são"".",21
+51047out,Sentimento: Positivo,10
+51149out,Sentença declarativa.,10
+51210out,O triângulo é um triângulo retângulo.,19
+51220out,Sequóia,6
+51406out,"Um buraco negro é uma região do espaço-tempo onde a gravidade é tão forte que nada, nem mesmo a luz, consegue escapar da sua atração. É formado quando uma estrela massiva morre e colapsa sobre si mesma, criando uma área de densidade infinita e um horizonte de eventos que marca o ponto em que qualquer matéria ou luz que entra não pode escapar.",131
+51671out,"""Se na primeira vez você não conseguir, tente, tente novamente.""",29
+51675out,Sentença declarativa,9
+51716out,"Olá, como vai?",11
+51753out,Esta afirmação é uma opinião.,17
+51786out,A capital da Índia é Nova Delhi.,14
+51979out,Sentimento positivo.,9

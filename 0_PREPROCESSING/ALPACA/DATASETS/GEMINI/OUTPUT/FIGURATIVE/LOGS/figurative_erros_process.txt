@@ -1,0 +1,261 @@
+2024-11-14 18:07:50,815 - INFO - Modelo instanciado.
+2024-11-14 18:07:50,821 - INFO - Iniciando processamento da instância 0
+2024-11-14 18:07:52,241 - ERROR - Ocorreu um erro ao processar a instância 0: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:52,243 - INFO - Iniciando processamento da instância 1
+2024-11-14 18:07:52,958 - ERROR - Ocorreu um erro ao processar a instância 1: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:52,960 - INFO - Iniciando processamento da instância 2
+2024-11-14 18:07:53,777 - ERROR - Ocorreu um erro ao processar a instância 2: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:53,779 - INFO - Iniciando processamento da instância 3
+2024-11-14 18:07:54,494 - ERROR - Ocorreu um erro ao processar a instância 3: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:54,495 - INFO - Iniciando processamento da instância 4
+2024-11-14 18:07:55,210 - ERROR - Ocorreu um erro ao processar a instância 4: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:55,212 - INFO - Iniciando processamento da instância 5
+2024-11-14 18:07:55,825 - ERROR - Ocorreu um erro ao processar a instância 5: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:55,826 - INFO - Iniciando processamento da instância 6
+2024-11-14 18:07:56,542 - ERROR - Ocorreu um erro ao processar a instância 6: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:56,544 - INFO - Iniciando processamento da instância 7
+2024-11-14 18:07:57,361 - ERROR - Ocorreu um erro ao processar a instância 7: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:57,362 - INFO - Iniciando processamento da instância 8
+2024-11-14 18:07:57,979 - ERROR - Ocorreu um erro ao processar a instância 8: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:57,980 - INFO - Iniciando processamento da instância 9
+2024-11-14 18:07:58,896 - ERROR - Ocorreu um erro ao processar a instância 9: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:58,898 - INFO - Iniciando processamento da instância 10
+2024-11-14 18:07:59,613 - ERROR - Ocorreu um erro ao processar a instância 10: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:07:59,615 - INFO - Iniciando processamento da instância 11
+2024-11-14 18:08:00,330 - ERROR - Ocorreu um erro ao processar a instância 11: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:00,332 - INFO - Iniciando processamento da instância 12
+2024-11-14 18:08:00,979 - ERROR - Ocorreu um erro ao processar a instância 12: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:00,980 - INFO - Iniciando processamento da instância 13
+2024-11-14 18:08:01,607 - ERROR - Ocorreu um erro ao processar a instância 13: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:01,608 - INFO - Iniciando processamento da instância 14
+2024-11-14 18:08:02,378 - ERROR - Ocorreu um erro ao processar a instância 14: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:02,380 - INFO - Iniciando processamento da instância 15
+2024-11-14 18:08:03,076 - ERROR - Ocorreu um erro ao processar a instância 15: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:03,078 - INFO - Iniciando processamento da instância 16
+2024-11-14 18:08:03,709 - ERROR - Ocorreu um erro ao processar a instância 16: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:03,711 - INFO - Iniciando processamento da instância 17
+2024-11-14 18:08:04,733 - ERROR - Ocorreu um erro ao processar a instância 17: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:04,735 - INFO - Iniciando processamento da instância 18
+2024-11-14 18:08:05,861 - ERROR - Ocorreu um erro ao processar a instância 18: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: MEDIUM\n, category: HARM_CATEGORY_HARASSMENT\nprobability: MEDIUM\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: MEDIUM
+, category: HARM_CATEGORY_HARASSMENT
+probability: MEDIUM
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-14 18:08:05,862 - INFO - Iniciando processamento da instância 19
+2024-11-14 18:08:06,783 - ERROR - Ocorreu um erro ao processar a instância 19: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:06,785 - INFO - Iniciando processamento da instância 20
+2024-11-14 18:08:07,805 - ERROR - Ocorreu um erro ao processar a instância 20: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:07,807 - INFO - Iniciando processamento da instância 21
+2024-11-14 18:08:08,726 - ERROR - Ocorreu um erro ao processar a instância 21: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:08,726 - INFO - Iniciando processamento da instância 22
+2024-11-14 18:08:09,500 - ERROR - Ocorreu um erro ao processar a instância 22: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:09,502 - INFO - Iniciando processamento da instância 23
+2024-11-14 18:08:11,800 - ERROR - Ocorreu um erro ao processar a instância 23: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:11,802 - INFO - Iniciando processamento da instância 24
+2024-11-14 18:08:13,233 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:13,235 - INFO - Metadados do bucket 24 salvos com sucesso.
+2024-11-14 18:08:13,236 - INFO - Iniciando processamento da instância 25
+2024-11-14 18:08:13,960 - ERROR - Ocorreu um erro ao processar a instância 25: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:13,968 - INFO - Iniciando processamento da instância 26
+2024-11-14 18:08:14,699 - ERROR - Ocorreu um erro ao processar a instância 26: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: MEDIUM\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: MEDIUM
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-14 18:08:14,700 - INFO - Iniciando processamento da instância 27
+2024-11-14 18:08:15,500 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:15,527 - INFO - Metadados do bucket 27 salvos com sucesso.
+2024-11-14 18:08:15,529 - INFO - Iniciando processamento da instância 28
+2024-11-14 18:08:16,267 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:16,267 - INFO - Metadados do bucket 28 salvos com sucesso.
+2024-11-14 18:08:16,269 - INFO - Iniciando processamento da instância 29
+2024-11-14 18:08:16,842 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:16,895 - INFO - Metadados do bucket 29 salvos com sucesso.
+2024-11-14 18:08:16,897 - INFO - Iniciando processamento da instância 30
+2024-11-14 18:08:17,636 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:17,636 - INFO - Metadados do bucket 30 salvos com sucesso.
+2024-11-14 18:08:17,638 - INFO - Iniciando processamento da instância 31
+2024-11-14 18:08:18,354 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:18,355 - INFO - Metadados do bucket 31 salvos com sucesso.
+2024-11-14 18:08:18,357 - INFO - Iniciando processamento da instância 32
+2024-11-14 18:08:19,381 - ERROR - Ocorreu um erro ao processar a instância 32: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:19,383 - INFO - Iniciando processamento da instância 33
+2024-11-14 18:08:20,778 - ERROR - Ocorreu um erro ao processar a instância 33: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:20,780 - INFO - Iniciando processamento da instância 34
+2024-11-14 18:08:21,936 - ERROR - Ocorreu um erro ao processar a instância 34: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:21,937 - INFO - Iniciando processamento da instância 35
+2024-11-14 18:08:24,896 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:24,906 - INFO - Metadados do bucket 35 salvos com sucesso.
+2024-11-14 18:08:24,908 - INFO - Iniciando processamento da instância 36
+2024-11-14 18:08:26,168 - ERROR - Ocorreu um erro ao processar a instância 36: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:26,170 - INFO - Iniciando processamento da instância 37
+2024-11-14 18:08:27,465 - ERROR - Ocorreu um erro ao processar a instância 37: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:27,467 - INFO - Iniciando processamento da instância 38
+2024-11-14 18:08:28,694 - ERROR - Ocorreu um erro ao processar a instância 38: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:28,696 - INFO - Iniciando processamento da instância 39
+2024-11-14 18:08:29,503 - ERROR - Ocorreu um erro ao processar a instância 39: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:29,505 - INFO - Iniciando processamento da instância 40
+2024-11-14 18:08:30,312 - ERROR - Ocorreu um erro ao processar a instância 40: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:30,314 - INFO - Iniciando processamento da instância 41
+2024-11-14 18:08:31,766 - ERROR - Ocorreu um erro ao processar a instância 41: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:31,768 - INFO - Iniciando processamento da instância 42
+2024-11-14 18:08:33,200 - ERROR - Ocorreu um erro ao processar a instância 42: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:33,201 - INFO - Iniciando processamento da instância 43
+2024-11-14 18:08:34,423 - ERROR - Ocorreu um erro ao processar a instância 43: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:34,424 - INFO - Iniciando processamento da instância 44
+2024-11-14 18:08:35,555 - ERROR - Ocorreu um erro ao processar a instância 44: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:35,556 - INFO - Iniciando processamento da instância 45
+2024-11-14 18:08:36,979 - ERROR - Ocorreu um erro ao processar a instância 45: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:36,980 - INFO - Iniciando processamento da instância 46
+2024-11-14 18:08:38,012 - ERROR - Ocorreu um erro ao processar a instância 46: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:38,014 - INFO - Iniciando processamento da instância 47
+2024-11-14 18:08:39,057 - ERROR - Ocorreu um erro ao processar a instância 47: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:39,059 - INFO - Iniciando processamento da instância 48
+2024-11-14 18:08:40,470 - ERROR - Ocorreu um erro ao processar a instância 48: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:40,471 - INFO - Iniciando processamento da instância 49
+2024-11-14 18:08:41,494 - ERROR - Ocorreu um erro ao processar a instância 49: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:41,495 - INFO - Iniciando processamento da instância 50
+2024-11-14 18:08:42,722 - ERROR - Ocorreu um erro ao processar a instância 50: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:42,724 - INFO - Iniciando processamento da instância 51
+2024-11-14 18:08:43,542 - ERROR - Ocorreu um erro ao processar a instância 51: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:43,543 - INFO - Iniciando processamento da instância 52
+2024-11-14 18:08:44,873 - ERROR - Ocorreu um erro ao processar a instância 52: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:44,874 - INFO - Iniciando processamento da instância 53
+2024-11-14 18:08:45,491 - ERROR - Ocorreu um erro ao processar a instância 53: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:45,493 - INFO - Iniciando processamento da instância 54
+2024-11-14 18:08:46,204 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:46,205 - INFO - Metadados do bucket 54 salvos com sucesso.
+2024-11-14 18:08:46,206 - INFO - Iniciando processamento da instância 55
+2024-11-14 18:08:47,433 - ERROR - Ocorreu um erro ao processar a instância 55: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:47,434 - INFO - Iniciando processamento da instância 56
+2024-11-14 18:08:48,866 - ERROR - Ocorreu um erro ao processar a instância 56: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:48,868 - INFO - Iniciando processamento da instância 57
+2024-11-14 18:08:49,550 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:49,561 - INFO - Metadados do bucket 57 salvos com sucesso.
+2024-11-14 18:08:49,562 - INFO - Iniciando processamento da instância 58
+2024-11-14 18:08:50,738 - ERROR - Ocorreu um erro ao processar a instância 58: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:50,739 - INFO - Iniciando processamento da instância 59
+2024-11-14 18:08:52,963 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:08:52,964 - INFO - Metadados do bucket 59 salvos com sucesso.
+2024-11-14 18:08:52,966 - INFO - Iniciando processamento da instância 60
+2024-11-14 18:08:54,806 - ERROR - Ocorreu um erro ao processar a instância 60: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:54,808 - INFO - Iniciando processamento da instância 61
+2024-11-14 18:08:56,713 - ERROR - Ocorreu um erro ao processar a instância 61: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:56,714 - INFO - Iniciando processamento da instância 62
+2024-11-14 18:08:59,003 - ERROR - Ocorreu um erro ao processar a instância 62: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:59,005 - INFO - Iniciando processamento da instância 63
+2024-11-14 18:08:59,950 - ERROR - Ocorreu um erro ao processar a instância 63: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:08:59,952 - INFO - Iniciando processamento da instância 64
+2024-11-14 18:09:04,968 - ERROR - Ocorreu um erro ao processar a instância 64: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:04,981 - INFO - Iniciando processamento da instância 65
+2024-11-14 18:09:06,274 - ERROR - Ocorreu um erro ao processar a instância 65: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:06,276 - INFO - Iniciando processamento da instância 66
+2024-11-14 18:09:07,400 - ERROR - Ocorreu um erro ao processar a instância 66: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:07,402 - INFO - Iniciando processamento da instância 67
+2024-11-14 18:09:08,357 - ERROR - Ocorreu um erro ao processar a instância 67: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:08,359 - INFO - Iniciando processamento da instância 68
+2024-11-14 18:09:10,472 - ERROR - Ocorreu um erro ao processar a instância 68: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: MEDIUM\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: MEDIUM
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-14 18:09:10,474 - INFO - Iniciando processamento da instância 69
+2024-11-14 18:09:11,609 - ERROR - Ocorreu um erro ao processar a instância 69: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:11,610 - INFO - Iniciando processamento da instância 70
+2024-11-14 18:09:12,520 - ERROR - Ocorreu um erro ao processar a instância 70: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:12,522 - INFO - Iniciando processamento da instância 71
+2024-11-14 18:09:13,339 - ERROR - Ocorreu um erro ao processar a instância 71: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:13,341 - INFO - Iniciando processamento da instância 72
+2024-11-14 18:09:14,693 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:14,737 - INFO - Metadados do bucket 72 salvos com sucesso.
+2024-11-14 18:09:14,739 - INFO - Iniciando processamento da instância 73
+2024-11-14 18:09:16,001 - ERROR - Ocorreu um erro ao processar a instância 73: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:16,003 - INFO - Iniciando processamento da instância 74
+2024-11-14 18:09:18,170 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:18,193 - INFO - Metadados do bucket 74 salvos com sucesso.
+2024-11-14 18:09:18,194 - INFO - Iniciando processamento da instância 75
+2024-11-14 18:09:19,202 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:19,241 - INFO - Metadados do bucket 75 salvos com sucesso.
+2024-11-14 18:09:19,242 - INFO - Iniciando processamento da instância 76
+2024-11-14 18:09:20,013 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:20,038 - INFO - Metadados do bucket 76 salvos com sucesso.
+2024-11-14 18:09:20,039 - INFO - Iniciando processamento da instância 77
+2024-11-14 18:09:21,132 - ERROR - Ocorreu um erro ao processar a instância 77: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:21,133 - INFO - Iniciando processamento da instância 78
+2024-11-14 18:09:21,839 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:21,855 - INFO - Metadados do bucket 78 salvos com sucesso.
+2024-11-14 18:09:21,857 - INFO - Iniciando processamento da instância 79
+2024-11-14 18:09:22,583 - ERROR - Ocorreu um erro ao processar a instância 79: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:22,585 - INFO - Iniciando processamento da instância 80
+2024-11-14 18:09:23,477 - ERROR - Ocorreu um erro ao processar a instância 80: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:23,478 - INFO - Iniciando processamento da instância 81
+2024-11-14 18:09:24,724 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:24,746 - INFO - Metadados do bucket 81 salvos com sucesso.
+2024-11-14 18:09:24,748 - INFO - Iniciando processamento da instância 82
+2024-11-14 18:09:25,422 - ERROR - Ocorreu um erro ao processar a instância 82: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:25,424 - INFO - Iniciando processamento da instância 83
+2024-11-14 18:09:26,242 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:26,244 - INFO - Metadados do bucket 83 salvos com sucesso.
+2024-11-14 18:09:26,246 - INFO - Iniciando processamento da instância 84
+2024-11-14 18:09:28,494 - ERROR - Ocorreu um erro ao processar a instância 84: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:28,496 - INFO - Iniciando processamento da instância 85
+2024-11-14 18:09:29,723 - ERROR - Ocorreu um erro ao processar a instância 85: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:29,725 - INFO - Iniciando processamento da instância 86
+2024-11-14 18:09:31,363 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:31,364 - INFO - Metadados do bucket 86 salvos com sucesso.
+2024-11-14 18:09:31,366 - INFO - Iniciando processamento da instância 87
+2024-11-14 18:09:32,068 - ERROR - Ocorreu um erro ao processar a instância 87: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:32,070 - INFO - Iniciando processamento da instância 88
+2024-11-14 18:09:33,614 - ERROR - Ocorreu um erro ao processar a instância 88: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:33,616 - INFO - Iniciando processamento da instância 89
+2024-11-14 18:09:34,535 - ERROR - Ocorreu um erro ao processar a instância 89: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:34,537 - INFO - Iniciando processamento da instância 90
+2024-11-14 18:09:35,224 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:35,246 - INFO - Metadados do bucket 90 salvos com sucesso.
+2024-11-14 18:09:35,247 - INFO - Iniciando processamento da instância 91
+2024-11-14 18:09:36,687 - ERROR - Ocorreu um erro ao processar a instância 91: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:36,689 - INFO - Iniciando processamento da instância 92
+2024-11-14 18:09:38,017 - ERROR - Ocorreu um erro ao processar a instância 92: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:38,019 - INFO - Iniciando processamento da instância 93
+2024-11-14 18:09:39,246 - ERROR - Ocorreu um erro ao processar a instância 93: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:39,248 - INFO - Iniciando processamento da instância 94
+2024-11-14 18:09:40,167 - ERROR - Ocorreu um erro ao processar a instância 94: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: MEDIUM\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: MEDIUM
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-14 18:09:40,169 - INFO - Iniciando processamento da instância 95
+2024-11-14 18:09:41,217 - ERROR - Ocorreu um erro ao processar a instância 95: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:41,218 - INFO - Iniciando processamento da instância 96
+2024-11-14 18:09:44,570 - ERROR - Ocorreu um erro ao processar a instância 96: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:44,582 - INFO - Iniciando processamento da instância 97
+2024-11-14 18:09:45,891 - ERROR - Ocorreu um erro ao processar a instância 97: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:45,893 - INFO - Iniciando processamento da instância 98
+2024-11-14 18:09:47,028 - ERROR - Ocorreu um erro ao processar a instância 98: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:47,029 - INFO - Iniciando processamento da instância 99
+2024-11-14 18:09:47,961 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-14 18:09:47,973 - INFO - Metadados do bucket 99 salvos com sucesso.
+2024-11-14 18:09:47,974 - INFO - Iniciando processamento da instância 100
+2024-11-14 18:09:48,768 - ERROR - Ocorreu um erro ao processar a instância 100: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:48,770 - INFO - Iniciando processamento da instância 101
+2024-11-14 18:09:49,588 - ERROR - Ocorreu um erro ao processar a instância 101: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:49,590 - INFO - Iniciando processamento da instância 102
+2024-11-14 18:09:50,816 - ERROR - Ocorreu um erro ao processar a instância 102: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-14 18:09:50,818 - INFO - Processamento das instâncias concluído.
+2024-11-14 18:09:50,818 - INFO - Tempo total de execução: 120.01 segundos.

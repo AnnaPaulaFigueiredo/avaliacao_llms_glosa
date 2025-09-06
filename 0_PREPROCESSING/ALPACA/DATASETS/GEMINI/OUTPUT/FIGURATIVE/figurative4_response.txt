@@ -1,0 +1,3094 @@
+json
+[
+  {
+    "ID": "16912ins",
+    "ORIGINAL": "Identifique qual dessas duas tecnologias é mais eficaz.",
+    "FIGURATIVO": "mais eficaz",
+    "REESCRITO": "tem melhor desempenho",
+    "RESULTADO": "Identifique qual dessas duas tecnologias tem melhor desempenho."
+  },
+  {
+    "ID": "16913ins",
+    "ORIGINAL": "Qual é a distância entre São Francisco, CA e Los Angeles, CA?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é a distância entre São Francisco, CA e Los Angeles, CA?"
+  },
+  {
+    "ID": "16914ins",
+    "ORIGINAL": "Diga-me sobre o que é o artigo abaixo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Diga-me sobre o que é o artigo abaixo."
+  },
+  {
+    "ID": "16915ins",
+    "ORIGINAL": "Escreva uma história engraçada usando o conjunto de palavras fornecido.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma história engraçada usando o conjunto de palavras fornecido."
+  },
+  {
+    "ID": "16916ins",
+    "ORIGINAL": "Explique o que é chave primária em um banco de dados relacional.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique o que é chave primária em um banco de dados relacional."
+  },
+  {
+    "ID": "16917ins",
+    "ORIGINAL": "Explique o conceito de Big Data em termos leigos.",
+    "FIGURATIVO": "em termos leigos",
+    "REESCRITO": "de forma simples e fácil de entender",
+    "RESULTADO": "Explique o conceito de Big Data de forma simples e fácil de entender."
+  },
+  {
+    "ID": "16918ins",
+    "ORIGINAL": "Sugira uma maneira de acelerar o tempo de resposta em aplicativos web.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sugira uma maneira de acelerar o tempo de resposta em aplicativos web."
+  },
+  {
+    "ID": "16919ins",
+    "ORIGINAL": "Cite as técnicas usadas para encontrar anomalias de dados.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite as técnicas usadas para encontrar anomalias de dados."
+  },
+  {
+    "ID": "16920ins",
+    "ORIGINAL": "Descreva um filme que se passa no espaço sideral",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva um filme que se passa no espaço sideral"
+  },
+  {
+    "ID": "16921ins",
+    "ORIGINAL": "Crie um algoritmo para resolver o embaralhamento de palavras abaixo",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um algoritmo para resolver o embaralhamento de palavras abaixo"
+  },
+  {
+    "ID": "16922ins",
+    "ORIGINAL": "Escreva um conto sobre um personagem lutando contra um monstro",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva um conto sobre um personagem lutando contra um monstro"
+  },
+  {
+    "ID": "16923ins",
+    "ORIGINAL": "Proponha uma solução criativa para reduzir as emissões de carbono",
+    "FIGURATIVO": "criativa",
+    "REESCRITO": "inovadoras",
+    "RESULTADO": "Proponha uma solução inovadoras para reduzir as emissões de carbono"
+  },
+  {
+    "ID": "16924ins",
+    "ORIGINAL": "Crie um slogan publicitário atraente",
+    "FIGURATIVO": "atraente",
+    "REESCRITO": "que chame a atenção",
+    "RESULTADO": "Crie um slogan publicitário que chame a atenção"
+  },
+  {
+    "ID": "16925ins",
+    "ORIGINAL": "Estime o custo dos itens listados",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Estime o custo dos itens listados"
+  },
+  {
+    "ID": "16926ins",
+    "ORIGINAL": "Reescreva o código abaixo para usar recursão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reescreva o código abaixo para usar recursão."
+  },
+  {
+    "ID": "16927ins",
+    "ORIGINAL": "Reorganize as frases na ordem lógica correta.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reorganize as frases na ordem lógica correta."
+  },
+  {
+    "ID": "16928ins",
+    "ORIGINAL": "Gere três palavras que rimam válidas.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere três palavras que rimam válidas."
+  },
+  {
+    "ID": "16929ins",
+    "ORIGINAL": "Forneça um caso de uso de aprendizagem por reforço.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Forneça um caso de uso de aprendizagem por reforço."
+  },
+  {
+    "ID": "16930ins",
+    "ORIGINAL": "Preveja a probabilidade de os dados pertencerem à classe A, dadas as seguintes características.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Preveja a probabilidade de os dados pertencerem à classe A, dadas as seguintes características."
+  },
+  {
+    "ID": "16931ins",
+    "ORIGINAL": "Mude as palavras sublinhadas do presente para o passado.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Mude as palavras sublinhadas do presente para o passado."
+  },
+  {
+    "ID": "16932ins",
+    "ORIGINAL": "Escreva uma breve descrição de um sistema de IA.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma breve descrição de um sistema de IA."
+  },
+  {
+    "ID": "16933ins",
+    "ORIGINAL": "Cite os dois principais componentes de um sistema de aprendizado de máquina.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite os dois principais componentes de um sistema de aprendizado de máquina."
+  },
+  {
+    "ID": "16934ins",
+    "ORIGINAL": "Selecione dois elementos da lista de países fornecida.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Selecione dois elementos da lista de países fornecida."
+  },
+  {
+    "ID": "16935ins",
+    "ORIGINAL": "Cite três plantas da ecorregião.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite três plantas da ecorregião."
+  },
+  {
+    "ID": "16936ins",
+    "ORIGINAL": "Identifique a maior cidade dos Estados Unidos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identifique a maior cidade dos Estados Unidos."
+  },
+  {
+    "ID": "16937ins",
+    "ORIGINAL": "Descubra o significado implícito nesta mensagem.",
+    "FIGURATIVO": "significado implícito",
+    "REESCRITO": "o que a mensagem quer dizer de forma indireta",
+    "RESULTADO": "Descubra o que a mensagem quer dizer de forma indireta."
+  },
+  {
+    "ID": "16938ins",
+    "ORIGINAL": "Ligue duas ideias da passagem.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ligue duas ideias da passagem."
+  },
+  {
+    "ID": "16939ins",
+    "ORIGINAL": "Categorize os seguintes objetos: livro, cadeira, mesa",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Categorize os seguintes objetos: livro, cadeira, mesa"
+  },
+  {
+    "ID": "16940ins",
+    "ORIGINAL": "Determine a qual categoria o texto pertence.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Determine a qual categoria o texto pertence."
+  },
+  {
+    "ID": "16941ins",
+    "ORIGINAL": "Use as informações fornecidas para responder à pergunta.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Use as informações fornecidas para responder à pergunta."
+  },
+  {
+    "ID": "16942ins",
+    "ORIGINAL": "Altere o texto para substantivos próprios.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Altere o texto para substantivos próprios."
+  },
+  {
+    "ID": "16943ins",
+    "ORIGINAL": "Cite o tipo de inferência que está sendo usada.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite o tipo de inferência que está sendo usada."
+  },
+  {
+    "ID": "16944ins",
+    "ORIGINAL": "Combine as frases e reescreva a frase usando a voz ativa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Combine as frases e reescreva a frase usando a voz ativa."
+  },
+  {
+    "ID": "16945ins",
+    "ORIGINAL": "Preveja o resultado mais provável.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Preveja o resultado mais provável."
+  },
+  {
+    "ID": "16946ins",
+    "ORIGINAL": "Gere uma lista de três pontos turísticos localizados em Tóquio.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma lista de três pontos turísticos localizados em Tóquio."
+  },
+  {
+    "ID": "16947ins",
+    "ORIGINAL": "Resuma o artigo \"A Importância da História\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Resuma o artigo \"A Importância da História\"."
+  },
+  {
+    "ID": "16948ins",
+    "ORIGINAL": "Agregue as estatísticas de mídia social e forneça uma análise comparativa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Agregue as estatísticas de mídia social e forneça uma análise comparativa."
+  },
+  {
+    "ID": "16949ins",
+    "ORIGINAL": "Transforme o texto em presente contínuo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Transforme o texto em presente contínuo."
+  },
+  {
+    "ID": "16950ins",
+    "ORIGINAL": "Cite cinco coisas que você pode usar para fazer fogo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite cinco coisas que você pode usar para fazer fogo."
+  },
+  {
+    "ID": "16951ins",
+    "ORIGINAL": "Descreva a diferença entre mineração de dados e análise de dados.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva a diferença entre mineração de dados e análise de dados."
+  },
+  {
+    "ID": "16952ins",
+    "ORIGINAL": "Pegue a frase dada e transforme-a em uma frase imperativa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pegue a frase dada e transforme-a em uma frase imperativa."
+  },
+  {
+    "ID": "16953ins",
+    "ORIGINAL": "Descreva o tópico frasal em no máximo 40 palavras.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva o tópico frasal em no máximo 40 palavras."
+  },
+  {
+    "ID": "16954ins",
+    "ORIGINAL": "Dados os fatos, responda à pergunta",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dados os fatos, responda à pergunta"
+  },
+  {
+    "ID": "16955ins",
+    "ORIGINAL": "Resumir os prós e contras da energia solar",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Resumir os prós e contras da energia solar"
+  },
+  {
+    "ID": "16956ins",
+    "ORIGINAL": "Descreva uma nova política de senha para uma determinada organização",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva uma nova política de senha para uma determinada organização"
+  },
+  {
+    "ID": "16957ins",
+    "ORIGINAL": "Construa um argumento sobre o porquê de as pessoas deverem adotar dietas baseadas em vegetais",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Construa um argumento sobre o porquê de as pessoas deverem adotar dietas baseadas em vegetais"
+  },
+  {
+    "ID": "16958ins",
+    "ORIGINAL": "Digite algumas frases como se estivesse falando com um assistente de atendimento ao cliente",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Digite algumas frases como se estivesse falando com um assistente de atendimento ao cliente"
+  },
+  {
+    "ID": "16959ins",
+    "ORIGINAL": "Gere um epíteto usando o substantivo fornecido",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere um epíteto usando o substantivo fornecido"
+  },
+  {
+    "ID": "16960ins",
+    "ORIGINAL": "Gerar um nome científico para a espécie fornecida",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gerar um nome científico para a espécie fornecida"
+  },
+  {
+    "ID": "16961ins",
+    "ORIGINAL": "Avalie o aplicativo fornecido para quaisquer falhas de segurança potenciais",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Avalie o aplicativo fornecido para quaisquer falhas de segurança potenciais"
+  },
+  {
+    "ID": "16962ins",
+    "ORIGINAL": "Crie uma lista dos melhores restaurantes da cidade em questão",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma lista dos melhores restaurantes da cidade em questão"
+  },
+  {
+    "ID": "16963ins",
+    "ORIGINAL": "Reescreva o poema dado para que rime",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reescreva o poema dado para que rime"
+  },
+  {
+    "ID": "16964ins",
+    "ORIGINAL": "Gere alguns exemplos de conteúdo digital",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere alguns exemplos de conteúdo digital"
+  },
+  {
+    "ID": "16965ins",
+    "ORIGINAL": "Identificar um plano de telefonia móvel adequado para uma pessoa no local fornecido",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identificar um plano de telefonia móvel adequado para uma pessoa no local fornecido"
+  },
+  {
+    "ID": "16966ins",
+    "ORIGINAL": "Há algum erro de ortografia nesta frase?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Há algum erro de ortografia nesta frase?"
+  },
+  {
+    "ID": "16967ins",
+    "ORIGINAL": "Como as empresas podem usar inteligência artificial para melhorar o atendimento ao cliente?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Como as empresas podem usar inteligência artificial para melhorar o atendimento ao cliente?"
+  },
+  {
+    "ID": "16968ins",
+    "ORIGINAL": "Adicione uma palavra à frase para torná-la mais descritiva.",
+    "FIGURATIVO": "mais descritiva",
+    "REESCRITO": "mais detalhada",
+    "RESULTADO": "Adicione uma palavra à frase para torná-la mais detalhada."
+  },
+  {
+    "ID": "16969ins",
+    "ORIGINAL": "Descreva os benefícios do uso de energia verde",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva os benefícios do uso de energia verde"
+  },
+  {
+    "ID": "16970ins",
+    "ORIGINAL": "Crie uma frase que use as seguintes palavras: contrito, fachada",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma frase que use as seguintes palavras: contrito, fachada"
+  },
+  {
+    "ID": "17076ins",
+    "ORIGINAL": "Simule uma conversa entre duas pessoas usando as informações fornecidas.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Simule uma conversa entre duas pessoas usando as informações fornecidas."
+  },
+  {
+    "ID": "17077ins",
+    "ORIGINAL": "Calcule a média de [2, 4, 5, 7, 8].",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Calcule a média de [2, 4, 5, 7, 8]."
+  },
+  {
+    "ID": "17078ins",
+    "ORIGINAL": "Liste os 5 maiores países do mundo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste os 5 maiores países do mundo."
+  },
+  {
+    "ID": "17079ins",
+    "ORIGINAL": "Reescreva a frase dada usando a forma afirmativa em vez da negativa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reescreva a frase dada usando a forma afirmativa em vez da negativa."
+  },
+  {
+    "ID": "17080ins",
+    "ORIGINAL": "Gere uma hashtag para promover um webinar sobre marketing digital.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma hashtag para promover um webinar sobre marketing digital."
+  },
+  {
+    "ID": "17081ins",
+    "ORIGINAL": "Qual é o papel da gravidade no sistema solar?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é o papel da gravidade no sistema solar?"
+  },
+  {
+    "ID": "17082ins",
+    "ORIGINAL": "Traduza a frase “El habla español” para o inglês.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Traduza a frase “El habla español” para o inglês."
+  },
+  {
+    "ID": "17083ins",
+    "ORIGINAL": "Combine os dois textos abaixo em um único texto, que deve ter pelo menos 200 palavras.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Combine os dois textos abaixo em um único texto, que deve ter pelo menos 200 palavras."
+  },
+  {
+    "ID": "17084ins",
+    "ORIGINAL": "Crie uma linha do tempo dos principais eventos na vida de Martin Luther King Jr.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma linha do tempo dos principais eventos na vida de Martin Luther King Jr."
+  },
+  {
+    "ID": "17085ins",
+    "ORIGINAL": "Calcule a soma dos elementos da matriz [2, 5, 8, 9].",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Calcule a soma dos elementos da matriz [2, 5, 8, 9]."
+  },
+  {
+    "ID": "17086ins",
+    "ORIGINAL": "Crie uma lista de cinco motivos convincentes para viver um estilo de vida saudável.",
+    "FIGURATIVO": "convincentes",
+    "REESCRITO": "fortes",
+    "RESULTADO": "Crie uma lista de cinco motivos fortes para viver um estilo de vida saudável."
+  },
+  {
+    "ID": "17087ins",
+    "ORIGINAL": "Categorize a lista de itens como roupas ou sapatos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Categorize a lista de itens como roupas ou sapatos."
+  },
+  {
+    "ID": "17188ins",
+    "ORIGINAL": "Faça um resumo da recente eleição presidencial dos EUA.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Faça um resumo da recente eleição presidencial dos EUA."
+  },
+  {
+    "ID": "17189ins",
+    "ORIGINAL": "Liste todos os primeiros-ministros da Índia desde 1947.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste todos os primeiros-ministros da Índia desde 1947."
+  },
+  {
+    "ID": "17190ins",
+    "ORIGINAL": "Converta a medida de 1 litro para galões.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Converta a medida de 1 litro para galões."
+  },
+  {
+    "ID": "17191ins",
+    "ORIGINAL": "Defina um processo estocástico.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Defina um processo estocástico."
+  },
+  {
+    "ID": "17192ins",
+    "ORIGINAL": "Que tipo de ângulo é 90 graus?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Que tipo de ângulo é 90 graus?"
+  },
+  {
+    "ID": "17193ins",
+    "ORIGINAL": "Considere a equação \"2x + 3y = 8\". Qual é o valor de x e y?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Considere a equação \"2x + 3y = 8\". Qual é o valor de x e y?"
+  },
+  {
+    "ID": "17194ins",
+    "ORIGINAL": "Determine a idade média do seguinte grupo: 15, 18, 12, 23, 18, 19",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Determine a idade média do seguinte grupo: 15, 18, 12, 23, 18, 19"
+  },
+  {
+    "ID": "17195ins",
+    "ORIGINAL": "Encontre uma palavra-chave na seguinte passagem",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre uma palavra-chave na seguinte passagem"
+  },
+  {
+    "ID": "17196ins",
+    "ORIGINAL": "Explique o conceito de “círculo dourado” nos negócios",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique o conceito de “círculo dourado” nos negócios"
+  },
+  {
+    "ID": "17197ins",
+    "ORIGINAL": "Desenvolver um plano para lançar um novo produto",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Desenvolver um plano para lançar um novo produto"
+  },
+  {
+    "ID": "17198ins",
+    "ORIGINAL": "Descreva a diferença entre uma LLC e uma sociedade limitada",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva a diferença entre uma LLC e uma sociedade limitada"
+  },
+  {
+    "ID": "17199ins",
+    "ORIGINAL": "Descreva como o aprendizado de máquina pode auxiliar na análise de dados estruturados",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva como o aprendizado de máquina pode auxiliar na análise de dados estruturados"
+  },
+  {
+    "ID": "17200ins",
+    "ORIGINAL": "Compare e contraste Java e JavaScript",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Compare e contraste Java e JavaScript"
+  },
+  {
+    "ID": "17201ins",
+    "ORIGINAL": "Liste três teorias psicológicas sobre tomada de decisão",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste três teorias psicológicas sobre tomada de decisão"
+  },
+  {
+    "ID": "17202ins",
+    "ORIGINAL": "Escreva algumas frases resumindo a história no trecho a seguir",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva algumas frases resumindo a história no trecho a seguir"
+  },
+  {
+    "ID": "17203ins",
+    "ORIGINAL": "Cumprimente um cliente com uma mensagem personalizada.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cumprimente um cliente com uma mensagem personalizada."
+  },
+  {
+    "ID": "17204ins",
+    "ORIGINAL": "Leia o artigo fornecido e resuma-o em 100 palavras.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Leia o artigo fornecido e resuma-o em 100 palavras."
+  },
+  {
+    "ID": "17205ins",
+    "ORIGINAL": "Categorize o artigo fornecido como uma notícia, opinião, artigo cultural ou científico.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Categorize o artigo fornecido como uma notícia, opinião, artigo cultural ou científico."
+  },
+  {
+    "ID": "17206ins",
+    "ORIGINAL": "Conecte as duas frases usando uma transição.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Conecte as duas frases usando uma transição."
+  },
+  {
+    "ID": "17302ins",
+    "ORIGINAL": "Quais são as principais vantagens de aprender a programar?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Quais são as principais vantagens de aprender a programar?"
+  },
+  {
+    "ID": "17303ins",
+    "ORIGINAL": "Compare as duas linguagens de programação a seguir: Java e Python.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Compare as duas linguagens de programação a seguir: Java e Python."
+  },
+  {
+    "ID": "17304ins",
+    "ORIGINAL": "Crie uma consulta SQL para encontrar os fornecedores com as classificações mais altas.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma consulta SQL para encontrar os fornecedores com as classificações mais altas."
+  },
+  {
+    "ID": "17305ins",
+    "ORIGINAL": "Que medidas ativas podem ser tomadas para combater as mudanças climáticas?",
+    "FIGURATIVO": "ativas",
+    "REESCRITO": "práticas",
+    "RESULTADO": "Que medidas práticas podem ser tomadas para combater as mudanças climáticas?"
+  },
+  {
+    "ID": "17306ins",
+    "ORIGINAL": "Dê-me um exemplo de como um design pode ser melhorado usando princípios de design centrados no ser humano.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê-me um exemplo de como um design pode ser melhorado usando princípios de design centrados no ser humano."
+  },
+  {
+    "ID": "17307ins",
+    "ORIGINAL": "Reescreva esta frase em voz passiva: “João construiu o muro.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reescreva esta frase em voz passiva: “João construiu o muro."
+  },
+  {
+    "ID": "17308ins",
+    "ORIGINAL": "Edite o texto a seguir para formar uma frase completa: “Descubra o que aconteceu ontem",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Edite o texto a seguir para formar uma frase completa: “Descubra o que aconteceu ontem"
+  },
+  {
+    "ID": "17409ins",
+    "ORIGINAL": "Edite esta frase rebuscada.",
+    "FIGURATIVO": "rebuscada",
+    "REESCRITO": "complicada",
+    "RESULTADO": "Edite esta frase complicada."
+  },
+  {
+    "ID": "17410ins",
+    "ORIGINAL": "Dê um exemplo da segunda lei do movimento de Newton.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê um exemplo da segunda lei do movimento de Newton."
+  },
+  {
+    "ID": "17411ins",
+    "ORIGINAL": "Escreva um programa em C++ para inverter os elementos de uma matriz.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva um programa em C++ para inverter os elementos de uma matriz."
+  },
+  {
+    "ID": "17412ins",
+    "ORIGINAL": "Escreva uma consulta SQL para encontrar o cliente mais antigo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma consulta SQL para encontrar o cliente mais antigo."
+  },
+  {
+    "ID": "17413ins",
+    "ORIGINAL": "Treine um modelo usando esses dados.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Treine um modelo usando esses dados."
+  },
+  {
+    "ID": "17414ins",
+    "ORIGINAL": "Sugira um restaurante na cidade para almoçar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sugira um restaurante na cidade para almoçar."
+  },
+  {
+    "ID": "17415ins",
+    "ORIGINAL": "Sugira uma trilha sonora para o seguinte trailer do filme.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sugira uma trilha sonora para o seguinte trailer do filme."
+  },
+  {
+    "ID": "17416ins",
+    "ORIGINAL": "Quanto tempo leva para dirigir de Nova York até Washington D.C.?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Quanto tempo leva para dirigir de Nova York até Washington D.C.?
+json
+[
+  {
+    "ID": "37811ins",
+    "ORIGINAL": "Imagine que você está criando um site para um escritório de advocacia. Que recurso(s) você incluiria na página deles?",
+    "FIGURATIVO": "Imagine que você está criando um site para um escritório de advocacia.",
+    "REESCRITO": "Se você estivesse criando um site para um escritório de advocacia",
+    "RESULTADO": "Se você estivesse criando um site para um escritório de advocacia, que recurso(s) você incluiria na página deles?"
+  },
+  {
+    "ID": "37812ins",
+    "ORIGINAL": "Preveja as próximas 3 palavras da frase a seguir.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Preveja as próximas 3 palavras da frase a seguir."
+  },
+  {
+    "ID": "37813ins",
+    "ORIGINAL": "Crie um tweet usando o título fornecido e a hashtag.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um tweet usando o título fornecido e a hashtag."
+  },
+  {
+    "ID": "37814ins",
+    "ORIGINAL": "Em uma ou duas frases, explique o processo de produção do café.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Em uma ou duas frases, explique o processo de produção do café."
+  },
+  {
+    "ID": "37815ins",
+    "ORIGINAL": "Cite três maneiras de aumentar o engajamento dos funcionários",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite três maneiras de aumentar o engajamento dos funcionários"
+  },
+  {
+    "ID": "37914ins",
+    "ORIGINAL": "Crie um problema matemático interessante.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um problema matemático interessante."
+  },
+  {
+    "ID": "37915ins",
+    "ORIGINAL": "Identifique uma frase descritiva para um eclipse.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identifique uma frase descritiva para um eclipse."
+  },
+  {
+    "ID": "37916ins",
+    "ORIGINAL": "Crie algumas letras para um rap sobre acordar cedo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie algumas letras para um rap sobre acordar cedo."
+  },
+  {
+    "ID": "37917ins",
+    "ORIGINAL": "Descreva uma situação em que alguém esqueceu uma tarefa importante da qual era responsável.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva uma situação em que alguém esqueceu uma tarefa importante da qual era responsável."
+  },
+  {
+    "ID": "37918ins",
+    "ORIGINAL": "Crie uma frase engraçada para descrever um brincalhão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma frase engraçada para descrever um brincalhão."
+  },
+  {
+    "ID": "37919ins",
+    "ORIGINAL": "Crie algumas frases resumindo uma história sobre uma pessoa que descobre um talento desconhecido.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie algumas frases resumindo uma história sobre uma pessoa que descobre um talento desconhecido."
+  },
+  {
+    "ID": "37920ins",
+    "ORIGINAL": "Pense em algumas maneiras de introduzir uma palestra sobre telecomunicações.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pense em algumas maneiras de introduzir uma palestra sobre telecomunicações."
+  },
+  {
+    "ID": "37921ins",
+    "ORIGINAL": "Gere uma hashtag para uma campanha defendendo o uso de fontes de energia renováveis.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma hashtag para uma campanha defendendo o uso de fontes de energia renováveis."
+  },
+  {
+    "ID": "37922ins",
+    "ORIGINAL": "Dado um cenário, crie algumas perguntas para fazer às partes relevantes.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dado um cenário, crie algumas perguntas para fazer às partes relevantes."
+  },
+  {
+    "ID": "37923ins",
+    "ORIGINAL": "Crie algumas palavras para uma palavra cruzada sobre o tema ciência da computação.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie algumas palavras para uma palavra cruzada sobre o tema ciência da computação."
+  },
+  {
+    "ID": "37924ins",
+    "ORIGINAL": "Elaborar sobre gestão da experiência do cliente no setor de varejo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Elaborar sobre gestão da experiência do cliente no setor de varejo."
+  },
+  {
+    "ID": "38026ins",
+    "ORIGINAL": "Descreva um jogo popular da década de 1990.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva um jogo popular da década de 1990."
+  },
+  {
+    "ID": "38027ins",
+    "ORIGINAL": "Qual é a precipitação anual em São Francisco, Califórnia?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é a precipitação anual em São Francisco, Califórnia?"
+  },
+  {
+    "ID": "38028ins",
+    "ORIGINAL": "Analise o texto em linguagem natural fornecido e resuma o sentimento que ele transmite.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Analise o texto em linguagem natural fornecido e resuma o sentimento que ele transmite."
+  },
+  {
+    "ID": "38029ins",
+    "ORIGINAL": "Componha um texto no estilo do Dr. Seuss.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Componha um texto no estilo do Dr. Seuss."
+  },
+  {
+    "ID": "38030ins",
+    "ORIGINAL": "Reformule a frase dada para enfatizar a importância da tarefa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reformule a frase dada para enfatizar a importância da tarefa."
+  },
+  {
+    "ID": "38031ins",
+    "ORIGINAL": "Cite o nome de uma pessoa famosa associada à profissão em questão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite o nome de uma pessoa famosa associada à profissão em questão."
+  },
+  {
+    "ID": "38032ins",
+    "ORIGINAL": "Monte os móveis seguindo as instruções.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Monte os móveis seguindo as instruções."
+  },
+  {
+    "ID": "38033ins",
+    "ORIGINAL": "Preveja a classe para este texto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Preveja a classe para este texto."
+  },
+  {
+    "ID": "38034ins",
+    "ORIGINAL": "Encontre a sigla para “Organização para a Proibição de Armas Químicas”",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre a sigla para “Organização para a Proibição de Armas Químicas”"
+  },
+  {
+    "ID": "38035ins",
+    "ORIGINAL": "Escreva um snippet de JavaScript para colocar a primeira letra de uma palavra em maiúscula.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva um snippet de JavaScript para colocar a primeira letra de uma palavra em maiúscula."
+  },
+  {
+    "ID": "38036ins",
+    "ORIGINAL": "Calcule 3 + 4 - 1.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Calcule 3 + 4 - 1."
+  },
+  {
+    "ID": "38037ins",
+    "ORIGINAL": "Como você explicaria a notação vetorial para um aluno do 5º ano?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Como você explicaria a notação vetorial para um aluno do 5º ano?"
+  },
+  {
+    "ID": "38137ins",
+    "ORIGINAL": "Os humanos são mais inteligentes que os computadores?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Os humanos são mais inteligentes que os computadores?"
+  },
+  {
+    "ID": "38138ins",
+    "ORIGINAL": "Crie uma linha do tempo da história da internet de 1964 até o presente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma linha do tempo da história da internet de 1964 até o presente."
+  },
+  {
+    "ID": "38139ins",
+    "ORIGINAL": "Resuma uma passagem em menos de 5 frases.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Resuma uma passagem em menos de 5 frases."
+  },
+  {
+    "ID": "38140ins",
+    "ORIGINAL": "Explique por que essa decisão foi tomada.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique por que essa decisão foi tomada."
+  },
+  {
+    "ID": "38141ins",
+    "ORIGINAL": "Liste os sintomas desta doença.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste os sintomas desta doença."
+  },
+  {
+    "ID": "38142ins",
+    "ORIGINAL": "Descreva uma viagem a uma ilha.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva uma viagem a uma ilha."
+  },
+  {
+    "ID": "38656ins",
+    "ORIGINAL": "Crie um par de perguntas e respostas sobre a economia dos Estados Unidos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um par de perguntas e respostas sobre a economia dos Estados Unidos."
+  },
+  {
+    "ID": "38657ins",
+    "ORIGINAL": "Descreva o que você pode encontrar no planeta Marte.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva o que você pode encontrar no planeta Marte."
+  },
+  {
+    "ID": "38658ins",
+    "ORIGINAL": "Agende uma reunião para amanhã às 10h.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Agende uma reunião para amanhã às 10h."
+  },
+  {
+    "ID": "38659ins",
+    "ORIGINAL": "Como alguém pode usar o aprendizado de máquina para avaliar as pontuações de crédito dos tomadores de empréstimos?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Como alguém pode usar o aprendizado de máquina para avaliar as pontuações de crédito dos tomadores de empréstimos?"
+  },
+  {
+    "ID": "38660ins",
+    "ORIGINAL": "Dê três dicas para alguém que está se mudando para uma nova cidade.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê três dicas para alguém que está se mudando para uma nova cidade."
+  },
+  {
+    "ID": "38661ins",
+    "ORIGINAL": "Liste cinco razões pelas quais é importante tomar café da manhã.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste cinco razões pelas quais é importante tomar café da manhã."
+  },
+  {
+    "ID": "38662ins",
+    "ORIGINAL": "Como alguém pode usar o aprendizado de máquina para identificar notícias falsas?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Como alguém pode usar o aprendizado de máquina para identificar notícias falsas?"
+  },
+  {
+    "ID": "38663ins",
+    "ORIGINAL": "Gere cinco ideias para um encontro romântico",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere cinco ideias para um encontro romântico"
+  },
+  {
+    "ID": "38664ins",
+    "ORIGINAL": "Crie três ideias de atividades para fazer com a família em casa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie três ideias de atividades para fazer com a família em casa."
+  },
+  {
+    "ID": "38665ins",
+    "ORIGINAL": "Classifique os cinco carros a seguir, do mais caro ao mais barato.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Classifique os cinco carros a seguir, do mais caro ao mais barato."
+  },
+  {
+    "ID": "38666ins",
+    "ORIGINAL": "Pense em cinco perguntas que um astronauta faria ao pousar em Marte.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pense em cinco perguntas que um astronauta faria ao pousar em Marte."
+  },
+  {
+    "ID": "38667ins",
+    "ORIGINAL": "Gere uma descrição de uma linha sobre a seguinte música:",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma descrição de uma linha sobre a seguinte música:"
+  },
+  {
+    "ID": "38668ins",
+    "ORIGINAL": "Crie um programa que determine o dia da semana para uma determinada data.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um programa que determine o dia da semana para uma determinada data."
+  },
+  {
+    "ID": "38669ins",
+    "ORIGINAL": "Resuma a frase a seguir usando uma frase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Resuma a frase a seguir usando uma frase."
+  },
+  {
+    "ID": "38670ins",
+    "ORIGINAL": "Descreva como os líderes de um país podem desenvolver segurança econômica para os cidadãos da nação.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva como os líderes de um país podem desenvolver segurança econômica para os cidadãos da nação."
+  },
+  {
+    "ID": "38671ins",
+    "ORIGINAL": "Dada uma notícia, crie um título que capture o ponto principal do artigo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dada uma notícia, crie um título que capture o ponto principal do artigo."
+  },
+  {
+    "ID": "38672ins",
+    "ORIGINAL": "Escreva uma história curta (menos de 300 palavras) girando em torno de um personagem chamado \"John\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma história curta (menos de 300 palavras) girando em torno de um personagem chamado \"John\"."
+  },
+  {
+    "ID": "38673ins",
+    "ORIGINAL": "Crie uma lista de 10 perguntas que as pessoas podem fazer a um assistente virtual.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma lista de 10 perguntas que as pessoas podem fazer a um assistente virtual."
+  },
+  {
+    "ID": "38674ins",
+    "ORIGINAL": "Crie uma história curta (de até 200 palavras) sobre um velho que vive no campo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma história curta (de até 200 palavras) sobre um velho que vive no campo."
+  },
+  {
+    "ID": "38677ins",
+    "ORIGINAL": "Tenha uma ideia para um produto ou serviço que use inteligência artificial.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Tenha uma ideia para um produto ou serviço que use inteligência artificial."
+  },
+  {
+    "ID": "38678ins",
+    "ORIGINAL": "Dadas as seguintes palavras, crie um poema (até 30 linhas)",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dadas as seguintes palavras, crie um poema (até 30 linhas)"
+  },
+  {
+    "ID": "38679ins",
+    "ORIGINAL": "Liste os três principais lugares para visitar em Charleston, Carolina do Sul.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste os três principais lugares para visitar em Charleston, Carolina do Sul."
+  },
+  {
+    "ID": "38680ins",
+    "ORIGINAL": "Escreva um modelo de classificação para determinar se a saída prevista de uma determinada sequência de dígitos é par ou ímpar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva um modelo de classificação para determinar se a saída prevista de uma determinada sequência de dígitos é par ou ímpar."
+  },
+  {
+    "ID": "38681ins",
+    "ORIGINAL": "Resuma o significado da Batalha de Little Bighorn.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Resuma o significado da Batalha de Little Bighorn."
+  },
+  {
+    "ID": "38683ins",
+    "ORIGINAL": "Gere um algoritmo para detectar os valores discrepantes em uma matriz.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere um algoritmo para detectar os valores discrepantes em uma matriz."
+  },
+  {
+    "ID": "38684ins",
+    "ORIGINAL": "Encontre o número primo mais próximo do número 43.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre o número primo mais próximo do número 43."
+  },
+  {
+    "ID": "38686ins",
+    "ORIGINAL": "Crie um parágrafo de 10 a 15 frases descrevendo um dia ensolarado de verão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um parágrafo de 10 a 15 frases descrevendo um dia ensolarado de verão."
+  },
+  {
+    "ID": "38687ins",
+    "ORIGINAL": "Gere uma lista de 10 métodos exclusivos para conservar água.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma lista de 10 métodos exclusivos para conservar água."
+  },
+  {
+    "ID": "38688ins",
+    "ORIGINAL": "Simplifique a expressão (x^2+y^2)/(x+y).",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Simplifique a expressão (x^2+y^2)/(x+y)."
+  },
+  {
+    "ID": "38689ins",
+    "ORIGINAL": "Gere uma nova pergunta relacionada ao tópico \"ciência de dados\" que nunca tenha sido feita antes.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma nova pergunta relacionada ao tópico \"ciência de dados\" que nunca tenha sido feita antes."
+  },
+  {
+    "ID": "38690ins",
+    "ORIGINAL": "Explique três maneiras pelas quais a tecnologia blockchain pode melhorar a segurança de dados.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique três maneiras pelas quais a tecnologia blockchain pode melhorar a segurança de dados."
+  },
+  {
+    "ID": "38792ins",
+    "ORIGINAL": "Descreva como um tsunami é formado",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva como um tsunami é formado"
+  },
+  {
+    "ID": "38793ins",
+    "ORIGINAL": "Encontre a equação de uma função linear que passa pelos dois pontos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre a equação de uma função linear que passa pelos dois pontos."
+  },
+  {
+    "ID": "38794ins",
+    "ORIGINAL": "Escolha o nome mais adequado para esta empresa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escolha o nome mais adequado para esta empresa."
+  },
+  {
+    "ID": "38795ins",
+    "ORIGINAL": "Construa uma sequência aritmética cujo décimo termo seja 50.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Construa uma sequência aritmética cujo décimo termo seja 50."
+  },
+  {
+    "ID": "38796ins",
+    "ORIGINAL": "Crie uma saída apropriada dada esta instrução e entrada",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma saída apropriada dada esta instrução e entrada"
+  },
+  {
+    "ID": "38797ins",
+    "ORIGINAL": "Atribua esta ocupação à categoria apropriada",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Atribua esta ocupação à categoria apropriada"
+  },
+  {
+    "ID": "38798ins",
+    "ORIGINAL": "Categorize este artigo em um tópico",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Categorize este artigo em um tópico"
+  },
+  {
+    "ID": "38799ins",
+    "ORIGINAL": "Preveja o resultado provável deste evento",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Preveja o resultado provável deste evento"
+  },
+  {
+    "ID": "38800ins",
+    "ORIGINAL": "Compare e contraste a atmosfera da cidade de Nova York e Los Angeles",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Compare e contraste a atmosfera da cidade de Nova York e Los Angeles"
+  },
+  {
+    "ID": "38801ins",
+    "ORIGINAL": "Crie uma história sobre um astronauta explorando um novo planeta.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma história sobre um astronauta explorando um novo planeta."
+  },
+  {
+    "ID": "38802ins",
+    "ORIGINAL": "Qual é a aceleração de um objeto com massa de 6 kg quando uma força de 24 N é aplicada?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é a aceleração de um objeto com massa de 6 kg quando uma força de 24 N é aplicada?"
+  },
+  {
+    "ID": "38803ins",
+    "ORIGINAL": "Converter 5 colheres de sopa em xícaras",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Converter 5 colheres de sopa em xícaras"
+  },
+  {
+    "ID": "38804ins",
+    "ORIGINAL": "Sugira uma resposta para o feedback deste cliente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sugira uma resposta para o feedback deste cliente."
+  },
+  {
+    "ID": "38805ins",
+    "ORIGINAL": "Identifique o autor de \"Orgulho e Preconceito\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identifique o autor de \"Orgulho e Preconceito\"."
+  },
+  {
+    "ID": "38906ins",
+    "ORIGINAL": "Gere um código HTML para uma tabela 3Cols que também tenha um cabeçalho. Produza o código diretamente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere um código HTML para uma tabela 3Cols que também tenha um cabeçalho. Produza o código diretamente."
+  },
+  {
+    "ID": "38907ins",
+    "ORIGINAL": "Qual órgão do corpo é responsável por filtrar toxinas para fora do corpo? Reproduza o nome do órgão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual órgão do corpo é responsável por filtrar toxinas para fora do corpo? Reproduza o nome do órgão."
+  },
+  {
+    "ID": "38908ins",
+    "ORIGINAL": "Preveja a receita gerada a partir dos dados fornecidos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Preveja a receita gerada a partir dos dados fornecidos."
+  },
+  {
+    "ID": "38909ins",
+    "ORIGINAL": "Liste 4 diferenças entre esses dois conceitos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste 4 diferenças entre esses dois conceitos."
+  },
+  {
+    "ID": "38910ins",
+    "ORIGINAL": "Sugira três maneiras de usar a tecnologia fornecida.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sugira três maneiras de usar a tecnologia fornecida."
+  },
+  {
+    "ID": "38911ins",
+    "ORIGINAL": "Dê um exemplo da frase \"ter uma causa para resolver\".",
+    "FIGURATIVO": "\"ter uma causa para resolver\"",
+    "REESCRITO": "ter um problema para solucionar",
+    "RESULTADO": "Dê um exemplo da frase \"ter um problema para solucionar\"."
+  },
+  {
+    "ID": "38912ins",
+    "ORIGINAL": "Organize as seguintes frases (1 a 5) em uma estrutura lógica",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Organize as seguintes frases (1 a 5) em uma estrutura lógica"
+  },
+  {
+    "ID": "38913ins",
+    "ORIGINAL": "Escreva uma história sobre uma pessoa que aprende uma lição importante.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma história sobre uma pessoa que aprende uma lição importante."
+  },
+  {
+    "ID": "39015ins",
+    "ORIGINAL": "Gere um novo título a partir da seguinte frase:\n\"O Primeiro Ministro anunciou uma nova política hoje.\"",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere um novo título a partir da seguinte frase:\n\"O Primeiro Ministro anunciou uma nova política hoje.\""
+  },
+  {
+    "ID": "39016ins",
+    "ORIGINAL": "Explique em uma frase a diferença entre um módulo e uma função.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique em uma frase a diferença entre um módulo e uma função."
+  },
+  {
+    "ID": "39017ins",
+    "ORIGINAL": "Analise a seguinte frase e forneça um sujeito e um verbo:\n\n\"One day by the sea.\"",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Analise a seguinte frase e forneça um sujeito e um verbo:\n\n\"One day by the sea.\""
+  },
+  {
+    "ID": "39018ins",
+    "ORIGINAL": "Descreva o sabor de um sundae de caramelo em 5 palavras.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva o sabor de um sundae de caramelo em 5 palavras."
+  },
+  {
+    "ID": "39119ins",
+    "ORIGINAL": "Cite dois tipos de estímulos físicos que os animais podem detectar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite dois tipos de estímulos físicos que os animais podem detectar."
+  },
+  {
+    "ID": "39120ins",
+    "ORIGINAL": "Crie uma tabela de três colunas que mostre as vantagens e desvantagens das compras on-line.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma tabela de três colunas que mostre as vantagens e desvantagens das compras on-line."
+  },
+  {
+    "ID": "39121ins",
+    "ORIGINAL": "Qual é o papel do sistema imunológico na manutenção da homeostase?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é o papel do sistema imunológico na manutenção da homeostase?"
+  },
+  {
+    "ID": "39122ins",
+    "ORIGINAL": "Gere 3 títulos alternativos para o romance \"O Sol é para Todos\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere 3 títulos alternativos para o romance \"O Sol é para Todos\"."
+  },
+  {
+    "ID": "39123ins",
+    "ORIGINAL": "Reescreva a frase para torná-la mais concisa, mas mantendo seu significado original.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reescreva a frase para torná-la mais concisa, mas mantendo seu significado original."
+  },
+  {
+    "ID": "39124ins",
+    "ORIGINAL": "Faça uma analogia para a frase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Faça uma analogia para a frase."
+  },
+  {
+    "ID": "39125ins",
+    "ORIGINAL": "Faça uma sugestão para a frase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Faça uma sugestão para a frase."
+  },
+  {
+    "ID": "39126ins",
+    "ORIGINAL": "Explique o propósito de uma linguagem de script do lado do servidor.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique o propósito de uma linguagem de script do lado do servidor."
+  },
+  {
+    "ID": "39127ins",
+    "ORIGINAL": "Crie um perfil de namoro usando as informações fornecidas",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um perfil de namoro usando as informações fornecidas"
+  },
+  {
+    "ID": "39128ins",
+    "ORIGINAL": "Gerar um documento legal para um contrato com o cliente",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gerar um documento legal para um contrato com o cliente"
+  },
+json
+[
+  {
+    "ID": "46552ins",
+    "ORIGINAL": "Dê um exemplo de uma maneira de investigar a causa da poluição do ar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê um exemplo de uma maneira de investigar a causa da poluição do ar."
+  },
+  {
+    "ID": "46553ins",
+    "ORIGINAL": "Explique o conflito entre os EUA e a Coreia do Norte em 3 frases.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique o conflito entre os EUA e a Coreia do Norte em 3 frases."
+  },
+  {
+    "ID": "46554ins",
+    "ORIGINAL": "Crie um tweet descrevendo as vantagens de rastrear dados de clientes.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um tweet descrevendo as vantagens de rastrear dados de clientes."
+  },
+  {
+    "ID": "46555ins",
+    "ORIGINAL": "Descreva o relacionamento entre dois personagens do romance que você está lendo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva o relacionamento entre dois personagens do romance que você está lendo."
+  },
+  {
+    "ID": "46556ins",
+    "ORIGINAL": "Descreva uma situação em que duas pessoas podem discordar, mas ainda assim trabalhar juntas para resolver um problema.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva uma situação em que duas pessoas podem discordar, mas ainda assim trabalhar juntas para resolver um problema."
+  },
+  {
+    "ID": "46557ins",
+    "ORIGINAL": "Identifique e explique quaisquer práticas comerciais antiéticas no texto fornecido.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identifique e explique quaisquer práticas comerciais antiéticas no texto fornecido."
+  },
+  {
+    "ID": "46558ins",
+    "ORIGINAL": "Dado o cardápio de um restaurante, sugira um prato acessível.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dado o cardápio de um restaurante, sugira um prato acessível."
+  },
+  {
+    "ID": "47263ins",
+    "ORIGINAL": "Troque as palavras na frase para obter um significado diferente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Troque as palavras na frase para obter um significado diferente."
+  },
+  {
+    "ID": "47264ins",
+    "ORIGINAL": "Cite duas espécies de plantas ameaçadas de extinção e duas espécies de animais ameaçadas de extinção.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cite duas espécies de plantas ameaçadas de extinção e duas espécies de animais ameaçadas de extinção."
+  },
+  {
+    "ID": "47265ins",
+    "ORIGINAL": "Organize as seguintes palavras em ordem da mais para a menos grave: ofensa, infração, má conduta",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Organize as seguintes palavras em ordem da mais para a menos grave: ofensa, infração, má conduta"
+  },
+  {
+    "ID": "47266ins",
+    "ORIGINAL": "Dado o texto a seguir, forneça o nome do gênero.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dado o texto a seguir, forneça o nome do gênero."
+  },
+  {
+    "ID": "47267ins",
+    "ORIGINAL": "Mude o tempo desta frase do futuro para o presente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Mude o tempo desta frase do futuro para o presente."
+  },
+  {
+    "ID": "47366ins",
+    "ORIGINAL": "Sugira as 5 melhores lojas online para comprar o produto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sugira as 5 melhores lojas online para comprar o produto."
+  },
+  {
+    "ID": "47367ins",
+    "ORIGINAL": "Analise o texto e extraia cinco temas principais encontrados nele.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Analise o texto e extraia cinco temas principais encontrados nele."
+  },
+  {
+    "ID": "47368ins",
+    "ORIGINAL": "Classifique a frase a seguir no gênero apropriado: ficção, não ficção ou mistério.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Classifique a frase a seguir no gênero apropriado: ficção, não ficção ou mistério."
+  },
+  {
+    "ID": "47369ins",
+    "ORIGINAL": "Reformule a frase a seguir para que ela não contenha mais nenhuma linguagem preconceituosa em relação ao gênero.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reformule a frase a seguir para que ela não contenha mais nenhuma linguagem preconceituosa em relação ao gênero."
+  },
+  {
+    "ID": "47370ins",
+    "ORIGINAL": "Crie um motivo pelo qual um cliente pode querer comprar o produto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um motivo pelo qual um cliente pode querer comprar o produto."
+  },
+  {
+    "ID": "47469ins",
+    "ORIGINAL": "Dada uma palavra-chave, forneça uma definição para ela.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dada uma palavra-chave, forneça uma definição para ela."
+  },
+  {
+    "ID": "48671ins",
+    "ORIGINAL": "Crie um poema de três versos com o esquema de rima \"AAB\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um poema de três versos com o esquema de rima \"AAB\"."
+  },
+  {
+    "ID": "48672ins",
+    "ORIGINAL": "Dadas duas cidades, calcule o tempo estimado de viagem de carro.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dadas duas cidades, calcule o tempo estimado de viagem de carro."
+  },
+  {
+    "ID": "48773ins",
+    "ORIGINAL": "Gere duas perguntas sobre modelos GPT",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere duas perguntas sobre modelos GPT"
+  },
+  {
+    "ID": "48774ins",
+    "ORIGINAL": "Crie um discurso apresentando um amigo seu. A saída deve ter menos de 100 palavras.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um discurso apresentando um amigo seu. A saída deve ter menos de 100 palavras."
+  },
+  {
+    "ID": "48775ins",
+    "ORIGINAL": "Verifique se o artigo não contém algum link para a fonte.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Verifique se o artigo não contém algum link para a fonte."
+  },
+  {
+    "ID": "48776ins",
+    "ORIGINAL": "Forneça duas declarações factuais sobre as mudanças climáticas.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Forneça duas declarações factuais sobre as mudanças climáticas."
+  },
+  {
+    "ID": "48777ins",
+    "ORIGINAL": "Coloque as palavras fornecidas em ordem alfabética.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Coloque as palavras fornecidas em ordem alfabética."
+  },
+  {
+    "ID": "48778ins",
+    "ORIGINAL": "Compare os dois objetos e exiba o resultado",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Compare os dois objetos e exiba o resultado"
+  },
+  {
+    "ID": "48779ins",
+    "ORIGINAL": "Suponha que você receba uma grande coleção de texto. Gere um resumo de 3 palavras da coleção de texto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Suponha que você receba uma grande coleção de texto. Gere um resumo de 3 palavras da coleção de texto."
+  },
+  {
+    "ID": "48780ins",
+    "ORIGINAL": "Para uma determinada URL, gere uma lista de 10 URLs relacionadas no mesmo domínio.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Para uma determinada URL, gere uma lista de 10 URLs relacionadas no mesmo domínio."
+  },
+  {
+    "ID": "48880ins",
+    "ORIGINAL": "Organize a seguinte lista de países em ordem crescente de acordo com o tamanho da população.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Organize a seguinte lista de países em ordem crescente de acordo com o tamanho da população."
+  },
+  {
+    "ID": "48881ins",
+    "ORIGINAL": "Crie uma tira de desenho animado de 3 painéis representando a pandemia de forma engraçada.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma tira de desenho animado de 3 painéis representando a pandemia de forma engraçada."
+  },
+  {
+    "ID": "48882ins",
+    "ORIGINAL": "Pesquise os regulamentos para padrões de emissão de veículos automotores na Califórnia.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pesquise os regulamentos para padrões de emissão de veículos automotores na Califórnia."
+  },
+  {
+    "ID": "48989ins",
+    "ORIGINAL": "Que tipo de contribuição foi fornecida pelos cidadãos na pesquisa?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Que tipo de contribuição foi fornecida pelos cidadãos na pesquisa?"
+  },
+  {
+    "ID": "48990ins",
+    "ORIGINAL": "Faça uma breve descrição dos efeitos do aquecimento global.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Faça uma breve descrição dos efeitos do aquecimento global."
+  },
+  {
+    "ID": "48991ins",
+    "ORIGINAL": "Estime a quantia de dinheiro que poderia ser gasta em publicidade política e de defesa de questões no ciclo eleitoral de 2008.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Estime a quantia de dinheiro que poderia ser gasta em publicidade política e de defesa de questões no ciclo eleitoral de 2008."
+  },
+  {
+    "ID": "48992ins",
+    "ORIGINAL": "Identifique três dificuldades enfrentadas pelos anunciantes no ciclo eleitoral de 2008.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identifique três dificuldades enfrentadas pelos anunciantes no ciclo eleitoral de 2008."
+  },
+  {
+    "ID": "48993ins",
+    "ORIGINAL": "Crie um exemplo de entrada para a seguinte tarefa: Resuma o documento a seguir com vários marcadores.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um exemplo de entrada para a seguinte tarefa: Resuma o documento a seguir com vários marcadores."
+  },
+  {
+    "ID": "48994ins",
+    "ORIGINAL": "Crie um poema haicai sobre a alegria de partir para uma aventura.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um poema haicai sobre a alegria de partir para uma aventura."
+  },
+  {
+    "ID": "48995ins",
+    "ORIGINAL": "Identifique se a seguinte nota musical é uma mínima.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Identifique se a seguinte nota musical é uma mínima."
+  },
+  {
+    "ID": "48996ins",
+    "ORIGINAL": "Descreva o estilo de vida de um fazendeiro típico nos Estados Unidos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva o estilo de vida de um fazendeiro típico nos Estados Unidos."
+  },
+  {
+    "ID": "48997ins",
+    "ORIGINAL": "Crie um slogan atraente para um produto que possa ajudar alguém a relaxar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um slogan atraente para um produto que possa ajudar alguém a relaxar."
+  },
+  {
+    "ID": "49095ins",
+    "ORIGINAL": "Qual é o significado da Primeira Emenda na Constituição dos EUA?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é o significado da Primeira Emenda na Constituição dos EUA?"
+  },
+  {
+    "ID": "49096ins",
+    "ORIGINAL": "Crie um jingle para uma marca de pasta de dente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um jingle para uma marca de pasta de dente."
+  },
+  {
+    "ID": "49097ins",
+    "ORIGINAL": "Escreva uma declaração que compare os dois objetos",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma declaração que compare os dois objetos"
+  },
+  {
+    "ID": "49098ins",
+    "ORIGINAL": "Crie um slogan que se ajuste ao perfil da empresa",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um slogan que se ajuste ao perfil da empresa"
+  },
+  {
+    "ID": "49099ins",
+    "ORIGINAL": "Explique por que organismos unicelulares são mais simples que organismos multicelulares.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique por que organismos unicelulares são mais simples que organismos multicelulares."
+  },
+  {
+    "ID": "49100ins",
+    "ORIGINAL": "Dê uma definição para o termo \"mudança de paradigma\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê uma definição para o termo \"mudança de paradigma\"."
+  },
+  {
+    "ID": "49101ins",
+    "ORIGINAL": "Explique como a temperatura de um gás pode ser diminuída.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique como a temperatura de um gás pode ser diminuída."
+  },
+  {
+    "ID": "49102ins",
+    "ORIGINAL": "Faça uma lista de alguns países da Comunidade das Nações.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Faça uma lista de alguns países da Comunidade das Nações."
+  },
+  {
+    "ID": "49105ins",
+    "ORIGINAL": "Crie uma estratégia para ajudar a reduzir o aquecimento global",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma estratégia para ajudar a reduzir o aquecimento global"
+  },
+  {
+    "ID": "49108ins",
+    "ORIGINAL": "Descubra a temperatura atual em Tóquio",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descubra a temperatura atual em Tóquio"
+  },
+  {
+    "ID": "49109ins",
+    "ORIGINAL": "Gere uma lista de 3 possíveis perguntas de entrevista ao entrevistar para uma posição de analista de dados",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma lista de 3 possíveis perguntas de entrevista ao entrevistar para uma posição de analista de dados"
+  },
+  {
+    "ID": "49110ins",
+    "ORIGINAL": "Produzir uma estratégia para ajudar a aumentar a conscientização sobre espécies ameaçadas de extinção",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Produzir uma estratégia para ajudar a aumentar a conscientização sobre espécies ameaçadas de extinção"
+  },
+  {
+    "ID": "49111ins",
+    "ORIGINAL": "Elabore uma lista de 5 habilidades quantitativas avançadas",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Elabore uma lista de 5 habilidades quantitativas avançadas"
+  },
+  {
+    "ID": "49115ins",
+    "ORIGINAL": "Encontre a velocidade máxima do veículo dada uma taxa de aceleração, velocidade inicial e tempo decorrido.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre a velocidade máxima do veículo dada uma taxa de aceleração, velocidade inicial e tempo decorrido."
+  },
+  {
+    "ID": "49209ins",
+    "ORIGINAL": "Explique a seguinte declaração: \"O projeto foi cancelado devido a restrições orçamentárias\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique a seguinte declaração: \"O projeto foi cancelado devido a restrições orçamentárias\"."
+  },
+  {
+    "ID": "49210ins",
+    "ORIGINAL": "Liste dois sinais de um ataque cibernético.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Liste dois sinais de um ataque cibernético."
+  },
+  {
+    "ID": "49211ins",
+    "ORIGINAL": "Descreva um problema moral relacionado à IA.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva um problema moral relacionado à IA."
+  },
+  {
+    "ID": "49212ins",
+    "ORIGINAL": "Avalie a seguinte afirmação: \"Aprender IA é um processo caro\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Avalie a seguinte afirmação: \"Aprender IA é um processo caro\"."
+  },
+  {
+    "ID": "49315ins",
+    "ORIGINAL": "Gere uma expressão regular para validar um código postal de seis dígitos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma expressão regular para validar um código postal de seis dígitos."
+  },
+  {
+    "ID": "49316ins",
+    "ORIGINAL": "Crie uma lista de tarefas a partir da seguinte entrada.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma lista de tarefas a partir da seguinte entrada."
+  },
+  {
+    "ID": "49317ins",
+    "ORIGINAL": "Proponha a equação para a solução geral da equação quadrática.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Proponha a equação para a solução geral da equação quadrática."
+  },
+  {
+    "ID": "49318ins",
+    "ORIGINAL": "Compare e contraste as personalidades Tipo A e Tipo B.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Compare e contraste as personalidades Tipo A e Tipo B."
+  },
+  {
+    "ID": "49319ins",
+    "ORIGINAL": "Crie um mecanismo de busca voltado para a área médica.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um mecanismo de busca voltado para a área médica."
+  },
+  {
+    "ID": "49320ins",
+    "ORIGINAL": "Crie uma rotina HIIT de dez minutos.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma rotina HIIT de dez minutos."
+  },
+  {
+    "ID": "49321ins",
+    "ORIGINAL": "Gere uma consulta JDBC para recuperar o número de telefone de um cliente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere uma consulta JDBC para recuperar o número de telefone de um cliente."
+  },
+  {
+    "ID": "49322ins",
+    "ORIGINAL": "Dê um slogan ao produto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê um slogan ao produto."
+  },
+  {
+    "ID": "49323ins",
+    "ORIGINAL": "Elabore um formulário de inscrição para um boletim informativo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Elabore um formulário de inscrição para um boletim informativo."
+  },
+  {
+    "ID": "49324ins",
+    "ORIGINAL": "Siga estas etapas específicas para instalar o software.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Siga estas etapas específicas para instalar o software."
+  },
+  {
+    "ID": "49325ins",
+    "ORIGINAL": "Crie uma tabela mapeando temperaturas em Celsius para Fahrenheit",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma tabela mapeando temperaturas em Celsius para Fahrenheit"
+  },
+  {
+    "ID": "49326ins",
+    "ORIGINAL": "Construa um diálogo entre duas pessoas que pedem comida em um restaurante.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Construa um diálogo entre duas pessoas que pedem comida em um restaurante."
+  },
+  {
+    "ID": "49327ins",
+    "ORIGINAL": "Escreva uma piada sobre alguém indo ao dentista.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma piada sobre alguém indo ao dentista."
+  },
+  {
+    "ID": "49328ins",
+    "ORIGINAL": "Refatore este trecho de código para torná-lo mais eficiente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Refatore este trecho de código para torná-lo mais eficiente."
+  },
+  {
+    "ID": "49428ins",
+    "ORIGINAL": "Crie uma frase alternativa que rime para o seguinte:\n\nO tempo voará",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma frase alternativa que rime para o seguinte:\n\nO tempo voará"
+  },
+  {
+    "ID": "49429ins",
+    "ORIGINAL": "Edite a frase a seguir para torná-la mais concisa:\n\nA mulher que administrava a loja era muito simpática e prestativa.",
+    "FIGURATIVO": "muito simpática e prestativa",
+    "REESCRITO": "amigável e prestativa",
+    "RESULTADO": "Edite a frase a seguir para torná-la mais concisa:\n\nA mulher que administrava a loja era amigável e prestativa."
+  },
+  {
+    "ID": "49430ins",
+    "ORIGINAL": "Crie uma pergunta adequada para um jogo de perguntas e respostas:",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma pergunta adequada para um jogo de perguntas e respostas:"
+  },
+  {
+    "ID": "49431ins",
+    "ORIGINAL": "Encontre uma frase em um texto que melhor descreva o tema do texto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre uma frase em um texto que melhor descreva o tema do texto."
+  },
+  {
+    "ID": "49432ins",
+    "ORIGINAL": "Selecione a palavra mais adequada entre as duas fornecidas para completar esta frase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Selecione a palavra mais adequada entre as duas fornecidas para completar esta frase."
+  },
+  {
+    "ID": "49534ins",
+    "ORIGINAL": "Descreva uma visão para o futuro da educação em uma frase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva uma visão para o futuro da educação em uma frase."
+  },
+  {
+    "ID": "49535ins",
+    "ORIGINAL": "Crie uma lista de 10 dicas para superar a ansiedade social.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma lista de 10 dicas para superar a ansiedade social."
+  },
+  {
+    "ID": "49536ins",
+    "ORIGINAL": "Crie uma lista de 7 habilidades que todo líder precisa ter.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie uma lista de 7 habilidades que todo líder precisa ter."
+  },
+  {
+    "ID": "49537ins",
+    "ORIGINAL": "Explique as diferenças entre motivação intrínseca e extrínseca em uma frase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Explique as diferenças entre motivação intrínseca e extrínseca em uma frase."
+  },
+  {
+    "ID": "49538ins",
+    "ORIGINAL": "Forneça um exemplo de resposta apropriada para a seguinte solicitação.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Forneça um exemplo de resposta apropriada para a seguinte solicitação."
+  },
+  {
+    "ID": "49539ins",
+    "ORIGINAL": "Encontre uma citação pública de Bill Gates.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre uma citação pública de Bill Gates."
+  },
+  {
+    "ID": "49540ins",
+    "ORIGINAL": "Crie um novo prato com a hashtag \"#mixbuffet\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Crie um novo prato com a hashtag \"#mixbuffet\"."
+  },
+  {
+    "ID": "49541ins",
+    "ORIGINAL": "Compile uma lista de cinco livros sobre a Segunda Guerra Mundial.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Compile uma lista de cinco livros sobre a Segunda Guerra Mundial."
+  },
+  {
+    "ID": "49542ins",
+    "ORIGINAL": "Dê um exemplo de um animal que pode ser encontrado no Ártico.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê um exemplo de um animal que pode ser encontrado no Ártico."
+  },
+  {
+    "ID": "49543ins",
+    "ORIGINAL": "Realize uma análise de sentimento sobre esta afirmação: \"Ela estava infeliz com suas notas baixas nos testes.\"",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Realize uma análise de sentimento sobre esta afirmação: \"Ela estava infeliz com suas notas baixas nos testes.\""
+  },
+  {
+    "ID": "49544ins",
+    "ORIGINAL": "Encontre uma equação matemática para calcular a área de um triângulo equilátero.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Encontre uma equação matemática para calcular a área de um triângulo equilátero."
+  },
+  {
+    "ID": "49545ins",
+    "ORIGINAL": "Descubra os benefícios para a saúde de comer abacates.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descubra os benefícios para a saúde de comer abacates."
+  },
+  {
+    "ID": "49546ins",
+    "ORIGINAL": "Forneça um exemplo realista de uso de um aplicativo Android que ajudaria as pessoas a encontrar lugares e serviços locais.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Forneça um exemplo realista de uso de um aplicativo Android que ajudaria as pessoas a encontrar lugares e serviços locais."
+  },
+  {
+    "ID": "49547ins",
+    "ORIGINAL": "Analise a seguinte afirmação: \"O aborto deveria ser ilegal\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Analise a seguinte afirmação: \"O aborto deveria ser ilegal\"."
+  },
+  {
+    "ID": "49548ins",
+    "ORIGINAL": "Construa um argumento contra a seguinte afirmação: “Todos deveriam dormir oito horas todas as noites”",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Construa um argumento contra a seguinte afirmação: “Todos deveriam dormir oito horas todas as noites”"
+  },
+  {
+    "ID": "49549ins",
+    "ORIGINAL": "Gere um exemplo de um experimento científico que poderia ser usado para testar a hipótese declarada na passagem a seguir.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere um exemplo de um experimento científico que poderia ser usado para testar a hipótese declarada na passagem a seguir."
+  },
+  {
+    "ID": "49550ins",
+    "ORIGINAL": "Dê um exemplo de uma situação em que usar uma avaliação formativa é mais benéfico do que usar uma avaliação somativa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Dê um exemplo de uma situação em que usar uma avaliação formativa é mais benéfico do que usar uma avaliação somativa."
+  },
+  {
+    "ID": "49551ins",
+    "ORIGINAL": "Gere um exemplo de aplicação de técnicas de mineração de dados em marketing.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gere um exemplo de aplicação de técnicas de mineração de dados em marketing."
+  },
+  {
+    "ID": "49552ins",
+    "ORIGINAL": "Qual é o fator mais importante ao considerar o uso de uma árvore de decisão para uma determinada tarefa?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Qual é o fator mais importante ao considerar o uso de uma árvore de decisão para uma determinada tarefa?"
+  },
+  {
+    "ID": "49553ins",
+    "ORIGINAL": "Descreva o conceito de \"capital social\".",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Descreva o conceito de \"capital social\"."
+  },
+  {
+    "ID": "49554ins",
+    "ORIGINAL": "Escreva uma história de cinco frases sobre a jornada de um pirata para encontrar um tesouro afundado.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escreva uma história de cinco frases sobre a jornada de um pirata para encontrar um tesouro afundado."
+  },
+  {
+    "ID": "49555ins",
+    "ORIGINAL": "Crie um modelo simples para prever preços de ações com base em
+json
+[
+  {
+    "ID": "49558ins",
+    "ORIGINAL": "Analise a frase dada em relação à sua linguagem figurada.",
+    "FIGURATIVO": "linguagem figurada",
+    "REESCRITO": "expressões e recursos que desviam do significado literal das palavras",
+    "RESULTADO": "Analise a frase dada em relação às suas expressões e recursos que desviam do significado literal das palavras."
+  },
+  {
+    "ID": "49563ins",
+    "ORIGINAL": "Desenvolva um slogan para um laptop educacional",
+    "FIGURATIVO": "slogan",
+    "REESCRITO": "frase curta e memorável",
+    "RESULTADO": "Desenvolva uma frase curta e memorável para um laptop educacional"
+  },
+  {
+    "ID": "50290ins",
+    "ORIGINAL": "Traduza a seguinte frase para o japonês: Gosto da cor do céu.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Traduza a seguinte frase para o japonês: Gosto da cor do céu."
+  },
+  {
+    "ID": "51402ins",
+    "ORIGINAL": "Crie um trocadilho relacionado à palavra \"feliz\".",
+    "FIGURATIVO": "trocadilho",
+    "REESCRITO": "frase que usa palavras com sons semelhantes, mas significados diferentes, para criar um efeito humorístico",
+    "RESULTADO": "Crie uma frase que usa palavras com sons semelhantes, mas significados diferentes, para criar um efeito humorístico relacionado à palavra \"feliz\"."
+  },
+  {
+    "ID": "51408ins",
+    "ORIGINAL": "Incorpore uma metáfora na frase a seguir.",
+    "FIGURATIVO": "metáfora",
+    "REESCRITO": "comparação implícita entre duas coisas diferentes",
+    "RESULTADO": "Incorpore uma comparação implícita entre duas coisas diferentes na frase a seguir."
+  },
+  {
+    "ID": "51820ins",
+    "ORIGINAL": "Descreva o significado da expressão idiomática “custar um braço e uma perna”.",
+    "FIGURATIVO": "custar um braço e uma perna",
+    "REESCRITO": "ser muito caro",
+    "RESULTADO": "Descreva o significado da expressão idiomática “ser muito caro”."
+  },
+  {
+    "ID": "7354inp",
+    "ORIGINAL": "Era uma vez um bravo cavaleiro que vagava em busca de aventura.",
+    "FIGURATIVO": "Era uma vez",
+    "REESCRITO": "No passado",
+    "RESULTADO": "No passado, um bravo cavaleiro vagava em busca de aventura."
+  },
+  {
+    "ID": "7800inp",
+    "ORIGINAL": "Um castelo mágico nas profundezas da floresta",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Um castelo mágico nas profundezas da floresta"
+  },
+  {
+    "ID": "8108inp",
+    "ORIGINAL": "Meu irmão mais novo é meu despertador que o acorda todas as manhãs.",
+    "FIGURATIVO": "meu despertador",
+    "REESCRITO": "a pessoa que me acorda",
+    "RESULTADO": "Meu irmão mais novo é a pessoa que me acorda todas as manhãs."
+  }
+]
+
+json
+[
+  {
+    "ID": "32751inp",
+    "ORIGINAL": "chimpanzé, escalar, antigo, fantástico",
+    "FIGURATIVO": "antigo, fantástico",
+    "REESCRITO": "muito velho, muito bom",
+    "RESULTADO": "chimpanzé, escalar, muito velho, muito bom"
+  },
+  {
+    "ID": "32760inp",
+    "ORIGINAL": '"No verão" por Mungo Jerry',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"No verão" por Mungo Jerry'
+  },
+  {
+    "ID": "32761inp",
+    "ORIGINAL": "Um algoritmo genético",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Um algoritmo genético"
+  },
+  {
+    "ID": "32773inp",
+    "ORIGINAL": "A empresa ABC tem 100 funcionários em seu escritório principal, 75 funcionários em seu escritório satélite e 25 funcionários trabalhando remotamente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "A empresa ABC tem 100 funcionários em seu escritório principal, 75 funcionários em seu escritório satélite e 25 funcionários trabalhando remotamente."
+  },
+  {
+    "ID": "32774inp",
+    "ORIGINAL": "A decisão foi tomada para ____________ o projeto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "A decisão foi tomada para ____________ o projeto."
+  },
+  {
+    "ID": "32781inp",
+    "ORIGINAL": "<LINK PARA O ARTIGO>",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "<LINK PARA O ARTIGO>"
+  },
+  {
+    "ID": "32785inp",
+    "ORIGINAL": "Ele estava caminhando há horas, com os pés doendo devido à longa jornada.",
+    "FIGURATIVO": "com os pés doendo",
+    "REESCRITO": "com dor nos pés",
+    "RESULTADO": "Ele estava caminhando há horas, com dor nos pés devido à longa jornada."
+  },
+  {
+    "ID": "32789inp",
+    "ORIGINAL": "Ele era um empreendedor muito bem-sucedido. As pessoas realmente gostavam dele, ele era uma figura muito respeitada na sociedade.",
+    "FIGURATIVO": "uma figura muito respeitada",
+    "REESCRITO": "alguém muito respeitado",
+    "RESULTADO": "Ele era um empreendedor muito bem-sucedido. As pessoas realmente gostavam dele, ele era alguém muito respeitado na sociedade."
+  },
+  {
+    "ID": "32791inp",
+    "ORIGINAL": "O assistente de IA receberá comentários dos clientes.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O assistente de IA receberá comentários dos clientes."
+  },
+  {
+    "ID": "32792inp",
+    "ORIGINAL": "Produto: iPhone 12",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Produto: iPhone 12"
+  },
+  {
+    "ID": "32794inp",
+    "ORIGINAL": "Produto: Google Fotos",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Produto: Google Fotos"
+  },
+  {
+    "ID": "32799inp",
+    "ORIGINAL": "Gosto de esquiar todo inverno.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Gosto de esquiar todo inverno."
+  },
+  {
+    "ID": "32806inp",
+    "ORIGINAL": "para(int i = 0; i < 10; i++)\n{\nSystem.out.println(\"Olá Mundo!\");\n}",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "para(int i = 0; i < 10; i++)\n{\nSystem.out.println(\"Olá Mundo!\");\n}"
+  },
+  {
+    "ID": "32807inp",
+    "ORIGINAL": "Em física, uma onda é uma perturbação que transfere energia de um local para outro. As ondas são frequentemente caracterizadas por amplitude, frequência e comprimento de onda. O movimento das ondas é um exemplo de movimento periódico, no qual um ponto em uma onda se move em um círculo ou em uma linha reta.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Em física, uma onda é uma perturbação que transfere energia de um local para outro. As ondas são frequentemente caracterizadas por amplitude, frequência e comprimento de onda. O movimento das ondas é um exemplo de movimento periódico, no qual um ponto em uma onda se move em um círculo ou em uma linha reta."
+  },
+  {
+    "ID": "32809inp",
+    "ORIGINAL": "Nos Estados Unidos, muitas pessoas celebram o Dia de Ação de Graças na quarta quinta-feira de novembro. É um momento para agradecer pela bênção da colheita e do ano anterior.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Nos Estados Unidos, muitas pessoas celebram o Dia de Ação de Graças na quarta quinta-feira de novembro. É um momento para agradecer pela bênção da colheita e do ano anterior."
+  },
+  {
+    "ID": "32810inp",
+    "ORIGINAL": "Palavra raiz: Ouvir\nPalavras: ao redor, atrás",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Palavra raiz: Ouvir\nPalavras: ao redor, atrás"
+  },
+  {
+    "ID": "32811inp",
+    "ORIGINAL": "Era uma vez um príncipe corajoso que partiu para encontrar o reino perdido. Ao longo de sua jornada, ele encontrou um mago sábio, uma raposa astuta e um velho comerciante gentil.",
+    "FIGURATIVO": "um mago sábio, uma raposa astuta, um velho comerciante gentil",
+    "REESCRITO": "um mago que era sábio, uma raposa que era astuta, um velho comerciante que era gentil",
+    "RESULTADO": "Era uma vez um príncipe corajoso que partiu para encontrar o reino perdido. Ao longo de sua jornada, ele encontrou um mago que era sábio, uma raposa que era astuta e um velho comerciante que era gentil."
+  },
+  {
+    "ID": "32812inp",
+    "ORIGINAL": "Uma caneca de café e um ursinho de pelúcia",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Uma caneca de café e um ursinho de pelúcia"
+  },
+  {
+    "ID": "32813inp",
+    "ORIGINAL": "Meia-noite, sonhos, estrelas",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Meia-noite, sonhos, estrelas"
+  },
+  {
+    "ID": "32819inp",
+    "ORIGINAL": "Tópicos:\n- Clonagem humana\n- Pandemias globais\n- Tecnologia de automação",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Tópicos:\n- Clonagem humana\n- Pandemias globais\n- Tecnologia de automação"
+  },
+  {
+    "ID": "32822inp",
+    "ORIGINAL": "Nome da empresa: WebCo\nProduto: WebApp",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Nome da empresa: WebCo\nProduto: WebApp"
+  },
+  {
+    "ID": "32824inp",
+    "ORIGINAL": "O custo de comer fora pode variar dependendo do restaurante e das condições atuais do mercado. Comer fora pode ser uma maneira divertida e única de experimentar uma nova culinária, mas também pode ser um dreno caro nas finanças de alguém se não for cuidadoso.",
+    "FIGURATIVO": "um dreno caro",
+    "REESCRITO": "uma despesa cara",
+    "RESULTADO": "O custo de comer fora pode variar dependendo do restaurante e das condições atuais do mercado. Comer fora pode ser uma maneira divertida e única de experimentar uma nova culinária, mas também pode ser uma despesa cara nas finanças de alguém se não for cuidadoso."
+  },
+  {
+    "ID": "32827inp",
+    "ORIGINAL": "Ela tinha um sorriso lindo.",
+    "FIGURATIVO": "um sorriso lindo",
+    "REESCRITO": "um sorriso muito bonito",
+    "RESULTADO": "Ela tinha um sorriso muito bonito."
+  },
+  {
+    "ID": "32828inp",
+    "ORIGINAL": "Meu irmão ficou muito animado para ganhar seu novo smartphone.",
+    "FIGURATIVO": "muito animado",
+    "REESCRITO": "muito feliz",
+    "RESULTADO": "Meu irmão ficou muito feliz para ganhar seu novo smartphone."
+  },
+  {
+    "ID": "32830inp",
+    "ORIGINAL": "Pessoa 1: Vou à loja, você precisa de alguma coisa?\nPessoa 2:",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pessoa 1: Vou à loja, você precisa de alguma coisa?\nPessoa 2:"
+  },
+  {
+    "ID": "32831inp",
+    "ORIGINAL": "Não tenho dinheiro suficiente para comprar aquele carro.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Não tenho dinheiro suficiente para comprar aquele carro."
+  },
+  {
+    "ID": "32832inp",
+    "ORIGINAL": "Nós nos preocupamos com o meio ambiente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Nós nos preocupamos com o meio ambiente."
+  },
+  {
+    "ID": "32833inp",
+    "ORIGINAL": "Ela geralmente comia sanduíches",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ela geralmente comia sanduíches"
+  },
+  {
+    "ID": "32837inp",
+    "ORIGINAL": "O corvo voou para longe.\nO corvo voou para longe.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O corvo voou para longe.\nO corvo voou para longe."
+  },
+  {
+    "ID": "32838inp",
+    "ORIGINAL": "Meu computador acabou de quebrar e perdi todas as minhas fotos de família.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Meu computador acabou de quebrar e perdi todas as minhas fotos de família."
+  },
+  {
+    "ID": "32840inp",
+    "ORIGINAL": "Os diferentes ramos da ciência",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Os diferentes ramos da ciência"
+  },
+  {
+    "ID": "32843inp",
+    "ORIGINAL": "As férias são muito importantes para ajudar as pessoas a aliviar o estresse da vida cotidiana.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "As férias são muito importantes para ajudar as pessoas a aliviar o estresse da vida cotidiana."
+  },
+  {
+    "ID": "34490inp",
+    "ORIGINAL": "John vendeu seu carro recentemente e comprou um novo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "John vendeu seu carro recentemente e comprou um novo."
+  },
+  {
+    "ID": "34491inp",
+    "ORIGINAL": "John adora ficar em casa e jogar videogame.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "John adora ficar em casa e jogar videogame."
+  },
+  {
+    "ID": "34492inp",
+    "ORIGINAL": "John comprou um carro azul brilhante de aniversário.",
+    "FIGURATIVO": "azul brilhante",
+    "REESCRITO": "azul muito brilhante",
+    "RESULTADO": "John comprou um carro azul muito brilhante de aniversário."
+  },
+  {
+    "ID": "34504inp",
+    "ORIGINAL": "Nós nos divertimos muito no parque.",
+    "FIGURATIVO": "nos divertimos muito",
+    "REESCRITO": "nos divertimos bastante",
+    "RESULTADO": "Nós nos divertimos bastante no parque."
+  },
+  {
+    "ID": "34506inp",
+    "ORIGINAL": "Ele gosta de ler livros, ouvir música e caminhar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele gosta de ler livros, ouvir música e caminhar."
+  },
+  {
+    "ID": "34508inp",
+    "ORIGINAL": "Ele estudou por horas a fio.",
+    "FIGURATIVO": "por horas a fio",
+    "REESCRITO": "por muitas horas",
+    "RESULTADO": "Ele estudou por muitas horas."
+  },
+  {
+    "ID": "35641inp",
+    "ORIGINAL": "Reúna uma lista de todos os institutos de pesquisa científica na França relacionados à biotecnologia.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reúna uma lista de todos os institutos de pesquisa científica na França relacionados à biotecnologia."
+  },
+  {
+    "ID": "35644inp",
+    "ORIGINAL": "Ele deveria ter agido de forma diferente.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele deveria ter agido de forma diferente."
+  },
+  {
+    "ID": "35648inp",
+    "ORIGINAL": "[cães, gatos, porcos, peixes]",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "[cães, gatos, porcos, peixes]"
+  },
+  {
+    "ID": "35655inp",
+    "ORIGINAL": "Nome do evento: Hackathon",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Nome do evento: Hackathon"
+  },
+  {
+    "ID": "35658inp",
+    "ORIGINAL": "Pontos de dados: [[1,2],[2,4],[2,3],[3,5],[3,1],[5,5],[5,3],[6,1],[6,2],[6,4]]",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pontos de dados: [[1,2],[2,4],[2,3],[3,5],[3,1],[5,5],[5,3],[6,1],[6,2],[6,4]]"
+  },
+  {
+    "ID": "35672inp",
+    "ORIGINAL": "Viajei para lugares distantes em busca de conhecimento.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Viajei para lugares distantes em busca de conhecimento."
+  },
+  {
+    "ID": "35674inp",
+    "ORIGINAL": "Você pode reformatar o documento?",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Você pode reformatar o documento?"
+  },
+  {
+    "ID": "35683inp",
+    "ORIGINAL": "Bohemian Rhapsody por Queen",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Bohemian Rhapsody por Queen"
+  },
+  {
+    "ID": "35684inp",
+    "ORIGINAL": "Golden Retriever e Labrador",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Golden Retriever e Labrador"
+  },
+  {
+    "ID": "36025inp",
+    "ORIGINAL": "Projeto de equipe: Automatizando o processo de vendas",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Projeto de equipe: Automatizando o processo de vendas"
+  },
+  {
+    "ID": "36026inp",
+    "ORIGINAL": "Chapim-real",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Chapim-real"
+  },
+  {
+    "ID": "36031inp",
+    "ORIGINAL": "O leão, o coelho, o pássaro e o rato",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O leão, o coelho, o pássaro e o rato"
+  },
+  {
+    "ID": "36032inp",
+    "ORIGINAL": "Tivemos um FIM de semana incrível",
+    "FIGURATIVO": "FIM de semana",
+    "REESCRITO": "final de semana",
+    "RESULTADO": "Tivemos um final de semana incrível"
+  },
+  {
+    "ID": "36035inp",
+    "ORIGINAL": "Recebi muitos elogios pelo meu talento em tocar música.",
+    "FIGURATIVO": "muitos elogios",
+    "REESCRITO": "vários elogios",
+    "RESULTADO": "Recebi vários elogios pelo meu talento em tocar música."
+  },
+  {
+    "ID": "36253inp",
+    "ORIGINAL": "amor, verão",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "amor, verão"
+  },
+  {
+    "ID": "38736inp",
+    "ORIGINAL": "Olá,\n\nQueria que você soubesse que preciso da sua ajuda e queria descobrir o que estou fazendo errado. Estou começando a usar este produto e não sei como usá-lo corretamente. Você pode me ajudar com alguns passos para descobrir o que estou fazendo errado?\n\nObrigado",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Olá,\n\nQueria que você soubesse que preciso da sua ajuda e queria descobrir o que estou fazendo errado. Estou começando a usar este produto e não sei como usá-lo corretamente. Você pode me ajudar com alguns passos para descobrir o que estou fazendo errado?\n\nObrigado"
+  },
+  {
+    "ID": "38739inp",
+    "ORIGINAL": "Realidade Virtual e Realidade Aumentada",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Realidade Virtual e Realidade Aumentada"
+  },
+  {
+    "ID": "38740inp",
+    "ORIGINAL": "Tecnologia de reconhecimento facial",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Tecnologia de reconhecimento facial"
+  },
+  {
+    "ID": "38741inp",
+    "ORIGINAL": "Desenvolvimento de software",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Desenvolvimento de software"
+  },
+  {
+    "ID": "38743inp",
+    "ORIGINAL": "Grande Recessão",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Grande Recessão"
+  },
+  {
+    "ID": "38746inp",
+    "ORIGINAL": "Ele espera a ligação",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele espera a ligação"
+  },
+  {
+    "ID": "38751inp",
+    "ORIGINAL": "Detectando objetos em uma imagem",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Detectando objetos em uma imagem"
+  },
+  {
+    "ID": "38753inp",
+    "ORIGINAL": "Nossa abordagem atual para lidar com as mudanças climáticas é ineficaz. As empresas continuam a consumir recursos em excesso e a contribuir para o aquecimento global, enquanto as comunidades em cidades costeiras continuam a sofrer com tempestades e elevação do nível do mar.",
+    "FIGURATIVO": "ineficaz",
+    "REESCRITO": "não eficaz",
+    "RESULTADO": "Nossa abordagem atual para lidar com as mudanças climáticas é não eficaz. As empresas continuam a consumir recursos em excesso e a contribuir para o aquecimento global, enquanto as comunidades em cidades costeiras continuam a sofrer com tempestades e elevação do nível do mar."
+  },
+  {
+    "ID": "38754inp",
+    "ORIGINAL": "palavras-chave: floresta, dragão, magia",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "palavras-chave: floresta, dragão, magia"
+  },
+  {
+    "ID": "38756inp",
+    "ORIGINAL": "Reduzir as emissões de gases de efeito estufa e melhorar a eficiência energética nos setores industrial e de transporte.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Reduzir as emissões de gases de efeito estufa e melhorar a eficiência energética nos setores industrial e de transporte."
+  },
+  {
+    "ID": "38758inp",
+    "ORIGINAL": "Sorvete",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Sorvete"
+  },
+  {
+    "ID": "38759inp",
+    "ORIGINAL": "<title>Minha página da Web</title>, <meta charset=\"utf-8\" />",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "<title>Minha página da Web</title>, <meta charset=\"utf-8\" />"
+  },
+  {
+    "ID": "38769inp",
+    "ORIGINAL": "Cara Rebecca,\n\nEstou escrevendo para informar que os livros que encomendei do seu site ainda não chegaram.\n\nAtenciosamente,\nJacob",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cara Rebecca,\n\nEstou escrevendo para informar que os livros que encomendei do seu site ainda não chegaram.\n\nAtenciosamente,\nJacob"
+  },
+  {
+    "ID": "38770inp",
+    "ORIGINAL": "O sol nasce\nDe leste a oeste\nSua luz nos guia\nPara curar e descansar",
+    "FIGURATIVO": "O sol nasce\nDe leste a oeste",
+    "REESCRITO": "O sol nasce\nNo leste e se põe no oeste",
+    "RESULTADO": "O sol nasce\nNo leste e se põe no oeste\nSua luz nos guia\nPara curar e descansar"
+  },
+  {
+    "ID": "38782inp",
+    "ORIGINAL": "Número = 22",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Número = 22"
+  },
+  {
+    "ID": "38790inp",
+    "ORIGINAL": "A ascensão dos sistemas automatizados de planejamento financeiro baseados em IA",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "A ascensão dos sistemas automatizados de planejamento financeiro baseados em IA"
+  },
+  {
+    "ID": "38793inp",
+    "ORIGINAL": "(2,3) e (7,6)",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "(2,3) e (7,6)"
+  },
+  {
+    "ID": "38794inp",
+    "ORIGINAL": "Um serviço de treinamento de exercícios online",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Um serviço de treinamento de exercícios online"
+  },
+  {
+    "ID": "38796inp",
+    "ORIGINAL": "Instrução: Construa um exemplo de como um cliente pode se beneficiar deste produto\nEntrada:\niPhone",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Instrução: Construa um exemplo de como um cliente pode se beneficiar deste produto\nEntrada:\niPhone"
+  },
+  {
+    "ID": "38797inp",
+    "ORIGINAL": "Enfermeira",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Enfermeira"
+  },
+  {
+    "ID": "38798inp",
+    "ORIGINAL": "Este artigo é sobre a crescente demanda por experiências personalizadas no setor hoteleiro.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Este artigo é sobre a crescente demanda por experiências personalizadas no setor hoteleiro."
+  },
+  {
+    "ID": "38799inp",
+    "ORIGINAL": "Duas equipes têm chances iguais de vencer o jogo",
+    "FIGURATIVO": "chances iguais",
+    "REESCRITO": "a mesma chance",
+    "RESULTADO": "Duas equipes têm a mesma chance de vencer o jogo"
+  },
+  {
+    "ID": "38804inp",
+    "ORIGINAL": "Estou decepcionado com o produto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Estou decepcionado com o produto."
+  },
+  {
+    "ID": "38807inp",
+    "ORIGINAL": "Segurança: Apple Inc.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Segurança: Apple Inc."
+  },
+  {
+    "ID": "38808inp",
+    "ORIGINAL": "Tópico: Obtendo conhecimento",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Tópico: Obtendo conhecimento"
+  },
+  {
+    "ID": "38809inp",
+    "ORIGINAL": "Não tenho certeza do que devo fazer em seguida.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Não tenho certeza do que devo fazer em seguida."
+  },
+  {
+    "ID": "38823inp",
+    "ORIGINAL": "O setor de tecnologia é uma coleção de indústrias que produzem uma gama de produtos e serviços baseados em tecnologia. Inclui empresas de tecnologia voltadas para o consumidor, como Apple, Google e Microsoft, bem como produtos e serviços industriais e de consumo, como transporte, aeroespacial, energia e defesa. Também inclui software, hardware e semicondutores desenvolvidos por empresas de tecnologia, bem como serviços e produtos relacionados a essas indústrias.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O setor de tecnologia é uma coleção de indústrias que produzem uma gama de produtos e serviços baseados em tecnologia. Inclui empresas de tecnologia voltadas para o consumidor, como Apple, Google e Microsoft, bem como produtos e serviços industriais e de consumo, como transporte, aeroespacial, energia e defesa. Também inclui software, hardware e semicondutores desenvolvidos por empresas de tecnologia, bem como serviços e produtos relacionados a essas indústrias."
+  },
+  {
+    "ID": "38825inp",
+    "ORIGINAL": "Pessoa 1: Estou tão cansado!\nPessoa 2: Não se preocupe, vai melhorar logo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pessoa 1: Estou tão cansado!\nPessoa 2: Não se preocupe, vai melhorar logo."
+  },
+  {
+    "ID": "38828inp",
+    "ORIGINAL": "A ideia deles não foi aceita pela maioria das pessoas.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "A ideia deles não foi aceita pela maioria das pessoas."
+  },
+  {
+    "ID": "38831inp",
+    "ORIGINAL": "O orçamento total da família é de $ 2.000",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O orçamento total da família é de $ 2.000"
+  },
+  {
+    "ID": "38833inp",
+    "ORIGINAL": "Personagens: Ashley, Justin, Sylvia\nCenário: Fábrica abandonada",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Personagens: Ashley, Justin, Sylvia\nCenário: Fábrica abandonada"
+  },
+  {
+    "ID": "38836inp",
+    "ORIGINAL": "Custo base: $ 100, Número de itens: 8, Taxa de imposto: 6,5%",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Custo base: $ 100, Número de itens: 8, Taxa de imposto: 6,5%"
+  },
+  {
+    "ID": "38837inp",
+    "ORIGINAL": "Ela se aproximou da porta.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ela se aproximou da porta."
+  },
+  {
+    "ID": "38838inp",
+    "ORIGINAL": "Coletamos dados de 100 indivíduos sobre suas preferências musicais e não encontramos correlação entre os dois.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Coletamos dados de 100 indivíduos sobre suas preferências musicais e não encontramos correlação entre os dois."
+  },
+  {
+    "ID": "38843inp",
+    "ORIGINAL": "Ela adora cantar no chuveiro.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ela adora cantar no chuveiro."
+  },
+  {
+    "ID": "38845inp",
+    "ORIGINAL": "o jornal está cheio de muitas histórias interessantes",
+    "FIGURATIVO": "cheio de muitas histórias interessantes",
+    "REESCRITO": "tem muitas histórias interessantes",
+    "RESULTADO": "o jornal tem muitas histórias interessantes"
+  },
+  {
+    "ID": "38846inp",
+    "ORIGINAL": "muitas vezes respostas muito diferentes para a mesma pergunta",
+    "FIGURATIVO": "muito diferentes",
+    "REESCRITO": "bastante diferentes",
+    "RESULTADO": "muitas vezes respostas bastante diferentes para a mesma pergunta"
+  },
+  {
+    "ID": "38852inp",
+    "ORIGINAL": "<image url=\"https://images.unsplash.com/photo-1531417049]]-7e90d76cb0f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1411&q=80\"><image url=\"https://images.unsplash.com/photo-1518606373218-f86ab213729e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1414&q=80\"><image url=\"https://images.unsplash.com/photo-1481832208027-62f21df800c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80\">",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "<image url=\"https://images.unsplash.com/photo-1531417049]]-7e90d76cb0f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1411&q=80\"><image url=\"https://images.unsplash.com/photo-1518606373218-f86ab213729e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1414&q=80\"><image url=\"https://images.unsplash.com/photo-1481832208027-62f2
+json
+[
+  {
+    "ID": "46500out",
+    "ORIGINAL": "1. A mudança climática fez com que a temperatura da Terra aumentasse significativamente desde a Revolução Industrial.\n2. Geleiras e mantos de gelo ao redor do mundo estão derretendo rapidamente e continuarão a fazê-lo.\n3. Os níveis do mar estão subindo devido ao derretimento do gelo e à expansão térmica da água do oceano. Isso pode levar a inundações em áreas costeiras.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "1. A mudança climática fez com que a temperatura da Terra aumentasse significativamente desde a Revolução Industrial.\n2. Geleiras e mantos de gelo ao redor do mundo estão derretendo rapidamente e continuarão a fazê-lo.\n3. Os níveis do mar estão subindo devido ao derretimento do gelo e à expansão térmica da água do oceano. Isso pode levar a inundações em áreas costeiras."
+  },
+  {
+    "ID": "46501out",
+    "ORIGINAL": "O imponente carvalho era impressionantemente alto.",
+    "FIGURATIVO": "imponente",
+    "REESCRITO": "O carvalho era muito alto.",
+    "RESULTADO": "O carvalho era muito alto."
+  },
+  {
+    "ID": "46502out",
+    "ORIGINAL": "Em um ambiente de trabalho remoto, ferramentas como videoconferência, aplicativos de mensagens e colaboração de documentos on-line provavelmente serão usadas para comunicação.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Em um ambiente de trabalho remoto, ferramentas como videoconferência, aplicativos de mensagens e colaboração de documentos on-line provavelmente serão usadas para comunicação."
+  },
+  {
+    "ID": "46503out",
+    "ORIGINAL": "O aprendizado online tem muitos benefícios, como horários de aprendizado mais flexíveis, acesso a uma variedade maior de materiais de aprendizado e menor custo. Por outro lado, o aprendizado online pode ser menos envolvente do que o aprendizado presencial tradicional, e pode ser mais difícil permanecer no caminho certo e motivado ao trabalhar sozinho.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O aprendizado online tem muitos benefícios, como horários de aprendizado mais flexíveis, acesso a uma variedade maior de materiais de aprendizado e menor custo. Por outro lado, o aprendizado online pode ser menos envolvente do que o aprendizado presencial tradicional, e pode ser mais difícil permanecer no caminho certo e motivado ao trabalhar sozinho."
+  },
+  {
+    "ID": "46505out",
+    "ORIGINAL": "Ele pulou no sofá.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele pulou no sofá."
+  },
+  {
+    "ID": "46507out",
+    "ORIGINAL": "Contra-argumentos a essa afirmação podem ser que uma dieta balanceada é difícil de ser alcançada por alguns, ou que as pessoas podem receber nutrição adequada sem consumir uma variedade de alimentos diferentes.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Contra-argumentos a essa afirmação podem ser que uma dieta balanceada é difícil de ser alcançada por alguns, ou que as pessoas podem receber nutrição adequada sem consumir uma variedade de alimentos diferentes."
+  },
+  {
+    "ID": "46508out",
+    "ORIGINAL": "Escrever uma carta de agradecimento perfeita após uma entrevista de emprego é um passo importante no processo. Comece expressando sua apreciação pelo tempo do entrevistador e pela oportunidade de aprender mais sobre o trabalho e a organização. Continue reiterando seu interesse na função e suas qualificações para ela. Então, certifique-se de agradecê-los por destacar os principais aspectos da empresa e o potencial do trabalho. Feche com uma declaração de apreciação e uma garantia de que você espera ouvir de volta deles. Com um pouco de consideração, uma carta de agradecimento é uma ferramenta eficaz para causar uma impressão positiva e permanecer na mente do entrevistador.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Escrever uma carta de agradecimento perfeita após uma entrevista de emprego é um passo importante no processo. Comece expressando sua apreciação pelo tempo do entrevistador e pela oportunidade de aprender mais sobre o trabalho e a organização. Continue reiterando seu interesse na função e suas qualificações para ela. Então, certifique-se de agradecê-los por destacar os principais aspectos da empresa e o potencial do trabalho. Feche com uma declaração de apreciação e uma garantia de que você espera ouvir de volta deles. Com um pouco de consideração, uma carta de agradecimento é uma ferramenta eficaz para causar uma impressão positiva e permanecer na mente do entrevistador."
+  },
+  {
+    "ID": "47239out",
+    "ORIGINAL": "Pessoa 1: Você já ouviu falar da nova lei de imigração aprovada na Europa?\n\nPessoa 2: Sim, li sobre isso nas notícias. Parece que eles estão restringindo o número de pessoas que podem entrar legalmente no país.\n\nPessoa 1: Sim, isso mesmo. Estou preocupado sobre como isso afetará refugiados e requerentes de asilo.\n\nPessoa 2: É uma questão difícil. Estou preocupado que isso possa afetar aqueles que precisam de assistência.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pessoa 1: Você já ouviu falar da nova lei de imigração aprovada na Europa?\n\nPessoa 2: Sim, li sobre isso nas notícias. Parece que eles estão restringindo o número de pessoas que podem entrar legalmente no país.\n\nPessoa 1: Sim, isso mesmo. Estou preocupado sobre como isso afetará refugiados e requerentes de asilo.\n\nPessoa 2: É uma questão difícil. Estou preocupado que isso possa afetar aqueles que precisam de assistência."
+  },
+  {
+    "ID": "47240out",
+    "ORIGINAL": "Eu conduzi uma pesquisa online para descobrir o que as pessoas acham do novo iPhone. Das 500 pessoas que participaram da pesquisa, 80% disseram que estavam extremamente satisfeitas com o desempenho. 6% disseram que o telefone era ótimo, mas muito caro. Os 14% restantes disseram que o telefone tinha muitos recursos e não era fácil de usar.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Eu conduzi uma pesquisa online para descobrir o que as pessoas acham do novo iPhone. Das 500 pessoas que participaram da pesquisa, 80% disseram que estavam extremamente satisfeitas com o desempenho. 6% disseram que o telefone era ótimo, mas muito caro. Os 14% restantes disseram que o telefone tinha muitos recursos e não era fácil de usar."
+  },
+  {
+    "ID": "47241out",
+    "ORIGINAL": "TENACidade - T - Tente bastante, E - Persista, N - Nunca desista, A - Aceite as lutas, C - Corajoso, I - Inspirado, T - Triunfante, Y - Você mesmo",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "TENACidade - T - Tente bastante, E - Persista, N - Nunca desista, A - Aceite as lutas, C - Corajoso, I - Inspirado, T - Triunfante, Y - Você mesmo"
+  },
+  {
+    "ID": "47242out",
+    "ORIGINAL": "Um jogo que pode ser jogado com um baralho simples de cartas é chamado de Guerra. Cada jogador recebe metade do baralho e os jogadores viram a carta do topo de sua pilha ao mesmo tempo. O jogador com o valor de carta mais alto pega todas as cartas, que são colocadas no fundo de sua pilha. O jogo continua até que um jogador fique sem cartas.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Um jogo que pode ser jogado com um baralho simples de cartas é chamado de Guerra. Cada jogador recebe metade do baralho e os jogadores viram a carta do topo de sua pilha ao mesmo tempo. O jogador com o valor de carta mais alto pega todas as cartas, que são colocadas no fundo de sua pilha. O jogo continua até que um jogador fique sem cartas."
+  },
+  {
+    "ID": "47243out",
+    "ORIGINAL": "A protagonista deste webcomic é uma garota de 16 anos chamada Amy. Ela é uma gamer ávida e adora experimentar diferentes videogames. Ela também adora desenhar e é uma aspirante a quadrinista. Ela mora com seus pais, que são cientistas, e seus dois irmãos mais novos. Amy é solitária, mas tem um pequeno grupo de amigos próximos com quem passa o tempo quando a escola não está em sessão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "A protagonista deste webcomic é uma garota de 16 anos chamada Amy. Ela é uma gamer ávida e adora experimentar diferentes videogames. Ela também adora desenhar e é uma aspirante a quadrinista. Ela mora com seus pais, que são cientistas, e seus dois irmãos mais novos. Amy é solitária, mas tem um pequeno grupo de amigos próximos com quem passa o tempo quando a escola não está em sessão."
+  },
+  {
+    "ID": "47244out",
+    "ORIGINAL": "As vantagens de usar um serviço de nuvem para armazenar dados incluem maior segurança, escalabilidade e flexibilidade. Também é fácil acessar dados armazenados na nuvem, e eles podem ser compartilhados de forma rápida e fácil. As desvantagens incluem possíveis interrupções de serviço, potencial roubo de dados e custos potenciais associados a armazenamento e largura de banda.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "As vantagens de usar um serviço de nuvem para armazenar dados incluem maior segurança, escalabilidade e flexibilidade. Também é fácil acessar dados armazenados na nuvem, e eles podem ser compartilhados de forma rápida e fácil. As desvantagens incluem possíveis interrupções de serviço, potencial roubo de dados e custos potenciais associados a armazenamento e largura de banda."
+  },
+  {
+    "ID": "47245out",
+    "ORIGINAL": "Pixel painting é um tipo de arte digital que usa pixels para criar uma pintura. Envolve manipular e organizar pixels individuais de cores diferentes para criar imagens. Esse tipo de arte é frequentemente associado a videogames antigos e ajuda a criar uma aparência distinta de 8 ou 16 bits. Pixel painting é frequentemente considerada um estilo de arte retrô devido à sua ênfase na pixelização.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pixel painting é um tipo de arte digital que usa pixels para criar uma pintura. Envolve manipular e organizar pixels individuais de cores diferentes para criar imagens. Esse tipo de arte é frequentemente associado a videogames antigos e ajuda a criar uma aparência distinta de 8 ou 16 bits. Pixel painting é frequentemente considerada um estilo de arte retrô devido à sua ênfase na pixelização."
+  },
+  {
+    "ID": "47246out",
+    "ORIGINAL": "Uma desvantagem da inteligência artificial é que pode ser difícil antecipar as implicações das tecnologias de inteligência artificial e controlar seu uso. Os sistemas de IA podem ser propensos a tomar decisões imprevisíveis, e essas decisões podem ter consequências sérias. Por exemplo, os sistemas de IA podem refletir os vieses e erros inerentes aos dados que recebem, levando a uma tomada de decisão tendenciosa ou a resultados incorretos. Por causa disso, pode ser difícil confiar na precisão e segurança das decisões geradas por IA.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Uma desvantagem da inteligência artificial é que pode ser difícil antecipar as implicações das tecnologias de inteligência artificial e controlar seu uso. Os sistemas de IA podem ser propensos a tomar decisões imprevisíveis, e essas decisões podem ter consequências sérias. Por exemplo, os sistemas de IA podem refletir os vieses e erros inerentes aos dados que recebem, levando a uma tomada de decisão tendenciosa ou a resultados incorretos. Por causa disso, pode ser difícil confiar na precisão e segurança das decisões geradas por IA."
+  },
+  {
+    "ID": "47247out",
+    "ORIGINAL": "Um material de construção comum é o concreto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Um material de construção comum é o concreto."
+  },
+  {
+    "ID": "47248out",
+    "ORIGINAL": "James foi à loja para comprar mantimentos para a semana. Ele estava elegantemente vestido com seu novo terno preto e gravata, parecendo pronto para enfrentar o dia. Ele caminhou pelos caminhos movimentados da loja, parando para admirar as prateleiras cheias de itens únicos e interessantes. Ele foi até a seção de produtos, sorrindo para si mesmo enquanto trabalhava para garantir que ele pegasse as frutas e vegetais mais frescos para fazer suas refeições da semana. Ele pegou um saco de maçãs e pensou na vez em que ele e sua esposa foram colher maçãs. Ele orgulhosamente colocou as maçãs em sua cesta, pensando nas doces memórias que ele tinha feito. Satisfeito com sua compra, ele foi para o próximo corredor para terminar suas compras.",
+    "FIGURATIVO": "elegantemente vestido",
+    "REESCRITO": "James foi à loja para comprar mantimentos para a semana. Ele estava bem vestido com seu novo terno preto e gravata, parecendo pronto para enfrentar o dia. Ele caminhou pelos caminhos movimentados da loja, parando para admirar as prateleiras cheias de itens únicos e interessantes. Ele foi até a seção de produtos, sorrindo para si mesmo enquanto trabalhava para garantir que ele pegasse as frutas e vegetais mais frescos para fazer suas refeições da semana. Ele pegou um saco de maçãs e pensou na vez em que ele e sua esposa foram colher maçãs. Ele orgulhosamente colocou as maçãs em sua cesta, pensando nas doces memórias que ele tinha feito. Satisfeito com sua compra, ele foi para o próximo corredor para terminar suas compras.",
+    "RESULTADO": "James foi à loja para comprar mantimentos para a semana. Ele estava bem vestido com seu novo terno preto e gravata, parecendo pronto para enfrentar o dia. Ele caminhou pelos caminhos movimentados da loja, parando para admirar as prateleiras cheias de itens únicos e interessantes. Ele foi até a seção de produtos, sorrindo para si mesmo enquanto trabalhava para garantir que ele pegasse as frutas e vegetais mais frescos para fazer suas refeições da semana. Ele pegou um saco de maçãs e pensou na vez em que ele e sua esposa foram colher maçãs. Ele orgulhosamente colocou as maçãs em sua cesta, pensando nas doces memórias que ele tinha feito. Satisfeito com sua compra, ele foi para o próximo corredor para terminar suas compras."
+  },
+  {
+    "ID": "47249out",
+    "ORIGINAL": "Três razões pelas quais as pessoas devem votar são: \n1. Para fazer sua voz ser ouvida e moldar o futuro do país. \n2. Para garantir que seus interesses sejam representados no Governo.\n3. Para garantir que seu dinheiro suado de impostos seja gasto em benefício de sua comunidade.",
+    "FIGURATIVO": "dinheiro suado de impostos",
+    "REESCRITO": "Três razões pelas quais as pessoas devem votar são: \n1. Para fazer sua voz ser ouvida e moldar o futuro do país. \n2. Para garantir que seus interesses sejam representados no Governo.\n3. Para garantir que o dinheiro que você paga em impostos seja gasto em benefício de sua comunidade.",
+    "RESULTADO": "Três razões pelas quais as pessoas devem votar são: \n1. Para fazer sua voz ser ouvida e moldar o futuro do país. \n2. Para garantir que seus interesses sejam representados no Governo.\n3. Para garantir que o dinheiro que você paga em impostos seja gasto em benefício de sua comunidade."
+  },
+  {
+    "ID": "47250out",
+    "ORIGINAL": "Um cartaz criado para promover um evento de limpeza de praia pode apresentar uma cena idílica de praia com pessoas catando lixo e uma legenda que diz \"Faça a diferença - Participe da limpeza da praia!\" O cartaz também pode apresentar a data, a hora e o local do evento, com um apelo à ação que incentive as pessoas a comparecerem.",
+    "FIGURATIVO": "idílica",
+    "REESCRITO": "Um cartaz criado para promover um evento de limpeza de praia pode apresentar uma cena bonita de praia com pessoas catando lixo e uma legenda que diz \"Faça a diferença - Participe da limpeza da praia!\" O cartaz também pode apresentar a data, a hora e o local do evento, com um apelo à ação que incentive as pessoas a comparecerem.",
+    "RESULTADO": "Um cartaz criado para promover um evento de limpeza de praia pode apresentar uma cena bonita de praia com pessoas catando lixo e uma legenda que diz \"Faça a diferença - Participe da limpeza da praia!\" O cartaz também pode apresentar a data, a hora e o local do evento, com um apelo à ação que incentive as pessoas a comparecerem."
+  },
+  {
+    "ID": "47251out",
+    "ORIGINAL": "O chatbot de IA deve ser capaz de usar processamento de linguagem natural e algoritmos de aprendizado de máquina para entender as perguntas do usuário e fornecer respostas úteis e contextuais. O chatbot de IA deve ser capaz de trocar informações com o usuário na forma de texto ou áudio, e deve ser projetado para entender e responder a solicitações específicas do contexto.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O chatbot de IA deve ser capaz de usar processamento de linguagem natural e algoritmos de aprendizado de máquina para entender as perguntas do usuário e fornecer respostas úteis e contextuais. O chatbot de IA deve ser capaz de trocar informações com o usuário na forma de texto ou áudio, e deve ser projetado para entender e responder a solicitações específicas do contexto."
+  },
+  {
+    "ID": "47252out",
+    "ORIGINAL": "Agradável.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Agradável."
+  },
+  {
+    "ID": "47253out",
+    "ORIGINAL": "Ele é um herói.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele é um herói."
+  },
+  {
+    "ID": "47254out",
+    "ORIGINAL": "O Rashtriya Janata Dal (RJD) é um partido político indiano sediado no estado de Bihar. Fundado em 1997 por Lalu Prasad Yadav, é o maior partido do estado em termos de sucesso eleitoral. Ele promove uma ideologia socialista e secular com foco na justiça social, especialmente para as castas mais baixas do estado.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "O Rashtriya Janata Dal (RJD) é um partido político indiano sediado no estado de Bihar. Fundado em 1997 por Lalu Prasad Yadav, é o maior partido do estado em termos de sucesso eleitoral. Ele promove uma ideologia socialista e secular com foco na justiça social, especialmente para as castas mais baixas do estado."
+  },
+  {
+    "ID": "47255out",
+    "ORIGINAL": "1. Carona ou uso de transporte público para reduzir o consumo de combustível.\n2. Mudar para fontes de energia renováveis  como energia solar e eólica.\n3. Reduzir o consumo de água e usar aparelhos com eficiência energética.\n4. Plantar árvores para absorver dióxido de carbono do ar.\n5. Reciclar e reutilizar materiais para reduzir o desperdício.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "1. Carona ou uso de transporte público para reduzir o consumo de combustível.\n2. Mudar para fontes de energia renováveis  como energia solar e eólica.\n3. Reduzir o consumo de água e usar aparelhos com eficiência energética.\n4. Plantar árvores para absorver dióxido de carbono do ar.\n5. Reciclar e reutilizar materiais para reduzir o desperdício."
+  },
+  {
+    "ID": "47256out",
+    "ORIGINAL": "A área do círculo é 201,06 cm².",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "A área do círculo é 201,06 cm²."
+  },
+  {
+    "ID": "47257out",
+    "ORIGINAL": "GPT-3 (Generative Pre-trained Transformer 3) é um modelo de linguagem de código aberto da OpenAI que utiliza aprendizado de máquina e processamento de linguagem natural (NLP) para produzir texto semelhante ao humano. É a versão mais poderosa do modelo GPT até o momento, desenvolvida a partir do modelo GPT-2 existente e treinada em um conjunto de dados muito maior. O GPT-3 é capaz de entender a linguagem natural e gerar respostas precisas para perguntas complexas, bem como compor artigos, histórias e código.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "GPT-3 (Generative Pre-trained Transformer 3) é um modelo de linguagem de código aberto da OpenAI que utiliza aprendizado de máquina e processamento de linguagem natural (NLP) para produzir texto semelhante ao humano. É a versão mais poderosa do modelo GPT até o momento, desenvolvida a partir do modelo GPT-2 existente e treinada em um conjunto de dados muito maior. O GPT-3 é capaz de entender a linguagem natural e gerar respostas precisas para perguntas complexas, bem como compor artigos, histórias e código."
+  },
+  {
+    "ID": "47258out",
+    "ORIGINAL": "Desculpe, a tarefa envolve edição de áudio, o que o modelo não pode fazer no momento.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Desculpe, a tarefa envolve edição de áudio, o que o modelo não pode fazer no momento."
+  },
+  {
+    "ID": "47259out",
+    "ORIGINAL": "Neutro. O texto não tem nenhuma referência à violência.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Neutro. O texto não tem nenhuma referência à violência."
+  },
+  {
+    "ID": "47260out",
+    "ORIGINAL": "Eles chegaram a um acordo e decidiram fazer as duas coisas assistindo a um filme na festa.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Eles chegaram a um acordo e decidiram fazer as duas coisas assistindo a um filme na festa."
+  },
+  {
+    "ID": "47261out",
+    "ORIGINAL": "Ele estava prestes a fazer um discurso vestido de alienígena com um kazoo na mão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele estava prestes a fazer um discurso vestido de alienígena com um kazoo na mão."
+  },
+  {
+    "ID": "47262out",
+    "ORIGINAL": "Ele consumiu toda a comida.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ele consumiu toda a comida."
+  },
+  {
+    "ID": "47263out",
+    "ORIGINAL": "Legal é o professor.",
+    "FIGURATIVO": "Legal",
+    "REESCRITO": "O professor é legal.",
+    "RESULTADO": "O professor é legal."
+  }
+]
+
+json
+[
+  {
+    "ID": "51427out",
+    "ORIGINAL": "O processo de fazer alterações em um site ativo geralmente envolve a configuração de um ambiente de desenvolvimento e a implantação das alterações do ambiente de desenvolvimento para o site ativo. Isso pode frequentemente envolver testar as alterações no ambiente de desenvolvimento, preparar o código para implantação e, então, enviar as alterações para o servidor ativo. Tarefas de manutenção, como backups de banco de dados, também são uma parte crucial do gerenciamento de um site ativo.",
+    "FIGURATIVO": "Isso pode frequentemente envolver testar as alterações no ambiente de desenvolvimento, preparar o código para implantação e, então, enviar as alterações para o servidor ativo.",
+    "REESCRITO": "Isso pode frequentemente envolver a realização de testes das alterações no ambiente de desenvolvimento, preparar o código para a implantação e, posteriormente, enviar as alterações para o servidor ativo.",
+    "RESULTADO": "O processo de fazer alterações em um site ativo geralmente envolve a configuração de um ambiente de desenvolvimento e a implantação das alterações do ambiente de desenvolvimento para o site ativo. Isso pode frequentemente envolver a realização de testes das alterações no ambiente de desenvolvimento, preparar o código para a implantação e, posteriormente, enviar as alterações para o servidor ativo. Tarefas de manutenção, como backups de banco de dados, também são uma parte crucial do gerenciamento de um site ativo."
+  },
+  {
+    "ID": "51428out",
+    "ORIGINAL": "#include<stdio.h>\n#include<math.h>\n\nint main(){\n\nfloat a, b, c, x1, x2, imaginário, discriminante;\nprintf(\"Digite os valores de a, b, c: \");\nscanf(\"%f%f%f",&a,&b,&c);\n\ndiscriminante = (b*b) - (4*a*c);\n\nif (discriminante > 0)\n{\n//raízes reais e distintas\nx1 = (-b + sqrt(discriminante)) / (2*a);\nx2 = (-b - sqrt(discriminante)) / (2*a);\nprintf(\"Raízes reais e distintas: %.2f e %.2f.\", x1 , x2);\n}\nelse if (discriminante == 0)\n{\n//raízes reais e iguais\nx1 = x2 = -b / (2*a);\nprintf(\"Raízes reais e iguais: %.2f e %.2f.\", x1 , x2);\n}\nelse\n{\n//raízes imaginárias\nrealPart = -b/(2*a); \u200b\u200b\nimaginaryPart =sqrt(-discriminant)/(2*a);\nprintf(\"Raízes imaginárias: %.2f + i%.2f e %.2f - i%.2f.\", realPart , imaginaryPart, realPart , imaginaryPart);\n}\nreturn 0;\n}",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "#include<stdio.h>\n#include<math.h>\n\nint main(){\n\nfloat a, b, c, x1, x2, imaginário, discriminante;\nprintf(\"Digite os valores de a, b, c: \");\nscanf(\"%f%f%f",&a,&b,&c);\n\ndiscriminante = (b*b) - (4*a*c);\n\nif (discriminante > 0)\n{\n//raízes reais e distintas\nx1 = (-b + sqrt(discriminante)) / (2*a);\nx2 = (-b - sqrt(discriminante)) / (2*a);\nprintf(\"Raízes reais e distintas: %.2f e %.2f.\", x1 , x2);\n}\nelse if (discriminante == 0)\n{\n//raízes reais e iguais\nx1 = x2 = -b / (2*a);\nprintf(\"Raízes reais e iguais: %.2f e %.2f.\", x1 , x2);\n}\nelse\n{\n//raízes imaginárias\nrealPart = -b/(2*a); \u200b\u200b\nimaginaryPart =sqrt(-discriminant)/(2*a);\nprintf(\"Raízes imaginárias: %.2f + i%.2f e %.2f - i%.2f.\", realPart , imaginaryPart, realPart , imaginaryPart);\n}\nreturn 0;\n}"
+  },
+  {
+    "ID": "51430out",
+    "ORIGINAL": "Stan é o dono de um peixe de companhia.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Stan é o dono de um peixe de companhia."
+  }
+]
+

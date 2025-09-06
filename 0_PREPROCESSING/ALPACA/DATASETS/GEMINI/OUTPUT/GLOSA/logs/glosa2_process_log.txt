@@ -1,0 +1,591 @@
+2024-11-05 10:05:18,892 - INFO - Modelo instanciado.
+2024-11-05 10:05:18,894 - INFO - Iniciando processamento do bucket 0
+2024-11-05 10:05:31,841 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:05:31,842 - INFO - Metadados do bucket 0 salvos com sucesso.
+2024-11-05 10:05:31,843 - INFO - Iniciando processamento do bucket 1
+2024-11-05 10:05:43,838 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:05:43,838 - INFO - Metadados do bucket 1 salvos com sucesso.
+2024-11-05 10:05:43,839 - INFO - Iniciando processamento do bucket 2
+2024-11-05 10:05:50,548 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:05:50,549 - INFO - Metadados do bucket 2 salvos com sucesso.
+2024-11-05 10:05:50,550 - INFO - Iniciando processamento do bucket 3
+2024-11-05 10:06:05,136 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:06:05,137 - INFO - Metadados do bucket 3 salvos com sucesso.
+2024-11-05 10:06:05,137 - INFO - Iniciando processamento do bucket 4
+2024-11-05 10:06:17,607 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:06:17,608 - INFO - Metadados do bucket 4 salvos com sucesso.
+2024-11-05 10:06:17,609 - INFO - Iniciando processamento do bucket 5
+2024-11-05 10:06:31,255 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:06:31,255 - INFO - Metadados do bucket 5 salvos com sucesso.
+2024-11-05 10:06:31,256 - INFO - Iniciando processamento do bucket 6
+2024-11-05 10:06:37,762 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:06:37,762 - INFO - Metadados do bucket 6 salvos com sucesso.
+2024-11-05 10:06:37,763 - INFO - Iniciando processamento do bucket 7
+2024-11-05 10:06:51,051 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:06:51,052 - INFO - Metadados do bucket 7 salvos com sucesso.
+2024-11-05 10:06:51,053 - INFO - Iniciando processamento do bucket 8
+2024-11-05 10:07:03,651 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:07:03,651 - INFO - Metadados do bucket 8 salvos com sucesso.
+2024-11-05 10:07:03,652 - INFO - Iniciando processamento do bucket 9
+2024-11-05 10:07:15,428 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:07:15,429 - INFO - Metadados do bucket 9 salvos com sucesso.
+2024-11-05 10:07:15,430 - INFO - Iniciando processamento do bucket 10
+2024-11-05 10:07:29,623 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:07:29,624 - INFO - Metadados do bucket 10 salvos com sucesso.
+2024-11-05 10:07:29,624 - INFO - Iniciando processamento do bucket 11
+2024-11-05 10:07:41,566 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:07:41,567 - INFO - Metadados do bucket 11 salvos com sucesso.
+2024-11-05 10:07:41,567 - INFO - Iniciando processamento do bucket 12
+2024-11-05 10:07:54,313 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:07:54,313 - INFO - Metadados do bucket 12 salvos com sucesso.
+2024-11-05 10:07:54,314 - INFO - Iniciando processamento do bucket 13
+2024-11-05 10:08:05,579 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:08:05,579 - INFO - Metadados do bucket 13 salvos com sucesso.
+2024-11-05 10:08:05,581 - INFO - Iniciando processamento do bucket 14
+2024-11-05 10:08:17,572 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:08:17,573 - INFO - Metadados do bucket 14 salvos com sucesso.
+2024-11-05 10:08:17,573 - INFO - Iniciando processamento do bucket 15
+2024-11-05 10:08:29,757 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:08:29,757 - INFO - Metadados do bucket 15 salvos com sucesso.
+2024-11-05 10:08:29,758 - INFO - Iniciando processamento do bucket 16
+2024-11-05 10:08:43,496 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:08:43,497 - INFO - Metadados do bucket 16 salvos com sucesso.
+2024-11-05 10:08:43,497 - INFO - Iniciando processamento do bucket 17
+2024-11-05 10:08:57,078 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:08:57,079 - INFO - Metadados do bucket 17 salvos com sucesso.
+2024-11-05 10:08:57,080 - INFO - Iniciando processamento do bucket 18
+2024-11-05 10:09:10,299 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:09:10,300 - INFO - Metadados do bucket 18 salvos com sucesso.
+2024-11-05 10:09:10,301 - INFO - Iniciando processamento do bucket 19
+2024-11-05 10:09:23,909 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:09:23,910 - INFO - Metadados do bucket 19 salvos com sucesso.
+2024-11-05 10:09:23,911 - INFO - Iniciando processamento do bucket 20
+2024-11-05 10:09:38,251 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:09:38,251 - INFO - Metadados do bucket 20 salvos com sucesso.
+2024-11-05 10:09:38,252 - INFO - Iniciando processamento do bucket 21
+2024-11-05 10:09:51,883 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:09:51,884 - INFO - Metadados do bucket 21 salvos com sucesso.
+2024-11-05 10:09:51,885 - INFO - Iniciando processamento do bucket 22
+2024-11-05 10:10:02,797 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:10:02,797 - INFO - Metadados do bucket 22 salvos com sucesso.
+2024-11-05 10:10:02,798 - INFO - Iniciando processamento do bucket 23
+2024-11-05 10:10:14,665 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:10:14,666 - INFO - Metadados do bucket 23 salvos com sucesso.
+2024-11-05 10:10:14,666 - INFO - Iniciando processamento do bucket 24
+2024-11-05 10:10:26,774 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:10:26,775 - INFO - Metadados do bucket 24 salvos com sucesso.
+2024-11-05 10:10:26,775 - INFO - Iniciando processamento do bucket 25
+2024-11-05 10:10:40,540 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:10:40,541 - INFO - Metadados do bucket 25 salvos com sucesso.
+2024-11-05 10:10:40,542 - INFO - Iniciando processamento do bucket 26
+2024-11-05 10:10:52,491 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:10:52,493 - INFO - Metadados do bucket 26 salvos com sucesso.
+2024-11-05 10:10:52,493 - INFO - Iniciando processamento do bucket 27
+2024-11-05 10:11:14,651 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:11:14,651 - INFO - Metadados do bucket 27 salvos com sucesso.
+2024-11-05 10:11:14,652 - INFO - Iniciando processamento do bucket 28
+2024-11-05 10:11:26,961 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:11:26,961 - INFO - Metadados do bucket 28 salvos com sucesso.
+2024-11-05 10:11:26,962 - INFO - Iniciando processamento do bucket 29
+2024-11-05 10:11:40,417 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:11:40,418 - INFO - Metadados do bucket 29 salvos com sucesso.
+2024-11-05 10:11:40,419 - INFO - Iniciando processamento do bucket 30
+2024-11-05 10:11:52,591 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:11:52,591 - INFO - Metadados do bucket 30 salvos com sucesso.
+2024-11-05 10:11:52,592 - INFO - Iniciando processamento do bucket 31
+2024-11-05 10:12:03,577 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:12:03,577 - INFO - Metadados do bucket 31 salvos com sucesso.
+2024-11-05 10:12:03,578 - INFO - Iniciando processamento do bucket 32
+2024-11-05 10:12:15,116 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:12:15,117 - INFO - Metadados do bucket 32 salvos com sucesso.
+2024-11-05 10:12:15,117 - INFO - Iniciando processamento do bucket 33
+2024-11-05 10:12:28,118 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:12:28,119 - INFO - Metadados do bucket 33 salvos com sucesso.
+2024-11-05 10:12:28,119 - INFO - Iniciando processamento do bucket 34
+2024-11-05 10:12:42,534 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:12:42,534 - INFO - Metadados do bucket 34 salvos com sucesso.
+2024-11-05 10:12:42,535 - INFO - Iniciando processamento do bucket 35
+2024-11-05 10:12:56,257 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:12:56,258 - INFO - Metadados do bucket 35 salvos com sucesso.
+2024-11-05 10:12:56,259 - INFO - Iniciando processamento do bucket 36
+2024-11-05 10:13:08,615 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:13:08,615 - INFO - Metadados do bucket 36 salvos com sucesso.
+2024-11-05 10:13:08,616 - INFO - Iniciando processamento do bucket 37
+2024-11-05 10:13:23,618 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:13:23,618 - INFO - Metadados do bucket 37 salvos com sucesso.
+2024-11-05 10:13:23,619 - INFO - Iniciando processamento do bucket 38
+2024-11-05 10:13:35,984 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:13:35,985 - INFO - Metadados do bucket 38 salvos com sucesso.
+2024-11-05 10:13:35,986 - INFO - Iniciando processamento do bucket 39
+2024-11-05 10:13:47,407 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:13:47,408 - INFO - Metadados do bucket 39 salvos com sucesso.
+2024-11-05 10:13:47,409 - INFO - Iniciando processamento do bucket 40
+2024-11-05 10:14:00,977 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:14:00,978 - INFO - Metadados do bucket 40 salvos com sucesso.
+2024-11-05 10:14:00,979 - INFO - Iniciando processamento do bucket 41
+2024-11-05 10:14:12,411 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:14:12,412 - INFO - Metadados do bucket 41 salvos com sucesso.
+2024-11-05 10:14:12,413 - INFO - Iniciando processamento do bucket 42
+2024-11-05 10:14:25,111 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:14:25,111 - INFO - Metadados do bucket 42 salvos com sucesso.
+2024-11-05 10:14:25,112 - INFO - Iniciando processamento do bucket 43
+2024-11-05 10:14:38,918 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:14:38,918 - INFO - Metadados do bucket 43 salvos com sucesso.
+2024-11-05 10:14:38,919 - INFO - Iniciando processamento do bucket 44
+2024-11-05 10:14:52,361 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:14:52,362 - INFO - Metadados do bucket 44 salvos com sucesso.
+2024-11-05 10:14:52,363 - INFO - Iniciando processamento do bucket 45
+2024-11-05 10:15:06,294 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:15:06,295 - INFO - Metadados do bucket 45 salvos com sucesso.
+2024-11-05 10:15:06,295 - INFO - Iniciando processamento do bucket 46
+2024-11-05 10:15:17,932 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:15:17,933 - INFO - Metadados do bucket 46 salvos com sucesso.
+2024-11-05 10:15:17,934 - INFO - Iniciando processamento do bucket 47
+2024-11-05 10:15:31,682 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:15:31,682 - INFO - Metadados do bucket 47 salvos com sucesso.
+2024-11-05 10:15:31,683 - INFO - Iniciando processamento do bucket 48
+2024-11-05 10:15:43,946 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:15:43,947 - INFO - Metadados do bucket 48 salvos com sucesso.
+2024-11-05 10:15:43,948 - INFO - Iniciando processamento do bucket 49
+2024-11-05 10:15:57,831 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:15:57,832 - INFO - Metadados do bucket 49 salvos com sucesso.
+2024-11-05 10:15:57,833 - INFO - Iniciando processamento do bucket 50
+2024-11-05 10:16:12,044 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:16:12,045 - INFO - Metadados do bucket 50 salvos com sucesso.
+2024-11-05 10:16:12,045 - INFO - Iniciando processamento do bucket 51
+2024-11-05 10:16:22,956 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:16:22,957 - INFO - Metadados do bucket 51 salvos com sucesso.
+2024-11-05 10:16:22,958 - INFO - Iniciando processamento do bucket 52
+2024-11-05 10:16:36,097 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:16:36,097 - INFO - Metadados do bucket 52 salvos com sucesso.
+2024-11-05 10:16:36,098 - INFO - Iniciando processamento do bucket 53
+2024-11-05 10:16:50,003 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:16:50,004 - INFO - Metadados do bucket 53 salvos com sucesso.
+2024-11-05 10:16:50,005 - INFO - Iniciando processamento do bucket 54
+2024-11-05 10:17:01,865 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:17:01,866 - INFO - Metadados do bucket 54 salvos com sucesso.
+2024-11-05 10:17:01,867 - INFO - Iniciando processamento do bucket 55
+2024-11-05 10:17:13,660 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:17:13,660 - INFO - Metadados do bucket 55 salvos com sucesso.
+2024-11-05 10:17:13,661 - INFO - Iniciando processamento do bucket 56
+2024-11-05 10:17:27,517 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:17:27,518 - INFO - Metadados do bucket 56 salvos com sucesso.
+2024-11-05 10:17:27,519 - INFO - Iniciando processamento do bucket 57
+2024-11-05 10:17:41,741 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:17:41,742 - INFO - Metadados do bucket 57 salvos com sucesso.
+2024-11-05 10:17:41,742 - INFO - Iniciando processamento do bucket 58
+2024-11-05 10:17:55,665 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:17:55,666 - INFO - Metadados do bucket 58 salvos com sucesso.
+2024-11-05 10:17:55,667 - INFO - Iniciando processamento do bucket 59
+2024-11-05 10:18:08,261 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:18:08,262 - INFO - Metadados do bucket 59 salvos com sucesso.
+2024-11-05 10:18:08,263 - INFO - Iniciando processamento do bucket 60
+2024-11-05 10:18:16,157 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:18:16,157 - INFO - Metadados do bucket 60 salvos com sucesso.
+2024-11-05 10:18:16,158 - INFO - Iniciando processamento do bucket 61
+2024-11-05 10:18:30,123 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:18:30,123 - INFO - Metadados do bucket 61 salvos com sucesso.
+2024-11-05 10:18:30,125 - INFO - Iniciando processamento do bucket 62
+2024-11-05 10:18:42,887 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:18:42,888 - INFO - Metadados do bucket 62 salvos com sucesso.
+2024-11-05 10:18:42,888 - INFO - Iniciando processamento do bucket 63
+2024-11-05 10:18:54,546 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:18:54,546 - INFO - Metadados do bucket 63 salvos com sucesso.
+2024-11-05 10:18:54,547 - INFO - Iniciando processamento do bucket 64
+2024-11-05 10:19:08,059 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:19:08,059 - INFO - Metadados do bucket 64 salvos com sucesso.
+2024-11-05 10:19:08,060 - INFO - Iniciando processamento do bucket 65
+2024-11-05 10:19:21,678 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:19:21,678 - INFO - Metadados do bucket 65 salvos com sucesso.
+2024-11-05 10:19:21,679 - INFO - Iniciando processamento do bucket 66
+2024-11-05 10:19:35,378 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:19:35,379 - INFO - Metadados do bucket 66 salvos com sucesso.
+2024-11-05 10:19:35,380 - INFO - Iniciando processamento do bucket 67
+2024-11-05 10:20:06,476 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:20:06,476 - INFO - Metadados do bucket 67 salvos com sucesso.
+2024-11-05 10:20:06,477 - INFO - Iniciando processamento do bucket 68
+2024-11-05 10:20:20,437 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:20:20,437 - INFO - Metadados do bucket 68 salvos com sucesso.
+2024-11-05 10:20:20,438 - INFO - Iniciando processamento do bucket 69
+2024-11-05 10:20:32,397 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:20:32,398 - INFO - Metadados do bucket 69 salvos com sucesso.
+2024-11-05 10:20:32,399 - INFO - Iniciando processamento do bucket 70
+2024-11-05 10:20:44,554 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:20:44,554 - INFO - Metadados do bucket 70 salvos com sucesso.
+2024-11-05 10:20:44,555 - INFO - Iniciando processamento do bucket 71
+2024-11-05 10:20:56,989 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:20:56,990 - INFO - Metadados do bucket 71 salvos com sucesso.
+2024-11-05 10:20:56,991 - INFO - Iniciando processamento do bucket 72
+2024-11-05 10:21:10,325 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:21:10,325 - INFO - Metadados do bucket 72 salvos com sucesso.
+2024-11-05 10:21:10,326 - INFO - Iniciando processamento do bucket 73
+2024-11-05 10:21:21,610 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:21:21,611 - INFO - Metadados do bucket 73 salvos com sucesso.
+2024-11-05 10:21:21,612 - INFO - Iniciando processamento do bucket 74
+2024-11-05 10:21:33,799 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:21:33,799 - INFO - Metadados do bucket 74 salvos com sucesso.
+2024-11-05 10:21:33,800 - INFO - Iniciando processamento do bucket 75
+2024-11-05 10:21:46,749 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:21:46,749 - INFO - Metadados do bucket 75 salvos com sucesso.
+2024-11-05 10:21:46,750 - INFO - Iniciando processamento do bucket 76
+2024-11-05 10:22:00,530 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:22:00,530 - INFO - Metadados do bucket 76 salvos com sucesso.
+2024-11-05 10:22:00,531 - INFO - Iniciando processamento do bucket 77
+2024-11-05 10:22:12,774 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:22:12,775 - INFO - Metadados do bucket 77 salvos com sucesso.
+2024-11-05 10:22:12,776 - INFO - Iniciando processamento do bucket 78
+2024-11-05 10:22:23,340 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:22:23,341 - INFO - Metadados do bucket 78 salvos com sucesso.
+2024-11-05 10:22:23,341 - INFO - Iniciando processamento do bucket 79
+2024-11-05 10:22:36,792 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:22:36,792 - INFO - Metadados do bucket 79 salvos com sucesso.
+2024-11-05 10:22:36,793 - INFO - Iniciando processamento do bucket 80
+2024-11-05 10:22:48,140 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:22:48,141 - INFO - Metadados do bucket 80 salvos com sucesso.
+2024-11-05 10:22:48,142 - INFO - Iniciando processamento do bucket 81
+2024-11-05 10:23:02,005 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:23:02,005 - INFO - Metadados do bucket 81 salvos com sucesso.
+2024-11-05 10:23:02,006 - INFO - Iniciando processamento do bucket 82
+2024-11-05 10:23:13,018 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:23:13,019 - INFO - Metadados do bucket 82 salvos com sucesso.
+2024-11-05 10:23:13,020 - INFO - Iniciando processamento do bucket 83
+2024-11-05 10:23:27,546 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:23:27,547 - INFO - Metadados do bucket 83 salvos com sucesso.
+2024-11-05 10:23:27,548 - INFO - Iniciando processamento do bucket 84
+2024-11-05 10:23:39,123 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:23:39,124 - INFO - Metadados do bucket 84 salvos com sucesso.
+2024-11-05 10:23:39,124 - INFO - Iniciando processamento do bucket 85
+2024-11-05 10:23:50,584 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:23:50,585 - INFO - Metadados do bucket 85 salvos com sucesso.
+2024-11-05 10:23:50,586 - INFO - Iniciando processamento do bucket 86
+2024-11-05 10:24:04,376 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:24:04,376 - INFO - Metadados do bucket 86 salvos com sucesso.
+2024-11-05 10:24:04,377 - INFO - Iniciando processamento do bucket 87
+2024-11-05 10:24:17,686 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:24:17,687 - INFO - Metadados do bucket 87 salvos com sucesso.
+2024-11-05 10:24:17,687 - INFO - Iniciando processamento do bucket 88
+2024-11-05 10:24:31,258 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:24:31,258 - INFO - Metadados do bucket 88 salvos com sucesso.
+2024-11-05 10:24:31,259 - INFO - Iniciando processamento do bucket 89
+2024-11-05 10:24:42,469 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:24:42,470 - INFO - Metadados do bucket 89 salvos com sucesso.
+2024-11-05 10:24:42,470 - INFO - Iniciando processamento do bucket 90
+2024-11-05 10:24:55,165 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:24:55,165 - INFO - Metadados do bucket 90 salvos com sucesso.
+2024-11-05 10:24:55,165 - INFO - Iniciando processamento do bucket 91
+2024-11-05 10:25:07,072 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:25:07,072 - INFO - Metadados do bucket 91 salvos com sucesso.
+2024-11-05 10:25:07,073 - INFO - Iniciando processamento do bucket 92
+2024-11-05 10:25:21,293 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:25:21,293 - INFO - Metadados do bucket 92 salvos com sucesso.
+2024-11-05 10:25:21,294 - INFO - Iniciando processamento do bucket 93
+2024-11-05 10:25:33,297 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:25:33,298 - INFO - Metadados do bucket 93 salvos com sucesso.
+2024-11-05 10:25:33,298 - INFO - Iniciando processamento do bucket 94
+2024-11-05 10:25:44,278 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:25:44,279 - INFO - Metadados do bucket 94 salvos com sucesso.
+2024-11-05 10:25:44,279 - INFO - Iniciando processamento do bucket 95
+2024-11-05 10:25:57,586 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:25:57,587 - INFO - Metadados do bucket 95 salvos com sucesso.
+2024-11-05 10:25:57,588 - INFO - Iniciando processamento do bucket 96
+2024-11-05 10:26:09,501 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:26:09,502 - INFO - Metadados do bucket 96 salvos com sucesso.
+2024-11-05 10:26:09,503 - INFO - Iniciando processamento do bucket 97
+2024-11-05 10:26:23,569 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:26:23,570 - INFO - Metadados do bucket 97 salvos com sucesso.
+2024-11-05 10:26:23,570 - INFO - Iniciando processamento do bucket 98
+2024-11-05 10:26:35,462 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:26:35,462 - INFO - Metadados do bucket 98 salvos com sucesso.
+2024-11-05 10:26:35,463 - INFO - Iniciando processamento do bucket 99
+2024-11-05 10:26:48,488 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:26:48,488 - INFO - Metadados do bucket 99 salvos com sucesso.
+2024-11-05 10:26:48,489 - INFO - Iniciando processamento do bucket 100
+2024-11-05 10:27:00,453 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:27:00,454 - INFO - Metadados do bucket 100 salvos com sucesso.
+2024-11-05 10:27:00,454 - INFO - Iniciando processamento do bucket 101
+2024-11-05 10:27:11,564 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:27:11,565 - INFO - Metadados do bucket 101 salvos com sucesso.
+2024-11-05 10:27:11,566 - INFO - Iniciando processamento do bucket 102
+2024-11-05 10:27:26,111 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:27:26,112 - INFO - Metadados do bucket 102 salvos com sucesso.
+2024-11-05 10:27:26,113 - INFO - Iniciando processamento do bucket 103
+2024-11-05 10:27:38,680 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:27:38,681 - INFO - Metadados do bucket 103 salvos com sucesso.
+2024-11-05 10:27:38,682 - INFO - Iniciando processamento do bucket 104
+2024-11-05 10:27:50,016 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:27:50,017 - INFO - Metadados do bucket 104 salvos com sucesso.
+2024-11-05 10:27:50,018 - INFO - Iniciando processamento do bucket 105
+2024-11-05 10:28:02,519 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:28:02,520 - INFO - Metadados do bucket 105 salvos com sucesso.
+2024-11-05 10:28:02,520 - INFO - Iniciando processamento do bucket 106
+2024-11-05 10:28:14,306 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:28:14,307 - INFO - Metadados do bucket 106 salvos com sucesso.
+2024-11-05 10:28:14,307 - INFO - Iniciando processamento do bucket 107
+2024-11-05 10:28:55,527 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:28:55,528 - INFO - Metadados do bucket 107 salvos com sucesso.
+2024-11-05 10:28:55,528 - INFO - Iniciando processamento do bucket 108
+2024-11-05 10:29:07,116 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:29:07,116 - INFO - Metadados do bucket 108 salvos com sucesso.
+2024-11-05 10:29:07,117 - INFO - Iniciando processamento do bucket 109
+2024-11-05 10:29:14,158 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:29:14,159 - INFO - Metadados do bucket 109 salvos com sucesso.
+2024-11-05 10:29:14,160 - INFO - Iniciando processamento do bucket 110
+2024-11-05 10:29:25,762 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:29:25,762 - INFO - Metadados do bucket 110 salvos com sucesso.
+2024-11-05 10:29:25,763 - INFO - Iniciando processamento do bucket 111
+2024-11-05 10:29:38,614 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:29:38,614 - INFO - Metadados do bucket 111 salvos com sucesso.
+2024-11-05 10:29:38,615 - INFO - Iniciando processamento do bucket 112
+2024-11-05 10:29:50,116 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:29:50,117 - INFO - Metadados do bucket 112 salvos com sucesso.
+2024-11-05 10:29:50,118 - INFO - Iniciando processamento do bucket 113
+2024-11-05 10:30:01,324 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:30:01,324 - INFO - Metadados do bucket 113 salvos com sucesso.
+2024-11-05 10:30:01,325 - INFO - Iniciando processamento do bucket 114
+2024-11-05 10:30:13,919 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:30:13,920 - INFO - Metadados do bucket 114 salvos com sucesso.
+2024-11-05 10:30:13,920 - INFO - Iniciando processamento do bucket 115
+2024-11-05 10:30:25,318 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:30:25,319 - INFO - Metadados do bucket 115 salvos com sucesso.
+2024-11-05 10:30:25,320 - INFO - Iniciando processamento do bucket 116
+2024-11-05 10:30:35,678 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:30:35,678 - INFO - Metadados do bucket 116 salvos com sucesso.
+2024-11-05 10:30:35,679 - INFO - Iniciando processamento do bucket 117
+2024-11-05 10:30:46,669 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:30:46,670 - INFO - Metadados do bucket 117 salvos com sucesso.
+2024-11-05 10:30:46,671 - INFO - Iniciando processamento do bucket 118
+2024-11-05 10:30:56,930 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:30:56,930 - INFO - Metadados do bucket 118 salvos com sucesso.
+2024-11-05 10:30:56,931 - INFO - Iniciando processamento do bucket 119
+2024-11-05 10:31:06,626 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:31:06,626 - INFO - Metadados do bucket 119 salvos com sucesso.
+2024-11-05 10:31:06,627 - INFO - Iniciando processamento do bucket 120
+2024-11-05 10:31:16,978 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:31:16,979 - INFO - Metadados do bucket 120 salvos com sucesso.
+2024-11-05 10:31:16,979 - INFO - Iniciando processamento do bucket 121
+2024-11-05 10:31:23,096 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:31:23,097 - INFO - Metadados do bucket 121 salvos com sucesso.
+2024-11-05 10:31:23,098 - INFO - Iniciando processamento do bucket 122
+2024-11-05 10:31:35,431 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:31:35,431 - INFO - Metadados do bucket 122 salvos com sucesso.
+2024-11-05 10:31:35,432 - INFO - Iniciando processamento do bucket 123
+2024-11-05 10:31:45,149 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:31:45,149 - INFO - Metadados do bucket 123 salvos com sucesso.
+2024-11-05 10:31:45,150 - INFO - Iniciando processamento do bucket 124
+2024-11-05 10:31:56,702 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:31:56,702 - INFO - Metadados do bucket 124 salvos com sucesso.
+2024-11-05 10:31:56,703 - INFO - Iniciando processamento do bucket 125
+2024-11-05 10:32:06,638 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:32:06,638 - INFO - Metadados do bucket 125 salvos com sucesso.
+2024-11-05 10:32:06,639 - INFO - Iniciando processamento do bucket 126
+2024-11-05 10:32:14,210 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:32:14,210 - INFO - Metadados do bucket 126 salvos com sucesso.
+2024-11-05 10:32:14,211 - INFO - Iniciando processamento do bucket 127
+2024-11-05 10:32:26,897 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:32:26,898 - INFO - Metadados do bucket 127 salvos com sucesso.
+2024-11-05 10:32:26,899 - INFO - Iniciando processamento do bucket 128
+2024-11-05 10:32:38,299 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:32:38,300 - INFO - Metadados do bucket 128 salvos com sucesso.
+2024-11-05 10:32:38,300 - INFO - Iniciando processamento do bucket 129
+2024-11-05 10:32:48,480 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:32:48,481 - INFO - Metadados do bucket 129 salvos com sucesso.
+2024-11-05 10:32:48,481 - INFO - Iniciando processamento do bucket 130
+2024-11-05 10:32:59,930 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:32:59,930 - INFO - Metadados do bucket 130 salvos com sucesso.
+2024-11-05 10:32:59,931 - INFO - Iniciando processamento do bucket 131
+2024-11-05 10:33:10,315 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:33:10,315 - INFO - Metadados do bucket 131 salvos com sucesso.
+2024-11-05 10:33:10,316 - INFO - Iniciando processamento do bucket 132
+2024-11-05 10:33:18,221 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:33:18,222 - INFO - Metadados do bucket 132 salvos com sucesso.
+2024-11-05 10:33:18,223 - INFO - Iniciando processamento do bucket 133
+2024-11-05 10:33:30,533 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:33:30,533 - INFO - Metadados do bucket 133 salvos com sucesso.
+2024-11-05 10:33:30,534 - INFO - Iniciando processamento do bucket 134
+2024-11-05 10:33:38,642 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:33:38,642 - INFO - Metadados do bucket 134 salvos com sucesso.
+2024-11-05 10:33:38,643 - INFO - Iniciando processamento do bucket 135
+2024-11-05 10:33:48,381 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:33:48,382 - INFO - Metadados do bucket 135 salvos com sucesso.
+2024-11-05 10:33:48,383 - INFO - Iniciando processamento do bucket 136
+2024-11-05 10:33:59,435 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:33:59,435 - INFO - Metadados do bucket 136 salvos com sucesso.
+2024-11-05 10:33:59,436 - INFO - Iniciando processamento do bucket 137
+2024-11-05 10:34:09,830 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:34:09,830 - INFO - Metadados do bucket 137 salvos com sucesso.
+2024-11-05 10:34:09,831 - INFO - Iniciando processamento do bucket 138
+2024-11-05 10:34:18,975 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:34:18,976 - INFO - Metadados do bucket 138 salvos com sucesso.
+2024-11-05 10:34:18,977 - INFO - Iniciando processamento do bucket 139
+2024-11-05 10:34:30,759 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:34:30,760 - INFO - Metadados do bucket 139 salvos com sucesso.
+2024-11-05 10:34:30,761 - INFO - Iniciando processamento do bucket 140
+2024-11-05 10:34:39,425 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:34:39,426 - INFO - Metadados do bucket 140 salvos com sucesso.
+2024-11-05 10:34:39,427 - INFO - Iniciando processamento do bucket 141
+2024-11-05 10:34:48,459 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:34:48,460 - INFO - Metadados do bucket 141 salvos com sucesso.
+2024-11-05 10:34:48,461 - INFO - Iniciando processamento do bucket 142
+2024-11-05 10:35:00,412 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:00,412 - INFO - Metadados do bucket 142 salvos com sucesso.
+2024-11-05 10:35:00,413 - INFO - Iniciando processamento do bucket 143
+2024-11-05 10:35:09,280 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:09,280 - INFO - Metadados do bucket 143 salvos com sucesso.
+2024-11-05 10:35:09,281 - INFO - Iniciando processamento do bucket 144
+2024-11-05 10:35:19,044 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:19,044 - INFO - Metadados do bucket 144 salvos com sucesso.
+2024-11-05 10:35:19,045 - INFO - Iniciando processamento do bucket 145
+2024-11-05 10:35:27,473 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:27,473 - INFO - Metadados do bucket 145 salvos com sucesso.
+2024-11-05 10:35:27,474 - INFO - Iniciando processamento do bucket 146
+2024-11-05 10:35:38,012 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:38,012 - INFO - Metadados do bucket 146 salvos com sucesso.
+2024-11-05 10:35:38,013 - INFO - Iniciando processamento do bucket 147
+2024-11-05 10:35:46,047 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:46,048 - INFO - Metadados do bucket 147 salvos com sucesso.
+2024-11-05 10:35:46,049 - INFO - Iniciando processamento do bucket 148
+2024-11-05 10:35:58,230 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:35:58,231 - INFO - Metadados do bucket 148 salvos com sucesso.
+2024-11-05 10:35:58,231 - INFO - Iniciando processamento do bucket 149
+2024-11-05 10:36:08,262 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:36:08,263 - INFO - Metadados do bucket 149 salvos com sucesso.
+2024-11-05 10:36:08,264 - INFO - Iniciando processamento do bucket 150
+2024-11-05 10:36:18,896 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:36:18,896 - INFO - Metadados do bucket 150 salvos com sucesso.
+2024-11-05 10:36:18,897 - INFO - Iniciando processamento do bucket 151
+2024-11-05 10:36:28,865 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:36:28,865 - INFO - Metadados do bucket 151 salvos com sucesso.
+2024-11-05 10:36:28,866 - INFO - Iniciando processamento do bucket 152
+2024-11-05 10:36:38,933 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:36:38,934 - INFO - Metadados do bucket 152 salvos com sucesso.
+2024-11-05 10:36:38,935 - INFO - Iniciando processamento do bucket 153
+2024-11-05 10:36:47,136 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:36:47,137 - INFO - Metadados do bucket 153 salvos com sucesso.
+2024-11-05 10:36:47,137 - INFO - Iniciando processamento do bucket 154
+2024-11-05 10:36:58,421 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:36:58,422 - INFO - Metadados do bucket 154 salvos com sucesso.
+2024-11-05 10:36:58,422 - INFO - Iniciando processamento do bucket 155
+2024-11-05 10:37:09,262 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:37:09,263 - INFO - Metadados do bucket 155 salvos com sucesso.
+2024-11-05 10:37:09,264 - INFO - Iniciando processamento do bucket 156
+2024-11-05 10:37:18,643 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:37:18,644 - INFO - Metadados do bucket 156 salvos com sucesso.
+2024-11-05 10:37:18,644 - INFO - Iniciando processamento do bucket 157
+2024-11-05 10:37:30,796 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:37:30,797 - INFO - Metadados do bucket 157 salvos com sucesso.
+2024-11-05 10:37:30,797 - INFO - Iniciando processamento do bucket 158
+2024-11-05 10:37:42,183 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:37:42,184 - INFO - Metadados do bucket 158 salvos com sucesso.
+2024-11-05 10:37:42,185 - INFO - Iniciando processamento do bucket 159
+2024-11-05 10:37:51,469 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:37:51,470 - INFO - Metadados do bucket 159 salvos com sucesso.
+2024-11-05 10:37:51,471 - INFO - Iniciando processamento do bucket 160
+2024-11-05 10:38:03,390 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:38:03,391 - INFO - Metadados do bucket 160 salvos com sucesso.
+2024-11-05 10:38:03,391 - INFO - Iniciando processamento do bucket 161
+2024-11-05 10:38:11,651 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:38:11,652 - INFO - Metadados do bucket 161 salvos com sucesso.
+2024-11-05 10:38:11,653 - INFO - Iniciando processamento do bucket 162
+2024-11-05 10:38:20,228 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:38:20,229 - INFO - Metadados do bucket 162 salvos com sucesso.
+2024-11-05 10:38:20,230 - INFO - Iniciando processamento do bucket 163
+2024-11-05 10:38:30,714 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:38:30,715 - INFO - Metadados do bucket 163 salvos com sucesso.
+2024-11-05 10:38:30,716 - INFO - Iniciando processamento do bucket 164
+2024-11-05 10:38:40,111 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:38:40,112 - INFO - Metadados do bucket 164 salvos com sucesso.
+2024-11-05 10:38:40,112 - INFO - Iniciando processamento do bucket 165
+2024-11-05 10:38:51,487 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:38:51,487 - INFO - Metadados do bucket 165 salvos com sucesso.
+2024-11-05 10:38:51,488 - INFO - Iniciando processamento do bucket 166
+2024-11-05 10:39:00,871 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:39:00,871 - INFO - Metadados do bucket 166 salvos com sucesso.
+2024-11-05 10:39:00,872 - INFO - Iniciando processamento do bucket 167
+2024-11-05 10:39:10,092 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:39:10,093 - INFO - Metadados do bucket 167 salvos com sucesso.
+2024-11-05 10:39:10,094 - INFO - Iniciando processamento do bucket 168
+2024-11-05 10:39:17,736 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:39:17,737 - INFO - Metadados do bucket 168 salvos com sucesso.
+2024-11-05 10:39:17,738 - INFO - Iniciando processamento do bucket 169
+2024-11-05 10:39:28,751 - ERROR - Ocorreu um erro ao processar o bucket 169: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-05 10:39:28,752 - INFO - Iniciando processamento do bucket 170
+2024-11-05 10:39:38,225 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:39:38,226 - INFO - Metadados do bucket 170 salvos com sucesso.
+2024-11-05 10:39:38,226 - INFO - Iniciando processamento do bucket 171
+2024-11-05 10:39:48,774 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:39:48,774 - INFO - Metadados do bucket 171 salvos com sucesso.
+2024-11-05 10:39:48,775 - INFO - Iniciando processamento do bucket 172
+2024-11-05 10:39:57,866 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:39:57,866 - INFO - Metadados do bucket 172 salvos com sucesso.
+2024-11-05 10:39:57,867 - INFO - Iniciando processamento do bucket 173
+2024-11-05 10:40:07,912 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:40:07,912 - INFO - Metadados do bucket 173 salvos com sucesso.
+2024-11-05 10:40:07,913 - INFO - Iniciando processamento do bucket 174
+2024-11-05 10:40:18,464 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:40:18,465 - INFO - Metadados do bucket 174 salvos com sucesso.
+2024-11-05 10:40:18,466 - INFO - Iniciando processamento do bucket 175
+2024-11-05 10:40:29,424 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:40:29,424 - INFO - Metadados do bucket 175 salvos com sucesso.
+2024-11-05 10:40:29,425 - INFO - Iniciando processamento do bucket 176
+2024-11-05 10:40:40,335 - ERROR - Ocorreu um erro ao processar o bucket 176: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-05 10:40:40,335 - INFO - Iniciando processamento do bucket 177
+2024-11-05 10:40:49,382 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:40:49,383 - INFO - Metadados do bucket 177 salvos com sucesso.
+2024-11-05 10:40:49,384 - INFO - Iniciando processamento do bucket 178
+2024-11-05 10:41:00,096 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:41:00,097 - INFO - Metadados do bucket 178 salvos com sucesso.
+2024-11-05 10:41:00,097 - INFO - Iniciando processamento do bucket 179
+2024-11-05 10:41:10,663 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:41:10,664 - INFO - Metadados do bucket 179 salvos com sucesso.
+2024-11-05 10:41:10,665 - INFO - Iniciando processamento do bucket 180
+2024-11-05 10:41:22,309 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:41:22,309 - INFO - Metadados do bucket 180 salvos com sucesso.
+2024-11-05 10:41:22,309 - INFO - Iniciando processamento do bucket 181
+2024-11-05 10:41:32,550 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:41:32,550 - INFO - Metadados do bucket 181 salvos com sucesso.
+2024-11-05 10:41:32,551 - INFO - Iniciando processamento do bucket 182
+2024-11-05 10:41:43,510 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:41:43,510 - INFO - Metadados do bucket 182 salvos com sucesso.
+2024-11-05 10:41:43,511 - INFO - Iniciando processamento do bucket 183
+2024-11-05 10:41:53,548 - ERROR - Ocorreu um erro ao processar o bucket 183: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-05 10:41:53,549 - INFO - Iniciando processamento do bucket 184
+2024-11-05 10:42:02,178 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:42:02,179 - INFO - Metadados do bucket 184 salvos com sucesso.
+2024-11-05 10:42:02,180 - INFO - Iniciando processamento do bucket 185
+2024-11-05 10:42:11,951 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:42:11,951 - INFO - Metadados do bucket 185 salvos com sucesso.
+2024-11-05 10:42:11,952 - INFO - Iniciando processamento do bucket 186
+2024-11-05 10:42:21,751 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:42:21,751 - INFO - Metadados do bucket 186 salvos com sucesso.
+2024-11-05 10:42:21,752 - INFO - Iniciando processamento do bucket 187
+2024-11-05 10:42:34,488 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:42:34,489 - INFO - Metadados do bucket 187 salvos com sucesso.
+2024-11-05 10:42:34,489 - INFO - Iniciando processamento do bucket 188
+2024-11-05 10:42:46,912 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:42:46,912 - INFO - Metadados do bucket 188 salvos com sucesso.
+2024-11-05 10:42:46,913 - INFO - Iniciando processamento do bucket 189
+2024-11-05 10:43:00,491 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:43:00,492 - INFO - Metadados do bucket 189 salvos com sucesso.
+2024-11-05 10:43:00,492 - INFO - Iniciando processamento do bucket 190
+2024-11-05 10:43:12,727 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:43:12,727 - INFO - Metadados do bucket 190 salvos com sucesso.
+2024-11-05 10:43:12,728 - INFO - Iniciando processamento do bucket 191
+2024-11-05 10:43:26,797 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:43:26,797 - INFO - Metadados do bucket 191 salvos com sucesso.
+2024-11-05 10:43:26,798 - INFO - Iniciando processamento do bucket 192
+2024-11-05 10:43:37,708 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:43:37,708 - INFO - Metadados do bucket 192 salvos com sucesso.
+2024-11-05 10:43:37,709 - INFO - Iniciando processamento do bucket 193
+2024-11-05 10:43:50,691 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:43:50,692 - INFO - Metadados do bucket 193 salvos com sucesso.
+2024-11-05 10:43:50,693 - INFO - Iniciando processamento do bucket 194
+2024-11-05 10:44:04,431 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:44:04,432 - INFO - Metadados do bucket 194 salvos com sucesso.
+2024-11-05 10:44:04,433 - INFO - Iniciando processamento do bucket 195
+2024-11-05 10:44:17,676 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:44:17,677 - INFO - Metadados do bucket 195 salvos com sucesso.
+2024-11-05 10:44:17,678 - INFO - Iniciando processamento do bucket 196
+2024-11-05 10:44:35,781 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 10:44:35,781 - INFO - Metadados do bucket 196 salvos com sucesso.
+2024-11-05 10:44:35,783 - INFO - Processamento de buckets concluído.
+2024-11-05 10:44:35,783 - INFO - Tempo total de execução: 2356.91 segundos.

@@ -1,0 +1,3273 @@
+json
+[{'ID': '772Q1', 'PT': 'Qual das seguintes opções explica melhor por que as enzimas são eficazes na facilitação de reações químicas?', 'GLOSA': 'OPÇÃO QUAL ENZIMA EFICAZ FACILITAR REAÇÃO QUÍMICA EXPLICA MELHOR?'}]
+
+json
+[{"ID": "1862Q1", "PT": "Considere o estimador OLS para o erro padrão do coeficiente de inclinação. Qual das seguintes afirmações é(são) verdadeira(s)?\n\n(i) O erro padrão será positivamente relacionado à variância residual\n\n(ii) O erro padrão será negativamente relacionado à dispersão das observações na variável explicativa sobre seu valor médio\n\n(iii) O erro padrão será negativamente relacionado ao tamanho da amostra\n\n(iv) O erro padrão fornece uma medida da precisão da estimativa do coeficiente.", "GLOSA": "ESTIMADOR OLS ERRO PADRÃO COEFICIENTE INCLINAÇÃO AFIRMAÇÃO VERDADEIRO?  (i) ERRO PADRÃO POSITIVO VARIÂNCIA RESIDUAL (ii) ERRO PADRÃO NEGATIVO DISPERSÃO OBSERVAÇÃO VARIÁVEL EXPLICATIVA VALOR MÉDIO (iii) ERRO PADRÃO NEGATIVO TAMANHO AMOSTRA (iv) ERRO PADRÃO MEDIDA PRECISÃO ESTIMATIVA COEFICIENTE."}]
+
+json
+[{"ID": "1863Q1", "PT": "Qual é o significado do termo \\\"heterocedasticidade?\\\"", "GLOSA": "TERMO HETEROCEDASTICIDADE SIGNIFICADO QUAL?"}]
+
+json
+[{'ID': '1864Q1', 'PT': 'Se uma estatística de Durbin Watson assumir um valor próximo de zero, qual será o valor do coeficiente de autocorrelação de primeira ordem?', 'GLOSA': 'ESTATÍSTICA DURBIN WATSON VALOR PRÓXIMO ZERO COEFICIENTE AUTOCORRELAÇÃO PRIMEIRA ORDEM QUAL?'}]
+
+json
+[{"ID": "1865Q1", "PT": "Sob a hipótese nula de um teste de Bera-Jarque, a distribuição tem", "GLOSA": "HIPÓTESE NULA TESTE BERA-JARQUE DISTRIBUIÇÃO TER"}]
+
+json
+[{"ID": "1866Q1", "PT": "Se um estimador é considerado consistente, isso implica que", "GLOSA": "ESTIMADOR CONSISTENTE IMPLICAR QUE"}]
+
+json
+[{'ID': '1867Q1', 'PT': 'Qual das seguintes opções é uma característica típica de séries temporais de retorno de ativos financeiros?', 'GLOSA': 'OPÇÃO QUAL CARACTERÍSTICA TÍPICA SÉRIE TEMPORAL RETORNO ATIVO FINANCEIRO?'}]
+
+json
+[{"ID": "1869Q1", "PT": "Qual das seguintes opções é uma desvantagem da abordagem de efeitos fixos para estimar um modelo de painel?", "GLOSA": "OPÇÃO QUAL DESVANTAGEM EFEITOS FIXOS MODELO PAINEL ESTIMAR?"}]
+
+json
+[{'ID': '1870Q1', 'PT': 'Considere uma situação idêntica à da questão 21, exceto que agora uma alternativa de 2 lados é usada. Qual seria agora a conclusão apropriada?', 'GLOSA': 'QUESTÃO 21 SITUAÇÃO IDÊNTICA CONSIDERAR AGORA ALTERNATIVA DOIS LADO USAR CONCLUSÃO APROPRIADO QUAL?'}]
+
+json
+[{"ID": "1871Q1", "PT": "O preço de uma casa é melhor descrito como que tipo de número?", "GLOSA": "CASA PREÇO TIPO NÚMERO QUAL?"}]
+
+json
+[{"ID": "1872Q1", "PT": "Se um teste de \\\"traço\\\" de Johansen para uma hipótese nula de 2 vetores cointegrantes for aplicado a um sistema contendo 4 variáveis, quais autovalores seriam usados \\u200b\\u200bno teste?", "GLOSA": "TESTE TRAÇO JOHANSEN HIPÓTESE NULA DOIS VETOR COINTEGRANTE QUATRO VARIÁVEL SISTEMA APLICAR AUTOVALOR USAR QUAL?"}]
+
+json
+[{'ID': '1873Q1', 'PT': 'Qual das seguintes afirmações é verdadeira em relação à análise de decomposição de variância de VARs?\\n\\ni) As decomposições de variância medem o impacto de um choque unitário em cada uma das variáveis \\u200b\\u200bno VAR\\n\\nii) As decomposições de variância podem ser consideradas como medindo a proporção da variância do erro de previsão que é atribuível a cada variável\\n\\niii) A ordenação das variáveis \\u200b\\u200bé importante para calcular respostas de impulso, mas não decomposições de variância\\n\\niv) É comum que uma grande proporção da variância do erro de previsão para uma determinada variável seja explicada por choques nessa mesma variável.', 'GLOSA': 'AFIRMAÇÃO QUAL VERDADE VAR ANÁLISE VARIÂNCIA DECOMPOSIÇÃO?  I) VARIÂNCIA DECOMPOSIÇÃO MEDIR IMPACTO CHOQUE UNITÁRIO VARIÁVEL CADA VAR. II) VARIÂNCIA DECOMPOSIÇÃO MEDIR PROPORÇÃO VARIÂNCIA ERRO PREVISÃO ATRIBUÍVEL VARIÁVEL CADA. III) VARIÁVEL ORDEM IMPORTANTE IMPULSO RESPOSTA CALCULAR, MAS VARIÂNCIA DECOMPOSIÇÃO NÃO. IV) COMUM GRANDE PROPORÇÃO VARIÂNCIA ERRO PREVISÃO VARIÁVEL DETERMINADA  CHOQUE MESMA VARIÁVEL EXPLICAR.'}]
+
+json
+[{'ID': '1874Q1', 'PT': 'Suponha que estimamos um modelo GARCH para retornos diários de ações e estamos interessados em produzir uma previsão de 10 dias da volatilidade (medida pelo desvio padrão dos retornos) para uso em um modelo de valor em risco. Como tal previsão poderia ser calculada de forma mais válida?', 'GLOSA': 'MODELO GARCH RETORNO DIÁRIO AÇÃO SUPOR ESTIMAR VOLATILIDADE PREVISÃO DEZ DIA DESVIO PADRÃO RETORNO MODELO VALOR RISCO CALCULAR COMO?'}]
+
+json
+[{"ID": "1875Q1", "PT": "Suponha que o valor de $R^2$ para um modelo de regressão estimado seja exatamente zero. Quais das seguintes opções são verdadeiras?\\n\\ni) Todas as estimativas de coeficientes nas inclinações serão zero\\n\\nii) A linha ajustada será horizontal em relação a todas as variáveis \\u200b\\u200bexplicativas\\n\\niii) A linha de regressão não explicou nenhuma variação de y em relação à sua média.\\n\\niv) A estimativa do coeficiente de interceptação deve ser zero.", "GLOSA": "R2 ZERO MODELO REGRESSÃO ESTIMAR. OPÇÃO VERDADEIRO? I COEFICIENTE INCLINAÇÃO ZERO. II LINHA AJUSTAR HORIZONTAL VARIÁVEL EXPLICATIVO. III LINHA REGRESSÃO VARIAR Y MÉDIA EXPLICAR NADA. IV COEFICIENTE INTERCEPTAÇÃO ZERO."}]
+
+json
+[{'ID': '1876Q1', 'PT': 'Um processo de ruído branco terá\n\n(i) Uma média zero\n\n(ii) Uma variância constante\n\n(iii) Autocovariâncias que são constantes\n\n(iv) Autocovariâncias que são zero, exceto no atraso zero', 'GLOSA': 'RUÍDO BRANCO PROCESSO TER MÉDIA ZERO VARIÂNCIA CONSTANTE AUTOCOVARIÂNCIA CONSTANTE AUTOCOVARIÂNCIA ZERO ATRASO ZERO EXCETO'}]
+
+json
+[{'ID': '4362Q1', 'PT': 'Um casaco tem um preço de tabela de $ 325,00. Durante novembro, ele não vendeu, e o comerciante o marcou com 20% de desconto. Então, em dezembro, ele marcou mais 10% de desconto. Quanto um comprador de Natal em dezembro pagaria pelo casaco em dólares?', 'GLOSA': 'CASACO PREÇO 325 DÓLAR. NOVEMBRO NÃO VENDER, COMERCIÁRIO DESCONTO 20%. DEZEMBRO DESCONTO 10%. COMPRADOR NATAL DEZEMBRO PAGAR QUANTO DÓLAR?'}]
+
+json
+[{"ID": "4363Q1", "PT": "John está jogando um jogo no qual ele tenta obter o maior número possível. Ele deve colocar os símbolos +, × e - (mais, vezes e menos) nos espaços a seguir, usando cada símbolo exatamente uma vez: 2 _ 4 _ 6 _ 8. John não pode usar parênteses ou reorganizar os números. Qual é o maior número possível que John poderia obter?", "GLOSA": "JOHN JOGO JOGAR NÚMERO MAIOR TENTAR SÍMBOLO MAIS VEZES MENOS ESPAÇO COLOCAR UM CADA 2 4 6 8 PARÊNTESES NÃO USAR NÚMERO REORGANIZAR NÃO MAIOR NÚMERO QUAL?"}]
+
+json
+[{"ID": "4364Q1", "PT": "A soma de oitenta e cinco com o quadrado de um número é o mesmo que o quadrado da quantidade que é $17$ menor que o número. Qual é o número?", "GLOSA": "OITENTA CINCO SOMAR QUADRADO NÚMERO IGUAL QUADRADO QUANTIDADE DEZESETE MENOS NÚMERO QUAL NÚMERO?"}]
+
+json
+[{'ID': '4365Q1', 'PT': 'O formato da placa do lado de fora do Bob', 'GLOSA': 'BOB FORA LADO PLACA FORMATO'}]
+
+json
+[{'ID': '4366Q1', 'PT': 'Os planetas X, Y e Z levam 360, 450 e 540 dias, respectivamente, para girar em torno do mesmo sol. Se os três planetas estiverem alinhados em um raio tendo o sol como seu ponto final, qual é o número mínimo positivo de dias antes que todos eles estejam exatamente nos mesmos locais novamente?', 'GLOSA': 'PLANETA X Y Z LEVAR 360 450 540 DIA RESPECTIVAMENTE GIRAR SOL MESMO. PLANETA TRÊS ALINHAR RAIO SOL PONTO FINAL. QUAL NÚMERO MÍNIMO DIA POSITIVO TODOS LOCAL MESMO NOVAMENTE?'}]
+
+json
+[{"ID": "4367Q1", "PT": "Qual é a magnitude do vetor v = (5, 0, 7)?", "GLOSA": "VETOR V (5,0,7) MAGNITUDE QUAL?"}]
+
+json
+[
+  {
+    "ID": "4368Q1",
+    "PT": "Se pegarmos sen x e o mudarmos para 3 sen 2x, o que acontecerá com o domínio e a imagem da função?",
+    "GLOSA": "SEN X MUDAR 3 SEN 2X DOMÍNIO IMAGEM FUNÇÃO ACONTECER O QUE?"
+  }
+]
+
+json
+[{'ID': '4369Q1', 'PT': 'Suponha que para algum $a,b,c$ temos $a+b+c = 1$, $ab+ac+bc = abc = -4$. O que é $a^3+b^3+c^3$?', 'GLOSA': 'SUPOR ALGUM A B C TER A+B+C=1 AB+AC+BC=ABC=-4  A³+B³+C³ O QUE?'}]
+
+json
+[{'ID': '4370Q1', 'PT': 'Simplifique a seguinte expressão: $(9x^9+7x^8+4x^7) + (x^{11}+x^9+2x^7+3x^3+5x+8).$ Expresse sua resposta como um polinômio com os graus dos termos em ordem decrescente.', 'GLOSA': 'EXPRESSÃO SIMPLIFICAR (9X^9 + 7X^8 + 4X^7) + (X^11 + X^9 + 2X^7 + 3X^3 + 5X + 8) POLINÔMIO RESPOSTA GRAU TERMO ORDEM DECRESCENTE'}]
+
+json
+[{"ID": "4371Q1", "PT": "A gorjeta padrão em um restaurante é $ 15 \\\\%$ da conta antes do imposto. Muitas pessoas na Califórnia encontram a gorjeta calculando o dobro do valor do imposto sobre vendas, que é $ 8,25 \\\\%$. Em quantos centavos isso excede a gorjeta padrão em uma conta de $ \\\\$60 $ antes do imposto?", "GLOSA": "GORJETA RESTAURANTE PADRÃO 15 POR CENTO CONTA IMPOSTO ANTES. CALIFÓRNIA MUITA PESSOA GORJETA CALCULAR DUAS VEZES IMPOSTO VENDA 8,25 POR CENTO. QUANTO CENTAVO EXCEDER GORJETA PADRÃO CONTA 60 DÓLAR IMPOSTO ANTES?"}]
+
+json
+[{'ID': '4372Q1', 'PT': 'Qual é o maior quociente possível de quaisquer dois membros distintos do conjunto $\\\\{\\\\frac{2}{5}, \\\\frac{1}{2},5,10\\\\}$? Especificamente, desejamos maximizar $\\\\frac{x}{y}$, onde $x$ e $y$ são escolhidos do conjunto anterior.', 'GLOSA': 'MAIOR QUOCIENTE POSSÍVEL DOIS MEMBRO DISTINTO CONJUNTO {2/5, 1/2, 5, 10} MAXIMIZAR X/Y X Y CONJUNTO ESCOLHER'}]
+
+json
+[{"ID": "4373Q1", "PT": "A área delimitada pela parábola y = x^2 e pelas retas y = 1 e y = 9 é igual a", "GLOSA": "ÁREA DELIMITAR PARÁBOLA Y IGUAL X QUADRADO RETA Y IGUAL UM RETA Y IGUAL NOVE IGUAL"}]
+
+json
+[{"ID": "4374Q1", "PT": "Suponha que para algum $a,b,c$ temos $a+b+c = 6$, $ab+ac+bc = 5$ e $abc = -12$. O que é $a^3+b^3+c^3$?", "GLOSA": "SUPOR A B C TER A MAIS B MAIS C IGUAL SEIS A VEZES B MAIS A VEZES C MAIS B VEZES C IGUAL CINCO A VEZES B VEZES C IGUAL MENOS DOZE A AO CUBO MAIS B AO CUBO MAIS C AO CUBO O QUE?"}]
+
+json
+[
+  {
+    "ID": "4375Q1",
+    "PT": "Três pontos são escolhidos aleatoriamente e independentemente em um círculo. Qual é a probabilidade de que todas as três distâncias em pares entre os pontos sejam menores que o raio do círculo?",
+    "GLOSA": "TRÊS PONTOS ESCOLHER ALEATÓRIO CÍRCULO. QUAL PROBABILIDADE DISTÂNCIA PAR MENOS RAIO CÍRCULO?"
+  }
+]
+
+json
+[{'ID': '4376Q1', 'PT': 'Se expressarmos $3x^2 + x - 4$ na forma $a(x - h)^2 + k$, então o que é $k$?', 'GLOSA': 'EXPRESSAR $3X^2 + X - 4$ FORMA $A(X - H)^2 + K$ ENTÃO $K$ O QUE?'}]
+
+json
+[{'ID': '4377Q1', 'PT': 'Ao meio-dia, um experimentador tem 50 gramas de um isótopo radioativo. Ao meio-dia, 9 dias depois, restam apenas 45 gramas. Para o dia mais próximo, quantos dias após o início do experimento haverá apenas 20 gramas?', 'GLOSA': 'MEIO-DIA EXPERIMENTADOR TER 50 GRAMA ISÓTOPO RADIOATIVO MEIO-DIA DEPOIS 9 DIA RESTAR 45 GRAMA DIA QUANTIDADE APROXIMADO DEPOIS INÍCIO EXPERIMENTO TER 20 GRAMA'}]
+
+json
+[{"ID": "4378Q1", "PT": "Existem três números reais $x$ que não estão no domínio de$$f(x) = \\\\frac{1}{1+\\\\frac{1}{1+\\\\frac 1x}}.$$ Qual é a soma desses três números?", "GLOSA": "TRÊS NÚMERO REAL X DOMÍNIO FUNÇÃO F X UM SOBRE UM MAIS UM SOBRE UM MAIS UM SOBRE X NÃO ESTAR.  SOMA TRÊS NÚMERO QUAL?"}]
+
+json
+[
+  {
+    "ID": "4379Q1",
+    "PT": "Um refrigerante de 12 onças tem 41 gramas de açúcar, o que é 14% da dose diária normal de açúcar. Aproximadamente quantos gramas de açúcar são recomendados na dieta normal?",
+    "GLOSA": "REFRIGERANTE DOZE-ONÇA TER QUARENTA-UM-GRAMA AÇÚCAR, QUARENTA-UM-GRAMA AÇÚCAR SER CATORZE-POR-CENTO DOS DIÁRIO NORMAL AÇÚCAR. AÇÚCAR QUANTO-GRAMA DIÁRIO NORMAL?"
+  }
+]
+
+json
+[{"ID": "4380Q1", "PT": "Quantos números existem na lista $ -36, -29, -22, \\\\ldots, 41, 48$?", "GLOSA": "LISTA NÚMERO QUANTO TER?"}]
+
+json
+[{'ID': '4381Q1', 'PT': 'Encontre a soma dos números primos entre 100 e 200, inclusive, que são a soma de 1 ou 2 com um quadrado perfeito.', 'GLOSA': 'NÚMERO PRIMO 100 200 ENTRE SOMA ENCONTRAR UM OU DOIS QUADRADO PERFEITO SOMAR'}]
+
+json
+[{"ID": "4382Q1", "PT": "Expresse $0,1\\overline{7}$ como uma fração comum.", "GLOSA": "0,17 FRAÇÃO COMUM EXPRESSAR"}]
+
+json
+[{'ID': '4383Q1', 'PT': 'Quantas diagonais distintas de um hexágono convexo podem ser desenhadas?', 'GLOSA': 'HEXÁGONO CONVEXO DIAGONAIS DISTINTA QUANTO DESENHAR?'}]
+
+json
+[{"ID": "6015Q1", "PT": "Esta pergunta se refere às seguintes informações.\\nEu caminho ao lado da coluna, pergunto o que está acontecendo.\\nUm soldado diz simplesmente: \\"Eles chamam mais a cada dia.\\n\\"Alguns de nós fomos enviados para o norte, para o Rio Amarelo, aos quinze anos,\\nE agora, aos quarenta, estamos indo para as guarnições no oeste.\\nEm nossa primeira excursão, o chefe da aldeia teve que amarrar nossas bandanas para nós.\\nQuando voltamos, nossos cabelos estavam brancos, mas ainda há mais agitação.\\nAs guarnições da fronteira correm com sangue, o suficiente para encher um oceano,\\nMas as ambições territoriais do Imperador Marcial ainda não atingiram o pico.\\nNos cem distritos a leste das montanhas, por toda a terra de Han,\\nDeve haver dez mil aldeias que agora são infestadas por silvas.\\nMesmo que as esposas sejam fortes o suficiente para manusear uma enxada e um arado,\\nAs plantações crescem em todos os sentidos, os campos estão todos uma bagunça.\\nÉ mais difícil para os homens de Shanxi, com suas reputações de lutadores:\\nEles são cercados como cães ou galinhas, cada macho impressionado.\\n\\"Mas senhor, embora seja bom da sua parte perguntar,\\nReclamar não faz parte da tarefa do soldado.\\nSó podemos balançar a cabeça. Veja este inverno:\\nAs tropas de Shanxi nunca foram mandadas para casa.\\nOs oficiais do distrito estão exigindo o imposto sobre a terra,\\nMas de onde ele virá? É impossível obter algo de onde não há nada!\\nSinceramente, acho que dá azar ter um filho agora,\\nÉ melhor ter uma filha: pelo menos ela pode se casar\\nE viver com os vizinhos ao lado.\\nMas um filho acabará deitado em alguma pradaria distante.\\"\\nDu Fu, \\"Balada das carroças do exército\\", ca. 750 d.C.\\nA dinastia Song que se seguiu diferia da Tang nisso", "GLOSA": "PERGUNTA REFERIR INFORMAÇÃO EU ANDAR COLUNA LADO PERGUNTAR ACONTECER SOLDADO DIZER MAIS CHAMAR DIA EU NORTE IR RIO AMARELO IDADE QUINZE ANOS AGORA QUARENTA ANOS GUARNIÇÃO OESTE IR PRIMEIRA VIAGEM CHEFE ALDEIA BANDANA AMARRAR VOLTAR CABELO BRANCO AGITAÇÃO AINDA MAIS GUARNIÇÃO FRONTEIRA SANGUE CORRER OCEANO CHEIO AMBICÃO IMPERADOR MARCAL PICO AINDA NÃO CHEGAR CEM DISTRITO MONTANHA LESTE TERRA HAN DEZ MIL ALDEIA SILVA INFESTAR ESPOSA FORTE ENXADA ARADO MANUSEAR PLANTAR CRESCER CAMPO BAGUNÇA HOMEM SHANXI LUTADOR REPUTAÇÃO CÃO GALINHA CERCADO MACHO IMPRESSIONAR MAS SENHOR BOM PARTE PERGUNTAR RECLAMAR SOLDADO TAREFA NÃO SER CABEÇA BALANCEAR INVERNO ESTE SHANXI TROPA CASA NUNCA IR OFICIAL DISTRITO IMPOSTO TERRA EXIGIR ONDE VIR IMPOSSÍVEL OBTEM NADA TER NADA FILHO TER AZAR FILHA TER MELHOR VIZINHO CASAR VIVER FILHO PRADARIA DISTANTE DEITAR DU FU BALADA CARROÇA EXÉRCITO DINASTIA SONG TANG DIFERIR"}]
+
+json
+[
+  {
+    "ID": "6016Q1",
+    "PT": "Esta questão se refere às seguintes informações.\\nA cidade de Gana consiste em duas cidades. Uma é habitada por muçulmanos e tem doze mesquitas, imãs e muezins assalariados, juristas e estudiosos. Nos arredores há poços com água doce, da qual bebem e com os quais cultivam vegetais. . . . Os intérpretes do rei, o oficial encarregado de seu tesouro e a maioria de seus ministros são muçulmanos. Somente a realeza pode usar roupas costuradas. Todas as outras pessoas usam túnicas de algodão, seda ou brocado, de acordo com seus meios. . . . O rei usa colares e pulseiras, como uma mulher costuma fazer. . . . Ele se senta . . . em um pavilhão abobadado ao redor do qual estão dez cavalos. Quando as pessoas que professam a mesma religião do rei se aproximam dele, elas se ajoelham e jogam poeira na cabeça, pois esta é a maneira de cumprimentá-lo. Quanto aos muçulmanos, eles o cumprimentam apenas batendo palmas. A religião [do povo] é o paganismo e a adoração de ídolos. . . . Em cada carga de sal de burro quando é trazida para o país, seu rei cobra um dinar de ouro e dois dinares quando é enviada. De uma carga de cobre, o rei recebe cinco mithqals e de uma carga de outros bens, dez mithqals. . . . As pepitas encontradas em todas as minas de seu país são reservadas para o rei, restando apenas esse pó de ouro para o povo. Mas para isso, o povo acumularia ouro até que perdesse seu valor. Além deste país, fica outro chamado Malal, cujo rei era sinceramente apegado ao islamismo, enquanto o povo comum de seu reino permaneceu politeísta. Desde então, seus governantes receberam o título de al-musulmani.\\n—O Livro de Rotas e Reinos, por Abu Ubaydallah al-Bakri, historiador e geógrafo muçulmano do século XI\\nQual é a explicação mais provável para um muçulmano estar encarregado do tesouro ganês?",
+    "GLOSA": "GANÊS TESOURO MUÇULMANO ENCARREGAR EXPLICAÇÃO QUAL?"
+  }
+]
+
+json
+[{'ID': '10816Q1', 'PT': 'Um fato relevante no processo de um autor é a magnitude de uma explosão em uma refinaria de petróleo uma noite. No julgamento, o autor foi questionado em interrogatório direto se ele se lembrava da explosão. Ele respondeu: \\"Eu me lembro de meu filho entrando em casa e me informando que as janelas do carro haviam se quebrado.\\". O filho estava disponível para testemunhar no julgamento. O advogado do réu faz uma moção para anular a resposta do autor. O juiz de primeira instância deve decidir o testemunho do autor.', 'GLOSA': 'FATO RELEVANTE PROCESSO AUTOR MAGNITUDE EXPLOSAÕ REFINARIA PETRÓLEO NOITE JULGAMENTO AUTOR PERGUNTAR INTERROGATÓRIO DIRETO LEMBRAR EXPLOSAÕ AUTOR RESPONDER FILHO CASA ENTRAR INFORMAR JANELA CARRO QUEBRAR FILHO DISPONÍVEL TESTEMUNHAR JULGAMENTO ADVOGADO RÉU MOÇÃO ANULAR RESPOSTA AUTOR JUIZ PRIMEIRA INSTÂNCIA DECIDIR TESTEMUNHO AUTOR.'}]
+
+json
+[{'ID': '10817Q1', 'PT': 'Dois irmãos possuíam uma parcela de um imóvel como inquilinos conjuntos. Ambos os irmãos assinaram uma escritura como outorgantes transferindo a terra para o comprador. O primeiro irmão entregou a escritura ao segundo irmão com instruções para levar a escritura ao seu advogado para aprovação antes da entrega. O irmão dois, sem a permissão do irmão, levou a escritura diretamente ao comprador e recebeu o preço de venda. Esta é uma boa escritura para o sócio um?', 'GLOSA': 'IRMÃO DOIS TER IMÓVEL PARCELA INQUILINO. IRMÃO DOIS ASSINAR ESCRITURA OUTORGANTE TERRA COMPRADOR TRANSFERIR. IRMÃO UM DAR ESCRITURA IRMÃO DOIS. IRMÃO DOIS LEVAR ADVOGADO APROVAR. IRMÃO DOIS SEM PERMISSÃO IRMÃO UM LEVAR ESCRITURA COMPRADOR. IRMÃO DOIS RECEBER DINHEIRO VENDA. ESCRITURA BOM IRMÃO UM?'}]
+
+json
+[
+  {
+    "ID": "10818Q1",
+    "PT": "Um estatuto federal fornece aos estados fundos para programas de bem-estar infantil, sujeito à condição de que tais programas sejam administrados de acordo com os padrões federais. Os Estados Unidos processaram um estado em um tribunal federal por medida liminar, argumentando que os programas de bem-estar infantil do estado, que foram financiados em parte por fundos federais desembolsados sob este estatuto, não cumpriram os padrões federais. O estado moveu para rejeitar a ação. É provável que o tribunal rejeite a ação?",
+    "GLOSA": "ESTATUTO FEDERAL FORNECER ESTADO FUNDO PROGRAMA BEM-ESTAR INFANTIL CONDIÇÃO PROGRAMA ADMINISTRAR PADRÃO FEDERAL. ESTADOS UNIDOS PROCESSAR ESTADO TRIBUNAL FEDERAL MEDIDA LIMINAR ARGUMENTAR PROGRAMA BEM-ESTAR INFANTIL ESTADO FUNDO FEDERAL CUMPRIR PADRÃO FEDERAL. ESTADO REJEITAR AÇÃO. TRIBUNAL REJEITAR AÇÃO PROVÁVEL?"
+  }
+]
+
+json
+[{'ID': '10819Q1', 'PT': 'Depois que uma esposa descobriu sobre a infidelidade do marido, ela decidiu matá-lo. O réu abordou uma pessoa contratada para cometer assassinatos para solicitar sua ajuda na execução do assassinato planejado. Embora a esposa acreditasse que ele era uma pessoa contratada para cometer assassinatos, ele era, na verdade, um agente secreto. A esposa disse ao agente secreto que lhe pagaria US$ 20.000 se ele aceitasse o trabalho e mais US$ 20.000 após o assassinato ser concluído.', 'GLOSA': 'ESPOSA DESCOBRIR MARIDO INFIDELIDADE ELA DECIDIR MATAR MARIDO RÉU ABORDAR PESSOA CONTRATADO ASSASSINATO PEDIR AJUDA ASSASSINATO EXECUTAR ESPOSA ACREDITAR PESSOA CONTRATADO ASSASSINATO ELE SER AGENTE SECRETO ESPOSA DIZER AGENTE SECRETO PAGAR US DÓLAR 20000 ACEITAR TRABALHO US DÓLAR 20000 ASSASSINATO CONCLUIR'}]
+
+json
+[{"ID": "10820Q1", "PT": "Um pintor que trabalhava para uma construtora estava trabalhando com um grupo de colegas de construção em uma construção de casa quando uma parte da casa caiu sobre o proprietário. O pintor declarou: \"Eu sabia que eles deveriam ter reforçado a parede de pé melhor do que fizeram! Eles são totalmente responsáveis por isso!\"", "GLOSA": "PINTOR CONSTRUTORA TRABALHAR GRUPO COLEGA CONSTRUÇÃO CASA CONSTRUÇÃO CASA PARTE CAIR PROPRIETÁRIO PINTOR FALAR SABER PRECISAR REFORÇAR PAREDE MELHOR RESPONSÁVEL"}]
+
+json
+[{'ID': '10821Q1', 'PT': 'Um homem e uma mulher conspiraram juntos para roubar um banco. Quando estavam saindo do banco após o assalto, foram confrontados por policiais táticos armados. O homem levantou sua arma para os policiais e muitos tiros se seguiram.', 'GLOSA': 'HOMEM MULHER CONSPIRAR JUNTO ROUBAR BANCO. BANCO SAIR ASSALTO POLICIAL TÁTICO ARMADO CONFRONTAR. HOMEM ARMA POLICIAL LEVANTAR TIRO MUITO SEGUIR.'}]
+
+json
+[{'ID': '10822Q1', 'PT': 'Uma serraria foi contratada para entregar mil folhas de compensado de 8 pés para uma loja de materiais de construção no primeiro dia de cada mês por 10 meses consecutivos a partir de 1º de junho.', 'GLOSA': 'SERRARIA CONTRATAR ENTREGAR FOLHA COMPENSADO MIL PÉ OITO LOJA MATERIAL CONSTRUÇÃO DIA PRIMEIRO CADA MÊS DEZ MÊS JUNHO PRIMEIRO'}]
+
+json
+[{"ID": "10823Q1", "PT": "Um homem transferiu a metade oriental de um pedaço de terra desocupada para uma mulher por meio de uma escritura de garantia. A terra transferida para a mulher ficava em frente a uma rodovia pública. A terra retida pelo homem era sem acesso direto a uma rodovia pública.", "GLOSA": "HOMEM TRANSFERIR METADE ORIENTAL TERRA DESOCUPADO MULHER ESCRITURA GARANTIA. TERRA TRANSFERIR MULHER FRENTE RODOVIA PÚBLICA. TERRA RETIDO HOMEM ACESSO DIRETO RODOVIA PÚBLICA NÃO."}]
+
+json
+[
+  {
+    "ID": "11000Q1",
+    "PT": "Em uma jurisdição que usa os índices de outorgante \\x80\\x94beneficiário, os seguintes eventos ocorreram na ordem listada abaixo: (1) Em 1993, um mutuário hipotecou um rancho para uma empresa hipotecária para garantir uma nota de $ 25.000, com vencimento em 31 de dezembro de 1993, com juros de 9V2 por cento ao ano. (2) Em 1996, a empresa hipotecária registrou a hipoteca do rancho. (3) Em 2007, em um documento assinado, que o mutuário entregou à sua filha, o mutuário prometeu transferir o rancho para a filha por uma escritura de quitação e pagar a dívida hipotecária quando vencesse. (4) Em 2008, o mutuário entregou à filha uma escritura de quitação que não fazia referência à hipoteca. Se o mutuário posteriormente deixasse de pagar a hipoteca e a empresa hipotecária ajuizasse uma ação in personam contra a filha para recuperar o valor devido da dívida hipotecária, o credor hipotecário provavelmente",
+    "GLOSA": "JURISDIÇÃO ÍNDICE OUTORGANTE BENEFICIÁRIO EVENTO OCORRER ORDEM LISTAR: 1993 MUTUÁRIO HIPOTECA RANCHO EMPRESA HIPOTECÁRIO GARANTIR NOTA 25.000 DÓLAR VENCER 31 DEZEMBRO 1993 JURO 9V2 POR CENTO ANO. 1996 EMPRESA HIPOTECÁRIO REGISTRAR HIPOTECA RANCHO. 2007 DOCUMENTO ASSINADO MUTUÁRIO ENTREGAR FILHA PROMETER TRANSFERIR RANCHO FILHA ESCRITURA QUITÃO PAGAR DÍVIDA HIPOTECÁRIO VENCER. 2008 MUTUÁRIO ENTREGAR FILHA ESCRITURA QUITÃO REFERÊNCIA HIPOTECA NADA. MUTUÁRIO DEPOIS PAGAR HIPOTECA NÃO EMPRESA HIPOTECÁRIO AÇÃO IN PERSONAM FILHA RECUPERAR VALOR DÍVIDA HIPOTECÁRIO CREDOR HIPOTECÁRIO PROVAVELMENTE"
+  }
+]
+
+json
+[{"ID": "11001Q1", "PT": "A polícia recebeu um relato de que mulheres vestidas de super-heroínas roubaram a casa de um homem e roubaram muitos de seus objetos de valor. A única maneira de entrar ou sair da ilha onde ele morava era de balsa. A última balsa estava se preparando para sair à noite quando o relato chegou à polícia. Sem tentar obter um mandado, a polícia parou todos os carros esperando pela balsa. Em um veículo, a polícia notou três mulheres se mexendo nervosamente. Ao revistar seu carro, a polícia encontrou a propriedade roubada da vítima escondida sob o banco da frente. Os réus foram imediatamente presos. Em seu julgamento por assalto à mão armada, os réus movem para suprimir o uso da propriedade confiscada pela polícia como evidência. Sua moção deve ser", "GLOSA": "POLÍCIA RECEBER RELATO MULHER VESTIR SUPER-HEROÍNA ROUBAR CASA HOMEM ROUBAR MUITO OBJETO VALOR. ILHA ÚNICO ENTRAR SAIR BALSAR. BALSAR ÚLTIMO PREPARAR SAIR NOITE RELATO CHEGAR POLÍCIA. MANDADO POLÍCIA NÃO-TENTAR PEGAR PARAR CARRO ESPERAR BALSAR. VEÍCULO POLÍCIA VER MULHER TRÊS MEXER NERVOSO. CARRO POLÍCIA REVISAR PROPRIEDADE ROUBAR VÍTIMA ENCONTRAR BANCO FRENTE EMBAIXO. RÉU PRENDER JÁ. JULGAMENTO ASSALTO RÉU PEDIR SUPRIMIR PROPRIEDADE POLÍCIA APREENDER EVIDÊNCIA. MOÇÃO SER"}]
+
+json
+[
+  {
+    "ID": "11002Q1",
+    "PT": "Um autor foi atingido e ferido por um galho que caiu na calçada em frente a uma loja de conveniência. O autor chama uma mulher para testemunhar. A mulher propõe testemunhar que uma testemunha, agora falecida, disse à mulher que quando ele estava passando pela loja de conveniência uma semana antes de o autor ser atingido pelo galho, a testemunha viu um funcionário da loja de conveniência tirando neve da calçada em frente à loja. O depoimento da mulher é",
+    "GLOSA": "AUTOR GALHO ATINGIR FERIR CALÇADA LOJA CONVENIÊNCIA CAIR. AUTOR CHAMAR MULHER TESTEMUNHAR. MULHER DIZER TESTEMUNHAR TESTEMUNHA FALECER JÁ DIZER MULHER PASSAR LOJA CONVENIÊNCIA SEMANA ANTES AUTOR GALHO ATINGIR TESTEMUNHA VER FUNCIONÁRIO LOJA CONVENIÊNCIA TIRAR NEVE CALÇADA LOJA FRENTE. DEPOIMENTO MULHER SER."
+  }
+]
+
+json
+[{"ID": "11003Q1", "PT": "Um réu foi acusado de assassinato. O assassinato ocorreu em 1º de fevereiro. Na época em que o crime ocorreu, esta jurisdição exigiu um veredito unânime de todos os 12 membros do júri para uma condenação por um crime capital. Em 1º de novembro, a legislatura estadual promulgou uma nova lei exigindo uma maioria de votos de sete dos 12 jurados para condenar por um crime capital. O julgamento do réu começou em 1º de dezembro. Ele foi posteriormente condenado por assassinato por uma votação de oito a quatro. Após o julgamento, o advogado do réu entrou com uma moção para anular o veredito.", "GLOSA": "RÉU ACUSAR ASSASSINATO. ASSASSINATO ACONTECER FEVEREIRO UM. CRIME ACONTECER ÉPOCA JURISDIÇÃO EXIGIR VEREDITO UNÂNIME DOZE JURADO TODOS CONDENAR CRIME CAPITAL. NOVEMBRO UM LEGISLATURA ESTADUAL PROMULGAR LEI NOVO EXIGIR MAIORIA VOTO SETE DOZE JURADO CONDENAR CRIME CAPITAL. JULGAMENTO RÉU COMEÇAR DEZEMBRO UM. ELE CONDENAR ASSASSINATO VOTO OITO QUATRO. JULGAMENTO DEPOIS ADVOGADO RÉU ENTRAR MOÇÃO ANULAR VEREDITO."}]
+
+json
+[
+  {
+    "ID": "11004Q1",
+    "PT": "Uma empresa fabrica um xampu anticaspa popular. Na caixa do xampu há um rótulo de advertência aconselhando os consumidores a fazer um \\\"teste de contato\\\" antes de aplicar. O rótulo afirma que um \\\"teste de contato\\\" é necessário porque uma pequena porcentagem da população pode ser alérgica aos produtos químicos contidos no produto e suscetível a sofrer irritação no couro cabeludo. Um imigrante russo mudou-se recentemente de Moscou para os Estados Unidos. O imigrante não sabe ler nem falar inglês. Um dia, o imigrante comprou um frasco de xampu em uma farmácia. Ela olhou para o aviso do rótulo, mas não entendeu. Depois de jogar fora a caixa, ela usou o xampu sem fazer um \\\"teste de contato\\\". Minutos depois, ela começou a ter uma reação alérgica e irritação no couro cabeludo. Isso foi seguido por perda de cabelo atribuída ao xampu. Se o imigrante entrar com uma ação contra a empresa por responsabilidade estrita por produtos, ela provavelmente",
+    "GLOSA": "EMPRESA FABRICAR XAMPU CASPA POPULAR CAIXA XAMPU RÓTULO AVISO TESTE CONTATO APLICAR ANTES RÓTULO DIZER TESTE CONTATO NECESSÁRIO PORCENTAGEM PEQUENA POPULAÇÃO ALERGIA QUÍMICO PRODUTO IRRITACAO COURO CABELO IMIGRANTE RUSSO MUDAR MOSCOU ESTADOS UNIDOS IMIGRANTE SABER LER FALAR INGLÊS NÂO IMIGRANTE COMPRAR XAMPU FARMÁCIA AVISO RÓTULO OLHAR ENTENDER NÃO CAIXA JOGAR FORA XAMPU USAR TESTE CONTATO FAZER NÃO MINUTOS DEPOIS ALERGIA REAÇÃO IRRITACAO COURO CABELO TER COMEÇAR CABELO PERDA XAMPU ATRIBUIR IMIGRANTE AÇÃO ENTRAR EMPRESA CONTRA RESPONSABILIDADE ESTRITA PRODUTO PROBABILMENTE"
+  }
+]
+
+json
+[{'ID': '11255Q1', 'PT': 'No ano passado, a mulher transferiu o lote por um preço muito alto por uma escritura de quitação para uma amiga, que pagou em dinheiro, não conduziu uma busca de título e não comprou o seguro de título.', 'GLOSA': 'ANO PASSADO MULHER TRANSFERIR LOTE PREÇO ALTO ESCRITURA QUITAÇÃO AMIGA DINHEIRO PAGAR BUSCA TÍTULO NÃO FAZER SEGURO TÍTULO NÃO COMPRAR'}]
+
+json
+[{"ID": "11256Q1", "PT": "Quando ela pegou o carro, havia uma cobrança de $ 5.000 pelo serviço.", "GLOSA": "ELA PEGAR CARRO HAVÊR COBRANÇA CINCO MIL DÓLAR SERVIÇO."}]
+
+json
+[
+  {
+    "ID": "11257Q1",
+    "PT": "Um ávido fã de beisebol queria comprar ingressos para um próximo jogo de beisebol que seria realizado no estádio local. Ele contatou o escritório de vendas de ingressos do estádio, que o informou que todos os ingressos seriam colocados à venda no estádio às 9:00 da manhã do dia seguinte. O fã, que trabalhava como pedreiro, percebeu que não poderia sair do trabalho para comprar os ingressos. Consequentemente, o fã telefonou para seu vizinho e perguntou se ele estaria interessado em ir ao estádio para comprar os ingressos de beisebol. O vizinho disse ao fã que ficaria feliz em comprar os ingressos para ele e que ele (o vizinho) também queria comprar ingressos para si mesmo. No entanto, o vizinho disse que seu carro havia quebrado e que ele não tinha transporte disponível para chegar ao estádio. O fã sugeriu que ele poderia emprestar seu carro para o vizinho. O vizinho concordou, e na manhã seguinte os dois homens se encontraram em frente à casa do fã. O fã deu ao vizinho as chaves de seu carro e também dinheiro para comprar seus ingressos de beisebol. Depois disso, o vizinho dirigiu o carro do torcedor até o estádio, onde comprou os ingressos para o torcedor e (usando seu próprio dinheiro) também comprou um conjunto de ingressos para si mesmo. O torcedor havia instruído o vizinho a devolver o carro para a casa do torcedor após sua ida ao estádio. Depois que o vizinho deixou o estádio, no entanto, ele decidiu visitar um amigo em uma cidade localizada a 120 milhas de sua casa. Enquanto o vizinho dirigia em direção à cidade, um automóvel bateu nele, causando danos significativos ao carro do torcedor. O custo do conserto do carro do torcedor foi determinado como sendo maior do que o valor de varejo do automóvel. Em uma ação do torcedor contra o vizinho para recuperar os danos resultantes do acidente, o torcedor provavelmente",
+    "GLOSA": "FÃ BEISEBOL QUERER COMPRAR INGRESSO JOGO BEISEBOL ESTÁDIO LOCAL. FÃ CONTACTAR ESTÁDIO INGRESSO VENDA INFORMAÇÃO INGRESSO VENDA ESTÁDIO MANHÃ. FÃ PEDREIRO TRABALHAR NÃO PODER SAIR TRABALHO COMPRAR INGRESSO. FÃ TELEFONAR VIZINHO PERGUNTAR VIZINHO IR ESTÁDIO COMPRAR INGRESSO BEISEBOL. VIZINHO DIZER FÃ FELIZ COMPRAR INGRESSO FÃ VIZINHO QUERER COMPRAR INGRESSO. VIZINHO CARRO QUEBRAR TRANSPORTE NÃO TER. FÃ SUGERIR FÃ EMPRESTAR CARRO VIZINHO. VIZINHO CONCORDAR MANHÃ HOMENS ENCONTRAR CASA FÃ. FÃ DAR VIZINHO CHAVE CARRO DINHEIRO COMPRAR INGRESSO BEISEBOL. VIZINHO DIRIGIR CARRO ESTÁDIO COMPRAR INGRESSO FÃ VIZINHO COMPRAR INGRESSO. FÃ INSTRUI VIZINHO DEVOLVER CARRO CASA FÃ. VIZINHO DEIXAR ESTÁDIO VISITAR AMIGO CIDADE 120 MILHAS CASA. VIZINHO DIRIGIR CIDADE AUTOMÓVEL BATER DANOS CARRO FÃ. CUSTO CONSERTO CARRO FÃ MAIOR VALOR AUTOMÓVEL. AÇÃO FÃ VIZINHO RECUPERAR DANOS ACIDENTE FÃ PROVAVELMENTE"
+  }
+]
+
+json
+[{'ID': '11258Q1', 'PT': 'Um réu está sendo julgado por roubo. O advogado do réu planeja chamar uma testemunha. Nove anos antes, a testemunha havia sido condenada por agressão leve. O advogado do réu entrou com uma moção impedindo a promotoria de questionar a testemunha sobre essa condenação anterior. A moção provavelmente será', 'GLOSA': 'RÉU JULGAR ROUBO ADVOGADO RÉU CHAMAR TESTEMUNHA NOVE ANO ANTES TESTEMUNHA CONDENAR AGRESSÃO LEVE ADVOGADO RÉU MOÇÃO ENTRAR IMPEDIR PROMOTOR QUESTIONAR TESTEMUNHA CONDENÇÃO ANTERIOR MOÇÃO PROVAVELMENTE SER'}]
+
+json
+[{'ID': '11259Q1', 'PT': 'Um estado promulgou um estatuto tornando ilegal vender, comprar ou distribuir conscientemente qualquer forma de tabaco a um menor. A violação do estatuto era uma contravenção punível com uma multa de $ 500 e até 30 dias de prisão. Após a promulgação do estatuto, um réu vendeu um maço de cigarros para uma garota de 17 anos. Antes de vender o produto para a garota, o réu examinou cuidadosamente a carteira de motorista da garota, que indicava que ela tinha, de fato, 17 anos. O réu, no entanto, fez a venda porque ele erroneamente acreditava que a maioridade era 17. O réu é posteriormente acusado de violação do estatuto, e seu erro é honestamente considerado como tendo sido cometido. Tal erro deveria', 'GLOSA': 'ESTADO PROMULGAR ESTATUTO TABACO MENOR VENDER COMPRAR DISTRIBUIR ILEGAL. VIOLAÇÃO ESTATUTO CONTRA-VENÇÃO MULTA 500 DÓLAR PRISÃO 30 DIA. DEPOIS PROMULGAÇÃO ESTATUTO RÉU VENDER CIGARRO GAROTA 17-ANO. ANTES VENDER PRODUTO GAROTA RÉU EXAMINAR CUIDADOSAMENTE CARTEIRA-MOTORISTA GAROTA 17-ANO. RÉU PORÉM VENDER ELE ERRADO ACREDITAR MAIORIDADE 17-ANO. RÉU DEPOIS ACUSAR VIOLAÇÃO ESTATUTO ERRO CONSIDERAR HONESTO COMETER. ERRO DEVER'}]
+
+json
+[
+  {
+    "ID": "11446Q1",
+    "PT": "Um produtor de frutas cítricas era o proprietário de dois lotes adjacentes de terra em uma cidade: um pomar de laranjas e um pomar de limões. O título do produtor para o pomar de limões estava sujeito a uma hipoteca não registrada de 20 anos dada ao credor hipotecário, um banco, em 1990 para garantir o pagamento de um empréstimo de $ 100.000. Começando em novembro de 1993, os seguintes eventos ocorreram: Novembro de 1993: A produtora morreu, deixando todos os seus bens imóveis para o marido. O testamento da produtora foi admitido para inventário. Nenhuma menção foi feita à hipoteca dada ao banco. Dezembro de 1993: Tendo ouvido sobre a morte do produtor, o banco registrou sua hipoteca para o pomar de limões. Agosto de 1994: O marido executou e entregou à irmã uma escritura de hipoteca sobre o pomar de laranjas, que a irmã imediatamente registrou. O instrumento de hipoteca continha as seguintes recitações: \\\"Esta hipoteca é garantida pelo laranjal e todos os outros imóveis que eu possa possuir na cidade ou ter interesse.\\\" O marido deixou de pagar sua obrigação de hipoteca para com a irmã; o valor devido da dívida era de $ 100.000. Fevereiro de 2009: O banco moveu uma ação contra o marido para executar sua hipoteca sobre o limoeiro. O estatuto de registro aplicável prevê em parte: \\\"Nenhuma escritura ou outro instrumento por escrito, não registrado de acordo com este estatuto, afetará o título ou direitos sobre qualquer imóvel, de qualquer legatário ou comprador de boa-fé, sem conhecimento da existência de tais instrumentos não registrados. \\\"O julgamento deve ser para'",
+    "GLOSA": "PRODUTOR FRUTA CÍTRICA TER DOIS LOTE TERRA CIDADE POMAR LARANJA POMAR LIMÃO. PRODUTOR TÍTULO LIMÃO HIPOTECA NÃO-REGISTRAR VINTE ANO CREDOR HIPOTECÁRIO BANCO MIL NOVECENTOS E NOVENTA PAGAMENTO EMPRÉSTIMO CEM MIL DÓLAR. NOVEMBRO MIL NOVECENTOS E NOVENTA E TRÊS EVENTO ACONTECER. NOVEMBRO MIL NOVECENTOS E NOVENTA E TRÊS PRODUTORA MORRER DEIXAR BEM IMÓVEL MARIDO. TESTAMENTO PRODUTORA INVENTÁRIO. HIPOTECA BANCO MENCIONAR NADA. DEZEMBRO MIL NOVECENTOS E NOVENTA E TRÊS MORTE PRODUTOR BANCO SABER HIPOTECA REGISTRAR LIMÃO. AGOSTO MIL NOVECENTOS E NOVENTA E QUATRO MARIDO EXECUTAR ENTREGAR IRMÃ ESCRITURA HIPOTECA LARANJA IRMÃ REGISTRAR. INSTRUMENTO HIPOTECA RECITAÇÃO CONTER. HIPOTECA GARANTIR LARANJA IMÓVEL CIDADE TER INTERESSE. MARIDO PAGAR HIPOTECA IRMÃ DEIXAR. DÍVIDA CEM MIL DÓLAR. FEVEREIRO DOIS MIL E NOVE BANCO AÇÃO MARIDO HIPOTECA LIMÃO. REGISTRO ESTATUTO PREVER. ESCRITURA INSTRUMENTO ESCRITO NÃO-REGISTRAR REGISTRO ESTATUTO AFECTAR TÍTULO DIREITO IMÓVEL LEGATÁRIO COMPRADOR BOA-FÉ CONHECIMENTO INSTRUMENTO NÃO-REGISTRAR TER. JULGAMENTO."
+  }
+]
+
+json
+[
+  {
+    "ID": "11447Q1",
+    "PT": "Com base em estudos científicos que mostram uma relação causal entre o consumo de \\\"carne vermelha\\\" (principalmente carne bovina) e certas formas de câncer, um estatuto federal proíbe toda propaganda comercial de produtos de carne vermelha. O estatuto, no entanto, não restringe a venda de produtos de carne vermelha. Produtores de carne vermelha contestaram o estatuto como uma violação de seus direitos de liberdade de expressão protegidos pela Primeira Emenda. É provável que o tribunal considere o estatuto constitucional?",
+    "GLOSA": "ESTUDO CIENTÍFICO MOSTRAR RELAÇÃO CAUSAL CONSUMO CARNE VERMELHA PRINCIPALMENTE CARNE BOVINA CÂNCER CERTO ESTÁTUTO FEDERAL PROIBIR PROPAGANDA COMERCIAL CARNE VERMELHA. ESTÁTUTO ENTRETANTO NÃO RESTRINGIR VENDA CARNE VERMELHA.PRODUTOR CARNE VERMELHA CONTESTAR ESTÁTUTO VIOLAÇÃO DIREITO LIBERDADE EXPRESSÃO PRIMEIRA EMENDA PROTEGER. TRIBUNAL CONSIDERAR ESTÁTUTO CONSTITUCIONAL PROVÁVEL?"
+  }
+]
+
+json
+[{'ID': '11448Q1', 'PT': 'Dois carros estavam dirigindo dentro do limite de velocidade legal quando se aproximaram de um cruzamento. Não há semáforos, placas de pare ou avisos postados neste cruzamento. Ambos os veículos entraram no cruzamento simultaneamente e colidiram. No acidente, um dos motoristas sofreu uma fratura na pélvis e ferimentos internos. Embora o caminhão do outro motorista tenha sido levemente danificado, ele não sofreu nenhum ferimento físico. Depois disso, o motorista ferido processou a cidade por negligência, alegando que a cidade não forneceu aviso adequado no cruzamento, que ela alegou ser extremamente perigoso e com muito tráfego. No julgamento, o advogado da cidade oferece evidências de que o cruzamento é o mesmo há 14 anos e nenhum outro acidente ocorreu durante esse tempo. Após a objeção do advogado do motorista ferido, esta evidência deve ser', 'GLOSA': 'DOIS CARRO DIRIGIR LIMITE VELOCIDADE LEGAL CRUZAMENTO APROXIMAR. SEMÁFORO PLACA PARE AVISO NÃO TER. DOIS VEICULO CRUZAMENTO ENTRAR MESMO TEMPO COLIDIR. ACIDENTE UM MOTORISTA FRATURA PÉLVIS FERIMENTO INTERNO. OUTRO MOTORISTA CAMINHÃO DANIFICAR POUCO FERIMENTO FÍSICO NÃO TER. DEPOIS MOTORISTA FERIDO CIDADE PROCESSAR NEGLIGÊNCIA. CIDADE AVISO ADEQUADO NÃO FORNECER. CRUZAMENTO MUITO PERIGOSO TRÁFEGO MUITO. JULGAMENTO ADVOGADO CIDADE EVIDÊNCIA FORNECER. CRUZAMENTO MESMO 14 ANO ACIDENTE OUTRO NÃO TER. ADVOGADO MOTORISTA FERIDO OBJETAR EVIDÊNCIA DEVE'}]
+
+json
+[
+  {
+    "ID": "11449Q1",
+    "PT": "Uma viúva era proprietária em pleno direito de um prédio de apartamentos. A viúva redigiu um testamento pelo qual ela legou o prédio de apartamentos para sua neta com o restante para sua amiga e sua assistente. Um ano depois, a neta morreu sem deixar testamento e deixou seu filho, que era seu único herdeiro legal. Esta jurisdição tem o seguinte estatuto em vigor: \\\"Se um legatário de um avô ou descendente linear de um avô morrer no momento da execução do testamento ou não sobreviver ao testador, a questão da pessoa falecida tomará a parte do falecido sob o testamento. \\\"A viúva então morreu e seu testamento foi admitido para inventário. Surgiu uma disputa entre a amiga, a assistente e o filho sobre a propriedade do prédio de apartamentos. O filho tem direito a alguma parte ou interesse no prédio de apartamentos?",
+    "GLOSA": "VIÚVA PROPRIETÁRIA PRÉDIO APARTAMENTO. VIÚVA TESTAMENTO FAZER PRÉDIO APARTAMENTO NETA DEIXAR RESTANTE AMIGA ASSISTENTE DEIXAR.  ANO DEPOIS NETA MORRER TESTAMENTO NÃO TER FILHO HERDEIRO ÚNICO. JURISDIÇÃO LEI TER: LEGATÁRIO AVÔ OU DESCENDENTE AVÔ MORRER TESTAMENTO EXECUÇÃO OU TESTADOR SOBREVIVER NÃO, FALECIDO PARTE TOMAR TESTAMENTO. VIÚVA MORRER TESTAMENTO INVENTÁRIO. AMIGA ASSISTENTE FILHO DISPUTA PRÉDIO APARTAMENTO. FILHO DIREITO PARTE OU INTERESSE PRÉDIO APARTAMENTO TER?"
+  }
+]
+
+json
+[{"ID": "11450Q1", "PT": "Um policial de uma cidade pequena parou um motorista por excesso de velocidade. Ele acreditava que o motorista estava agindo de forma irritada e inquieta, mas não tinha nenhuma razão articulada para pensar que algo estava errado. Ele revistou o carro de qualquer maneira e encontrou duas caixas de pêssegos frescos em lata, que eram de propriedade da vizinha do motorista e foram relatadas como roubadas de sua varanda 24 horas antes. As autoridades o acusaram de roubo sob o código penal estadual. Sua moção para suprimir as evidências por causa de uma busca ilegal foi negada. Na apelação, o tribunal de apelação provavelmente reverterá a decisão do tribunal inferior que negou a moção para suprimir?", "GLOSA": "POLICIAL CIDADE PEQUENA PARAR MOTORISTA VELOCIDADE EXCESSO. ELE ACREDITAR MOTORISTA IRRITADO INQUIETAR MAS RAZÃO ARTICULADO NADA ERRADO. ELE REVISAR CARRO MESMO ENCONTRAR CAIXA PÊSSEGO LATA FRESCO DOIS, VIZINHA MOTORISTA PERTENCER ROUBAR VARANDA 24 HORA ANTES. AUTORIDADE ACUSAR ROUBO CÓDIGO PENAL ESTADO.  MOÇÃO SUPRIMIR EVIDÊNCIA BUSCA ILEGAL NEGAR. APELAÇÃO TRIBUNAL APELAÇÃO PROBABILMENTE REVERTER DECISÃO TRIBUNAL INFERIOR NEGAR MOÇÃO SUPRIMIR?"}]
+
+json
+[
+  {
+    "ID": "11474Q1",
+    "PT": "Na sexta-feira à noite, um motorista se feriu em um acidente automobilístico depois que seu veículo foi atingido lateralmente por um motorista não identificado. Após o acidente, o motorista foi internado no hospital, onde foi tratado dos ferimentos. Enquanto estava no hospital, o motorista foi diagnosticado com uma fratura nas costas. Ele foi engessado e colocado em tração. O médico do motorista montou o aparelho de tração e posicionou a perna esquerda do motorista em um estribo suspenso em um ângulo de 40 graus. O motorista foi instruído a deitar de costas na cama. Na manhã de sábado, após o café da manhã, o motorista pediu uma comadre a uma enfermeira. Ela estava colocando a comadre sob o corpo do motorista quando o estribo, que segurava sua perna, quebrou. Isso fez com que a perna do motorista caísse contra a estrutura de metal ao longo da lateral da cama, fraturando sua tíbia. O aparelho de tração estava com defeito porque o fabricante não incluiu uma trava de segurança no dispositivo do estribo para evitar que ele caísse se não estivesse firmemente preso no lugar. Se o motorista fizer uma reclamação contra o fabricante, ele provavelmente...",
+    "GLOSA": "SEXTA-FEIRA NOITE MOTORISTA FERIR ACIDENTE CARRO DEPOIS VEÍCULO ATINGIR LATERAL MOTORISTA NÃO-IDENTIFICAR. ACIDENTE DEPOIS MOTORISTA INTERNAR HOSPITAL TRATAR FERIMENTO. HOSPITAL MOTORISTA FRATURA COSTAS DIAGNOSTICAR. ENGESSAR TRAÇÃO COLOCAR. MÉDICO MOTORISTA APARELHO TRAÇÃO MONTAR PERNA ESQUERDA MOTORISTA ESTRIBO POSICIONAR 40 GRAU. MOTORISTA DEITAR COSTAS CAMA INSTRUIÇÃO. SÁBADO MANHÃ CAFÉ DA MANHÃ DEPOIS MOTORISTA COMADRE ENFERMEIRA PEDIR. ELA COMADRE CORPO MOTORISTA COLOCAR ESTRIBO PERNA SEGURAR QUEBRAR. PERNA MOTORISTA CAMA ESTRUTURA METAL CAIR TÍBIA FRATURAR. APARELHO TRAÇÃO DEFEITO FABRICANTE TRAVA SEGURANÇA NÃO-INCLUIR ESTRIBO EVITAR CAIR FIRME. MOTORISTA RECLAMAÇÃO FABRICANTE FAZER..."
+  }
+]
+
+json
+[{'ID': '11475Q1', 'PT': 'Para preservar a aparência e acessibilidade do edifício do capitólio, um estado promulgou uma lei proibindo \\"a exibição de qualquer placa em qualquer parte da calçada pública ao redor\\" do edifício. Um grupo de cinco manifestantes que queriam protestar contra o financiamento estadual inadequado para serviços infantis solicitou uma autorização para marchar em fila única na calçada ao redor do edifício do capitólio. Cada manifestante planejou carregar uma placa de dois pés quadrados que diria: \\"Nossos legisladores não se importam com nossas crianças\\". O pedido de autorização do grupo foi negado de acordo com a lei estadual, e o grupo entrou com uma ação contestando a constitucionalidade da lei. O tribunal deve manter a constitucionalidade da lei?', 'GLOSA': 'ESTADO LEI APROVAR APARÊNCIA EDIFÍCIO CAPITÓLIO PRESERVAR CALÇADA PLACA PROIBIR. GRUPO CINCO MANIFESTANTE PROTESTAR FINANCIAMENTO SERVIÇO INFANTIL INADEQUADO AUTORIZAÇÃO PEDIR.  CALÇADA CAPITÓLIO EDIFÍCIO MARCHAR FILA ÚNICA.  PLACA DOIS PÉS QUADRADO CADA MANIFESTANTE CARREGAR.  LEGISLADOR CRIANÇA IMPORTAR NÃO. PEDIDO NEGAR LEI ESTADO. GRUPO AÇÃO ENTRAR CONSTITUCIONALIDADE CONTESTAR. TRIBUNAL LEI CONSTITUCIONALIDADE MANTER DEVER?'}]
+
+json
+[
+  {
+    "ID": "11476Q1",
+    "PT": "Uma empresa comprou um computador do site de um vendedor. O formulário de compra tinha uma conexão de hiperlink proeminente para uma página que continha \\\"termos e condições adicionais importantes de venda\\\", mas o comprador não acessou essa página. O produto entregue incluía os termos adicionais por escrito, juntamente com um aviso em negrito exigindo que o comprador devolvesse o produto dentro de 30 dias se não aceitasse os termos e condições declarados. Após 35 dias, a empresa ficou insatisfeita com o computador e processou o vendedor por quebra de contrato. O vendedor exigiu que a disputa fosse decidida por arbitragem privada de acordo com os termos e condições adicionais do acordo. O comprador é legalmente obrigado a participar da arbitragem?",
+    "GLOSA": "EMPRESA COMPRAR COMPUTADOR VENDEDOR SITE. FORMULÁRIO COMPRA TER HIPERLINK TERMO CONDIÇÃO ADICIONAL VENDA, COMPRADOR NÃO ACESSAR. PRODUTO ENTREGAR TERMO ADICIONAL ESCRITO, AVISO NEGRITO COMPRADOR DEVOLVER PRODUTO 30 DIA, NÃO ACEITAR TERMO CONDIÇÃO. 35 DIA, EMPRESA INSATISFEITO COMPUTADOR PROCESSAR VENDEDOR QUEBRA CONTRATO. VENDEDOR EXIGIR DISPUTA ARBITRAGEM PRIVADA TERMO CONDIÇÃO ADICIONAL ACORDO. COMPRADOR OBRIGADO LEGALMENTE PARTICIPAR ARBITRAGEM?"
+  }
+]
+
+json
+[
+  {
+    "ID": "11477Q1",
+    "PT": "Um fornecedor de madeira e uma empresa de cercas assinaram o seguinte acordo em 1º de maio: \\\"O fornecedor promete vender e a empresa de cercas promete comprar 7.000 seções de cerca de paliçada de sequoia a US$ 30 por seção. Cada seção deve ser feita de postes de sequoia rachados de boa qualidade e deve ter 7 pés de comprimento e 6 pés de altura; 1.000 seções devem ser entregues pelo vendedor em ou antes de 1º de junho, e 1.000 seções até o primeiro dia de cada um dos seis meses seguintes. O pagamento pelas seções deve ser feito dentro de 10 dias da entrega. \\\"A primeira remessa de 1.000 seções chegou em 27 de maio, e a empresa de cercas enviou seu pagamento em 5 de junho. A segunda remessa chegou em 1º de julho, e a empresa de cercas fez o pagamento em 5 de julho. A remessa de agosto chegou na tarde de 1º de agosto. Após a inspeção inicial, os postes de sequoia foram encontrados com 7 pés de comprimento e 6,25 pés de altura. O gerente da empresa de cercas então ligou para o presidente do fornecedor de madeira. Durante a conversa, o presidente disse ao gerente que o fornecedor de madeira não poderia substituir a remessa de agosto, mas permitiria um ajuste de preço. O gerente recusou a oferta do presidente. No dia seguinte, o gerente enviou um fax ao presidente informando que ele estava cancelando todas as entregas futuras e devolvendo a última remessa devido à não conformidade. Se o fornecedor de madeira processar a empresa de cercas por quebra de contrato, o tribunal provavelmente decidirá que a empresa de madeira irá",
+    "GLOSA": "FORNECEDOR MADEIRA EMPRESA CERCA ASSINAR ACORDO 1 MAIO FORNECEDOR PROMETER VENDER EMPRESA CERCA COMPRAR 7000 SEÇÃO CERCA SEQUOIA 30 DÓLAR SEÇÃO CADA SEÇÃO POSTE SEQUOIA BOA QUALIDADE 7 PÉ COMPRIMENTO 6 PÉ ALTURA 1000 SEÇÃO ENTREGAR 1 JUNHO 1000 SEÇÃO 6 MÊS SEGUINTE PAGAMENTO SEÇÃO 10 DIA ENTREGA PRIMEIRA REMESSA 1000 SEÇÃO CHEGAR 27 MAIO EMPRESA CERCA PAGAR 5 JUNHO SEGUNDA REMESSA CHEGAR 1 JULHO PAGAMENTO 5 JULHO REMESSA AGOSTO CHEGAR 1 AGOSTO INSPEÇÃO POSTE SEQUOIA 7 PÉ COMPRIMENTO 6,25 PÉ ALTURA GERENTE EMPRESA CERCA LIGAR PRESIDENTE FORNECEDOR MADEIRA CONVERSA PRESIDENTE DIZER GERENTE FORNECEDOR MADEIRA NÃO SUBSTITUIR REMESSA AGOSTO AJEITAR PREÇO GERENTE RECUSAR OFERTA PRESIDENTE DIA SEGUINTE GERENTE ENVIAR FAX PRESIDENTE CANCELAR ENTREGA FUTURA DEVOLVER ÚLTIMA REMESSA NÃO CONFORMIDADE FORNECEDOR MADEIRA PROCESSAR EMPRESA CERCA QUEBRA CONTRATO TRIBUNAL DECIDIR EMPRESA MADEIRA"
+  }
+]
+
+json
+[{"ID": "11559Q1", "PT": "De acordo com um estatuto recentemente promulgado, o Congresso criou uma agência de nove membros com poderes para promulgar regras que regem os padrões de qualidade do ar para a nação. De acordo com o estatuto, o Presidente foi autorizado a nomear uma maioria de seis membros para a agência, e os outros três cargos deveriam ser preenchidos pelo Senado. Os nove membros foram devidamente nomeados para a agência, e todos os nomeados foram posteriormente aprovados em audiências de confirmação. Posteriormente, a agência emitiu os seguintes regulamentos: (a) Exigindo que cada veículo motorizado operando nos Estados Unidos seja equipado com um dispositivo de controle de ar/combustível especificado; (b) Exigindo que cada aquecedor a gás ou óleo localizado nos Estados Unidos seja equipado com um dispositivo especificado para reduzir as emissões; (c) Exigindo que cada Estado estabeleça e mantenha um programa sob o qual cada veículo e cada aquecedor sejam testados anualmente para conformidade com os padrões federais de emissões. Qual dos seguintes argumentos forneceria os fundamentos constitucionais mais fortes contra a autoridade do estatuto?", "GLOSA": "ESTATUTO RECENTE CONGRESO CRIAR AGÊNCIA NOVE MEMBRO PODER REGRA QUALIDADE AR NAÇÃO. ESTATUTO PRESIDENTE NOMEAR SEIS MEMBRO AGÊNCIA, TRÊS MEMBRO SENADO NOMEAR. NOVE MEMBRO AGÊNCIA NOMEAR APROVAR. AGÊNCIA REGULAMENTO: (A) VEÍCULO MOTORIZADO ESTADOS UNIDOS DISPOSITIVO CONTROLE AR COMBUSTÍVEL. (B) AQUECEDOR GÁS ÓLEO ESTADOS UNIDOS DISPOSITIVO REDUZIR EMISSÃO. (C) ESTADO PROGRAMA VEÍCULO AQUECEDOR TESTAR ANUALMENTE PADRÃO FEDERAL EMISSÃO. ARGUMENTO CONSTITUCIONAL FORTE AUTORIDADE ESTATUTO QUAL?"}]
+
+json
+[{"ID": "11560Q1", "PT": "Um proprietário de terras, sendo proprietário em pleno gozo de uma fazenda, transferiu a propriedade por escritura de garantia a um investidor. O investidor deu a um fazendeiro uma hipoteca na fazenda para garantir um empréstimo do fazendeiro ao investidor no valor de $ 50.000. A hipoteca foi registrada imediatamente. Dois anos depois, o investidor transferiu a fazenda a seu amigo por escritura de quitação. De acordo com o instrumento de escritura, o amigo \\\"assumiu a hipoteca\\\". O investidor então deixou de pagar a hipoteca, e o fazendeiro moveu uma ação in personam contra o amigo para recuperar o valor da hipoteca devida. O fazendeiro provavelmente", "GLOSA": "PROPRIETÁRIO TERRA FAZENDA TER PROPRIETÁRIO TRANSFERIR INVESTIDOR GARANTIA. INVESTIDOR DAR FAZENDEIRO HIPOTECA FAZENDA GARANTIR EMPRÉSTIMO FAZENDEIRO INVESTIDOR VALOR 50.000. HIPOTECA REGISTRAR. DOIS ANO DEPOIS INVESTIDOR TRANSFERIR FAZENDA AMIGO ESCRITURA. AMIGO ASSUMIR HIPOTECA. INVESTIDOR PAGAR HIPOTECA NÃO FAZENDEIRO AÇÃO AMIGO RECUPERAR VALOR HIPOTECA."}]
+
+json
+[{'ID': '11561Q1', 'PT': 'Um policial de folga estava parado na esquina de uma rua esperando um ônibus. Um homem veio por trás e roubou a carteira do policial do bolso da calça. Enquanto o homem fugia com a carteira, o policial sacou seu revólver de serviço. O policial gritou para o homem parar e então disparou vários tiros na direção do homem. O policial não mirou diretamente no homem, mas atirou na calçada com a intenção de assustá-lo. Uma das balas ricocheteou na calçada e atingiu o homem, matando-o. O policial é culpado de', 'GLOSA': 'POLICIAL FOLGA PARAR ESQUINA RUA ESPERAR ÔNIBUS. HOMEM VIR ATRÁS ROUBAR CARTEIRA POLICIAL CALÇA. HOMEM FUGIR CARTEIRA POLICIAL REVÓLVER TIRAR. POLICIAL GRITAR HOMEM PARAR DISPARAR TIROS HOMEM. POLICIAL MIRAR NÂO HOMEM ATIRAR CALÇADA ASSUSTAR. BALA RICOCHETEAR CALÇADA ATINGIR HOMEM MATAR. POLICIAL CULPADO'}]
+
+json
+[{"ID": "11562Q1", "PT": "Um proprietário compra um novo soprador de folhas e fica tão impressionado com sua potência que fica muito entusiasmado e joga grandes quantidades de seu trabalho no quintal do vizinho. Além das folhas, ele também joga grandes quantidades de restos de plantas infestadas de pragas na propriedade do vizinho. O material se acumulou em pilhas grandes e feias e causou danos às plantas saudáveis do vizinho. Ele tem que pagar trabalhadores para transportar o material e incorre em despesas para substituir plantas perenes infectadas. O vizinho processa por delito de invasão de propriedade. O proprietário entra com uma moção para rejeitar porque o vizinho não pode provar que o proprietário agiu com a intenção de invadir ou causar danos. O tribunal concederá a moção para rejeitar?", "GLOSA": "PROPRIETÁRIO COMPRAR SOPRADOR FOLHA IMPRESSIONAR POTÊNCIA ENTUSIASMAR JOGAR MUITO TRABALHO JARDIM VIZINHO FOLHA RESTO PLANTA PRAGA JOGAR PROPRIEDADE VIZINHO MATERIAL ACUMULAR PILHA GRANDE FEIO DANIFICAR PLANTA SAUDÁVEL VIZINHO PAGAR TRABALHADOR TRANSPORTAR MATERIAL DESPESA SUBSTITUIR PLANTA INFECTADA VIZINHO PROCESSAR DELITO INVASÃO PROPRIEDADE PROPRIETÁRIO ENTRAR MOÇÃO REJEITAR VIZINHO NÃO PROVAR PROPRIETÁRIO INTENÇÃO INVASÃO DANIFICAR TRIBUNAL CONCEDER MOÇÃO REJEITAR?"}]
+
+json
+[
+  {
+    "ID": "11563Q1",
+    "PT": "Um aluno era um brincalhão que gostava de fazer brincadeiras inusitadas. Tarde da noite, depois de estudar, ele costumava andar pelo campus vestido apenas com uma capa de chuva e boxers. Ao se aproximar de mulheres jovens, ele as exibia abrindo sua capa de chuva e se expondo em seus shorts. O aluno acreditava que estava cometendo um crime ao se exibir na frente das universitárias. Nesta jurisdição, é um crime exibir-se ou se expor nu, então, sem o conhecimento do aluno, o que ele estava fazendo não era um crime. Uma noite, o aluno invadiu uma casa de irmandade com a intenção de exibir-se para as irmãs da irmandade. Vestido apenas com sua capa de chuva e shorts, ele entrou no quarto de uma das irmãs que estava deitada em sua cama estudando para uma prova. A irmã, que conhecia o aluno, disse: \"O que você está fazendo aqui? Você não deveria estar estudando para as provas finais?\" O aluno então tirou sua capa de chuva e respondeu: \"Estude isso, baby!\" Ele então começou a correr pela casa da irmandade de shorts. Pouco depois, a polícia chegou e prendeu o aluno. Se o aluno for processado, ele deve ser considerado culpado de qual, se houver, dos seguintes crimes?",
+    "GLOSA": "ALUNO BRINCADEIRO GOSTAR BRINCADEIRA INUSITADO NOITE ESTUDAR DEPOIS ELE ANDAR CAMPUS CAPA CHUVA BOXER VESTIR APROXIMAR MULHER JOVEM ELE EXIBIR CAPA CHUVA ABRIR EXPOR SHORT ALUNO ACREDITAR CRIME COMETER ELE EXIBIR UNIVERSITARIAS JURISDIÇÃO CRIME EXIBIR EXPOR NU CONHECIMENTO ALUNO SEM ELE FAZER CRIME NÃO NOITE ALUNO CASA IRMANDADE INVADIR INTENÇÃO EXIBIR IRMÃS IRMANDADE CAPA CHUVA SHORT VESTIR ELE QUARTO IRMÃ ENTRAR ELA CAMA ESTUDAR PROVA DEITAR IRMÃ CONHECER ALUNO ELA DIZER OQUE FAZER VOCÊ ESTUDO PROVA FINAL DEVER ALUNO CAPA CHUVA TIRAR ELE RESPONDER ESTUDAR ISSO ELE CORRER CASA IRMANDADE SHORT POLICIA CHEGAR PRENDER ALUNO ALUNO PROCESSAR CULPADO CRIME QUAL"
+  }
+]
+
+json
+[{"ID": "11564Q1", "PT": "Uma compradora sofreu ferimentos nas costas e pernas quando escorregou em um pedaço solto de carpete em um corredor que conecta uma loja de departamentos e uma cafeteria. A compradora moveu uma ação contra o proprietário de todo o prédio. O proprietário alegou que, como ele alugou a cafeteria, ele não tinha mais nenhum controle sobre o corredor de conexão. Se a compradora oferecer como evidência o fato de que dois dias após o acidente, o proprietário mandou recolocar o carpete do corredor, o tribunal deve decidir que a evidência é", "GLOSA": "COMPRADORA FERIMENTO COSTAS PERNA ESCORREGAR CARPETE SOLTO CORREDOR CONECTAR LOJA CAFÉ COMPRADORA AÇÃO MOVIMENTO PROPRIETÁRIO PRÉDIO PROPRIETÁRIO ALUGAR CAFÉ CONTROLE CORREDOR NENHUM DOIS DIA ACIDENTE DEPOIS PROPRIETÁRIO CARPETE RECOLO CARPETE CORREDOR TRIBUNAL EVIDÊNCIA DECIDIR"}]
+
+json
+[
+  {
+    "ID": "11798Q1",
+    "PT": "Um dia, um menino de 11 anos chegou da escola com manchas de batom vermelho no colarinho. Quando a mãe do menino perguntou sobre as manchas de batom, o menino disse que sua professora o havia beijado. A mãe então contatou a polícia, que posteriormente conduziu uma investigação e prendeu a professora, acusando-a de duas acusações criminais de abuso infantil. De acordo com a lei estadual, uma audiência preliminar foi marcada. Depois que o menino foi intimado a testemunhar na audiência preliminar, a promotoria entrou com uma moção para excluir a professora do tribunal durante o comparecimento do menino. A moção, com declarações de apoio de um psicólogo infantil, alegou que ter o menino e a professora na mesma sala causaria significativo sofrimento emocional e psicológico à suposta vítima. O juiz deve...",
+    "GLOSA": "DIA MENINO ONZE-ANOS CHEGAR ESCOLA MANCHA BATOM VERMELHO COLARINHO. MÃE MENINO PERGUNTAR MANCHA BATOM MENINO DIZER PROFESSOR BEIJAR. MÃE CONTATAR POLÍCIA POLÍCIA INVESTIGAR PRENDER PROFESSOR ACUSAR DOIS ACUSAÇÃO CRIME ABUSO. LEI ESTADUAL AUDIÊNCIA MARCAR. MENINO INTIMAR TESTEMUNHAR AUDIÊNCIA PROMOTOR MOVIMENTO ENTRAR EXCLUIR PROFESSOR TRIBUNAL. MOVIMENTO DECLARAÇÃO APOIO PSICÓLOGO INFANTIL ALEGAÇÃO MENINO PROFESSOR MESMA-SALA SOFRIMENTO EMOCIONAL PSICOLÓGICO VÍTIMA CAUSAR. JUIZ DEVER..."
+  }
+]
+
+json
+[
+  {
+    "ID": "11799Q1",
+    "PT": "Um vendedor vendeu os dois terços orientais de sua terra para um comprador, que logo depois construiu uma casa lá. Um ano depois, o comprador abriu um caminho de sua casa através da terra retida pelo vendedor até uma estrada que confina com o limite oeste da terra do vendedor. O vendedor ficou parado e observou o comprador limpar o caminho, mas não fez nenhuma objeção. Este caminho é muito conveniente para o uso da terra pelo comprador, e o comprador o usou diariamente por vários meses. O caminho é facilmente aparente para qualquer um. Recentemente, o vendedor colocou uma barreira no caminho. O comprador agora entrou com uma ação para remover a barreira. A teoria que dá ao comprador sua melhor chance de sucesso seria que",
+    "GLOSA": "VENDEDOR VENDER TERRA DOIS TERÇO ORIENTAL COMPRADOR COMPRADOR CASA CONSTRUIR DEPOIS UM ANO COMPRADOR CAMINHO ABRIR CASA ATRAVÉS TERRA VENDEDOR RETER ESTRADA CONFINAR LIMITE OESTE TERRA VENDEDOR VENDEDOR PARADO OBSERVAR COMPRADOR LIMPAR CAMINHO OBJEÇÃO NENHUM FAZER CAMINHO CONVENIENTE USO TERRA COMPRADOR COMPRADOR USAR DIARIAMENTE VÁRIOS MESES CAMINHO APARENTE FÁCIL QUALQUER RECENTE VENDEDOR BARREIRA COLOCAR CAMINHO COMPRADOR AÇÃO ENTRAR BARREIRA REMOVER TEORIA COMPRADOR CHANCE SUCESSO DAR SER"
+  }
+]
+
+json
+[{'ID': '11800Q1', 'PT': 'Um estado tem um estatuto de atropelamento e fuga em vigor que torna crime deixar a cena de um acidente. Uma tarde, uma vítima de 9 anos estava andando de bicicleta pela rua. Quando a vítima desviou para a faixa sul, sua bicicleta foi atingida por um carro dirigido pelo réu. A vítima foi derrubada da bicicleta e jogada na calçada adjacente à rua. Embora a vítima tenha sofrido alguns arranhões e hematomas leves, ela não ficou gravemente ferida. Após o acidente, o carro dirigido pelo réu fugiu rapidamente. Momentos depois, no entanto, um trator-reboque colidiu com a traseira de um carro a cerca de 30 pés de onde a vítima estava deitada. O carro pegou fogo quase instantaneamente quando seu tanque de gasolina explodiu. A vítima, que foi engolida pelos destroços em chamas, foi morta. Se o réu for acusado de homicídio culposo pela morte da vítima, o réu deve ser considerado', 'GLOSA': 'ESTADO TER LEI ATROPELAMENTO FUGA CRIME DEIXAR ACIDENTE LUGAR. TARDE VÍTIMA 9-ANOS BICICLETA ANDAR RUA. VÍTIMA DESVIAR FAIXA SUL BICICLETA CARRO ATINGIR RÉU DIRIGIR. VÍTIMA CAIR BICICLETA CALÇADA JOGAR. VÍTIMA ARRANHÃO HEMATOMA LEVE SOFRER FERIDO GRAVE NÃO. ACIDENTE DEPOIS CARRO RÉU DIRIGIR FUGIR. MOMENTO DEPOIS TRATOR-REBOQUE CARRO ATRÁS COLIDIR VÍTIMA 30-PÉS DISTÂNCIA. CARRO FOGO PEGAR GASOLINA TANQUE EXPLODIR. VÍTIMA DESTRUIÇÃO CHAMAS ENVOLVER MORRER. RÉU HOMICÍDIO CULPOSO ACUSAR VÍTIMA MORTE RÉU CONSIDERAR.'}]
+
+json
+[{'ID': '11801Q1', 'PT': 'Um casal assinou um contrato para vender sua casa, e nele eles afirmaram que não sabiam de nenhum defeito estrutural na casa. Antes da data de fechamento, os compradores notaram tinta descascada e erosão do gesso em um canto do teto perto da lareira. Eles também notaram marcas de água na parede interna do porão. Os vendedores explicaram que esses eram problemas antigos que haviam sido corrigidos e eles simplesmente não conseguiram fazer os reparos cosméticos e a pintura. As partes foram para o fechamento e finalizaram o negócio. Na primeira semana na casa, os compradores encontraram uma grande quantidade de água em seu porão e enfrentaram água jorrando nas áreas de canto perto da lareira. Eles contrataram um empreiteiro que relatou a necessidade de reparos estruturais extensos. Eles processaram os vendedores por fraude, deturpação e garantias implícitas de habitabilidade, e pediram os fundos para consertar a propriedade. Eles têm uma causa de ação válida contra os vendedores?', 'GLOSA': 'CASAL CONTRATO ASSINAR CASA VENDER, CASAL SABER NADA DEFEITO CASA. COMPRADOR DATA FECHAMENTO ANTES TINTA DESCASCAR GESSO EROSÃO NOTAR, Lareira PERTO TETO CANTO. MARCA ÁGUA PAREDE PORÃO NOTAR. VENDEDOR PROBLEMA ANTIGO CORRIGIR, REPARO COSMÉTICO PINTURA FAZER NÃO-CONSEGUIR. PARTE FECHAMENTO NEGÓCIO FINALIZAR. SEMANA PRIMEIRO CASA, COMPRADOR ÁGUA MUITO PORÃO ENCONTRAR, ÁGUA Lareira PERTO CANTO JORRAR. EMPREITEIRO CONTRATAR, REPARO ESTRUTURAL EXTENSIVO NECESSÁRIO RELATAR. VENDEDOR PROCESSAR FRAUDE DETURPAÇÃO GARANTIA IMPLÍCITA HABITABILIDADE, DINHEIRO PROPRIEDADE CONSERTO PEDIR. CAUSA AÇÃO VÁLIDA TER?'}]
+
+json
+[{"ID": "11802Q1", "PT": "Um autor processou um réu em um tribunal do estado em que ambas as partes residem. O autor alega apenas uma causa de ação decorrente de um estatuto federal, embora a lei estadual forneça uma causa de ação semelhante. O estatuto federal prevê que as reivindicações sob o estatuto podem ser apresentadas em qualquer tribunal de jurisdição competente. O estatuto ainda não foi interpretado por nenhum tribunal federal. O tribunal estadual deve ouvir o caso?", "GLOSA": "AUTOR PROCESSAR RÉU TRIBUNAL ESTADO AMBOS PARTES RESIDIR. AUTOR ALEGAR CAUSA AÇÃO ESTATUTO FEDERAL, LEI ESTADUAL CAUSA AÇÃO SEMELHANTE. ESTATUTO FEDERAL PREVER REIVINDICAÇÃO ESTATUTO APRESENTAR QUALQUER TRIBUNAL JURISDIÇÃO COMPETENTE. ESTATUTO AINDA NÃO INTERPRETAR TRIBUNAL FEDERAL. TRIBUNAL ESTADUAL DEVE OUVIR CASO?"}]
+
+json
+[{"ID": "11803Q1", "PT": "Qual dos seguintes tipos de regulamentações não seria revisado sob o padrão de revisão de escrutínio rigoroso?", "GLOSA": "QUAL TIPO REGULAMENTO NÃO REVISAR PADRÃO REVISÃO ESCRUTÍNIO RIGOROSO?"}]
+
+json
+[
+  {
+    "ID": "14628Q1",
+    "PT": "Qual dos seguintes medicamentos é classificado como estimulante?",
+    "GLOSA": "MEDICAMENTO SEGUINTE QUAL ESTIMULANTE CLASSIFICAR?"
+  }
+]
+
+json
+[
+  {
+    "ID": "4656C1",
+    "PT": "o benefício marginal do segundo pedaço de bolo é menor que o custo marginal.",
+    "GLOSA": "BOLO PEDAÇO SEGUNDO BENEFÍCIO MARGINAL MENOR CUSTO MARGINAL."
+  }
+]
+
+json
+[{"ID": "5747C2", "PT": "Pessoas pobres precisam de apoio para ajudar a si mesmas.", "GLOSA": "PESSOA POBRE PRECISAR APOIO AJUDAR-SE"}]
+
+json
+[{"ID": "5749C2", "PT": "Escravos no Sul antes da guerra", "GLOSA": "ESCRAVO SUL GUERRA ANTES"}]
+
+json
+[{"ID": "5750C2", "PT": "Competência vs. fracasso", "GLOSA": "COMPETÊNCIA VERSUS FRACASSO"}]
+
+json
+[{"ID": "5752C2", "PT": "Proclamação de Anistia e Reconstrução.", "GLOSA": "PROCLAMAÇÃO ANISTIA RECONSTRUÇÃO"}]
+
+json
+[{'ID': '5753C2', 'PT': 'Rebeliões de escravos, como a Rebelião de Stono, inspiraram americanos escravizados em toda a América do Norte a adotar comportamento semelhante.', 'GLOSA': 'REBELDIA ESCRAVO COMO REBELDIA STONO INSPIRAR AMERICANO ESCRAVIZADO AMÉRICA NORTE TODO COMPORTAMENTO SEMELHANTE ADOTAR.'}]
+
+json
+[{"ID": "5754C2", "PT": "Os Estados Unidos avaliaram incorretamente a boa vontade e a honra da Grã-Bretanha em termos de cumprimento das estipulações do Tratado de Paris (1783).", "GLOSA": "ESTADOS UNIDOS AVALIAR INCORRETO BOA VONTADE HONRA GRÃ-BRETANHA TRATADO PARIS 1783 CUMPRIMENTO ESTIPULAÇÃO."}]
+
+json
+[{"ID": "5763C2", "PT": "Em 1993, a procuradora-geral Janet Reno lançou uma ação enérgica contra o culto Branch Davidian liderado por Timothy McVeigh, mais tarde recebendo críticas do Congresso por sua abordagem pesada.", "GLOSA": "1993 PROCURADORA-GERAL JANET RENO AÇÃO ENÉRGICA LANÇAR CULTO BRANCH DAVIDIAN TIMOTHY MCVEIGH LIDERAR CONGRESSO CRÍTICA RECEBER ABORDAGEM PESADA"}]
+
+json
+[{'ID': '5766C2', 'PT': 'Carnegie não doou uma quantia adequada de sua considerável fortuna para caridade.', 'GLOSA': 'CARNEGIE DOAR ADEQUADO QUANTIA NÃO FORTUNA CARIDADE.'}]
+
+json
+[{'ID': '5773C2', 'PT': 'os Estados Unidos depositaram excessiva confiança em soluções militares e precisaram adotar uma política externa mais isolacionista.', 'GLOSA': 'ESTADOS UNIDOS CONFIANÇA EXCESSIVA SOLUÇÃO MILITAR DEPOSITAR PRECISAR ADOTAR POLÍTICA EXTERNA ISOLACIONISTA MAIS.'}]
+
+json
+[{'ID': '5776C2', 'PT': 'enfraqueceu o propósito da cláusula do escravo fugitivo da Constituição.', 'GLOSA': 'CONSTITUIÇÃO CLÁUSULA ESCRAVO FUGITIVO PROPÓSITO ENFRAQUECER'}]
+
+json
+[{"ID": "5780C2", "PT": "Ordem Executiva 9066 confinando nipo-americanos", "GLOSA": "ORDEM EXECUTIVA 9066 NIPO-AMERICANO CONFINAR"}]
+
+json
+[{'ID': '5783C2', 'PT': 'Contestação do advogado do Exército dos EUA Joseph Welsh ao senador Joseph McCarthy nas audiências Exército-McCarthy em 1954.', 'GLOSA': 'ADVOGADO EXÉRCITO EUA JOSEPH WELSH CONTESTAR SENADOR JOSEPH MCCARTHY AUDIÊNCIA EXÉRCITO MCCARTHY 1954.'}]
+
+json
+[{'ID': '5793C2', 'PT': 'O planejamento de todo o sistema nacional ocorreu antes da construção da primeira ferrovia.', 'GLOSA': 'SISTEMA NACIONAL PLANEJAMENTO TODO OCORRER ANTES FERROVIA PRIMEIRA CONSTRUÇÃO.'}]
+
+json
+[{"ID": "5808C2", "PT": "O crescimento do poder corporativo e dos interesses bancários motivou ativistas rurais a fazer lobby por reformas políticas.", "GLOSA": "PODER CORPORATIVO INTERESSE BANCÁRIO CRESCIMENTO MOTIVAR ATIVISTA RURAL LOBBY FAZER REFORMA POLÍTICA."}]
+
+json
+[{'ID': '5813C2', 'PT': 'especialistas de sua Constituição', 'GLOSA': 'ESPECIALISTA SUA CONSTITUIÇÃO'}]
+
+json
+[{"ID": "5818C2", "PT": "Carnegie não tomou nenhuma atitude para evitar o uso da violência contra seus trabalhadores quando eles pediam melhores salários e condições de trabalho.", "GLOSA": "CARNEGIE AÇÃO NENHUMA TOMAR VIOLÊNCIA EVITAR TRABALHADOR CONTRA QUANDO MELHOR SALÁRIO CONDIÇÃO TRABALHO PEDIR."}]
+
+json
+[{'ID': '5820C2', 'PT': 'A Batalha de Fort Sumter ocorreu em Charleston, provocando forte repúdio público pela ação ofensiva da União.', 'GLOSA': 'BATALHA FORT SUMTER OCORRER CHARLESTON REPÚDIO PÚBLICO FORTE PROVOCAR AÇÃO OFENSIVA UNIÃO.'}]
+
+json
+[{"ID": "5831C2", "PT": "criou a estrutura fundamental para o estado de bem-estar social", "GLOSA": "ESTRUTURA FUNDAMENTAL ESTADO BEM-ESTAR SOCIAL CRIAR"}]
+
+json
+[{"ID": "5834C2", "PT": "A conquista do México foi um ato cruel e injusto motivado pelo racismo.", "GLOSA": "MÉXICO CONQUISTA ATO CRUÉL INJUSTO RACISMO MOTIVAR"}]
+
+json
+[{'ID': '5841C2', 'PT': 'Agricultores irlandeses foram forçados a deixar suas casas devido a desastres agrícolas.', 'GLOSA': 'IRLANDÊS AGRICULTOR FORÇAR SAIR CASA DESASTRE AGRICULTURA.'}]
+
+json
+[{"ID": "5844C2", "PT": "O presidente Lincoln relutava em ser ideologicamente associado a defensores como Frederick Douglass.", "GLOSA": "PRESIDENTE LINCOLN RELUTAR SER IDEOLOGICAMENTE ASSOCIAR DEFENSOR COMO FREDERICK DOUGLASS."}]
+
+json
+[{'ID': '5854C2', 'PT': 'O rei ganês adotou a tradição chinesa do ato de prostração em sinal de submissão.', 'GLOSA': 'REI GANÊS ADOTAR TRADIÇÃO CHINESA ATO PROSTRAÇÃO SUBMISSÃO'}]
+
+json
+[{'ID': '5858C2', 'PT': 'As mulheres geralmente assumem papéis de liderança em tempos de revolução.', 'GLOSA': 'MULHER GERALMENTE ASSUMIR PAPEL LIDERANÇA TEMPO REVOLUÇÃO.'}]
+
+json
+[{"ID": "5861C2", "PT": "pode ser visto como uma reação à violência sistemática e opressiva com a qual os britânicos governavam a Índia.", "GLOSA": "VIOLÊNCIA SISTEMÁTICA OPRESSIVA BRITÂNICO GOVERNAR ÍNDIA REAÇÃO SER VISTO."}]
+
+json
+[{'ID': '5862C2', 'PT': 'Ele não ganha o suficiente sozinho.', 'GLOSA': 'ELE GANHAR SUFICIENTE SOZINHO NÃO.'}]
+
+json
+[{"ID": "5863C2", "PT": "Companheiros de batalha", "GLOSA": "COMPANHEIRO BATALHA"}]
+
+json
+[{"ID": "5873C2", "PT": "Doutrina de destruição mútua assegurada", "GLOSA": "DOUTRINA DESTRUIÇÃO MÚTUA GARANTIR"}]
+
+json
+[{"ID": "5874C2", "PT": "Oposição pacífica", "GLOSA": "OPOSIÇÃO PACÍFICO"}]
+
+json
+[{'ID': '5882C2', 'PT': 'política econômica de intervenção estatal', 'GLOSA': 'POLÍTICA ECONÔMICA INTERVENÇÃO ESTADUAL'}]
+
+json
+[
+  {
+    "ID": "5883C2",
+    "PT": "Que a maioria dos muçulmanos estava principalmente preocupada com a defesa de seu próprio território durante a era das cruzadas",
+    "GLOSA": "MAIORIA MUÇULMANO PRINCIPALMENTE PREOCUPAR DEFESA TERRITÓRIO PRÓPRIO CRUZADA ÉRA"
+  }
+]
+
+json
+[{"ID": "5890C2", "PT": "Expressar sua oposição à guerra atual", "GLOSA": "EU OPOSIÇÃO GUERRA ATUAL EXPRESSAR"}]
+
+json
+[{"ID": "5893C2", "PT": "Interesse em sua natureza incomum", "GLOSA": "INTERESSE NATUREZA INCOMUM SEU"}]
+
+json
+[{'ID': '5900C2', 'PT': 'Eles contaram excessivamente na força numérica de suas forças armadas existentes.', 'GLOSA': 'ELES CONTAR FORÇA NUMÉRICO EXAGERADO FORÇA ARMADA EXISTIR'}]
+
+json
+[{"ID": "5901C2", "PT": "O governo empreendeu um programa de expansão territorial no Pacífico.", "GLOSA": "GOVERNO EMPREENDER PROGRAMA EXPANSÃO TERRITÓRIO PACÍFICO."}]
+
+json
+[{"ID": "5904C2", "PT": "A Pérsia e a Arábia tiveram pouca interação durante o período.", "GLOSA": "PÉRSIA ARÁBIA INTERAÇÃO POUCO PERÍODO."}]
+
+json
+[{'ID': '5908C2', 'PT': 'A Dinastia Ming procurou controlar estritamente o comércio para limitar o contato com estrangeiros e facilitar a cobrança de impostos.', 'GLOSA': 'DINASTIA MING PROCURAR CONTROLAR ESTRITO COMÉRCIO LIMITE CONTATO ESTRANGEIRO FACILITAR COBRANÇA IMPOSTO.'}]
+
+json
+[{"ID": "5910C2", "PT": "Os ensinamentos confucionistas proíbem o uso de todos os narcóticos por considerá-los intrinsecamente imorais.", "GLOSA": "ENSINAMENTO CONFUCIANISTA PROIBIR USO NARCÓTICO TODOS IMORAL INTRÍNSECO."}]
+
+json
+[{"ID": "5913C2", "PT": "Ele era um governante com poder ilimitado.", "GLOSA": "ELE GOVERNANTE PODER ILIMITADO"}]
+
+json
+[{'ID': '5918C2', 'PT': 'Keynes sugeriria ajudar trabalhadores idosos, mas afirmaria que o governo não deveria se envolver na maioria das circunstâncias.', 'GLOSA': 'KEYNES SUGERIR AJUDAR TRABALHADOR IDOSO MAS AFIRMAR GOVERNO NÃO DEVER ENVOLVER CIRCUNSTÂNCIA MAIORIA.'}]
+
+json
+[{"ID": "5921C2", "PT": "O grande exército profissional permanente da Dinastia Tang, sem necessidade de alistamento", "GLOSA": "DINASTIA TANG EXÉRCITO GRANDE PROFISSIONAL PERMANENTE ALISTAMENTO NECESSIDADE SEM"}]
+
+json
+[{"ID": "5926C2", "PT": "A riqueza do Mali veio em grande parte da dominação de povos vizinhos não-muçulmanos.", "GLOSA": "MALI RIQUEZA VIR GRANDE PARTE DOMINAÇÃO POVO VIZINHO NÃO-MUÇULMANO."}]
+
+json
+[{"ID": "5929C2", "PT": "Eles estudam a lei islâmica dedicadamente.", "GLOSA": "ELES ESTUDAR LEI ISLÂMICO DEDICAÇÃO."}]
+
+json
+[{'ID': '5936C2', 'PT': 'Novas tradições religiosas substituíram crenças religiosas antigas e duradouras.', 'GLOSA': 'TRADIÇÃO RELIGIOSA NOVO SUBSTITUIR CRENÇA RELIGIOSA ANTIGO DURADOURO.'}]
+
+json
+[{'ID': '5939C2', 'PT': 'Os mongóis construíram grandes monumentos, enquanto os persas se concentraram em obras públicas.', 'GLOSA': 'MONGOL CONSTRUIR MONUMENTO GRANDE PERSA CONCENTRAR OBRAS PÚBLICAS'}]
+
+json
+[{"ID": "5943C2", "PT": "Os rescritos imperiais enfatizavam o nascimento de filhos capazes em vez de filhas para cumprir as cotas de recrutamento.", "GLOSA": "RESCRITO IMPERIAL ENFATIZAR NASCIMENTO FILHO CAPAZ EM-VEZ FILHA CUMPRIR COTA RECRUTAMENTO"}]
+
+json
+[{"ID": "1695C3", "PT": "lei que descreve a força eletrostática entre cargas elétricas", "GLOSA": "LEI DESCREVER FORÇA ELETROSTÁTICA CARGA ELÉTRICA ENTRE"}]
+
+json
+[{'ID': '1696C3', 'PT': 'substâncias no estado gasoso', 'GLOSA': 'SUBSTÂNCIA ESTADO GASOSO'}]
+
+json
+[{"ID": "1697C3", "PT": "energia de movimento do nêutron", "GLOSA": "NÊUTRON MOVIMENTO ENERGIA"}]
+
+json
+[{"ID": "1698C3", "PT": "todos os tipos de ondas", "GLOSA": "TODOS TIPO ONDA"}]
+
+json
+[{"ID": "1699C3", "PT": "sobreposição de ondas", "GLOSA": "ONDA SOBREPOSIÇÃO"}]
+
+json
+[{"ID": "1700C3", "PT": "ambos têm o mesmo valor", "GLOSA": "AMBOS TER VALOR IGUAL"}]
+
+json
+[{'ID': '1701C3', 'PT': 'frequência', 'GLOSA': 'FREQUÊNCIA'}]
+
+json
+[{"ID": "1702C3", "PT": "tempo para completar um ciclo", "GLOSA": "TEMPO CICLO COMPLETAR"}]
+
+json
+[{"ID": "1703C3", "PT": "permanece inalterado", "GLOSA": "INALTERADO PERMANECER"}]
+
+json
+[{"ID": "1704C3", "PT": "da cor azul", "GLOSA": "COR AZUL"}]
+
+json
+[{"ID": "1705C3", "PT": "da mesma idade", "GLOSA": "MESMO IDADE"}]
+
+json
+[{"ID": "1706C3", "PT": "qualquer um deles", "GLOSA": "QUALQUER UM DELE"}]
+
+json
+[{"ID": "1707C3", "PT": "padrões de difração de raios-x", "GLOSA": "PADRAO DIFRACAO RAIOS-X"}]
+
+json
+[{"ID": "1708C3", "PT": "8 Newtons", "GLOSA": "8 NEWTON"}]
+
+json
+[{"ID": "1709C3", "PT": "surgimento da tecnologia médica", "GLOSA": "TECNOLOGIA MÉDICA SURGIR"}]
+
+json
+[{"ID": "1710C3", "PT": "eclipse solar durante o dia e eclipse lunar durante a noite.", "GLOSA": "ECLIPSE SOLAR DIA ECLIPSE LUNAR NOITE"}]
+
+json
+[{"ID": "1711C3", "PT": "cresce", "GLOSA": "CRESCER"}]
+
+json
+[{"ID": "1712C3", "PT": "crescer", "GLOSA": "CRESCER"}]
+
+json
+[{"ID": "1713C3", "PT": "seja igual", "GLOSA": "IGUAL SER"}]
+
+json
+[{"ID": "1714C3", "PT": "profundidade do lago", "GLOSA": "LAGO PROFUNDIDADE"}]
+
+json
+[{"ID": "1715C3", "PT": "fenômeno de retorno de onda", "GLOSA": "FENÔMENO RETORNO ONDA"}]
+
+json
+[{"ID": "1716C3", "PT": "qualquer um", "GLOSA": "QUALQUER UM"}]
+
+json
+[{"ID": "1717C3", "PT": "30 graus Celsius", "GLOSA": "30 GRAU CELSIUS"}]
+
+json
+[{"ID": "1718C3", "PT": "igual", "GLOSA": "IGUAL"}]
+
+json
+[{"ID": "1719C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{"ID": "1720C3", "PT": "1137 Hertz", "GLOSA": "1137 HERTZ"}]
+
+json
+[{'ID': '1721C3', 'PT': 'pequenas porções de matéria', 'GLOSA': 'MATÉRIA PEQUENO PORÇÃO'}]
+
+json
+[{'ID': '1722C3', 'PT': 'é variável, podendo aumentar ou diminuir', 'GLOSA': 'VARIÁVEL PODER AUMENTAR DIMINUIR'}]
+
+json
+[{"ID": "1723C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{'ID': '1724C3', 'PT': 'das cores verde e amarelo', 'GLOSA': 'COR VERDE AMARELO'}]
+
+json
+[{"ID": "1725C3", "PT": "ondas eletromagnéticas de baixa frequência", "GLOSA": "ONDA ELETROMAGNÉTICA BAIXA FREQUÊNCIA"}]
+
+json
+[{'ID': '1726C3', 'PT': 'aceleração da gravidade', 'GLOSA': 'GRAVIDADE ACELERAÇÃO'}]
+
+json
+[{"ID": "1727C3", "PT": "tipos de transformadores", "GLOSA": "TRANSFORMADOR TIPO"}]
+
+json
+[{"ID": "1728C3", "PT": "permanece quase inalterado", "GLOSA": "INALTERADO QUASE PERMANECER"}]
+
+json
+[{"ID": "1729C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{"ID": "1730C3", "PT": "período de 365 dias", "GLOSA": "PERÍODO DIA 365"}]
+
+json
+[{"ID": "1731C3", "PT": "pode ser superior ou inferior à força peso", "GLOSA": "FORÇA PESO SUPERIOR INFERIOR PODER"}]
+
+json
+[{"ID": "1732C3", "PT": "perpendiculares entre si", "GLOSA": "PERPENDICULAR ENTRE SI"}]
+
+json
+[{"ID": "1733C3", "PT": "800 Watts", "GLOSA": "WATT 800"}]
+
+json
+[{'ID': '1734C3', 'PT': 'fenômeno de amplificação de uma onda', 'GLOSA': 'FENÔMENO AMPLIFICAÇÃO ONDA'}]
+
+json
+[{"ID": "1735C3", "PT": "ondas que se propagam na superfície da água", "GLOSA": "ÁGUA SUPERFÍCIE ONDA PROPAGAR"}]
+
+json
+[{"ID": "1736C3", "PT": "número de prótons e nêutrons no núcleo atômico", "GLOSA": "NÚMERO PRÓTON NÊUTRON NÚCLEO ATÔMICO"}]
+
+json
+[{'ID': '1737C3', 'PT': 'ambos', 'GLOSA': 'DOIS'}]
+
+json
+[{"ID": "1738C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{'ID': '1739C3', 'PT': 'som com frequência acima da faixa audível humana', 'GLOSA': 'SOM FREQUÊNCIA ACIMA FAIXA AUDÍVEL HUMANO'}]
+
+json
+[{"ID": "1740C3", "PT": "ambos", "GLOSA": "DOIS"}]
+
+json
+[{"ID": "1741C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{"ID": "1742C3", "PT": "vinte e quatro", "GLOSA": "VINTE QUATRO"}]
+
+json
+[{"ID": "1743C3", "PT": "emite luz vermelha", "GLOSA": "LUZ VERMELHA EMITE"}]
+
+json
+[{"ID": "1744C3", "PT": "1000 vezes o tamanho", "GLOSA": "TAMANHO 1000 VEZES"}]
+
+json
+[{"ID": "1745C3", "PT": "azul-esverdeado", "GLOSA": "AZUL-ESVERDEADO"}]
+
+json
+[{'ID': '1746C3', 'PT': 'sessenta por cento', 'GLOSA': 'SESSENTA POR CENTO'}]
+
+json
+[{"ID": "1747C3", "PT": "com velocidade inferior à da fonte emissora", "GLOSA": "VELOCIDADE INFERIOR FONTE EMISSORA"}]
+
+json
+[{"ID": "1748C3", "PT": "8 Newtons", "GLOSA": "8 NEWTON"}]
+
+json
+[{"ID": "1749C3", "PT": "800 Joules", "GLOSA": "800 JOULES"}]
+
+json
+[{"ID": "1750C3", "PT": "16 unidades de carga", "GLOSA": "16 UNIDADE CARGA"}]
+
+json
+[{"ID": "1751C3", "PT": "elétrons e núcleons", "GLOSA": "ELÉTRONS E NÚCLEONS"}]
+
+json
+[{"ID": "1752C3", "PT": "a direção do campo magnético terrestre e a direção vertical", "GLOSA": "CAMPO MAGNÉTICO TERRESTRE DIREÇÃO E VERTICAL DIREÇÃO"}]
+
+json
+[{"ID": "1753C3", "PT": "magnitude máxima de oscilação", "GLOSA": "MAGNITUDE MÁXIMO OSCILAÇÃO"}]
+
+json
+[{"ID": "1754C3", "PT": "permanece inalterado", "GLOSA": "INALTERADO PERMANECER"}]
+
+json
+[{"ID": "1755C3", "PT": "tem um acréscimo de 2 unidades", "GLOSA": "ACRÉSCIMO DOIS UNIDADE TER"}]
+
+json
+[{"ID": "1756C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{"ID": "1757C3", "PT": "reduzido em 2 unidades", "GLOSA": "2 UNIDADE REDUZIR"}]
+
+json
+[{"ID": "1758C3", "PT": "mudança na direção de propagação de uma onda ao mudar de meio", "GLOSA": "ONDA MUDAR MEIO DIREÇÃO PROPAGAR MUDANÇA"}]
+
+json
+[{"ID": "1759C3", "PT": "retorno de um átomo a um estado de menor energia", "GLOSA": "ÁTOMO RETORNAR ESTADO ENERGIA MENOR"}]
+
+json
+[{"ID": "1760C3", "PT": "com menor comprimento na direção perpendicular ao movimento", "GLOSA": "COMPRIMENTO MENOR DIREÇÃO PERPENDICULAR MOVIMENTO"}]
+
+json
+[{"ID": "1761C3", "PT": "a frequência permanece constante, o comprimento de onda e a velocidade diminuem", "GLOSA": "FREQUÊNCIA PERMANECER CONSTANTE, COMPRIMENTO ONDA VELOCIDADE DIMINUIR"}]
+
+json
+[{"ID": "1762C3", "PT": "menor que 9,8 metros por segundo ao quadrado", "GLOSA": "9,8 METRO POR SEGUNDO QUADRADO MENOR"}]
+
+json
+[{'ID': '1763C3', 'PT': 'região interna da Terra', 'GLOSA': 'TERRA REGIÃO INTERNO'}]
+
+json
+[{"ID": "1764C3", "PT": "transformação em massa", "GLOSA": "MASSA TRANSFORMAÇÃO"}]
+
+json
+[{'ID': '1765C3', 'PT': 'significativamente menos intenso que na superfície terrestre', 'GLOSA': 'INTENSIDADE MENOS SUPERFÍCIE TERRA'}]
+
+json
+[{"ID": "1766C3", "PT": "azul-esverdeado", "GLOSA": "AZUL VERDE"}]
+
+json
+[{"ID": "1767C3", "PT": "de um lado para o outro", "GLOSA": "UM LADO OUTRO LADO IR"}]
+
+json
+[{"ID": "1768C3", "PT": "alta tensão e baixa resistência corporal", "GLOSA": "ALTA TENSÃO BAIXA RESISTÊNCIA CORPORAL"}]
+
+json
+[{"ID": "1769C3", "PT": "superior a 3000 Newtons", "GLOSA": "3000 NEWTON SUPERIOR"}]
+
+json
+[{"ID": "1770C3", "PT": "intensidade máxima de vibração", "GLOSA": "VIBRAÇÃO INTENSIDADE MÁXIMA"}]
+
+json
+[{"ID": "1771C3", "PT": "em forma de elipse", "GLOSA": "FORMA ELIPSE"}]
+
+json
+[{"ID": "1772C3", "PT": "terceira lei de Newton", "GLOSA": "NEWTON LEI TERCEIRA"}]
+
+json
+[{"ID": "1773C3", "PT": "cria energia a partir do vácuo", "GLOSA": "VÁCUO ENERGIA CRIAR"}]
+
+json
+[{"ID": "1774C3", "PT": "ambos", "GLOSA": "AMBOS"}]
+
+json
+[{"ID": "1775C3", "PT": "o comprimento por 3 e o volume por 27", "GLOSA": "COMPRIMENTO TRÊS VOLUME VINTE-SETE"}]
+
+json
+[{'ID': '1776C3', 'PT': 'campo de força gerado por cargas elétricas', 'GLOSA': 'CAMPO FORÇA GERAR CARGA ELÉTRICA'}]
+
+json
+[{"ID": "1777C3", "PT": "ambos", "GLOSA": "DOIS"}]
+
+json
+[{"ID": "1778C3", "PT": "ambos", "GLOSA": "DOIS"}]
+
+json
+[{"ID": "1779C3", "PT": "igual", "GLOSA": "IGUAL"}]
+
+json
+[{"ID": "1780C3", "PT": "6 metros", "GLOSA": "6 METRO"}]
+
+json
+[{'ID': '1808C3', 'PT': 'Aumentaria a uma taxa diferente para perturbações negativas e positivas de mesma magnitude', 'GLOSA': 'TAXA DIFERENTE AUMENTAR PERTURBAÇÃO NEGATIVO POSITIVO MESMA MAGNITUDE'}]
+
+json
+[{"ID": "1809C3", "PT": "Os termos de erro terão variâncias desiguais e não seguirão uma distribuição normal.", "GLOSA": "TERMO ERRO VARIÂNCIA DESIGUAL TER E NORMAL DISTRIBUIÇÃO NÃO-SEGUIR"}]
+
+json
+[{"ID": "1810C3", "PT": "Em teoria, a amostra poderia ser maior que a população", "GLOSA": "TEORIA AMOSTRA MAIOR PODER POPULAÇÃO"}]
+
+json
+[{'ID': '1811C3', 'PT': 'O teste Q às vezes é excessivamente conservador para amostras pequenas', 'GLOSA': 'TESTE Q ÀS-VEZES CONSERVADOR EXAGERADO AMOSTRA PEQUENO'}]
+
+json
+[{"ID": "1812C3", "PT": "É um modelo apropriadamente especificado", "GLOSA": "MODELO UM APROPRIADO ESPECIFICADO"}]
+
+json
+[{'ID': '1813C3', 'PT': 'Eles podem ser adicionados a um portfólio de ativos para fornecer retornos de portfólio', 'GLOSA': 'ELES PODER ADICIONAR PORTFÓLIO ATIVO RETORNO FORNECER'}]
+
+json
+[{"ID": "1814C3", "PT": "(i), (ii) e (iii) apenas", "GLOSA": "APENAS (I) (II) (III)"}]
+
+json
+[{"ID": "1815C3", "PT": "Entre 0 e 1", "GLOSA": "ZERO UM ENTRE"}]
+
+json
+[{"ID": "1816C3", "PT": "(i), (ii) e (iv) apenas", "GLOSA": "I II IV APENAS"}]
+
+json
+[{"ID": "1817C3", "PT": "(i), (ii) e (iii) apenas", "GLOSA": "I II III APENAS"}]
+
+json
+[{"ID": "1818C3", "PT": "As previsões estruturais são mais fáceis de gerar do que aquelas provenientes de modelos de séries temporais", "GLOSA": "PREVISÃO ESTRUTURAL FÁCIL GERAR AQUELE SÉRIE-TEMPORAL MODELO VIR"}]
+
+json
+[{'ID': '1819C3', 'PT': 'Um modelo MA e um modelo ARMA', 'GLOSA': 'UM MODELO MA UM MODELO ARMA'}]
+
+json
+[{"ID": "1820C3", "PT": "Resíduos completamente aleatórios", "GLOSA": "RESÍDUO COMPLETAMENTE ALEATÓRIO"}]
+
+json
+[{"ID": "1821C3", "PT": "(i), (ii) e (iii) apenas", "GLOSA": "I II III APENAS"}]
+
+json
+[{"ID": "1822C3", "PT": "(i), (ii) e (iii) apenas", "GLOSA": "I II III APENAS"}]
+
+json
+[{"ID": "1823C3", "PT": "\\\\hat{y}_t = \\\\hat{\\\\alfa} + \\\\hat{\\\\beta}x_t + u_t", "GLOSA": "Y CHAPEU T IGUAL ALFA CHAPEU MAIS BETA CHAPEU X T MAIS U T"}]
+
+json
+[{"ID": "1824C3", "PT": "k x 1", "GLOSA": "K 1 VEZES"}]
+
+json
+[{"ID": "1825C3", "PT": "2 e -0,5", "GLOSA": "DOIS E MENOS ZERO PONTO CINCO"}]
+
+json
+[{"ID": "5617C3", "PT": "Há 90% de probabilidade de haver uma diferença nas expectativas de vida.", "GLOSA": "PROBABILIDADE 90% DIFERENÇA EXPECTATIVA VIDA TER"}]
+
+json
+[{'ID': '5619C3', 'PT': 'Quando feito corretamente, uma amostra aleatória estratificada pode fornecer, com um tamanho de amostra menor, uma estimativa de precisão equivalente à de uma amostra aleatória simples maior.', 'GLOSA': 'AMOSTRAGEM ALEATÓRIA ESTRATIFICADA CORRETAMENTE FEITO FORNECER TAMANHO MENOR PRECISÃO ESTIMATIVA EQUIVALENTE AMOSTRAGEM ALEATÓRIA SIMPLES MAIOR.'}]
+
+json
+[{'ID': '5621C3', 'PT': 'Os resultados da pesquisa teriam maior validade estatística se ele tivesse escolhido uma amostra aleatória dos 2.500 ouvintes que responderam.', 'GLOSA': 'PESQUISA RESULTADO VALIDADE ESTATÍSTICA MAIOR TER AMOSTRA ALEATÓRIO 2500 OUVINTE RESPONDER ELE ESCOLHER SE'}]
+
+json
+[{"ID": "5622C3", "PT": "Muito alto, devido à exclusão de parte da população.", "GLOSA": "VALOR ALTO MUITO EXCLUSÃO POPULAÇÃO PARTE DEVIDO"}]
+
+json
+[{'ID': '5624C3', 'PT': 'Procure obter as informações faltantes dos 32 participantes que não responderam.', 'GLOSA': 'VOCÊ PROCURAR INFORMAÇÃO FALTANTE 32 PARTICIPANTE NÃO RESPONDER OBTER.'}]
+
+json
+[{"ID": "5626C3", "PT": "A soma das probabilidades de todos os valores possíveis da variável X deve ser igual a 1.", "GLOSA": "SOMA PROBABILIDADE VALOR POSSÍVEL VARIÁVEL X IGUAL UM"}]
+
+json
+[{'ID': '5627C3', 'PT': 'Uma amostra grande e um nível de confiança de 95%', 'GLOSA': 'AMOSTRAGEM GRANDE UM NÍVEL CONFIANÇA 95%'}]
+
+json
+[{"ID": "5631C3", "PT": "Os eventos A e B não podem ocorrer simultaneamente.", "GLOSA": "EVENTO A E B SIMULTANEAMENTE NÃO PODER OCORRER."}]
+
+json
+[{"ID": "5632C3", "PT": "Um estudo observacional, pois não houve um grupo de controle para comparação.", "GLOSA": "ESTUDO OBSERVACIONAL GRUPO CONTROLE COMPARAÇÃO NÃO-TER."}]
+
+json
+[{"ID": "5633C3", "PT": "A potência do teste.", "GLOSA": "POTÊNCIA TESTE"}]
+
+json
+[
+  {
+    "ID": "5635C3",
+    "PT": "Uma correlação negativa foi observada entre a satisfação no trabalho e a confiança na capacidade de controle da situação entre os professores participantes do estudo.",
+    "GLOSA": "CORRELACAO NEGATIVA OBSERVAR SATISFACAO TRABALHO E CONFIANCA CAPACIDADE CONTROLE SITUACAO PROFESSOR ESTUDO PARTICIPAR."
+  }
+]
+
+json
+[{"ID": "5637C3", "PT": "Os conjuntos têm intervalos iguais.", "GLOSA": "CONJUNTO INTERVALO IGUAL TER."}]
+
+json
+[{"ID": "5638C3", "PT": "Em um experimento bem planejado, os tratamentos são cuidadosamente planejados para resultar em respostas o mais semelhantes possíveis.", "GLOSA": "EXPERIMENTO BEM PLANEJADO TRATAMENTO PLANEJAR CUIDADOSAMENTE RESULTAR RESPOSTA SEMELHANTE POSSÍVEL."}]
+
+json
+[{"ID": "5644C3", "PT": "Os pacientes continuarão a usar a medicação atual, apesar do Heartaid ser realmente mais eficaz.", "GLOSA": "PACIENTE CONTINUAR USAR MEDICAMENTO ATUAL, AINDA QUE HEART AID EFICAZ MAIS."}]
+
+json
+[{"ID": "5645C3", "PT": "Uma pontuação no 20º percentil para a primeira classe está no 40º percentil para a segunda classe.", "GLOSA": "PONTOS 20 PERCENTIL PRIMEIRA CLASSE 40 PERCENTIL SEGUNDA CLASSE ESTAR."}]
+
+json
+[{'ID': '5646C3', 'PT': 'Em 0,69% dos casos, um motor produzido pelo novo processo terá um empuxo acima de 9.500 libras.', 'GLOSA': 'CASO 0,69% MOTOR NOVO PROCESSO PRODUZIR EMPUXO 9500 LIBRA ACIMA TER.'}]
+
+json
+[{"ID": "5648C3", "PT": "Os colonos americanos foram os primeiros a chegar à região; eles a tomaram para seu país.", "GLOSA": "COLONOS AMERICANO PRIMEIRO CHEGAR REGIÃO ELES TOMAR PAÍS."}]
+
+json
+[{"ID": "5649C3", "PT": "famoso pela perseguição a supostas bruxas e superstição popular.", "GLOSA": "FAMOSO PERSEGUIÇÃO BRUXA SUPOR POPULAR SUPERSTIÇÃO"}]
+
+json
+[{"ID": "5652C3", "PT": "Distrair as pessoas permitindo que os japoneses bombardeiem Pearl Harbor", "GLOSA": "PESSOAS DISTRAIR PERMITIR JAPONÊS BOMBARDEAR PEARL HARBOR"}]
+
+json
+[{'ID': '5653C3', 'PT': 'O sistema bipartidário da época entrou em colapso e levou ao surgimento de um partido principal adicional que conseguiu ganhar o controle do Congresso dez anos após sua fundação.', 'GLOSA': 'SISTEMA BIPARTIDÁRIO ÉPOCA COLAPSO LEVAR PARTIDO PRINCIPAL ADICIONAL SURGIR GANHAR CONTROLE CONGRESO DEZ ANO APÓS FUNDAÇÃO.'}]
+
+json
+[{'ID': '5656C3', 'PT': 'O presidente Jefferson Davis, da Confederação, prometeu resistência significativa a qualquer esforço da União para libertar os escravos.', 'GLOSA': 'PRESIDENTE JEFFERSON DAVIS CONFEDERAÇÃO PROMETER RESISTÊNCIA SIGNIFICATIVO UNIÃO QUALQUER ESFORÇO ESCRAVO LIBERTAR.'}]
+
+json
+[{"ID": "5659C3", "PT": "A expansão da América para a Costa Oeste era inevitável e aprovada por Deus.", "GLOSA": "AMÉRICA EXPANSÃO COSTA OESTE INEVITÁVEL DEUS APROVAR"}]
+
+json
+[{"ID": "5669C3", "PT": "um governo central com pouco poder para lidar com questões urgentes.", "GLOSA": "GOVERNO CENTRAL POUCO PODER LIDAR QUESTÃO URGENTE."}]
+
+json
+[{'ID': '5671C3', 'PT': 'Diplomacia da força', 'GLOSA': 'FORÇA DIPLOMACIA'}]
+
+json
+[{"ID": "5675C3", "PT": "Pela primeira vez, os pioneiros começaram a se estabelecer em áreas a oeste do Rio Mississippi.", "GLOSA": "PRIMEIRA VEZ PIONEIRO COMEÇAR ESTABELECER ÁREA OESTE RIO MISSISSIPPI"}]
+
+json
+[{"ID": "5688C3", "PT": "Direitos naturais são simples ideias que não existem na realidade.", "GLOSA": "DIREITO NATURAL IDEIA SIMPLES REALIDADE NÃO-EXISTIR."}]
+
+json
+[{'ID': '5690C3', 'PT': 'o assentamento da Nova Inglaterra tornou-se superpovoado e as legislaturas coloniais desencorajaram fortemente a imigração', 'GLOSA': 'NOVA INGLATERRA ASSENTAMENTO SUPERPOPULOSO FICAR LEGISLATURA COLONIAL IMIGRAÇÃO DESENCORAJAR FORTE'}]
+
+json
+[{"ID": "5697C3", "PT": "O governo federal deve regulamentar o tratamento de doentes mentais.", "GLOSA": "GOVERNO FEDERAL DEVER REGULAMENTAR TRATAMENTO DOENTE MENTAL."}]
+
+json
+[{"ID": "5698C3", "PT": "Lincoln era a favor da exclusão da escravidão de qualquer um dos novos territórios.", "GLOSA": "LINCOLN FAVOR EXCLUSÃO ESCRAVIDÃO QUALQUER NOVO TERRITÓRIO."}]
+
+json
+[{"ID": "5699C3", "PT": "Descolonização", "GLOSA": "DESCOLONIZAR"}]
+
+json
+[{"ID": "5700C3", "PT": "Os intelectuais criticavam a competição intensa da época e propunham alternativas radicais baseadas na criação de uma economia cooperativa.", "GLOSA": "INTELLECTUAL CRITICAR COMPETIÇÃO INTENSO ÉPOCA E PROPOR ALTERNATIVA RADICAL BASEADO CRIAÇÃO ECONOMIA COOPERATIVO."}]
+
+json
+[{"ID": "5701C3", "PT": "Agricultores do sul na década de 1830", "GLOSA": "AGRICULTOR SUL DÉCADA 1830"}]
+
+json
+[{"ID": "5702C3", "PT": "Declaração de Direitos e Sentimentos de Seneca Falls", "GLOSA": "SENECA FALLS DECLARAÇÃO DIREITO SENTIMENTO"}]
+
+json
+[{"ID": "5703C3", "PT": "ainda um lugar cultural atrasado", "GLOSA": "LUGAR CULTURA ATRASADO AINDA"}]
+
+json
+[{'ID': '5704C3', 'PT': 'O envolvimento americano na Primeira Guerra Mundial foi uma extensão de uma longa tradição de envolvimento no exterior.', 'GLOSA': 'AMÉRICA ENVOLVIMENTO GUERRA MUNDIAL PRIMEIRA EXTENSÃO TRADICAO LONGA ENVOLVIMENTO EXTERIOR.'}]
+
+json
+[{"ID": "5705C3", "PT": "Discurso de Lincoln em Gettysburg", "GLOSA": "LINCOLN GETTYSBURG DISCURSO"}]
+
+json
+[{"ID": "5706C3", "PT": "Contenção", "GLOSA": "CONTENCÃO"}]
+
+json
+[{'ID': '5707C3', 'PT': 'Cristóvão Colombo não foi o primeiro europeu a explorar a América do Norte.', 'GLOSA': 'CRISTÓVÃO COLOMBO PRIMEIRO EUROPEU NÃO EXPLORAR AMÉRICA NORTE.'}]
+
+json
+[
+  {
+    "ID": "5708C3",
+    "PT": "as posições polêmicas dos candidatos democratas sobre a legislação dos direitos civis",
+    "GLOSA": "CANDIDATO DEMOCRATA POSIÇÃO POLÊMICO LEGISLAÇÃO DIREITO CIVIL SOBRE"
+  }
+]
+
+json
+[{"ID": "5709C3", "PT": "Plessy contra Ferguson", "GLOSA": "PLESSY FERGUSON CONTRA"}]
+
+json
+[{"ID": "5710C3", "PT": "ele acreditava que era necessário entrar em guerra com a Grã-Bretanha.", "GLOSA": "ELE ACREDITAR NECESSÁRIO GUERRA ENTRAR GRÃ-BRETANHA."}]
+
+json
+[{"ID": "5711C3", "PT": "O bombardeio do U.S.S. Liberty", "GLOSA": "U.S.S. LIBERTY BOMBARDEIO"}]
+
+json
+[{"ID": "5712C3", "PT": "O julgamento dos acusados de atentados à bomba na Haymarket Square em 1886", "GLOSA": "HAYMARKET SQUARE JULGAMENTO ACUSADO ATENTADO BOMBA 1886"}]
+
+json
+[{'ID': '5713C3', 'PT': 'O Senado dos Estados Unidos aprovou, com reservas quanto à divisão da Europa Oriental.', 'GLOSA': 'SENADO ESTADOS UNIDOS APROVAR RESERVA EUROPA ORIENTAL DIVISÃO'}]
+
+json
+[{"ID": "5714C3", "PT": "A Lei Patriota dos EUA de 2001", "GLOSA": "LEI PATRIOTA EUA 2001"}]
+
+json
+[{'ID': '5715C3', 'PT': 'Aumento das taxas de imposto de renda federal após a Primeira Guerra Mundial', 'GLOSA': 'GUERRA MUNDIAL PRIMEIRA APÓS IMPOSTO RENDA FEDERAL TAXA AUMENTAR'}]
+
+json
+[{"ID": "5716C3", "PT": "Um caso histórico sobre direitos de voto", "GLOSA": "CASO HISTÓRICO DIREITO VOTO"}]
+
+json
+[{"ID": "5717C3", "PT": "estabelecer várias colônias ao longo da costa atlântica da América do Norte.", "GLOSA": "AMÉRICA NORTE COSTA ATLÂNTICO VÁRIAS COLÔNIA ESTABELECER"}]
+
+json
+[{"ID": "5718C3", "PT": "O movimento abolicionista.", "GLOSA": "MOVIMENTO ABOLICIONISTA"}]
+
+json
+[{"ID": "5719C3", "PT": "A Festa do Chá de Boston", "GLOSA": "FESTA CHÁ BOSTON"}]
+
+json
+[{"ID": "5720C3", "PT": "Debates sobre o poder federal sobre a economia.", "GLOSA": "DEBATE PODER FEDERAL ECONOMIA SOBRE"}]
+
+json
+[{"ID": "5721C3", "PT": "Defensores do sistema de valores da ênfase na vida doméstica.", "GLOSA": "DEFENSOR SISTEMA VALOR ÊNFASE VIDA DOMÉSTICO."}]
+
+json
+[{"ID": "15040C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15041C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15042C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15043C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15044C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15045C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15046C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15047C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{'ID': '15048C3', 'PT': 'Incorreto, Incorreto', 'GLOSA': 'INCORRETO INCORRETO'}]
+
+json
+[{"ID": "15049C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15050C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15051C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15052C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15053C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15054C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{'ID': '15055C3', 'PT': 'Incorreto, Incorreto', 'GLOSA': 'INCORRETO INCORRETO'}]
+
+json
+[{"ID": "15056C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15057C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15058C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15059C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{"ID": "15060C3", "PT": "Incorreto, Incorreto", "GLOSA": "INCORRETO INCORRETO"}]
+
+json
+[{'ID': '5390C4', 'PT': 'Os cães (sujeitos) foram apresentados com comida (CR) enquanto também eram apresentados com as imagens e sons do apresentador (UCR). Depois de um tempo, os cães salivaram em resposta ao apresentador (UCS).', 'GLOSA': 'CÃO COMIDA APRESENTAR IMAGEM SOM APRESENTADOR APRESENTAR DEPOIS TEMPO CÃO SALIVA APRESENTADOR RESPOSTA'}]
+
+json
+[{"ID": "5391C4", "PT": "estabilidade emocional", "GLOSA": "ESTABILIDADE EMOÇÃO"}]
+
+json
+[{"ID": "5392C4", "PT": "desvio padrão", "GLOSA": "DESVIO PADRÃO"}]
+
+json
+[{'ID': '5393C4', 'PT': 'a pesquisa deve ser conduzida como um estudo duplo-cego', 'GLOSA': 'PESQUISA DEVER CONDIZIR ESTUDO DUPLO-CEGO'}]
+
+json
+[{"ID": "5394C4", "PT": "Apneia do sono", "GLOSA": "SONO APNEIA"}]
+
+json
+[{"ID": "5395C4", "PT": "O humanista Carl Rogers", "GLOSA": "CARL ROGERS HUMANISTA"}]
+
+json
+[{'ID': '5396C4', 'PT': 'processamento de superfície', 'GLOSA': 'SUPERFÍCIE PROCESSAMENTO'}]
+
+json
+[{"ID": "5397C4", "PT": "sentimentos de inferioridade", "GLOSA": "SENTIMENTO INFERIORIDADE"}]
+
+json
+[{'ID': '5400C4', 'PT': 'Punições reduzem a probabilidade de um comportamento se repetir e reforços negativos aumentam a probabilidade de um comportamento se repetir.', 'GLOSA': 'PUNIÇÃO REDUZIR PROBABILIDADE COMPORTAMENTO REPETIR E REFORÇO NEGATIVO AUMENTAR PROBABILIDADE COMPORTAMENTO REPETIR.'}]
+
+json
+[{"ID": "5401C4", "PT": "uma situação com múltiplas opções, cada uma com aspectos positivos e negativos.", "GLOSA": "SITUAÇÃO MÚLTIPLO OPÇÃO CADA POSITIVO NEGATIVO ASPECTO"}]
+
+json
+[{'ID': '5404C4', 'PT': 'Implementar um plano de gerenciamento de comportamento para toda a classe, como um sistema de recompensas e punições baseado em custos.', 'GLOSA': 'CLASSE TODA PLANO COMPORTAMENTO GERENCIAR IMPLEMENTAR SISTEMA RECOMPENSAS PUNIÇÕES CUSTO BASEADO.'}]
+
+json
+[{"ID": "5407C4", "PT": "O viés de confirmação pode influenciar as opiniões e os tratamentos dos clínicos sobre pacientes mentais.", "GLOSA": "VIÉS CONFIRMAÇÃO INFLUENCIAR OPINIÃO TRATAMENTO CLÍNICO PACIENTE MENTAL"}]
+
+json
+[{"ID": "5414C4", "PT": "perda de identidade individual", "GLOSA": "IDENTIDADE INDIVIDUAL PERDA"}]
+
+json
+[{"ID": "5415C4", "PT": "Wundt trabalhou fora do sistema universitário e era visto como um pensador independente.", "GLOSA": "WUNDT TRABALHAR FORA UNIVERSIDADE SISTEMA E PENSADOR INDEPENDENTE VER"}]
+
+json
+[{"ID": "5418C4", "PT": "repetir ou reformular o que um cliente diz durante o curso da terapia", "GLOSA": "CLIENTE DIZER TERAPIA REPETIR OU REFORMULAR"}]
+
+json
+[{"ID": "5419C4", "PT": "são muito sensíveis à luz.", "GLOSA": "LUZ MUITO SENSÍVEL."}]
+
+json
+[{"ID": "5424C4", "PT": "atribuição de sentimentos ou características próprias a outras pessoas", "GLOSA": "PESSOA SENTIMENTO CARACTERÍSTICA PRÓPRIO OUTRA PESSOA ATRIBUIR"}]
+
+json
+[{'ID': '5425C4', 'PT': 'A fenda sináptica do neurônio é preenchida com líquido.', 'GLOSA': 'FENDA SINÁPTICA NEURÔNIO LÍQUIDO PREENCHER'}]
+
+json
+[{'ID': '5427C4', 'PT': 'Tendência a se esforçar menos em tarefas em grupo do que individualmente.', 'GLOSA': 'TAREFA GRUPO ESFORÇO MENOS INDIVIDUAL MAIS'}]
+
+json
+[{'ID': '5429C4', 'PT': 'Os resultados indicam que o teste tem baixa confiabilidade teste-reteste.', 'GLOSA': 'RESULTADO INDICAR TESTE CONFIABILIDADE BAIXA TESTE-RETESTE.'}]
+
+json
+[{"ID": "5434C4", "PT": "Aproximadamente 95% dos resultados estarão dentro de dois desvios padrão da média.", "GLOSA": "RESULTADO 95% DOIS DESVIO PADRÃO MÉDIA DENTRO ESTAR."}]
+
+json
+[{"ID": "5435C4", "PT": "O poder de um teste diz respeito à sua capacidade de detectar uma hipótese alternativa.", "GLOSA": "PODER TESTE DIZER RESPEITO CAPACIDADE DETECTAR HIPÓTESE ALTERNATIVA"}]
+
+json
+[{"ID": "5436C4", "PT": "é estatisticamente diferente das outras observações no conjunto de dados", "GLOSA": "ESTATISTICAMENTE DIFERENTE OUTRO OBSERVAÇÃO CONJUNTO DADOS"}]
+
+json
+[{"ID": "5437C4", "PT": "Há 95% de probabilidade de que a renda média por família na escola esteja entre US$ 35.095 e US$ 45.005.", "GLOSA": "95% PROBABILIDADE RENDA MÉDIA FAMÍLIA ESCOLA US$35.095 US$45.005 ENTRE ESTAR."}]
+
+json
+[{'ID': '5439C4', 'PT': 'A mulher, porque sua altura está 1,33 desvios-padrão acima da altura média de todas as mulheres, enquanto a altura do homem está apenas um desvio-padrão acima da altura média de todos os homens.', 'GLOSA': 'MULHER PORQUE ALTURA 1.33 DESVIO-PADRAO ACIMA ALTURA MEDIA TODAS MULHERES ENQUANTO ALTURA HOMEM UM DESVIO-PADRAO ACIMA ALTURA MEDIA TODOS HOMENS.'}]
+
+json
+[{'ID': '5440C4', 'PT': 'As distribuições t são mais dispersas do que a distribuição normal.', 'GLOSA': 'DISTRIBUIÇÃO T MAIS DISPERSO DISTRIBUIÇÃO NORMAL.'}]
+
+json
+[{"ID": "5441C4", "PT": "Este estudo foi um experimento no qual os sujeitos foram usados como seus próprios controles.", "GLOSA": "ESTUDO ESTE EXPERIMENTO SUJEITO PRÓPRIO CONTROLE USAR"}]
+
+json
+[{'ID': '5442C4', 'PT': 'Ela descreve uma amostra que não é representativa da população.', 'GLOSA': 'ELA DESCREVER AMOSTRA REPRESENTATIVO POPULAÇÃO NÃO'}]
+
+json
+[{"ID": "5443C4", "PT": "Permitir que o processo de produção continue quando a resistência do tecido estiver abaixo das especificações.", "GLOSA": "PROCESSO PRODUÇÃO CONTINUAR PERMITIR RESISTÊNCIA TECIDO ABAIXO ESPECIFICAÇÃO"}]
+
+json
+[{"ID": "5445C4", "PT": "diminui o tamanho do intervalo em 57%.", "GLOSA": "TAMANHO INTERVALO DIMINUIR 57%."}]
+
+json
+[{"ID": "5449C4", "PT": "E e F são independentes e mutuamente exclusivos.", "GLOSA": "E F INDEPENDENTE MUTUAMENTE EXCLUSIVO."}]
+
+json
+[{'ID': '5453C4', 'PT': 'Ao usar o desvio padrão da amostra para estimar o desvio padrão da população, mais variabilidade é introduzida na distribuição amostral da estatística.', 'GLOSA': 'AMOSTRA DESVIO PADRÃO USAR POPULAÇÃO DESVIO PADRÃO ESTIMAR VARIABILIDADE MAIS INTRODUZIR DISTRIBUIÇÃO AMOSTRAL ESTATÍSTICA.'}]
+
+json
+[{"ID": "5454C4", "PT": "Selecionando amostras aleatoriamente", "GLOSA": "AMOSTRAS SELECIONAR ALEATÓRIO"}]
+
+json
+[{"ID": "5458C4", "PT": "Cada elemento da população tem a mesma chance de ser escolhido.", "GLOSA": "POPULAÇÃO ELEMENTO CADA CHANCE IGUAL ESCOLHER."}]
+
+json
+[{"ID": "5459C4", "PT": "Seu procedimento introduz viés por meio de erro de amostragem.", "GLOSA": "PROCEDIMENTO SEU VIÉS INTRODUZIR ERRO AMOSTRAGEM MEIO."}]
+
+json
+[{"ID": "5460C4", "PT": "Todas as respostas acima estão corretas.", "GLOSA": "RESPOSTA ACIMA TUDO CORRETO"}]
+
+json
+[{'ID': '5462C4', 'PT': 'Da lista de todos os clientes que aderiram nos últimos 12 meses, classifique os clientes pelo estado em que vivem e depois escolha 3% dos clientes de cada estado.', 'GLOSA': 'LISTA CLIENTE ADERIR ULTIMO 12 MES CLASSIFICAR ESTADO MORAR DEPOIS ESCOLHER 3% CLIENTE CADA ESTADO.'}]
+
+json
+[{'ID': '5465C4', 'PT': 'O preço médio aumentará em 50 centavos, mas o desvio padrão dos preços permanecerá o mesmo.', 'GLOSA': 'PREÇO MÉDIO AUMENTAR 50 CENTAVOS MAS DESVIO PADRÃO PREÇO MESMO PERMANECER.'}]
+
+json
+[{"ID": "5638C4", "PT": "Todas as afirmações acima são falsas.", "GLOSA": "AFIRMAÇÃO ACIMA TODOS FALSO."}]
+
+json
+[{"ID": "5639C4", "PT": "Apenas eu", "GLOSA": "SÓ EU"}]
+
+json
+[{"ID": "5640C4", "PT": "423", "GLOSA": "423"}]
+
+json
+[{"ID": "5641C4", "PT": "6", "GLOSA": "6"}]
+
+json
+[{"ID": "5642C4", "PT": "Nenhuma das afirmações anteriores.", "GLOSA": "NENHUM AFIRMAÇÃO ANTERIOR."}]
+
+json
+[{"ID": "5643C4", "PT": "A probabilidade de rejeitar a hipótese nula se ela for, de fato, falsa.", "GLOSA": "HIPÓTESE NULA REJEITAR PROBABILIDADE ELA FALSO DE FATO"}]
+
+json
+[{"ID": "5644C4", "PT": "Os pesquisadores calcularão o valor P errado, invalidando seus conselhos aos médicos.", "GLOSA": "PESQUISADOR CALCULAR VALOR P ERRADO CONSELHO MÉDICO INVALIDAR"}]
+
+json
+[{'ID': '5645C4', 'PT': 'Uma pontuação no 50º percentil para a primeira classe está no 90º percentil para a segunda classe.', 'GLOSA': 'PONTOS 50 PERCENTIL PRIMEIRA CLASSE 90 PERCENTIL SEGUNDA CLASSE'}]
+
+json
+[{'ID': '5646C4', 'PT': 'Há evidências que concluem que o novo processo está produzindo motores com empuxo médio abaixo de 9.500 libras.', 'GLOSA': 'EVIDÊNCIA CONCLUIR NOVO PROCESSO PRODUZIR MOTOR EMPUXO MÉDIO ABAIXO 9500 LIBRA'}]
+
+json
+[{"ID": "5647C4", "PT": "Ponto crucial", "GLOSA": "PONTO CRUCIAL"}]
+
+json
+[{"ID": "5648C4", "PT": "A Grã-Bretanha cedeu-o aos Estados Unidos como parte de um tratado negociado.", "GLOSA": "GRÃ-BRETANHA CEDER ELE ESTADOS UNIDOS TRATADO NEGOCIAR PARTE."}]
+
+json
+[{"ID": "5649C4", "PT": "conhecido por sua hostilidade às práticas religiosas tradicionais.", "GLOSA": "CONHECIDO HOSTILIDADE PRÁTICA RELIGIOSO TRADICIONAL."}]
+
+json
+[{"ID": "5650C4", "PT": "Processo de reconstrução", "GLOSA": "RECONSTRUÇÃO PROCESSO"}]
+
+json
+[{"ID": "10686C4", "PT": "nem receptação de bens roubados nem furto.", "GLOSA": "RECEPTAÇÃO BENS ROUBADO FURTO NEM"}]
+
+json
+[{'ID': '10687C4', 'PT': 'O comprador violou uma promessa tácita de fazer um esforço razoável para obter um empréstimo de um banco.', 'GLOSA': 'COMPRADOR VIOLAR PROMESSA TÁCITO ESFORÇO RAZOÁVEL OBTENÇÃO EMPRÉSTIMO BANCO.'}]
+
+json
+[{"ID": "10688C4", "PT": "inexequível em todos os aspectos.", "GLOSA": "IMPOSSÍVEL TODOS ASPECTO."}]
+
+json
+[{"ID": "10689C4", "PT": "A sobrinha, porque ela é a legatária residual.", "GLOSA": "SOBRINHA PORQUE ELA SER LEGATÁRIO RESIDUAL."}]
+
+json
+[{"ID": "10690C4", "PT": "inadmissível, porque o aviso subsequente não é relevante para a viabilidade de um aviso modificado.", "GLOSA": "INADMISSÍVEL, PORQUE AVISO DEPOIS NÃO RELEVANTE VIABILIDADE AVISO MODIFICAR."}]
+
+json
+[{'ID': '10691C4', 'PT': 'Não houve consideração suficiente para apoiar o contrato de certificado.', 'GLOSA': 'CONTRATO CERTIFICADO APOIAR CONSIDERAÇÃO SUFICIENTE NÃO TER.'}]
+
+json
+[{"ID": "10692C4", "PT": "Nenhum dos réus é culpado de homicídio e conspiração para cometer homicídio.", "GLOSA": "RÉU NENHUM CULPADO HOMICÍDIO E CONSPIRAÇÃO HOMICÍDIO COMETER"}]
+
+json
+[{"ID": "10693C4", "PT": "roubo, furto e assassinato.", "GLOSA": "ROUBO FURTO ASSASSINATO"}]
+
+json
+[{"ID": "10694C4", "PT": "vencer, porque ela é a esposa do marido.", "GLOSA": "ELA VENCER PORQUE ELA ESPOSA MARIDO."}]
+
+json
+[{'ID': '10695C4', 'PT': 'Sim, a tutela declaratória seria prematura porque os medos do estudante de direito de uma futura prisão são inteiramente baseados em conjecturas da parte dele.', 'GLOSA': 'SIM TUTELA DECLARATÓRIA PREMATURO MEDO ESTUDANTE DIREITO PRISÃO FUTURO CONJECTURA BASEAR'}]
+
+json
+[{"ID": "10696C4", "PT": "Não, porque o memorando escrito do fornecedor funcionou como uma aceitação, com propostas de termos adicionais que se tornaram parte do contrato depois que o homem não se opôs a tais termos adicionais dentro de um prazo razoável.", "GLOSA": "NÃO, PORQUE MEMORANDO ESCRITO FORNECEDOR FUNCIONAR ACEITAÇÃO, TERMO ADICIONAL PROPOSTA CONTRATO PARTE VIRAR, HOMEM OPOR-SE NÃO TERMO ADICIONAL PRAZO RAZOÁVEL DENTRO."}]
+
+json
+[{'ID': '10697C4', 'PT': 'inadmissível, porque a declaração do proprietário ao contador é fofoca; informação sem comprovação e não se enquadra em nenhuma exceção.', 'GLOSA': 'INADMISSÍVEL PORQUE DECLARAÇÃO PROPRIETÁRIO CONTADOR FOFOCA INFORMAÇÃO COMPROVAÇÃO NADA ENQUADRA EXCEÇÃO NENHUM'}]
+
+json
+[{"ID": "10698C4", "PT": "Amigo // Associado", "GLOSA": "AMIGO ASSOCIADO"}]
+
+json
+[{"ID": "10699C4", "PT": "a Décima Quarta Emenda.", "GLOSA": "EMENDA DÉCIMA QUARTA"}]
+
+json
+[{"ID": "10700C4", "PT": "Ele pode ser condenado tanto por furto quanto por dano criminoso.", "GLOSA": "ELE PODER CONDENAR FURTO OU DANO CRIME."}]
+
+json
+[{"ID": "10701C4", "PT": "Os requisitos de residência de duração do estado estabelecidos para esse tipo de serviço financiado publicamente apenas com o propósito de reduzir despesas estaduais violam a cláusula de proteção igualitária da Décima Quarta Emenda.", "GLOSA": "REQUISITO RESIDÊNCIA ESTADO TEMPO SERVIÇO PÚBLICO FINANCIAR PROPÓSITO DESPESA ESTADO REDUZIR VIOLAR CLÁUSULA PROTEÇÃO IGUAL DÉCIMA QUARTA EMENDA"}]
+
+json
+[{"ID": "10702C4", "PT": "perder, porque a não utilização da entrada de veículos pelo vizinho efetuou o abandono da servidão.", "GLOSA": "VIZINHO NÃO USAR ENTRADA VEÍCULO SERVIDÃO ABANDONO PERDER."}]
+
+json
+[{'ID': '10703C4', 'PT': 'Sim, o vendedor tem responsabilidade objetiva perante o comprador por quaisquer defeitos que surjam dentro de um ano da venda.', 'GLOSA': 'SIM, VENDEDOR TER RESPONSABILIDADE OBJETIVA COMPRADOR POR QUALQUER DEFEITO UM-ANO VENDA SURGIR DENTRO.'}]
+
+json
+[{"ID": "10704C4", "PT": "não prevalecerá, a menos que o menino tenha sido negligente.", "GLOSA": "MENINO NEGLIGENTE MENOS PREVALECER."}]
+
+json
+[{'ID': '10705C4', 'PT': 'inocente, porque o incêndio criminoso requer a presença de malícia.', 'GLOSA': 'INOCENTE PORQUE INCÊNDIO CRIMINOSO REQUERER MALÍCIA PRESENÇA.'}]
+
+json
+[{'ID': '10706C4', 'PT': 'Tarde da noite, quando um hóspede estava se registrando em um hotel, um réu percebeu que o hóspede era um sujeito que lhe devia dinheiro de uma aposta. Depois que o hóspede se retirou para seu quarto, o réu invadiu seu quarto e o ameaçou em relação ao dinheiro que lhe era devido.', 'GLOSA': 'NOITE TARDE HÓSPEDE HOTEL REGISTRAR RÉU PERCEBER HÓSPEDE SUJEITO DINHEIRO APOSTA DEVER QUARTO HÓSPEDE IR RÉU INVAIDIR QUARTO HÓSPEDE AMEAÇAR DINHEIRO'}]
+
+json
+[{"ID": "10707C4", "PT": "De acordo com o Artigo I, Seção 8, o Congresso tem autoridade para garantir aos autores e inventores o direito exclusivo sobre seus respectivos escritos e descobertas.", "GLOSA": "ARTIGO I SEÇÃO 8 CONGRESO TER AUTORIDADE GARANTIR AUTOR INVENTOR DIREITO EXCLUSIVO ESCRITO DESCOBERTA."}]
+
+json
+[{"ID": "10708C4", "PT": "inconstitucional, porque é uma lei retroativa.", "GLOSA": "LEI INCONSTITUCIONAL, PORQUE LEI RETROATIVO."}]
+
+json
+[{"ID": "10709C4", "PT": "inocente, porque não houve consentimento mútuo entre as partes.", "GLOSA": "INOCENTE PORQUE CONSENTIMENTO MÚTUO PARTE NÃO TER."}]
+
+json
+[{"ID": "10710C4", "PT": "inocente.", "GLOSA": "INOCENTE."}]
+
+json
+[{"ID": "10711C4", "PT": "Não, porque, considerando todas as circunstâncias, a conduta do informante não foi inerentemente coercitiva.", "GLOSA": "NÃO, PORQUE CIRCUNSTÂNCIA TODA CONSIDERAR INFORMANTE CONDIÇÃO COERCITIVO NÃO."}]
+
+json
+[{'ID': '10712C4', 'PT': 'Não existe um contrato executável entre as partes, devido a erro compartilhado sobre os fatos.', 'GLOSA': 'CONTRATO EXECUTÁVEL NÃO EXISTIR PARTE ERRO COMPARTILHADO FATO.'}]
+
+json
+[{'ID': '10713C4', 'PT': 'Sim, porque não houve nenhuma consideração que justificasse sua renúncia, se houver, à entrega pontual.', 'GLOSA': 'SIM PORQUE NENHUMA CONSIDERAÇÃO JUSTIFICAR RENÚNCIA SUA TER ENTREGAR PONTUAL'}]
+
+json
+[{"ID": "10714C4", "PT": "nem instruir o júri sobre o assunto nem permitir que o advogado do supermercado discuta o assunto.", "GLOSA": "JÚRI INSTRUIR ASSUNTO NEM ADVOGADO SUPERMERCADO ASSUNTO DISCUTIR PERMITIR NEM"}]
+
+json
+[{'ID': '10715C4', 'PT': 'anular todas as objeções porque a testemunha é contrária ao autor e, portanto, pode ser interrogada por meio de perguntas tendenciosas e sujeita a impeachment.', 'GLOSA': 'OBJETÃO ANULAR TODOS PORQUE TESTEMUNHA CONTRÁRIO AUTOR PORTANTO INTERROGAR PERGUNTA TENDENCIOSA IMPEACHMENT SUJEITO'}]
+
+json
+[{'ID': '10716C4', 'PT': 'Sim, porque o crime envolveu um ato de desonestidade.', 'GLOSA': 'SIM PORQUE CRIME ATO DESONESTIDADE ENVOLVER.'}]
+
+json
+[{"ID": "10717C4", "PT": "agressão e tentativa de furto.", "GLOSA": "AGRESSÃO TENTATIVA FURTO"}]
+
+json
+[{"ID": "10718C4", "PT": "inocente, porque a porta da frente estava destrancada.", "GLOSA": "INOCENTE PORTA FRENTE DESTRANCADA."}]
+
+json
+[{'ID': '10719C4', 'PT': 'Não, porque não houve consideração adequada pelo convênio.', 'GLOSA': 'NÃO, PORQUE CONSIDERAR ADEQUADO CONVÊNIO NÃO-HOVER.'}]
+
+json
+[{"ID": "10720C4", "PT": "O fazendeiro.", "GLOSA": "FAZENDEIRO"}]
+
+json
+[{'ID': '10721C4', 'PT': 'Não, quando as informações médicas ou científicas sobre um defeito ainda não foram descobertas, a empresa não será responsabilizada estritamente por colocar aquele produto no mercado.', 'GLOSA': 'NÃO, INFORMAÇÃO MÉDICO CIENTÍFICO DEFEITO DESCOBRIR AINDA NÃO, EMPRESA RESPONSABILIZAR ESTRITO PRODUTO MERCADO COLOCAR NÃO.'}]
+
+json
+[{"ID": "10722C4", "PT": "Nenhum dano, porque a negligência por parte do pedestre que contribuiu para o dano.", "GLOSA": "DANO NENHUM, PORQUE NEGLIGÊNCIA PEDESTRE CONTRIBUIR DANO."}]
+
+json
+[{"ID": "10723C4", "PT": "Sim, porque o envio dos cartões de Ação de Graças pela gráfica em 10 de outubro constituiu uma quebra de contrato.", "GLOSA": "SIM PORQUE ENVIO CARTÃO AÇÃO DE GRAÇAS GRÁFICA 10 OUTUBRO CONSTITUIR QUEBRA CONTRATO."}]
+
+json
+[{"ID": "10724C4", "PT": "Escalações pós-carga", "GLOSA": "ESCALAÇÃO PÓS-CARGA"}]
+
+json
+[{"ID": "10725C4", "PT": "bateria.", "GLOSA": "BATERIA."}]
+
+json
+[{"ID": "10726C4", "PT": "A cláusula do devido processo legal da Quinta Emenda.", "GLOSA": "QUINTA EMENDA CLÁUSULA DEVIDO PROCESSO LEGAL"}]
+
+json
+[{"ID": "10727C4", "PT": "Empresa Child Finder", "GLOSA": "EMPRESA CHILD FINDER"}]
+
+json
+[{'ID': '13853C4', 'PT': 'vírus ds RNA em segmentos', 'GLOSA': 'VÍRUS RNA SEGMENTO'}]
+
+json
+[{'ID': '13854C4', 'PT': 'A causa de todas as doenças humanas?', 'GLOSA': 'DOENÇA HUMANO CAUSA TODAS?'}]
+
+json
+[{"ID": "13855C4", "PT": "Eles não conseguem penetrar no SNC", "GLOSA": "ELES CONSEGUIR NÃO PENETRAR SNC"}]
+
+json
+[{"ID": "13856C4", "PT": "Vírus de RNA", "GLOSA": "VÍRUS RNA"}]
+
+json
+[{"ID": "13857C4", "PT": "Nenhum método", "GLOSA": "METODO NENHUM"}]
+
+json
+[{"ID": "13858C4", "PT": "Estudo transversal", "GLOSA": "ESTUDO TRANSVERSAL"}]
+
+json
+[{"ID": "13859C4", "PT": "Raiva", "GLOSA": "RAIVA"}]
+
+json
+[{"ID": "13860C4", "PT": "Uma característica do vírus do resfriado comum e do HIV", "GLOSA": "VÍRUS RESFRIADO COMUM HIV CARACTERÍSTICA UM"}]
+
+json
+[{"ID": "13861C4", "PT": "Tanto a quanto c", "GLOSA": "A C TANTO"}]
+
+json
+[{"ID": "13862C4", "PT": "Um vírus de tamanho considerável contendo DNA", "GLOSA": "VÍRUS TAMANHO GRANDE DNA CONTER"}]
+
+json
+[{"ID": "13863C4", "PT": "Parece não haver associação entre os níveis de PCR e ataque cardíaco/derrame cerebral.", "GLOSA": "PCR NÍVEL ASSOCIAÇÃO NÃO-HAVER ATAQUE CARDÍACO DERRAME CEREBRAL."}]
+
+json
+[{"ID": "13864C4", "PT": "Muitas partículas de pequeno tamanho", "GLOSA": "PARTÍCULA MUITO PEQUENO TAMANHO"}]
+
+json
+[{"ID": "13865C4", "PT": "Estrutura flexível contendo lipídios", "GLOSA": "ESTRUTURA FLEXÍVEL LIPÍDIO CONTER"}]
+
+json
+[{"ID": "13866C4", "PT": "2,500/250,000", "GLOSA": "DOIS MIL QUINHENTOS SOBRE DUZENTOS E CINQUENTA MIL"}]
+
+json
+[{"ID": "13867C4", "PT": "O virion apresenta muitas formas", "GLOSA": "VIRION FORMA MUITO APRESENTAR"}]
+
+json
+[{"ID": "13868C4", "PT": "Febre amarela", "GLOSA": "FEBRE AMARELA"}]
+
+json
+[{'ID': '13869C4', 'PT': 'Porque são mais comuns em países em desenvolvimento com higiene precária', 'GLOSA': 'PAÍS EM DESENVOLVIMENTO HIGIENE PRECARIA DOENÇA COMUM PORQUE'}]
+
+json
+[{"ID": "13870C4", "PT": "Os vírus podem ser detidos por novas vacinas", "GLOSA": "VÍRUS VACINA NOVA DETER PODER"}]
+
+json
+[{"ID": "13871C4", "PT": "Ídolos", "GLOSA": "ÍDOLO"}]
+
+json
+[{"ID": "13872C4", "PT": "Budismo Humanista", "GLOSA": "BUDISMO HUMANISTA"}]
+
+json
+[{"ID": "13873C4", "PT": "596 d.C.", "GLOSA": "596 D.C."}]
+
+json
+[{"ID": "13874C4", "PT": "Nehebkau", "GLOSA": "NEHEBKAU"}]
+
+json
+[{"ID": "13875C4", "PT": "Ikebana", "GLOSA": "IKEBANA"}]
+
+json
+[{'ID': '13876C4', 'PT': 'Boa vontade e amor', 'GLOSA': 'BOA VONTADE AMOR'}]
+
+json
+[{"ID": "13877C4", "PT": "Guru", "GLOSA": "GURU"}]
+
+json
+[{"ID": "13878C4", "PT": "As revelações de Maomé sobre o Alcorão", "GLOSA": "MAOMÉ REVELAÇÃO ALCORÃO"}]
+
+json
+[{"ID": "13879C4", "PT": "Leis de Manu", "GLOSA": "LEI MANU"}]
+
+json
+[{"ID": "13880C4", "PT": "Os Pilares", "GLOSA": "PILARES"}]
+
+json
+[{"ID": "13881C4", "PT": "Espírito eterno", "GLOSA": "ESPÍRITO ETERNO"}]
+
+json
+[{"ID": "13882C4", "PT": "Soto Zen", "GLOSA": "SOTO ZEN"}]
+
+json
+[{"ID": "13883C4", "PT": "Panth", "GLOSA": "PANTH"}]
+
+json
+[{"ID": "13884C4", "PT": "Xamanismo", "GLOSA": "XAMANISMO"}]
+
+json
+[{"ID": "13885C4", "PT": "Fé", "GLOSA": "FÉ"}]
+
+json
+[{"ID": "13886C4", "PT": "Não-eu", "GLOSA": "EU NÃO"}]
+
+json
+[{'ID': '13887C4', 'PT': 'Narrativas teológicas', 'GLOSA': 'NARRATIVA TEOLOGIA'}]
+
+json
+[{"ID": "13888C4", "PT": "Mahavira", "GLOSA": "MAHAVIRA"}]
+
+json
+[{"ID": "13889C4", "PT": "Digambara", "GLOSA": "DIGAMBARA"}]
+
+json
+[{"ID": "13890C4", "PT": "O Decálogo", "GLOSA": "DECÁLOGO"}]
+
+json
+[{"ID": "13891C4", "PT": "Práticas não convencionais", "GLOSA": "PRÁTICA CONVENCIONAL NÃO"}]
+
+json
+[{"ID": "13892C4", "PT": "A Batalha de Badr", "GLOSA": "BADR BATALHA"}]
+
+json
+[{"ID": "13893C4", "PT": "Meditando sobre a bondade do mundo criado", "GLOSA": "EU MEDITAR BONDADE MUNDO CRIADO"}]
+
+json
+[{"ID": "13894C4", "PT": "Taoísmo", "GLOSA": "TAOÍSMO"}]
+
+json
+[{"ID": "13895C4", "PT": "Iluminado", "GLOSA": "ILUMINAR"}]
+
+json
+[{"ID": "13896C4", "PT": "Os \\"reis sábios\\" confucionistas", "GLOSA": "REI SÁBIO CONFUCIONISTA"}]
+
+json
+[{"ID": "13897C4", "PT": "A linhagem de Davi", "GLOSA": "LINHAGEM DAVI"}]
+
+json
+[{"ID": "13898C4", "PT": "Não-alma", "GLOSA": "ALMA NÃO"}]
+
+json
+[{"ID": "13899C4", "PT": "Rituais funerários", "GLOSA": "RITUAL FUNERÁRIO"}]
+
+json
+[{'ID': '13900C4', 'PT': 'União sexual', 'GLOSA': 'UNIÃO SEXUAL'}]
+
+json
+[{"ID": "13901C4", "PT": "Transcendente e imanente", "GLOSA": "TRANSCENDENTE IMANENTE"}]
+
+json
+[{'ID': '13902C4', 'PT': 'Espanha e França', 'GLOSA': 'ESPANHA FRANÇA'}]
+
+json
+[{"ID": "13903C4", "PT": "islão", "GLOSA": "ISLÃO"}]
+
+json
+[{"ID": "13904C4", "PT": "Satya yuga", "GLOSA": "SATYA YUGA"}]
+
+json
+[{"ID": "13905C4", "PT": "Mitos", "GLOSA": "MITO"}]
+
+json
+[{"ID": "13906C4", "PT": "Soto Zen", "GLOSA": "SOTO ZEN"}]
+
+json
+[{"ID": "13907C4", "PT": "Durga", "GLOSA": "DURGA"}]
+
+json
+[{"ID": "13908C4", "PT": "Khadija", "GLOSA": "KHADIJA"}]
+
+json
+[{"ID": "13909C4", "PT": "Kali", "GLOSA": "KALI"}]
+
+json
+[{"ID": "13910C4", "PT": "João da Cruz", "GLOSA": "JOÃO CRUZ"}]
+
+json
+[{"ID": "13911C4", "PT": "Estética", "GLOSA": "ESTÉTICA"}]
+
+json
+[{"ID": "13912C4", "PT": "Quakers", "GLOSA": "QUAKERS"}]
+
+json
+[{"ID": "13913C4", "PT": "Mateus", "GLOSA": "MATEUS"}]
+
+json
+[{"ID": "13914C4", "PT": "1975", "GLOSA": "1975"}]
+
+json
+[{"ID": "13915C4", "PT": "Renunciantes que vivem no templo", "GLOSA": "RENUNCIANTES TEMPLO MORAR"}]
+
+json
+[{'ID': '13916C4', 'PT': 'Meditação', 'GLOSA': 'MEDITAÇÃO'}]
+
+json
+[{"ID": "13917C4", "PT": "templos", "GLOSA": "TEMPLO"}]
+
+json
+[{"ID": "13918C4", "PT": "Antíoco IV Epifânio", "GLOSA": "ANTÍOCO IV EPIFÂNIO"}]
+
+json
+[{"ID": "13919C4", "PT": "52", "GLOSA": "52"}]
+
+json
+[{"ID": "13920C4", "PT": "Vaca", "GLOSA": "VACA"}]
+
+json
+[{"ID": "13921C4", "PT": "Aprendizagem", "GLOSA": "APRENDER"}]
+
+json
+[{"ID": "13922C4", "PT": "O surgimento do islamismo", "GLOSA": "ISLAMISMO SURGIR"}]
+
+json
+[{"ID": "13923C4", "PT": "Shinran", "GLOSA": "SHINRAN"}]
+
+json
+[{"ID": "13924C4", "PT": "Peru", "GLOSA": "PERU"}]
+
+json
+[{"ID": "13925C4", "PT": "Francisco", "GLOSA": "FRANCISCO"}]
+
+json
+[{"ID": "13926C4", "PT": "Sábios", "GLOSA": "SABIO"}]
+
+json
+[{"ID": "13927C4", "PT": "Guru Har Rai", "GLOSA": "GURU HAR RAI"}]
+
+json
+[{"ID": "13928C4", "PT": "Guru Ram Das", "GLOSA": "GURU RAM DAS"}]
+
+json
+[{'ID': '13929C4', 'PT': 'Na vida do chefe de família', 'GLOSA': 'FAMÍLIA CHEFE VIDA'}]
+
+json
+[{"ID": "13930C4", "PT": "Poder e força são os atributos mais divinos", "GLOSA": "PODER FORÇA ATRIBUTO DIVINO MAIS"}]
+
+json
+[{"ID": "13931C4", "PT": "Mahavira", "GLOSA": "MAHAVIRA"}]
+
+json
+[{'ID': '13932C4', 'PT': 'Joseon', 'GLOSA': 'JOSEON'}]
+
+json
+[{"ID": "13933C4", "PT": "Aryabhatta", "GLOSA": "ARYABHATTA"}]
+
+json
+[{"ID": "13934C4", "PT": "É um edifício quadrado.", "GLOSA": "EDIFÍCIO QUADRADO SER."}]
+
+json
+[{"ID": "13935C4", "PT": "Sita", "GLOSA": "SITA"}]
+
+json
+[{"ID": "13936C4", "PT": "Nanak", "GLOSA": "NANAK"}]
+
+json
+[{"ID": "13937C4", "PT": "Liu Xiang", "GLOSA": "LIU XIANG"}]
+
+json
+[{"ID": "13938C4", "PT": "7,000", "GLOSA": "SETE MIL"}]
+
+json
+[{'ID': '13939C4', 'PT': 'Adoração Sikh', 'GLOSA': 'ADORAÇÃO SIKH'}]
+
+json
+[{"ID": "13940C4", "PT": "Karam", "GLOSA": "KARAM"}]
+
+json
+[{"ID": "13941C4", "PT": "47", "GLOSA": "47"}]
+
+json
+[{"ID": "13942C4", "PT": "Budismo da Terra Pura", "GLOSA": "BUDISMO TERRA PURA"}]
+
+json
+[{"ID": "13943C4", "PT": "Eles acreditavam que o Jina onisciente deveria comer e dormir", "GLOSA": "ELES ACREDITAR JINA ONISCIENTE COMER DORMIR DEVER"}]
+
+json
+[{"ID": "13944C4", "PT": "Arquerias", "GLOSA": "ARQUEIRO"}]
+
+json
+[{'ID': '13945C4', 'PT': 'Século XVIII d.C.', 'GLOSA': 'SÉCULO DEZOITO DEPOIS CRISTO'}]
+
+json
+[{"ID": "13946C4", "PT": "13", "GLOSA": "TREZE"}]
+
+json
+[{"ID": "13947C4", "PT": "Quietude do Amor", "GLOSA": "AMOR QUIETUDE"}]
+
+json
+[{"ID": "13948C4", "PT": "Sarasvati", "GLOSA": "SARASVATI"}]
+
+json
+[{'ID': '13949C4', 'PT': 'Religião', 'GLOSA': 'REIGIÃO'}]
+
+json
+[{"ID": "13950C4", "PT": "Indra", "GLOSA": "INDRA"}]
+
+json
+[{"ID": "13951C4", "PT": "A Kipá", "GLOSA": "KIPÁ"}]
+
+json
+[{"ID": "13952C4", "PT": "Ganesha", "GLOSA": "GANESHA"}]
+
+json
+[{"ID": "13953C4", "PT": "Comerciantes", "GLOSA": "COMERCIÁRIO"}]
+
+json
+[{"ID": "13954C4", "PT": "Em meados do segundo milênio a.C.", "GLOSA": "MEADOS SEGUNDO MILÊNIO AC"}]
+
+json
+[{'ID': '13955C4', 'PT': 'Crença correta', 'GLOSA': 'CRENÇA CORRETO'}]
+
+json
+[{"ID": "13956C4", "PT": "Organização de manutenção da paz no Japão", "GLOSA": "JAPÃO ORGANIZAÇÃO MANUTENÇÃO PAZ"}]
+
+json
+[{"ID": "13957C4", "PT": "João da Cruz", "GLOSA": "JOÃO CRUZ"}]
+
+json
+[{"ID": "13958C4", "PT": "Acássia", "GLOSA": "ACÁSSIA"}]
+
+json
+[{"ID": "13959C4", "PT": "Tanabata", "GLOSA": "TANABATA"}]
+
+json
+[{"ID": "13960C4", "PT": "\"Mendicante\"", "GLOSA": "MENDIGO"}]
+
+json
+[{"ID": "13961C4", "PT": "Três budas", "GLOSA": "TRÊS BUDAS"}]
+
+json
+[{"ID": "13962C4", "PT": "Cingapura", "GLOSA": "CINGAPURA"}]
+
+json
+[{"ID": "13963C4", "PT": "Poetas femininas", "GLOSA": "POETA MULHER"}]
+
+json
+[{"ID": "13965C4", "PT": "Inspiração divina", "GLOSA": "INSPIRAÇÃO DEUS"}]
+
+json
+[{"ID": "13966C4", "PT": "Ele é o mais sagrado dos profetas ascetas", "GLOSA": "ELE SAGRADO MAIS PROFETA ASCETA"}]
+
+json
+[{"ID": "13967C4", "PT": "Bardo Chogye", "GLOSA": "BARDO CHOGYE"}]
+
+json
+[{"ID": "13968C4", "PT": "Navaratri", "GLOSA": "NAVARATRI"}]
+
+json
+[{"ID": "13969C4", "PT": "3h às 6h", "GLOSA": "3H 6H"}]
+
+json
+[{"ID": "13970C4", "PT": "Shaku Soyen", "GLOSA": "SHAKU SOYEN"}]
+
+json
+[{"ID": "13971C4", "PT": "Exatamente 24", "GLOSA": "EXATAMENTE 24"}]
+
+json
+[{"ID": "13972C4", "PT": "Ortodoxo", "GLOSA": "RELIGIÃO ORTODOXO"}]
+
+json
+[{"ID": "13973C4", "PT": "Shabad", "GLOSA": "SHABAD"}]
+
+json
+[{"ID": "13974C4", "PT": "Guru Hargobind", "GLOSA": "GURU HARGOBIND"}]
+
+json
+[{"ID": "13975C4", "PT": "Tipo", "GLOSA": "TIPO"}]
+
+json
+[{"ID": "13976C4", "PT": "Épico das Origens", "GLOSA": "ÉPICO ORIGEM"}]
+
+json
+[{'ID': '13977C4', 'PT': 'Festa de Athrodite', 'GLOSA': 'FESTAS ATHRODITE'}]
+
+json
+[{"ID": "13978C4", "PT": "Fundamentalismo", "GLOSA": "FUNDAMENTALISMO"}]
+
+json
+[{"ID": "13979C4", "PT": "Autoridade", "GLOSA": "AUTORIDADE"}]
+
+json
+[{"ID": "13980C4", "PT": "Revelação", "GLOSA": "REVELAÇÃO"}]
+
+json
+[{"ID": "14018C4", "PT": "Os autores dos três primeiros evangelhos canônicos.", "GLOSA": "TRÊS PRIMEIRO EVANGELHO CANÔNICO AUTOR"}]
+
+json
+[{"ID": "14028C4", "PT": "A roupa usada em um casamento.", "GLOSA": "CASAMENTO ROUPA USAR"}]
+
+json
+[{"ID": "14032C4", "PT": "Um acordo ou compromisso.", "GLOSA": "ACORDO OU COMPROMISSO UM"}]
+
+json
+[{"ID": "14039C4", "PT": "feito de matéria humana.", "GLOSA": "MATÉRIA HUMANO FEITO"}]
+
+json
+[{"ID": "14054C4", "PT": "Os vasos sanguíneos e nervos que suprem a região da mandíbula.", "GLOSA": "VASO SANGUE NERVO REGIÃO MANDÍBULA SUPRIMIR"}]
+
+json
+[{"ID": "14058C4", "PT": "em cada uma das três áreas.", "GLOSA": "TRÊS ÁREA CADA UM."}]
+
+json
+[{"ID": "14059C4", "PT": "no osso esterno, no ponto médio entre o ângulo esternal e o processo xifóide.", "GLOSA": "OSSO ESTERNO PONTO MEIO ÂNGULO ESTERNO PROCESSO XIFÓIDE."}]
+
+json
+[{'ID': '14060C4', 'PT': 'Todas as regiões mencionadas anteriormente.', 'GLOSA': 'REGIÃO TODOS ANTES MENCIONAR.'}]
+
+json
+[{"ID": "14061C4", "PT": "com filamentos de actina e miosina organizados paralelamente.", "GLOSA": "ACTINA MIOSINA FILAMENTO PARALELO ORGANIZAR."}]
+
+json
+[{'ID': '1472Q1', 'PT': 'Suponha que uma conexão TLS tenha sido estabelecida com sucesso entre um cliente e um servidor. Estabelecer a sessão incluiu verificar o certificado do servidor e executar uma troca DiffieHelmann, mas o cliente não forneceu um certificado de cliente. Além disso, suponha que o cliente e o servidor atuem com boa-fé, que o cliente e o servidor mantenham suas chaves secretas protegidas e que o algoritmo de criptografia seja robusto e inviolável. Contra qual dos seguintes ataques o TLS protege?', 'GLOSA': 'CLIENTE SERVIDOR CONEXÃO TLS SUCESSO.  CERTIFICADO SERVIDOR VERIFICAR TROCA DIFFIE-HELLMAN. CLIENTE CERTIFICADO NÃO FORNECER. CLIENTE SERVIDOR BOA-FÉ. CHAVE SECRETA PROTEGER. ALGORITMO CRIPTOGRAFIA ROBUSTO INVIOÁVEL. TLS PROTEGER ATAQUE QUAL?'}]
+
+json
+[
+  {
+    "ID": "1473Q1",
+    "PT": "O servidor Kerberos KDC do MIT tem um tempo máximo de validade do tíquete de 24 horas (para a maioria dos principais de usuário). O que garante que um tíquete Kerberos expirado não possa mais ser usado?",
+    "GLOSA": "SERVIDOR KERBEROS MIT TEMPO MÁXIMO VALIDADE TÍQUETE 24 HORA USUÁRIO MAIORIA. TÍQUETE KERBEROS EXPIRAR NÃO PODER USAR O QUE GARANTIR?"
+  }
+]
+
+json
+[{'ID': '1474Q1', 'PT': 'Para garantir a confidencialidade da mensagem, a mensagem transmitida deve fazer sentido apenas para o destinatário pretendido.', 'GLOSA': 'MENSAGEM CONFIDENCIALIDADE GARANTIR MENSAGEM TRANSMITIR SENTIDO APENAS DESTINATÁRIO PRETENDIDO.'}]
+
+json
+[{"ID": "1475Q1", "PT": "Qual dos seguintes é um Trojan remoto?", "GLOSA": "QUAL SEGUINTE TROJAN REMOTO?"}]
+
+json
+[
+  {
+    "ID": "1476Q1",
+    "PT": "______________ é uma falha comum na programação de aplicativos cometido por desenvolvedores que pode ser explorado por um invasor para obter acesso ou causar mau funcionamento do seu sistema.",
+    "GLOSA": "FALHA COMUM APLICATIVO PROGRAMAÇÃO DESENVOLVEDOR INVASOR EXPLORAR ACESSO OBTER OU SISTEMA MAU FUNCIONAMENTO CAUSAR."
+  }
+]
+
+json
+[{"ID": "1477Q1", "PT": "Considere o artigo Native Client: A Sandbox for Portable, Untrusted x86 Native Code de Yee et al. Ben Bitdiddle observa que o NaCl usa a segmentação Intel x86 para garantir que o módulo em ambiente isolado não leia ou grave memória fora de sua própria área de dados e não execute instruções fora de seu próprio código. Ben acha que com essas restrições sozinhas, a execução do módulo em ambiente isolado deve ser segura; ou seja, ele acha que a validação não é necessária. Ben está errado. Circule os tipos de instruções de máquina x86 que o validador sempre proíbe em código em ambiente isolado. Ignore o código trampolim e trampolim.", "GLOSA": "ARTIGO NATIVECLIENT SANDBOX PORTÁTIL NÃO-CONFIÁVEL X86 NATIVO CÓDIGO YEE ET AL CONSIDERAR. BEN BITDIDDLE OBSERVAR NACL USAR SEGMENTAÇÃO INTEL X86 GARANTIR MÓDULO AMBIENTE ISOLADO NÃO LER GRAVAR MEMÓRIA FORA ÁREA DADOS PRÓPRIO NÃO EXECUTAR INSTRUÇÃO FORA CÓDIGO PRÓPRIO. BEN ACHAR RESTRIÇÃO SÓ EXECUÇÃO MÓDULO AMBIENTE ISOLADO SEGURO SER. VALIDAÇÃO NECESSÁRIO NÃO ACHAR. BEN ERRADO.  VALIDADOR SEMPRE PROIBIR INSTRUÇÃO MÁQUINA X86 TIPO CIRCULAR CÓDIGO AMBIENTE ISOLADO. CÓDIGO TRAMPOLIM IGNORAR."}]
+
+json
+[
+  {
+    "ID": "1478Q1",
+    "PT": "____________ também é uma parte da darknet que é usada para transferir arquivos anonimamente.",
+    "GLOSA": "____________ DARKNET PARTE SER USAR TRANSFERIR ARQUIVO ANONIMATO."
+  }
+]
+
+json
+[{'ID': '1479Q1', 'PT': 'Por que aplicativos desenvolvidos em linguagens como C e C++ são propensos a erro causado pelo preenchimento de um buffer além de sua capacidade alocada?', 'GLOSA': 'APLICAÇÃO C C++ DESENVOLVER PROPENSÃO ERRO CAUSAR BUFFER PREENCHER CAPACIDADE ALUGAR ACIMA?'}]
+
+json
+[{"ID": "1480Q1", "PT": "O ataque em que uma parte se coloca entre duas outras partes em comunicação pode colocar em risco a segurança do método Diffie Hellman se duas partes não estiverem", "GLOSA": "ATAQUE PARTE UM DOIS PARTE COMUNICAÇÃO ENTRE COLOCAR RISCO SEGURANÇA MÉTODO DIFFIE HELLMAN DOIS PARTE NÃO ESTIVER"}]
+
+json
+[{'ID': '1481Q1', 'PT': 'Um erro devido ao limite de um número inteiro ser excedido ocorre quando', 'GLOSA': 'ERRO LIMITE NÚMERO INTEIRO EXCEDER OCORRER QUANDO'}]
+
+json
+[{"ID": "1483Q1", "PT": "Suponha que Alice e Bob tenham enviado mensagens de texto confidenciais um ao outro no mês passado por meio de um sistema de mensagens criptografadas. Alice e Bob estão preocupados que um adversário possa obter acesso não autorizado a um de seus computadores hoje, enquanto eles estão fazendo o exame final 6.858, e então seria capaz de descriptografar essas mensagens. Qual das seguintes propriedades de segurança pode resolver a preocupação de Alice e Bob?", "GLOSA": "ALICE BOB MENSAGEM TEXTO CONFIDENCIAL ENVIAR MÊS PASSADO SISTEMA CRIPTOGRAFADO. ALICE BOB PREOCUPAR ADVERSÁRIO ACESSO NÃO-AUTORIZADO COMPUTADOR HOJE EXAME FINAL 6.858 MENSAGEM DESCRIPTOGRAFAR. QUAL SEGURANÇA PROPRIEDADE RESOLVER PREOCUPAÇÃO ALICE BOB?"}]
+
+json
+[{"ID": "1484Q1", "PT": "O Protocolo AH fornece autenticação de origem e integridade de dados, mas não", "GLOSA": "PROTOCOLO AH FORNECER AUTENTICAÇÃO ORIGEM INTEGRIDADE DADO MAS NÃO"}]
+
+json
+[{"ID": "1485Q1", "PT": "Qual das seguintes opções não é uma falha de segurança?", "GLOSA": "OPÇÃO SEGUINTE QUAL FALHA SEGURANÇA NÃO?"}]
+
+json
+[{'ID': '1486Q1', 'PT': '_______________ é o ponto principal das operações sem fio 802.11.', 'GLOSA': 'PONTO PRINCIPAL OPERAÇÃO SEM-FIO 802.11 _______'}]
+
+json
+[{"ID": "1487Q1", "PT": "No MD-5 o comprimento do resumo da mensagem é", "GLOSA": "MD-5 RESUMO MENSAGEM COMPRIMENTO SER"}]
+
+json
+[{"ID": "1488Q1", "PT": "O que é Nmap?", "GLOSA": "NMAP O QUE?"}]
+
+json
+[{"ID": "1489Q1", "PT": "Como você evita ataques que exploram vulnerabilidades em aplicações para executar comandos SQL maliciosos?", "GLOSA": "VOCÊ EVITAR COMO ATAQUE EXPLORAR VULNERABILIDADE APLICAÇÃO EXECUTAR COMANDO SQL MALICIOSO?"}]
+
+json
+[{"ID": "1490Q1", "PT": "O que significa \\\"agir discretamente, sem ser detectado\\\" durante um teste de penetração?", "GLOSA": "TESTE PENETRAÇÃO SIGNIFICAR O QUE AGIR DISCRETO DETECTAR NÃO?"}]
+
+json
+[{'ID': '1491Q1', 'PT': 'Qual das seguintes opções não é uma vulnerabilidade da camada de transporte?', 'GLOSA': 'OPÇÃO SEGUINTE QUAL NÃO VULNERABILIDADE CAMADA TRANSPORTE?'}]
+
+json
+[
+  {
+    "ID": "1492Q1",
+    "PT": "No artigo de Brumley e Boneh sobre ataques de canal lateral, por que o cegamento impede que o ataque baseado na medição de tempo de execução de operações criptográficas funcione?",
+    "GLOSA": "ARTIGO BRUMLEY BONEH ATAQUE CANAL LATERAL CEGAMENTO IMPEDIR ATAQUE MEDIÇÃO TEMPO EXECUÇÃO OPERAÇÃO CRIPTOGRAFIA FUNCIONAR PORQUE?"
+  }
+]
+
+json
+[{'ID': '1493Q1', 'PT': 'A implementação do openSSL descrita em “Remote Timing Attacks are Practical” (por Brumley e Boneh) usa as seguintes otimizações de desempenho: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM) e Repeated squaring and Sliding windows (RS). Qual das seguintes opções impediria o ataque de canal de tempo descrito no artigo se você desativasse as otimizações listadas?', 'GLOSA': 'OPENSSL IMPLEMENTAÇÃO ARTIGO BRUMLEY BONEH DESCREVER OTIMIZAÇÃO DESEMPENHO: CHINESE REMAINDER MONTGOMERY REPRESENTATION KARATSUBA MULTIPLICATION REPEATED SQUARING SLIDING WINDOWS.  OPÇÃO QUAL IMPEDIR ATAQUE CANAL TEMPO DESATIVAR OTIMIZAÇÃO LISTADO?'}]
+
+json
+[{"ID": "1494Q1", "PT": "A criptografia de chave pública é melhor que a criptografia de chave simétrica devido a", "GLOSA": "CRIPTGRAFIA CHAVE PÚBLICA MELHOR CRIPTOGRAFIA CHAVE SIMÉTRICA DEVIDO"}]
+
+json
+[{"ID": "1495Q1", "PT": "O __________ era um lugar de grande escala para transações da Dark Web, especialmente famoso pela venda de drogas e narcóticos ilegais, além de você poder encontrar uma grande variedade de outros produtos à venda.", "GLOSA": "LUGAR GRANDE ESCALA TRANSACAO DARK WEB FAMOSO DROGA NARCOTICO VENDA PRODUTO VENDA OUTRO MUITO"}]
+
+json
+[{"ID": "1496Q1", "PT": "O ______________ é categorizado como uma parte da Deep Web que não é conhecida e foi escondida de propósito e é inacessível usando navegadores da web padrão.", "GLOSA": "INTERNET PARTE DEEP WEB DESCONHECIDO ESCONDER PROPÓSITO INACESSÍVEL NAVEGADOR PADRÃO CATEGORIZAR"}]
+
+json
+[{"ID": "1497Q1", "PT": "O que o EXE faz quando o solucionador STP atinge o tempo limite em uma consulta de restrição para um caminho específico?", "GLOSA": "EXE FAZER O QUE STP SOLUCIONADOR TEMPO LIMITE ATINGIR CONSULTA RESTRIÇÃO CAMINHO ESPECÍFICO?"}]
+
+json
+[{'ID': '4397Q1', 'PT': 'Quais dos seguintes NÃO poderiam ser os lados de um triângulo isósceles?', 'GLOSA': 'QUAL SEGUINTE NÃO PODER LADO TRIÂNGULO ISÓSCELES?'}]
+
+json
+[{"ID": "4398Q1", "PT": "Ramanujan e Hardy participaram de uma atividade matemática onde cada um selecionou um número complexo. Se o produto dos números deles fosse $32-8i$, e Hardy escolhesse $5+3i$, qual número Ramanujan escolheu?", "GLOSA": "RAMANUJAN HARDY PARTICIPAR ATIVIDADE MATEMÁTICA CADA UM SELECIONAR NÚMERO COMPLEXO PRODUTO NÚMERO 32-8i HARDY SELECIONAR 5+3i RAMANUJAN SELECIONAR QUAL?"}]
+
+json
+[
+  {
+    "ID": "4399Q1",
+    "PT": "Se o ponto $(3,6)$ está no gráfico de $y=g(x)$, e $h(x)=(g(x))^2$ para todo $x$, então há um ponto que deve estar no gráfico de $y=h(x)$. Qual é a soma das coordenadas desse ponto?",
+    "GLOSA": "PONTO 3,6 GRÁFICO Y=G(X) ESTAR H(X)=G(X)² TODO X, PONTO GRÁFICO Y=H(X) ESTAR. COORDENADA SOMA QUAL?"
+  }
+]
+
+json
+[{'ID': '4400Q1', 'PT': 'A sequência de Fibonacci é a sequência 1, 1, 2, 3, 5, $\\\\ldots$ onde cada número é a soma dos dois números que o precedem.', 'GLOSA': 'SEQUÊNCIA FIBONACCI SER SEQUÊNCIA 1 1 2 3 5 ... CADA NÚMERO SER SOMA DOIS NÚMERO ANTERIOR'}]
+
+json
+[{'ID': '4401Q1', 'PT': 'A altura (em metros) de uma bala de canhão disparada segue uma trajetória dada por $h(t) = -4,9t^2 + 14t - 0,4$ no instante $t$ (em segundos). Como uma fração imprópria, por quanto tempo a bala de canhão está acima de uma altura de $6$ metros?', 'GLOSA': 'BALA CANHÃO ALTURA TRAJETÓRIA SEGUIR FUNÇÃO TEMPO SEGUNDO ACIMA 6 METRO TEMPO FRACÃO IMPRÓPRIA'}]
+
+json
+[{'ID': '4402Q1', 'PT': 'Se Wayne considera a letra “Y” uma vogal, mas Kristen não, pensando que há apenas 5 vogais, em que porcentagem a probabilidade de uma letra selecionada aleatoriamente do alfabeto de 26 letras ser uma vogal é maior na opinião de Wayne do que na opinião de Kristen?', 'GLOSA': 'WAYNE CONSIDERAR Y VOGAL KRISTEN NÃO VOGAL CINCO APENAS PORCENTAGEM QUAL LETRA SELECIONAR ALEATÓRIO ALFABETO VINTE-SEIS VOGAL MAIOR WAYNE KRISTEN?'}]
+
+json
+[{'ID': '4403Q1', 'PT': 'Dada a expressão: $1990\\\\times1991 - 1989\\\\times1990$. Qual número de contagem é equivalente à expressão?', 'GLOSA': 'EXPRESSÃO 1990 1991 MULTIPLICAR 1989 1990 MULTIPLICAR SUBTRAIR NÚMERO CONTAGEM QUAL?'}]
+
+json
+[{"ID": "4404Q1", "PT": "O salário inicial anual de Patricia em seu novo emprego é de $ 20.000. Após um ano no emprego, seu salário aumenta em 10%; após seu segundo ano no emprego, seu salário aumenta em 10% a mais em relação ao salário do ano anterior. Após esses dois anos, qual seria seu salário?", "GLOSA": "PATRICIA EMPREGO NOVO SALÁRIO INICIAL 20000 DÓLAR. UM ANO DEPOIS AUMENTAR 10 POR CENTO. DOIS ANOS DEPOIS AUMENTAR 10 POR CENTO ANTERIOR. DEPOIS DOIS ANOS SALÁRIO QUANTO?"}]
+
+json
+[{'ID': '4405Q1', 'PT': 'Qual é a probabilidade de que um inteiro escolhido ao acaso no conjunto $$\\\\{1,2,3,\\\\ldots,100\\\\}$$ seja divisível por 2 e não divisível por 3? Expresse sua resposta como uma fração comum.', 'GLOSA': 'NÚMERO INTEIRO PROBABILIDADE 1 A 100 ALEATÓRIO ESCOLHER DIVISÍVEL 2 E NÃO DIVISÍVEL 3 FRAÇÃO COMUM'}]
+
+json
+[{'ID': '4406Q1', 'PT': 'Se eu obter 5 resultados aleatórios, cada um sendo um número inteiro entre 1 e 6, e multiplicar os cinco números, qual é a probabilidade de o resultado ser um número composto?', 'GLOSA': 'EU OBTÊM 5 RESULTADO ALEATÓRIO NÚMERO INTEIRO 1 6 MULTIPLICAR 5 NÚMERO QUAL PROBABILIDADE RESULTADO NÚMERO COMPOSTO?'}]
+
+json
+[{'ID': '4407Q1', 'PT': 'Um sólido é cortado de uma esfera de raio 2 por dois planos paralelos, cada um a 1 unidade do centro. O volume deste sólido é', 'GLOSA': 'ESFERA RAIO 2 PLANO PARALELO 1 UNIDADE CENTRO SÓLIDO VOLUME'}]
+
+json
+[{"ID": "4409Q1", "PT": "Uma curva é dada parametricamente pelas equações", "GLOSA": "CURVA PARAMÉTRICO EQUAÇÃO DAR"}]
+
+json
+[{"ID": "4411Q1", "PT": "O quadrático $2x^2+5x+12=19-7x$ tem duas soluções. Qual é a diferença positiva entre essas soluções?", "GLOSA": "EQUAÇÃO QUADRÁTICA DUAS SOLUÇÃO TER DIFERENÇA POSITIVO SOLUÇÃO QUAL?"}]
+
+json
+[{"ID": "4414Q1", "PT": "Avalie $\\\\log_8 2$.", "GLOSA": "AVALIAR LOGARITMO BASE-8 2"}]
+
+json
+[{"ID": "4416Q1", "PT": "Um número $x$ pode ser escrito como o produto de $107$ e $109^5$, e $107$ e $109$ são primos. Qual é o expoente de $109$ na fatoração prima de $x^{11}$?", "GLOSA": "NÚMERO X PRODUTO 107 109 CINCO 107 109 PRIMO EXPOENTE 109 FATORAÇÃO PRIMA X ONZE?"}]
+
+json
+[{'ID': '4417Q1', 'PT': 'Seja $M=4a^2 - 2b^2 +a$. Seja $j$ o valor de $M$ quando $a=5$ e $b=3$, e seja $k$ o valor de $M$ quando $a=-1$ e $b=4$. Calcule $j+2k$.', 'GLOSA': 'M IGUAL 4 A QUADRADO MENOS 2 B QUADRADO MAIS A. J IGUAL M A IGUAL 5 B IGUAL 3. K IGUAL M A IGUAL -1 B IGUAL 4. CALCULAR J MAIS 2 K.'}]
+
+json
+[{'ID': '4419Q1', 'PT': 'Se $m$ e $n$ são inteiros ímpares, quantos termos na expansão de $(m+n)^6$ são ímpares?', 'GLOSA': 'M N INTEIRO ÍMPAR TERMO EXPANSÃO M+N^6 ÍMPAR QUANTOS?'}]
+
+json
+[
+  {
+    "ID": "4421Q1",
+    "PT": "A turma do Sr. Cleary e a turma da Sra. Ntuala vão usar o laboratório de informática. Há 20 computadores disponíveis, dois dos quais não funcionam. A turma do Sr. Cleary tem 14 crianças, e a turma da Sra. Ntuala tem 12 crianças. Se cada aluno deve usar um computador e só pode haver 2 alunos em um computador, no máximo, qual é o número máximo de alunos que podem ter um computador para si?",
+    "GLOSA": "TURMA SENHOR CLEARY TURMA SENHORA NTUALA USAR LABORATÓRIO INFORMÁTICA. COMPUTADOR VINTE DISPONÍVEL DOIS NÃO FUNCIONAR. TURMA SENHOR CLEARY CRIANÇA CATORZE. TURMA SENHORA NTUALA CRIANÇA DOZE. ALUNO UM COMPUTADOR DOIS ALUNO MÁXIMO, QUANTIDADE MÁXIMO ALUNO COMPUTADOR?"
+  }
+]
+
+json
+[{'ID': '4422Q1', 'PT': 'Quando três dados padrão são lançados, os números $a,b,c$ são obtidos. Encontre a probabilidade de que $abc = 180$.', 'GLOSA': 'TRÊS DADO PADRÃO LANÇAR NÚMERO A B C OBTIDO PROBABILIDADE ENCONTRAR ABC 180 IGUAL'}]
+
+json
+[{'ID': '4423Q1', 'PT': 'Uma caixa tem 5 bolas verdes e $k$ bolas roxas, onde $k$ é um inteiro positivo desconhecido. Uma bola é retirada aleatoriamente da caixa. Se uma bola verde for retirada, o jogador ganha 2 dólares, mas se uma bola roxa for retirada, o jogador perde 2 dólares. Se o valor esperado ganho por jogar o jogo é 50 centavos, então quanto é $k$?', 'GLOSA': 'CAIXA TER 5 BOLA VERDE K BOLA ROXO K INTEIRO POSITIVO DESCONHECIDO UMA BOLA RETIRAR ALEATÓRIO CAIXA BOLA VERDE RETIRAR JOGADOR GANHAR 2 DÓLAR BOLA ROXO RETIRAR JOGADOR PERDER 2 DÓLAR VALOR ESPERADO GANHAR JOGO 50 CENTAVO K QUANTO?'}]
+
+json
+[
+  {
+    "ID": "4424Q1",
+    "PT": "Sejam $p$, $q$ e $r$ constantes. Uma solução para a equação $(x-p)(x-q) = (r-p)(r-q)$ é $x=r$. Encontre a outra solução em termos de $p$, $q$ e $r$.",
+    "GLOSA": "P Q R CONSTANTE EQUAÇÃO X MENOS P X MENOS Q IGUAL R MENOS P R MENOS Q SOLUÇÃO X IGUAL R SOLUÇÃO OUTRO P Q R ENCONTRAR."
+  }
+]
+
+json
+[{'ID': '4425Q1', 'PT': 'Se a matriz A tem dimensões 2 × 7 e a matriz B tem dimensões 7 × 5, quais são as dimensões do resultado da multiplicação de A por B?', 'GLOSA': 'MATRIZ A DIMENSÃO DOIS SETE MATRIZ B DIMENSÃO SETE CINCO MULTIPLICAÇÃO A B RESULTADO DIMENSÃO QUAL?'}]
+
+json
+[{'ID': '4426Q1', 'PT': 'Suponha que $x-3$ e $y+3$ sejam divisíveis por $7$. Qual é o menor inteiro positivo, $n,$ para o qual $x^2+xy+y^2+n$ é um múltiplo de $7$?', 'GLOSA': 'SUPOR X MENOS TRÊS E Y MAIS TRÊS DIVISÍVEL SETE. QUAL MENOR INTEIRO POSITIVO N X AO QUADRADO MAIS XY MAIS Y AO QUADRADO MAIS N MÚLTIPLO SETE?'}]
+
+json
+[{"ID": "4430Q1", "PT": "Qual é o menor número inteiro que tem resto 1 quando dividido por 4, resto 1 quando dividido por 3 e resto 2 quando dividido por 5?", "GLOSA": "NÚMERO INTEIRO MENOR QUAL RESTO 1 QUATRO DIVIDIR RESTO 1 TRÊS DIVIDIR RESTO 2 CINCO DIVIDIR?"}]
+
+json
+[
+  {
+    "ID": "4431Q1",
+    "PT": "Qual é a soma de todas as soluções inteiras para $|n| < |n-3| < 9$?",
+    "GLOSA": "SOMA SOLUÇÃO INTEIRO N MODULO MENOR N MENOS 3 MODULO MENOR 9 QUAL?"
+  }
+]
+
+json
+[{"ID": "4432Q1", "PT": "(i + 1)(5 – 5i)(5 + 5i) =", "GLOSA": "I UM MAIS UM CINCO MENOS CINCO I CINCO MAIS CINCO I IGUAL"}]
+
+json
+[{'ID': '4433Q1', 'PT': 'Para o número complexo z = a + bi, sabe-se que a e b são inteiros positivos, e que z^3 + z^2 + z é um número real. Encontre o menor valor possível para b.', 'GLOSA': 'NÚMERO COMPLEXO Z A + BI, SABER A B INTEIRO POSITIVO, Z^3 + Z^2 + Z NÚMERO REAL. ENCONTRAR MENOR VALOR POSSÍVEL B.'}]
+
+json
+[{"ID": "4434Q1", "PT": "Os números $x$ e $y$ são proporcionais de maneira que o produto entre eles é constante. Quando a soma de $x$ e $y$ é 42, $x$ é duas vezes $y$. Qual é o valor de $y$ quando $x=-8?", "GLOSA": "X Y NÚMERO PROPORCIONAL PRODUTO CONSTANTE X Y SOMA 42 X Y DUAS VEZES Y X -8 Y?"}]
+
+json
+[
+  {
+    "ID": "4435Q1",
+    "PT": "Uma escada de 26 pés se inclina contra um edifício de modo que seu pé se afasta do edifício a uma taxa de 3 pés por segundo. Quando o pé da escada está a 10 pés do edifício, o topo está se movendo para baixo a uma taxa de r pés por segundo, onde r é",
+    "GLOSA": "ESCADA 26 PÉ INCLINAR EDIFÍCIO PÉ AFASTAR EDIFÍCIO 3 PÉ SEGUNDO TAXA. PÉ ESCADA 10 PÉ EDIFÍCIO TOPO MOVIMENTO BAIXO R PÉ SEGUNDO TAXA R SER"
+  }
+]
+
+json
+[
+  {
+    "ID": "4436Q1",
+    "PT": "O gráfico da equação $x + 2y + 3 = 0$ forma um ângulo de 90 graus com o gráfico da equação $ax + 2y + 3 = 0$. Qual é o valor de $a$?",
+    "GLOSA": "GRÁFICO EQUAÇÃO X MAIS 2Y MAIS 3 IGUAL ZERO ÂNGULO 90 GRAU GRÁFICO EQUAÇÃO A X MAIS 2Y MAIS 3 IGUAL ZERO A VALOR QUAL?"
+  }
+]
+
+json
+[
+  {
+    "ID": "4437Q1",
+    "PT": "O $n^{\\\\text{ésimo}}$ termo de uma certa série geométrica é dado por $a\\\\cdot r^{n-1}$, onde $a$ e $r$ são inteiros positivos e $r$ é maior que 1. Bill escolhe $k$ números diferentes nessa sequência, todos com o mesmo número de dígitos. Qual é o maior valor possível de $k$?",
+    "GLOSA": "SÉRIE GEOMÉTRICA TERMO N a * r^(n-1) a r INTEIRO POSITIVO r MAIOR 1 BILL ESCOLHER k NÚMERO DIFERENTE MESMO DÍGITO QUANTIDADE k MAIOR QUAL?"
+  }
+]
+
+json
+[{"ID": "4438Q1", "PT": "Se Owen usa jeans com cintura de 32 polegadas, qual será o novo tamanho de cintura que Owen terá que usar (com aproximação de até uma polegada inteira) se sua circunferência da cintura aumentar em 15%?", "GLOSA": "OWEN USAR JEANS CINTURA 32 POLEGADA OWEN AUMENTAR CINTURA 15 POR CENTO NOVO TAMANHO CINTURA QUAL?"}]
+
+json
+[{'ID': '4439Q1', 'PT': 'A quantidade de tinta que David precisa para cobrir um cubo é diretamente proporcional à área da superfície. Se David pode cobrir completamente um cubo de comprimento lateral de 2 pés com exatamente 16 quartos de tinta, quão grande é um cubo (em termos de comprimento da borda em pés) David pode cobrir com 169 quartos de tinta?', 'GLOSA': 'DAVID TINTA CUBO COBRIR QUANTIDADE ÁREA SUPERFÍCIE PROPORCIONAL. DAVID CUBO COBRIR COMPLETO 2 PÉS 16 TINTA QUARTO. CUBO QUANTO DAVID COBRIR 169 TINTA QUARTO PÉS?'}]
+
+json
+[{"ID": "4440Q1", "PT": "Quantos quadrados perfeitos ímpares existem entre 5 e 211?", "GLOSA": "QUANTO QUADRADO PERFEITO ÍMPAR EXISTIR 5 211?"}]
+
+json
+[{"ID": "4441Q1", "PT": "Encontre $x$, dado que\\\\[\\\\dfrac{\\\\sqrt{x}}{x\\\\sqrt{3}+\\\\sqrt{2}} = \\\\dfrac{1}{2x\\\\sqrt{6}+4}.\\\\]", "GLOSA": "X ENCONTRAR DADO QUE RAIZ QUADRADA X SOBRE X RAIZ QUADRADA 3 MAIS RAIZ QUADRADA 2 IGUAL 1 SOBRE 2X RAIZ QUADRADA 6 MAIS 4"}]
+
+json
+[{'ID': '4442Q1', 'PT': 'De quantas maneiras 5 alunos podem ser selecionados de um grupo de 6 alunos?', 'GLOSA': 'QUANTO MANEIRA 5 ALUNO SELECIONAR GRUPO 6 ALUNO?'}]
+
+json
+[{'ID': '4443Q1', 'PT': 'Qual dessas vogais NÃO tem uma linha imaginária vertical que divide a letra em duas metades iguais?', 'GLOSA': 'QUAL ESSAS VOGAL NÃO TER LINHA IMAGINÁRIO VERTICAL DIVIDIR LETRA METADE IGUAL?'}]
+
+json
+[{"ID": "4444Q1", "PT": "Qual é o intervalo da função y = 5 + 3 * sin(pi – x)?", "GLOSA": "FUNÇÃO Y 5 3 SIN PI X INTERVALO QUAL?"}]
+
+json
+[
+  {
+    "ID": "4445Q1",
+    "PT": "Escreva uma equação para a reta que toca a curva em apenas um ponto definida por F(t) = (t^2 + 1, 2^t) no ponto onde y = 4.",
+    "GLOSA": "EQUAÇÃO RETA ESCREVER CURVA TOCAR UM PONTO F(T) = (T^2 + 1, 2^T) PONTO Y = 4."
+  }
+]
+
+json
+[{'ID': '4446Q1', 'PT': 'John tem cinco filhos. Qual é a probabilidade de que pelo menos metade deles sejam meninas? (Podemos assumir que um menino tem a mesma probabilidade de nascer que uma menina, e vice-versa.)', 'GLOSA': 'JOHN TER CINCO FILHO META-DE MENINA PROBABILIDADE QUANTO? (ASSUMIR MENINO MENINA MESMO PROBABILIDADE NASCER)'}]
+
+json
+[{'ID': '4447Q1', 'PT': 'Se a parábola $y_1 = x^2 + 2x + 7$ e a reta $y_2 = 6x + b$ têm apenas um ponto em comum, qual é o valor de $b$?', 'GLOSA': 'PARÁBOLA Y1 = X² + 2X + 7 RETA Y2 = 6X + B  PONTO UM  B  QUAL?'}]
+
+json
+[{'ID': '4449Q1', 'PT': 'Cinco anos atrás, um computador que funcionava 50% da velocidade de um computador atual custava o dobro do dinheiro. A relação velocidade/preço do computador atual é qual porcentagem da relação velocidade/preço do computador antigo?', 'GLOSA': 'COMPUTADOR CINCO-ANO ATRÁS 50% VELOCIDADE COMPUTADOR ATUAL CUSTAR DOBRO DINHEIRO.  COMPUTADOR ATUAL VELOCIDADE PREÇO RELAÇÃO QUAL PORCENTAGEM COMPUTADOR ANTIGO VELOCIDADE PREÇO RELAÇÃO?'}]
+
+json
+[{'ID': '4449Q1', 'PT': 'Cinco anos atrás, um computador que funcionava 50% da velocidade de um computador atual custava 200% do dinheiro. A relação velocidade/preço do computador atual é qual porcentagem da relação velocidade/preço do computador antigo?', 'GLOSA': 'CINCO ANO ATRÁS COMPUTADOR FUNCIONAR 50% VELOCIDADE COMPUTADOR ATUAL CUSTAR 200% DINHEIRO.  COMPUTADOR ATUAL VELOCIDADE/PREÇO RELAÇÃO COMPUTADOR ANTIGO VELOCIDADE/PREÇO RELAÇÃO QUAL PORCENTAGEM?'}]
+
+json
+[{'ID': '684C1', 'PT': 'Os músculos do pescoço do paciente devem estar relaxados', 'GLOSA': 'PACIENTE PESCOÇO MÚSCULO RELAXADO DEVER'}]
+
+json
+[{'ID': '685C1', 'PT': 'geralmente permanece constante durante uma corrida.', 'GLOSA': 'GERALMENTE CONSTANTE PERMANECER CORRIDA DURANTE.'}]
+
+json
+[{'ID': '686C1', 'PT': 'um número considerável de mitocôndrias e baixa atividade ATPase.', 'GLOSA': 'MITOCÔNDRIA NÚMERO CONSIDERÁVEL E ATPASE ATIVIDADE BAIXA.'}]
+
+json
+[
+  {
+    "ID": "687C1",
+    "PT": "a taxa de produção de lactato muscular e a taxa de efluxo de lactato muscular.",
+    "GLOSA": "TAXA PRODUÇÃO  LACTATO MUSCULAR E TAXA EFLUXO LACTATO MUSCULAR."
+  }
+]
+
+json
+[{"ID": "688C1", "PT": "mitocôndria.", "GLOSA": "MITOCÔNDRIA."}]
+
+json
+[{"ID": "689C1", "PT": "1-2 segundos.", "GLOSA": "UM DOIS SEGUNDO."}]
+
+json
+[{"ID": "690C1", "PT": "exigido por todas as enzimas da célula.", "GLOSA": "CÉLULA TODA ENZIMA EXIGIR."}]
+
+json
+[{"ID": "693C1", "PT": "Doença do refluxo gastroesofágico", "GLOSA": "DOENÇA REFLUXO GASTROESOFÁGICO"}]
+
+json
+[{"ID": "694C1", "PT": "Peróxido de hidrogênio.", "GLOSA": "PERÓXIDO HIDROGÊNIO."}]
+
+json
+[{"ID": "695C1", "PT": "Administre medicamentos somente de acordo com a necessidade do paciente.", "GLOSA": "PACIENTE NECESSIDADE CONFORME MEDICAMENTO ADMINISTRAR SOMENTE"}]
+
+json
+[{'ID': '696C1', 'PT': 'Dor resultante de dano tecidual real ou potencial, que causa a liberação de mediadores químicos que estimulam as fibras nervosas a iniciar sinais de dor no cérebro.', 'GLOSA': 'DOR RESULTAR DANO TECIDO REAL OU POTENCIAL CAUSAR LIBERAÇÃO MEDIADOR QUÍMICO ESTIMULAR FIBRA NERVOSO INICIAR SINAL DOR CÉREBRO.'}]
+
+json
+[{"ID": "697C1", "PT": ". . . asma.", "GLOSA": "ASMA..."}]
+
+json
+[{"ID": "698C1", "PT": "Se o paciente estiver após a cirurgia.", "GLOSA": "PACIENTE CIRURGIA DEPOIS ESTAR SE"}]
+
+json
+[{'ID': '699C1', 'PT': 'A curvatura de um osso longo é uma característica', 'GLOSA': 'OSSO LONGO CURVATURA CARACTERÍSTICA SER'}]
+
+json
+[{"ID": "700C1", "PT": "garantir que a equipe/serviços de emergência sejam chamados.", "GLOSA": "EQUIPE EMERGÊNCIA CHAMAR GARANTIR"}]
+
+json
+[{"ID": "701C1", "PT": "Retenção urinária aguda.", "GLOSA": "URINA RETENÇÃO AGUDO."}]
+
+json
+[{"ID": "703C1", "PT": "A enfermeira escolhida.", "GLOSA": "ENFERMEIRA ESCOLHER."}]
+
+json
+[{"ID": "705C1", "PT": "acetilcolina que atravessa a junção neuromuscular.", "GLOSA": "ACETILCOLINA ATRAVESSAR JUNÇÃO NEUROMUSCULAR"}]
+
+json
+[{'ID': '706C1', 'PT': 'Esses pacientes têm maior probabilidade de sangrar.', 'GLOSA': 'ESSES PACIENTE TER MAIOR PROBABILIDADE SANGRAR.'}]
+
+json
+[{'ID': '707C1', 'PT': 'Movimento com resistência, alongamento no final da amplitude.', 'GLOSA': 'MOVIMENTO RESISTÊNCIA ALONGAMENTO FINAL AMPLITUDE.'}]
+
+json
+[{'ID': '708C1', 'PT': 'Uma abertura na parede anterior da traqueia acima da cartilagem cricoide.', 'GLOSA': 'ABERTURA UMA PAREDE ANTERIOR TRAQUEIA ACIMA CARTILAGEM CRICOIDE'}]
+
+json
+[{'ID': '710C1', 'PT': 'O fator reumatoide está presente em 25% dos casos reumatoides', 'GLOSA': 'FATOR REUMATOIDE PRESENTE 25 POR CENTO CASO REUMATOIDE'}]
+
+json
+[{"ID": "711C1", "PT": "Eles podem ter dificuldade em ler a tela.", "GLOSA": "ELES PODER DIFICULDADE LER TELA."}]
+
+json
+[{"ID": "712C1", "PT": "Pode ser causada por artrite reumatoide", "GLOSA": "ARTIRITE REUMATOIDE CAUSAR PODER"}]
+
+json
+[{'ID': '713C1', 'PT': '2CO2 e 2ATP', 'GLOSA': '2CO2 2ATP'}]
+
+json
+[{"ID": "714C1", "PT": "Derramamento, transbordamento, excesso.", "GLOSA": "DERRAMAR, TRANSBORDAR, EXCESSO."}]
+
+json
+[{'ID': '716C1', 'PT': 'o número de cromossomos encontrados nas células somáticas de um organismo.', 'GLOSA': 'ORGANISMO CÉLULA SOMÁTICA CROMOSSOMO NÚMERO ENCONTRAR'}]
+
+json
+[{"ID": "717C1", "PT": "Acetil colina e noradrenalina.", "GLOSA": "ACETIL-COLINA NORADRENALINA."}]
+
+json
+[{"ID": "718C1", "PT": "Fibras tipo I.", "GLOSA": "FIBRA TIPO I"}]
+
+json
+[{"ID": "719C1", "PT": "conversão em ureia no fígado.", "GLOSA": "FÍGADO UREIA CONVERSÃO"}]
+
+json
+[{"ID": "720C1", "PT": "glicólise.", "GLOSA": "GLICÓLISE."}]
+
+json
+[{"ID": "721C1", "PT": "É aceitável testar a dor com uma agulha de punção venosa", "GLOSA": "TESTAR DOR AGULHA PUNCÃO VENOSO ACEITÁVEL"}]
+
+json
+[
+  {
+    "ID": "722C1",
+    "PT": "frequentemente aumenta em 1 - 3 mM.",
+    "GLOSA": "FREQUENTEMENTE AUMENTAR 1-3 MM."
+  }
+]
+
+json
+[{"ID": "723C1", "PT": "síndrome do intestino irritável.", "GLOSA": "SÍNDROME INTESTINO IRRITÁVEL."}]
+
+json
+[{"ID": "724C1", "PT": "estomas prolapsados.", "GLOSA": "ESTOMAS PROLAPSO."}]
+
+json
+[{"ID": "725C1", "PT": "350ml.", "GLOSA": "350 ML"}]
+
+json
+[{"ID": "726C1", "PT": "sem o envolvimento da ADP.", "GLOSA": "ADP ENVOLVIMENTO SEM"}]
+
+json
+[{"ID": "727C1", "PT": "60 kJ", "GLOSA": "60 KJ"}]
+
+json
+[{'ID': '728C1', 'PT': '12 horas.', 'GLOSA': 'DOZE HORA.'}]
+
+json
+[{'ID': '729C1', 'PT': 'glândulas sudoríparas.', 'GLOSA': 'GLÂNDULA SUDORÍPARA'}]
+
+json
+[{'ID': '730C1', 'PT': 'Grau 3/5 (escala MRC) representa o movimento do braço somente quando a influência da gravidade é neutralizada ou o braço está em posição horizontal', 'GLOSA': 'GRAU 3/5 ESCALA MRC REPRESENTAR MOVIMENTO BRAÇO SOMENTE GRAVIDADE NEUTRALIZAR OU BRAÇO POSIÇÃO HORIZONTAL'}]
+
+json
+[{"ID": "731C1", "PT": "Etapa 1 - observar a cânula.", "GLOSA": "ETAPA 1 OBSERVAR CÂNULA"}]
+
+json
+[{"ID": "732C1", "PT": "Hormônio antidiurético.", "GLOSA": "HORMONIO ANTIDIURETICO."}]
+
+json
+[
+  {
+    "ID": "733C1",
+    "PT": "não influencia o desempenho do exercício em eventos com duração inferior a 10 minutos.",
+    "GLOSA": "EXERCÍCIO DESEMPENHO INFLUENCIAR NÃO EVENTO DURAÇÃO 10 MINUTO MENOS."
+  }
+]
+
+json
+[{"ID": "734C1", "PT": "um excesso de creatina.", "GLOSA": "CREATINA EXCESSO UM"}]
+
+json
+[{"ID": "735C1", "PT": "nos ribossomos.", "GLOSA": "RIBOSSOMO EM."}]
+
+json
+[{"ID": "736C1", "PT": "excesso de fluido intravascular.", "GLOSA": "FLUIDO INTRAVASCULAR EXCESSO"}]
+
+json
+[{"ID": "737C1", "PT": "Ele atua expandindo as vias aéreas rapidamente, permitindo melhor deposição de outros medicamentos.", "GLOSA": "ELE ATUAR EXPANDIR VIA AÉREA RÁPIDO PERMITIR MELHOR DEPOSIÇÃO MEDICAMENTO OUTRO."}]
+
+json
+[{"ID": "738C1", "PT": "É pior quando está parado/inativo/sem movimento", "GLOSA": "PIOR PARADO/INATIVO/SEM MOVIMENTO"}]
+
+json
+[{"ID": "739C1", "PT": "através de transportadores de proteínas chamados GLUT4.", "GLOSA": "PROTEÍNA TRANSPORTADOR CHAMAR GLUT4 ATRAVÉS"}]
+
+json
+[{"ID": "740C1", "PT": "na glicólise.", "GLOSA": "GLICÓLISE EM"}]
+
+json
+[{'ID': '741C1', 'PT': 'estimar com precisão a pressão arterial.', 'GLOSA': 'PRESSÃO ARTERIAL ESTIMAR PRECISÃO'}]
+
+json
+[{"ID": "742C1", "PT": "Os medicamentos podem estar envolvidos na causa da gota", "GLOSA": "MEDICAMENTO PODER ENVOLVER CAUSA GOTA"}]
+
+json
+[{"ID": "743C1", "PT": "Para a tranquilidade e bem-estar do paciente.", "GLOSA": "PACIENTE TRANQUILIDADE BEM-ESTAR PARA"}]
+
+json
+[{"ID": "744C1", "PT": "As células parietais gástricas.", "GLOSA": "CÉLULA PARIETAL GÁSTRICO"}]
+
+json
+[{"ID": "745C1", "PT": "Peça para eles respirarem várias vezes, de pequena duração e alta frequência, antes de usar o inalador.", "GLOSA": "ELES PEDIR RESPIRAR VÁRIAS VEZES PEQUENA DURAÇÃO ALTA FREQUÊNCIA ANTES INALADOR USAR."}]
+
+json
+[{'ID': '746C1', 'PT': 'Para garantir a melhor expansão pulmonar e precisão e consistência das leituras.', 'GLOSA': 'GARANTIR MELHOR EXPANSÃO PULMÃO PRECISÃO CONSISTÊNCIA LEITURA.'}]
+
+json
+[{"ID": "747C1", "PT": "Para reparar cordas vocais após paralisia.", "GLOSA": "CORDAS VOCAIS REPARAR PARALISIA DEPOIS"}]
+
+json
+[{"ID": "748C1", "PT": "produção de energia aeróbica.", "GLOSA": "ENERGIA AERÓBICO PRODUÇÃO"}]
+
+json
+[{"ID": "749C1", "PT": "Infecção urinária.", "GLOSA": "INFECÇÃO URINÁRIO."}]
+
+json
+[{"ID": "750C1", "PT": "as mitocôndrias.", "GLOSA": "MITOCÔNDRIA"}]
+
+json
+[{"ID": "751C1", "PT": "pode estimar acima do que realmente é a intensidade da dor do paciente.", "GLOSA": "INTENSIDADE DOR PACIENTE ESTIMAR ACIMA REALMENTE PODER"}]
+
+json
+[{'ID': '752C1', 'PT': 'manter a população em um nível correspondente ao nível populacional ideal para o crescimento sustentável', 'GLOSA': 'POPULAÇÃO MANTER NÍVEL CORRESPONDENTE NÍVEL IDEAL CRESCIMENTO SUSTENTÁVEL'}]
+
+json
+[{"ID": "753C1", "PT": "sequências teloméricas são removidas do DNA", "GLOSA": "SEQUÊNCIA TELOMÉRICA REMOVER DNA"}]
+
+json
+[{"ID": "754C1", "PT": "âmnio", "GLOSA": "ÂMNIO"}]
+
+json
+[{"ID": "755C1", "PT": "Prostaglandinas", "GLOSA": "PROSTAGLANDINAS"}]
+
+json
+[{"ID": "756C1", "PT": "um primer de DNA ou RNA e transcriptase reversa", "GLOSA": "PRIMER DNA OU RNA TRANSCRIPTASE REVERSA UM"}]
+
+json
+[{'ID': '757C1', 'PT': 'Genes são compartilhados com outras populações.', 'GLOSA': 'GENE COMPARTILHAR POPULAÇÃO OUTRO.'}]
+
+json
+[{"ID": "758C1", "PT": "eucromatina", "GLOSA": "EUCHROMATINA"}]
+
+json
+[{"ID": "759C1", "PT": "Respiração", "GLOSA": "RESPIRAÇÃO"}]
+
+json
+[{"ID": "760C1", "PT": "estágios de sucessão ecológica que variam", "GLOSA": "SUCESSÃO ECOLÓGICA ESTÁGIO VARIAR"}]
+
+json
+[{'ID': '761C1', 'PT': 'Incorporar o DNA viral no cromossomo da célula hospedeira', 'GLOSA': 'DNA VIRAL CÉLULA HOSPEDEIRA CROMOSSOMO INCORPORAR'}]
+
+json
+[{"ID": "762C1", "PT": "clivagem meroblástica", "GLOSA": "CLIVAGEM MERROBLÁSTICA"}]
+
+json
+[{"ID": "763C1", "PT": "Camada externa que envolve a célula", "GLOSA": "CÉLULA CAMADA EXTERNA ENVOLVER"}]
+
+json
+[{"ID": "764C1", "PT": "As populações de raposas e lebres diminuirão.", "GLOSA": "POPULAÇÃO RAPOSA LEBRE DIMINUIR."}]
+
+json
+[{"ID": "765C1", "PT": "Eu só", "GLOSA": "EU SÓ"}]
+
+json
+[{"ID": "766C1", "PT": "Archaea e Eukarya se separaram evolutivamente depois que seu ancestral comum se separou evolutivamente das bactérias.", "GLOSA": "ARCHAEA E EUKARYA SEPARAR EVOLUTIVO DEPOIS ANCESTRAL COMUM SEPARAR EVOLUTIVO BACTÉRIA."}]
+
+json
+[{"ID": "767C1", "PT": "reação exagerada ou desproporcional", "GLOSA": "REAÇÃO EXAGERADO OU DESPROPORCIONAL"}]
+
+json
+[{'ID': '4455C1', 'PT': '0.296', 'GLOSA': '0.296'}]
+
+json
+[{"ID": "4456C1", "PT": "32", "GLOSA": "32"}]
+
+json
+[{"ID": "4457C1", "PT": "92", "GLOSA": "92"}]
+
+json
+[{"ID": "4458C1", "PT": "165", "GLOSA": "165"}]
+
+json
+[{"ID": "4459C1", "PT": "0 ou –1/3", "GLOSA": "ZERO OU MENOS UM TERÇO"}]
+
+json
+[{"ID": "4460C1", "PT": "252", "GLOSA": "252"}]
+
+json
+[{"ID": "4461C1", "PT": "28", "GLOSA": "28"}]
+
+json
+[{"ID": "4462C1", "PT": "0", "GLOSA": "ZERO"}]
+
+json
+[{"ID": "4463C1", "PT": "5,760", "GLOSA": "CINCO SETE SEIS ZERO"}]
+
+json
+[{"ID": "4464C1", "PT": "11", "GLOSA": "ONZE"}]
+
+json
+[{"ID": "4465C1", "PT": "144", "GLOSA": "144"}]
+
+json
+[{"ID": "4466C1", "PT": "\\\\frac{4\\\\sqrt{3}}{33}", "GLOSA": "FRACAO QUATRO RAIZ QUADRADA TRES TRINTA E TRÊS"}]
+
+json
+[{"ID": "4467C1", "PT": "1/e", "GLOSA": "1/E"}]
+
+json
+[{"ID": "4468C1", "PT": "\\frac{1}{4}", "GLOSA": "UM QUARTO"}]
+
+json
+[{"ID": "4469C1", "PT": "norte", "GLOSA": "NORTE"}]
+
+json
+[{"ID": "4470C1", "PT": "15", "GLOSA": "QUINZE"}]
+
+json
+[{"ID": "627C2", "PT": "Um comprimido de morfina de liberação prolongada.", "GLOSA": "COMPRIMIDO UM MORFINA LIBERAÇÃO PROLONGADA"}]
+
+json
+[{'ID': '628C2', 'PT': '30 segundos', 'GLOSA': '30 SEGUNDO'}]
+
+json
+[{"ID": "629C2", "PT": "ligação do cálcio à tropomiosina.", "GLOSA": "CÁLCIO LIGAÇÃO TROPOMIOSINA."}]
+
+json
+[{"ID": "630C2", "PT": "Coloração vermelha intensa.", "GLOSA": "VERMELHO INTENSO COR"}]
+
+json
+[{"ID": "631C2", "PT": "gerado pela ATPase sódio-potássio.", "GLOSA": "ATPASE SÓDIO POTÁSSIO GERAR."}]
+
+json
+[{"ID": "632C2", "PT": "estoque de íons de sódio.", "GLOSA": "SÓDIO ÍON ESTOQUE."}]
+
+json
+[{"ID": "633C2", "PT": "Temperatura.", "GLOSA": "TEMPERATURA."}]
+
+json
+[{"ID": "634C2", "PT": "O enfermeiro, o paciente e o auxiliar de enfermaria.", "GLOSA": "ENFERMEIRO PACIENTE AUXILIAR ENFERMARIA."}]
+
+json
+[{"ID": "636C2", "PT": "quatro válvulas e quatro câmaras.", "GLOSA": "QUATRO VÁLVULA E QUATRO CÂMARA."}]
+
+json
+[{"ID": "637C2", "PT": "Somente pacientes admitidos no Departamento de Emergência.", "GLOSA": "SOMENTE PACIENTE ADMITIR DEPARTAMENTO EMERGÊNCIA."}]
+
+json
+[{"ID": "639C2", "PT": "Ligações de hidrogênio", "GLOSA": "LIGAÇÃO HIDROGÊNIO"}]
+
+json
+[{'ID': '640C2', 'PT': 'Avaliação da variação na cor e textura da unha', 'GLOSA': 'UNHA COR TEXTURA VARIAÇÃO AVALIAR'}]
+
+json
+[{"ID": "642C2", "PT": "Marca, vestígio, percussão, sensorial.", "GLOSA": "MARCA VESTÍGIO PERCUSSÃO SENSORIAL"}]
+
+json
+[{"ID": "644C2", "PT": "Resposta verbal.", "GLOSA": "RESPOSTA VERBAL."}]
+
+json
+[{"ID": "647C2", "PT": "duas moléculas de ATP.", "GLOSA": "ATP MOLÉCULA DUAS"}]
+
+json
+[{"ID": "648C2", "PT": "2 da glicose e 4 do glicogênio.", "GLOSA": "GLICOSE 2 GLICOGÊNIO 4"}]
+
+json
+[{"ID": "650C2", "PT": "ocorrem apenas na presença de agentes cancerígenos.", "GLOSA": "AGENTE CANCERÍGENO PRESENÇA APENAS OCORRER."}]
+
+json
+[{'ID': '651C2', 'PT': '20 litros por minuto entre si.', 'GLOSA': '20 LITRO MINUTO ENTRE SI.'}]
+
+json
+[{"ID": "652C2", "PT": "volume expiratório forçado.", "GLOSA": "VOLUME EXPIRATÓRIO FORÇADO."}]
+
+json
+[{"ID": "654C2", "PT": "Pirimidina", "GLOSA": "PIRIMIDINA"}]
+
+json
+[{"ID": "656C2", "PT": "Adenina", "GLOSA": "ADENINA"}]
+
+json
+[{"ID": "658C2", "PT": "Sentimento de intensa felicidade e alegria.", "GLOSA": "SENTIMENTO FELICIDADE ALEGRIA INTENSO"}]
+
+json
+[{"ID": "659C2", "PT": "A capacidade de desenhar formas.", "GLOSA": "CAPACIDADE DESENHAR FORMA"}]
+
+json
+[{"ID": "660C2", "PT": "Escafoide, lunar, piramidal, pisiforme, rádio, ulna, capitatos.", "GLOSA": "ESCAFOIDE LUNAR PIRAMIDAL PISIFORME RADIO ULNA CAPITATO."}]
+
+json
+[{"ID": "661C2", "PT": "mRNA, ribossomos e RNA polimerase.", "GLOSA": "mRNA RIBOSSOMO RNA-POLIMERASE"}]
+
+json
+[{"ID": "662C2", "PT": "Ajuste da dosagem de um medicamento até alcançar o resultado esperado.", "GLOSA": "MEDICAMENTO DOSAGEM AJUSTAR RESULTADO ESPERADO ALCANÇAR"}]
+
+json
+[{"ID": "663C2", "PT": "Já se passaram sete dias desde que o tubo de traqueostomia foi inserido pela primeira vez.", "GLOSA": "SETE DIA PASSAR JÁ TUBO TRAQUEOSTOMIA INSERIR PRIMEIRA VEZ."}]
+
+json
+[{"ID": "665C2", "PT": "pH.", "GLOSA": "pH."}]
+
+json
+[{'ID': '666C2', 'PT': 'fosforilação da creatina.', 'GLOSA': 'CREATINA FOSFORILAÇÃO'}]
+
+json
+[{"ID": "667C2", "PT": "quimiorreceptores.", "GLOSA": "QUIMIORRECEPTOR."}]
+
+json
+[{"ID": "668C2", "PT": "Informe a equipe médica.", "GLOSA": "EQUIPE MÉDICA INFORMAR"}]
+
+json
+[{"ID": "669C2", "PT": "7", "GLOSA": "SETE"}]
+
+json
+[{"ID": "670C2", "PT": "36 horas.", "GLOSA": "36 HORA"}]
+
+json
+[{"ID": "671C2", "PT": "disponibilidade de aminoácidos.", "GLOSA": "AMINOÁCIDOS DISPONIBILIDADE"}]
+
+json
+[{"ID": "672C2", "PT": "20", "GLOSA": "VINTE"}]
+
+json
+[{"ID": "673C2", "PT": "Se o paciente não tiver infecção do trato urinário.", "GLOSA": "PACIENTE INFECÇÃO TRATO URINÁRIO TER NÃO SE"}]
+
+json
+[{"ID": "674C2", "PT": "Positivo para aumento da pressão venosa no pescoço ao pressionar o fígado", "GLOSA": "FÍGADO PRESSIONAR PESCOÇO PRESSÃO VENOSA AUMENTAR POSITIVO"}]
+
+json
+[{"ID": "675C2", "PT": "hexoquinase.", "GLOSA": "HEXOQUINASE."}]
+
+json
+[{'ID': '677C2', 'PT': 'medicamentos esteroides que atuam nos receptores de andrógenos se opondo aos efeitos dos hormônios esteroides naturais.', 'GLOSA': 'MEDICAMENTO ESTEROIDE ATUAR RECEPTOR ANDRÓGENO OPOR EFEITO HORMÔNIO ESTEROIDE NATURAL.'}]
+
+json
+[{"ID": "678C2", "PT": "produz apenas 16 moléculas de acetil-CoA.", "GLOSA": "APENAS 16 MOLÉCULA ACETIL-COA PRODUZIR."}]
+
+json
+[{"ID": "679C2", "PT": "Amônia, ureia e ácido úrico.", "GLOSA": "AMÔNIA UREIA ÁCIDO ÚRICO."}]
+
+json
+[{"ID": "681C2", "PT": "aproximadamente 30 segundos.", "GLOSA": "30 SEGUNDO APROXIMADAMENTE."}]
+
+json
+[{"ID": "682C2", "PT": "Junta completamente unida/soldada/aderida.", "GLOSA": "JUNTA COMPLETAMENTE UNIR SOLDAR ADERIR."}]
+
+json
+[{"ID": "683C2", "PT": "uma solução que impede o funcionamento com facilidade dos tubos entéricos.", "GLOSA": "SOLUÇÃO IMPEDIR FUNCIONAMENTO FÁCIL TUBO ENTÉRICO."}]
+
+json
+[{"ID": "684C2", "PT": "Cronometrando a pulsação com a artéria radial no pulso", "GLOSA": "PULSO ARTÉRIA RADIAL PULSAÇÃO CRONOMETRAR"}]
+
+json
+[{"ID": "685C2", "PT": "diminui com a distância da corrida.", "GLOSA": "DISTÂNCIA CORRIDA DIMINUIR."}]
+
+json
+[{'ID': '686C2', 'PT': 'um número relativamente pequeno de mitocôndrias e atividade ATPase reduzida.', 'GLOSA': 'MITOCÔNDRIA NÚMERO PEQUENO RELATIVO E ATPASE ATIVIDADE REDUZIR.'}]
+
+json
+[{"ID": "687C2", "PT": "a taxa de glicólise anaeróbica.", "GLOSA": "GLICÓLISE ANAERÓBICA TAXA"}]
+
+json
+[{"ID": "688C2", "PT": "núcleo.", "GLOSA": "NÚCLEO."}]
+
+json
+[{"ID": "689C2", "PT": "5-10 segundos.", "GLOSA": "CINCO DEZ SEGUNDO"}]
+
+json
+[{'ID': '690C2', 'PT': 'fracamente ligado a enzimas por meio de ligações de hidrogênio.', 'GLOSA': 'ENZIMA FRACAMENTE LIGADO HIDROGÊNIO LIGAÇÃO.'}]
+
+json
+[{'ID': '691C2', 'PT': 'O tônus é aumentado em ambos os lados nas pernas', 'GLOSA': 'PERNA AMBOS LADO TÔNUS AUMENTAR'}]
+
+json
+[{'ID': '693C2', 'PT': 'Inibidores da enzima de conversão da angiotensina (ECA)', 'GLOSA': 'ANGIOTENSINA ENZIMA CONVERSÃO INIBIDOR (ECA)'}]
+
+json
+[{'ID': '694C2', 'PT': 'Água.', 'GLOSA': 'ÁGUA.'}]
+
+json
+[{"ID": "697C2", "PT": ". . . DPOC.", "GLOSA": "DPOC... "}]
+
+json
+[{'ID': '698C2', 'PT': 'Se o paciente escolher.', 'GLOSA': 'PACIENTE SE ESCOLHER.'}]
+
+json
+[{"ID": "699C2", "PT": "A compressão da medula espinhal é uma complicação comum", "GLOSA": "MEDULA ESPINHAL COMPRESSÃO COMPLICAÇÃO COMUM SER"}]
+
+json
+[{"ID": "700C2", "PT": "aplique duas insuflações de ar nos pulmões.", "GLOSA": "PULMÃO DOIS AR INSUFLAÇÃO APLICAR."}]
+
+json
+[{"ID": "701C2", "PT": "Infecção do trato urinário.", "GLOSA": "INFECÇÃO TRATO URINÁRIO."}]
+
+json
+[{"ID": "703C2", "PT": "O consultor nomeado.", "GLOSA": "CONSULTOR NOMEAR."}]
+
+json
+[{"ID": "704C2", "PT": "decompor a fosfocreatina.", "GLOSA": "FOSFOCREATINA DECOMPOR"}]
+
+json
+[{'ID': '705C2', 'PT': 'íons de sódio que se ligam aos receptores de sódio na membrana muscular.', 'GLOSA': 'ÍON SÓDIO LIGAR RECEPTOR SÓDIO MEMBRANA MÚSCULO.'}]
+
+json
+[{"ID": "706C2", "PT": "Esses pacientes têm maior probabilidade de desenvolver infecções do trato urinário se o nível de glicose sanguínea estiver desregulado ou fora dos valores de referência.", "GLOSA": "PACIENTE ESSE PROBABILIDADE MAIOR DESENVOLVER INFECÇÃO TRATO URINÁRIO GLICOSE NÍVEL SANGUE DESREGULADO OU FORA REFERÊNCIA VALOR"}]
+
+json
+[{'ID': '708C2', 'PT': 'Uma abertura na parede anterior da traqueia abaixo da cartilagem cricoide.', 'GLOSA': 'ABERTURA TRAQUEIA PAREDE ANTERIOR ABAIXO CARTILAGEM CRICOIDE.'}]
+
+json
+[{"ID": "710C2", "PT": "É um exemplo de oligoartropatia", "GLOSA": "EXEMPLO UM OLIGOARTROPATIA SER"}]
+
+json
+[{"ID": "713C2", "PT": "2CO2 e 16ATP", "GLOSA": "2 CO2 E 16 ATP"}]
+
+json
+[{"ID": "714C2", "PT": "Flebite.", "GLOSA": "FLEBITE."}]
+
+json
+[{"ID": "715C2", "PT": "Amilase.", "GLOSA": "AMILASE."}]
+
+json
+[{"ID": "716C2", "PT": "toda a sequência de DNA de um organismo.", "GLOSA": "ORGANISMO TODO DNA SEQUÊNCIA"}]
+
+json
+[{"ID": "717C2", "PT": "Dopamina e acetilcolina.", "GLOSA": "DOPAMINA ACETILCOLINA."}]
+
+json
+[{"ID": "718C2", "PT": "Fibras do tipo Ia.", "GLOSA": "FIBRA TIPO IA."}]
+
+json
+[{'ID': '719C2', 'PT': 'conversão em glicose no coração.', 'GLOSA': 'CORAÇÃO GLICOSE CONVERSÃO.'}]
+
+json
+[{"ID": "720C2", "PT": "degradação da fosfocreatina.", "GLOSA": "FOSFOCREATINA DEGRADAÇÃO"}]
+
+json
+[{"ID": "722C2", "PT": "permanece relativamente inalterado.", "GLOSA": "RELATIVAMENTE INALTERADO PERMANECER."}]
+
+json
+[{"ID": "723C2", "PT": "hemorróidas.", "GLOSA": "HEMORROIDAS."}]
+
+json
+[{"ID": "724C2", "PT": "estomas de grande vazão.", "GLOSA": "ESTOMA GRANDE VAZÃO."}]
+
+json
+[{"ID": "725C2", "PT": "500ml.", "GLOSA": "500 ML"}]
+
+json
+[{"ID": "726C2", "PT": "sem o uso de glicogênio.", "GLOSA": "GLICOGÊNIO USO SEM"}]
+
+json
+[{'ID': '727C2', 'PT': '150 kJ', 'GLOSA': '150 KJ'}]
+
+json
+[{"ID": "728C2", "PT": "72 horas.", "GLOSA": "72 HORA"}]
+
+json
+[{"ID": "729C2", "PT": "glândulas salivares.", "GLOSA": "GLÂNDULA SALIVA"}]
+
+json
+[{'ID': '731C2', 'PT': 'Etapa 2 - reposicionamento da cânula.', 'GLOSA': 'ETAPA DOIS CANULA REPOSICIONAMENTO.'}]
+
+json
+[{"ID": "732C2", "PT": "Insulina.", "GLOSA": "INSULINA."}]
+
+json
+[{"ID": "733C2", "PT": "afeta o pH muscular em repouso.", "GLOSA": "pH MUSCULAR REPOUSO AFETAR."}]
+
+json
+[{"ID": "734C2", "PT": "hiperventilação.", "GLOSA": "HIPERVENTILAÇÃO"}]
+
+json
+[{"ID": "735C2", "PT": "no citosol.", "GLOSA": "CITOSOL EM."}]
+
+json
+[{"ID": "736C2", "PT": "excesso de fluido extravascular.", "GLOSA": "FLUIDO EXTRAVASCULAR EXCESSO"}]
+
+json
+[{"ID": "737C2", "PT": "Eles são organizados por cores.", "GLOSA": "ELES ORGANIZAR COR"}]
+
+json
+[{'ID': '738C2', 'PT': 'É causada pela doença de Parkinson', 'GLOSA': 'DOENÇA PARKINSON CAUSAR'}]
+
+json
+[{"ID": "739C2", "PT": "somente na presença de insulina.", "GLOSA": "INSULINA PRESENÇA SOMENTE"}]
+
+json
+[{"ID": "740C2", "PT": "na conversão de ácidos graxos em acetil CoA.", "GLOSA": "ÁCIDO GRAXO CONVERSÃO ACETIL COA."}]
+
+json
+[{"ID": "2267C2", "PT": "11", "GLOSA": "ONZE"}]
+
+json
+[{"ID": "2268C2", "PT": "18", "GLOSA": "18"}]
+
+json
+[{"ID": "2270C2", "PT": "-3", "GLOSA": "-3"}]
+
+json
+[{"ID": "2271C2", "PT": "12 + 12", "GLOSA": "DOZE MAIS DOZE"}]
+
+json
+[{"ID": "2272C2", "PT": "7 elevado a 3", "GLOSA": "7 ELEVAR 3"}]
+
+json
+[{"ID": "2273C2", "PT": "29", "GLOSA": "29"}]
+
+json
+[{"ID": "2274C2", "PT": "4", "GLOSA": "4"}]
+
+json
+[{"ID": "2276C2", "PT": "12 cm", "GLOSA": "12 CENTÍMETRO"}]
+
+json
+[{"ID": "2277C2", "PT": "48", "GLOSA": "48"}]
+
+json
+[{"ID": "2278C2", "PT": "300.58", "GLOSA": "300.58"}]
+
+json
+[{"ID": "2279C2", "PT": "$ 34,70", "GLOSA": "DINHEIRO TRINTA E QUATRO REAIS E SETENTA CENTAVOS"}]
+
+json
+[{"ID": "2280C2", "PT": "6", "GLOSA": "6"}]
+
+json
+[{"ID": "2281C2", "PT": "$ 45", "GLOSA": "DINHEIRO 45"}]
+
+json
+[{"ID": "2282C2", "PT": "-7,4", "GLOSA": "SETE VÍRGULA QUATRO MENOS"}]
+
+json
+[{"ID": "2283C2", "PT": "grande quantidade", "GLOSA": "QUANTIDADE GRANDE"}]
+
+json
+[{"ID": "2285C2", "PT": "38", "GLOSA": "38"}]
+
+json
+[{"ID": "2286C2", "PT": "2 assuntos", "GLOSA": "DOIS ASSUNTO"}]
+
+json
+[{"ID": "2287C2", "PT": "(215 × 7) – (467 × 3)", "GLOSA": "215 7 VEZES 467 3 VEZES MENOS"}]
+
+json
+[{"ID": "2288C2", "PT": "240 – 12", "GLOSA": "240 MENOS 12"}]
+
+json
+[{"ID": "2289C2", "PT": "120", "GLOSA": "120"}]
+
+json
+[{"ID": "2290C2", "PT": "62", "GLOSA": "62"}]
+
+json
+[{"ID": "4416C2", "PT": "55", "GLOSA": "55"}]
+
+json
+[{"ID": "4417C2", "PT": "28", "GLOSA": "28"}]
+
+json
+[{"ID": "4418C2", "PT": "\\\\frac{5}{16}", "GLOSA": "CINCO SOBRE DEZESSEIS"}]
+
+json
+[{"ID": "4419C2", "PT": "2", "GLOSA": "DOIS"}]
+
+json
+[{"ID": "4420C2", "PT": "7", "GLOSA": "SETE"}]
+
+json
+[{"ID": "4421C2", "PT": "6", "GLOSA": "6"}]
+
+json
+[{"ID": "4422C2", "PT": "\\frac{1}{72}", "GLOSA": "UM SETENTA E DOIS FRACAO"}]
+
+json
+[{"ID": "4423C2", "PT": "12", "GLOSA": "DOZE"}]
+
+json
+[{"ID": "4424C2", "PT": "pq-r", "GLOSA": "PQ-R"}]
+
+json
+[{"ID": "4425C2", "PT": "2 × 5", "GLOSA": "DOIS VEZES CINCO"}]
+
+json
+[{"ID": "4426C2", "PT": "6", "GLOSA": "6"}]
+
+json
+[{"ID": "4427C2", "PT": "(3, –2)", "GLOSA": "TRÊS MENOS DOIS"}]
+
+json
+[{"ID": "4428C2", "PT": "20", "GLOSA": "20"}]
+
+json
+[{"ID": "4429C2", "PT": "\\\\frac{8}{15}", "GLOSA": "8 15 FRACAO"}]
+
+json
+[{"ID": "4430C2", "PT": "43", "GLOSA": "43"}]
+
+json
+[{"ID": "107C3", "PT": "Osteoblastos", "GLOSA": "OSSO CELULA-CONSTRUTOR"}]
+
+json
+[{"ID": "108C3", "PT": "dez semanas após a fertilização.", "GLOSA": "DEZ SEMANA DEPOIS FERTILIZAÇÃO"}]
+
+json
+[{"ID": "110C3", "PT": "palato duro, lábio superior e incisivo central superior.", "GLOSA": "PALATO DURO, LÁBIO SUPERIOR, INCISIVO CENTRAL SUPERIOR."}]
+
+json
+[{"ID": "111C3", "PT": "Constrição pupilar e estrabismo lateral", "GLOSA": "PUPILA CONSTRIÇÃO ESTRABISMO LATERAL"}]
+
+json
+[{'ID': '114C3', 'PT': 'O centro de ossificação aparece cerca de 8 semanas I.U.L em direção ao centro da cartilagem de Meckel', 'GLOSA': 'CENTRO OSSIFICAÇÃO APARECER CERCA OITO SEMANA I.U.L DIREÇÃO CENTRO CARTILAGEM MECKEL'}]
+
+json
+[{"ID": "116C3", "PT": "Músculos intercostais internos e diafragma", "GLOSA": "MÚSCULO INTERCOSTAL INTERNO DIAFRAGMA"}]
+
+json
+[{"ID": "117C3", "PT": "Próstata", "GLOSA": "PRÓSTATA"}]
+
+json
+[{"ID": "118C3", "PT": "Veia cava inferior", "GLOSA": "VEIA CAVA INFERIOR"}]
+
+json
+[{'ID': '119C3', 'PT': 'Traquéia', 'GLOSA': 'TRAQUÉIA'}]
+
+json
+[{"ID": "120C3", "PT": "Na parede superior do átrio direito", "GLOSA": "PAREDER SUPERIOR ÁTRIO DIREITO EM"}]
+
+json
+[{"ID": "121C3", "PT": "muito até sua borda inferior.", "GLOSA": "MUITO ATÉ BORDA INFERIOR."}]
+
+json
+[{"ID": "122C3", "PT": "linfonodo submandibular esquerdo.", "GLOSA": "LINFONODO ESQUERDO SUBMANDIBULAR."}]
+
+json
+[{'ID': '125C3', 'PT': 'Azoto', 'GLOSA': 'AZOTO'}]
+
+json
+[{"ID": "126C3", "PT": "Presença de cálculos renais", "GLOSA": "CÁLCULO RENAL PRESENÇA"}]
+
+json
+[{"ID": "128C3", "PT": "Triste, melancólico", "GLOSA": "TRISTE MELANCOLICO"}]
+
+json
+[{"ID": "129C3", "PT": "É formado por processos nervosos autônomos e forma uma das várias conexões elétricas entre os átrios e os ventrículos.", "GLOSA": "PROCESSO NERVOSO AUTÔNOMO FORMAR CONEXÃO ELÉTRICA ÁTRIO VENTRÍCULO VÁRIOS."}]
+
+json
+[{"ID": "130C3", "PT": "Capacidade de se adaptar ou mudar", "GLOSA": "CAPACIDADE SE ADAPTAR MUDAR"}]
+
+json
+[{"ID": "131C3", "PT": "movimento descendente da laringe.", "GLOSA": "LARINGE MOVIMENTO DESCER."}]
+
+json
+[{"ID": "132C3", "PT": "Ileoceco", "GLOSA": "ÍLEO CECO"}]
+
+json
+[{'ID': '133C3', 'PT': 'Jogador que atua nas laterais do campo', 'GLOSA': 'JOGADOR LATERAL CAMPO ATUAR'}]
+
+json
+[{"ID": "134C3", "PT": "processos palatinos, frontonasais e nasais secundários.", "GLOSA": "PROCESSO PALATINO FRONTAL NASAL SECUNDÁRIO."}]
+
+json
+[{'ID': '135C3', 'PT': 'é aberto pela ação do músculo levantador do véu palatino.', 'GLOSA': 'MÚSCULO LEVANTADOR VÉU PALATINO AÇÃO ABERTO'}]
+
+json
+[{"ID": "136C3", "PT": "Pâncreas", "GLOSA": "PÂNCREAS"}]
+
+json
+[{"ID": "137C3", "PT": "Torácica e abdominal", "GLOSA": "DOR TORÁXICA ABDOMINAL"}]
+
+json
+[{"ID": "138C3", "PT": "cartilagem e epitélio respiratório.", "GLOSA": "CARTILAGEM EPITÉLIO RESPIRATÓRIO."}]
+
+json
+[{"ID": "139C3", "PT": "Fígado", "GLOSA": "FÍGADO"}]
+
+json
+[{"ID": "140C3", "PT": "Doença do refluxo gastroesofágico", "GLOSA": "DOENÇA REFLUXO GASTROESOFÁGICO"}]
+
+json
+[{"ID": "141C3", "PT": "nervos trigêmeo e vago.", "GLOSA": "NERVO TRIGÊMEO E VAGO."}]
+
+json
+[{"ID": "142C3", "PT": "Sínfise púbica", "GLOSA": "SÍNFISE PÚBICA"}]
+
+json
+[{'ID': '143C3', 'PT': 'lábio inferior, dentes mandibulares e gengiva labial dos dentes mandibulares anteriores.', 'GLOSA': 'LÁBIO INFERIOR DENTE MANDÍBULA GENGIVA LABIAL DENTE MANDÍBULA ANTERIOR.'}]
+
+json
+[
+  {
+    "ID": "144C3",
+    "PT": "nervo laríngeo interno, que é a parte que recebe a informação do reflexo de vômito.",
+    "GLOSA": "NERVO LARÍNGEO INTERNO PARTE INFORMAÇÃO RECEBER REFLEXO VÔMITO."
+  }
+]
+
+json
+[{"ID": "145C3", "PT": "ossificação intramembranosa e seguem o padrão de crescimento somático.", "GLOSA": "OSSIFICAÇÃO INTRAMEMBRANOSA SEGUIR PADRÃO CRESCIMENTO SOMÁTICO."}]
+
+json
+[{"ID": "146C3", "PT": "Dedos dos pés", "GLOSA": "DEDO PÉ"}]
+
+json
+[{"ID": "147C3", "PT": "Glóbulo vermelho do sangue", "GLOSA": "SANGUE VERMELHO GLÓBULO"}]
+
+json
+[{"ID": "148C3", "PT": "ossos parietais e occipitais.", "GLOSA": "OSSO PARIETAL E OCCIPITAL."}]
+
+json
+[{"ID": "149C3", "PT": "osso hióide, cartilagem tireóidea, cartilagem cricóide.", "GLOSA": "OSSO HIÓIDE, CARTILAGEM TIREÓIDEA, CARTILAGEM CRICÓIDE."}]
+
+json
+[{"ID": "150C3", "PT": "O forame mentual", "GLOSA": "FORAME MENTUAL"}]
+
+json
+[{"ID": "151C3", "PT": "Os troncos que demonstram afeto ou amizade", "GLOSA": "TRONCO DEMONSTRAR AFETO AMIZADE"}]
+
+json
+[{"ID": "153C3", "PT": "frontal", "GLOSA": "FRENTE"}]
+
+json
+[{'ID': '154C3', 'PT': 'profundamente ao masseter e entra na boca oposta ao segundo pré-molar superior.', 'GLOSA': 'MASSETER PROFUNDAMENTE ENTRAR BOCA OPOSIÇÃO PRÉ-MOLAR SUPERIOR SEGUNDO.'}]
+
+json
+[{"ID": "155C3", "PT": "Em direção ao alto", "GLOSA": "ALTO DIREÇÃO"}]
+
+json
+[{"ID": "156C3", "PT": "transporta neurônios secretomotores parassimpáticos para a glândula lacrimal.", "GLOSA": "NEURÔNIO SECRETOMOTOR PARASSIMPÁTICO TRANSPORTAR GLÂNDULA LACRIMAL."}]
+
+json
+[{"ID": "157C3", "PT": "Peristaltismo", "GLOSA": "PERISTALTISMO"}]
+
+json
+[{"ID": "158C3", "PT": "Lugar ou coisa mais importante", "GLOSA": "LUGAR COISA IMPORTANTE MAIS"}]
+
+json
+[{"ID": "159C3", "PT": "Pterigóide lateral", "GLOSA": "PTERIGÓIDE LATERAL"}]
+
+json
+[{"ID": "160C3", "PT": "Fígado", "GLOSA": "FÍGADO"}]
+
+json
+[{'ID': '161C3', 'PT': 'perda do paladar e da sensação somestésica na parte final da língua.', 'GLOSA': 'LÍNGUA FINAL PERDA PALADAR SENSÃO SOMESTÉSICA.'}]
+
+json
+[{'ID': '162C3', 'PT': 'contração pupilar.', 'GLOSA': 'CONTRACAO PUPILA.'}]
+
+json
+[{"ID": "163C3", "PT": "Artérias pulmonares", "GLOSA": "ARTÉRIA PULMÃO"}]
+
+json
+[{"ID": "164C3", "PT": "demonstrar indiferença contra a resistência.", "GLOSA": "RESISTÊNCIA INDIFERENÇA DEMONSTRAR CONTRA"}]
+
+json
+[{'ID': '165C3', 'PT': 'Os músculos da mastigação e os ventres anterior e posterior do digástrico', 'GLOSA': 'MÚSCULO MASTIGAÇÃO VENTRE ANTERIOR POSTERIOR DIGÁSTRICO'}]
+
+json
+[{"ID": "166C3", "PT": "Na região íntima", "GLOSA": "REGIÃO ÍNTIMA"}]
+
+json
+[{'ID': '167C3', 'PT': 'movimentos motores habilidosos cruzam-se nas pirâmides.', 'GLOSA': 'MOVIMENTO MOTOR HABILIDOSO CRUZAR PIRÂMIDE.'}]
+
+json
+[{"ID": "168C3", "PT": "cartilagem cricóide.", "GLOSA": "CRICÓIDE CARTILAGEM"}]
+
+json
+[{"ID": "169C3", "PT": "o nervo da bochecha", "GLOSA": "NERVO BOCHECHA"}]
+
+json
+[{"ID": "170C3", "PT": "o disco articular da ATM e o músculo pterigóideo medial.", "GLOSA": "ATM DISCO ARTICULAR E MÚSCULO PTERIGÓIDEO MEDIAL"}]
+
+json
+[{"ID": "171C3", "PT": "Desoxirribose", "GLOSA": "DESOXIRRIBOSE"}]
+
+json
+[{'ID': '172C3', 'PT': 'Página 5', 'GLOSA': 'PÁGINA CINCO'}]
+
+json
+[{"ID": "173C3", "PT": "fragmento anterior a ser movimentado para trás pela ação do músculo temporal.", "GLOSA": "FRAGMENTO ANTERIOR MOVIMENTO ATRÁS MÚSCULO TEMPORAL AÇÃO"}]
+
+json
+[{"ID": "174C3", "PT": "nervo trigêmeo oftálmico.", "GLOSA": "NERVO TRIGÊMEO OFTÁLMICO."}]
+
+json
+[{"ID": "175C3", "PT": "redução ou perda de função de um órgão ou tecido", "GLOSA": "ÓRGÃO TECIDO FUNÇÃO REDUÇÃO PERDA"}]
+
+json
+[{"ID": "176C3", "PT": "movimento tremulando.", "GLOSA": "MOVIMENTO TREMULAR"}]
+
+json
+[{'ID': '177C3', 'PT': 'pulmão direito ou pulmão esquerdo porque os dois brônquios principais são do mesmo tamanho e têm a mesma angulação.', 'GLOSA': 'PULMÃO DIREITO OU PULMÃO ESQUERDO PORQUE BRÔNQUIO PRINCIPAL DOIS MESMO TAMANHO MESMO ANGULAÇÃO.'}]
+
+json
+[{"ID": "178C3", "PT": "Eletrólitos", "GLOSA": "ELETRÓLITOS"}]
+
+json
+[{"ID": "179C3", "PT": "neurônios pós-ganglionares parassimpáticos e órgãos-alvo", "GLOSA": "NEURÔNIO PÓS-GANGLIONAR PARASSIMPÁTICO ÓRGÃO-ALVO"}]
+
+json
+[{"ID": "180C3", "PT": "Bulbouretral", "GLOSA": "GLÂNDULA BULBOURETRAL"}]
+
+json
+[{"ID": "181C3", "PT": "inferior à cartilagem cricóide.", "GLOSA": "CRICÓIDE CARTILAGEM INFERIOR"}]
+
+json
+[{"ID": "182C3", "PT": "aracnóide e pia-máter.", "GLOSA": "ARACNÓIDE PIA-MÁTER."}]
+
+json
+[{"ID": "183C3", "PT": "Laringe", "GLOSA": "LARINGE"}]
+
+json
+[{"ID": "184C3", "PT": "A parede lateral", "GLOSA": "PAREDE LATERAL"}]
+
+json
+[{'ID': '186C3', 'PT': 'As suturas zigomático-maxilares contribuem para o aumento da altura e do comprimento da maxila', 'GLOSA': 'SUTURA ZIGOMÁTICO-MAXILAR CONTRIBUIR AUMENTAR ALTURA COMPRIMENTO MAXILA'}]
+
+json
+[{"ID": "187C3", "PT": "músculos do lábio inferior.", "GLOSA": "MÚSCULO LÁBIO INFERIOR"}]
+
+json
+[{"ID": "188C3", "PT": "Seios etmoidais anteriores, frontais e maxilares", "GLOSA": "SEIO ETMOIDAL ANTERIOR FRONTAL MAXILAR"}]
+
+json
+[{"ID": "189C3", "PT": "Lipócitos", "GLOSA": "LIPÓCITO"}]
+
+json
+[{"ID": "190C3", "PT": "moléculas hidrofílicas que aumentam a pressão de turgor nas estruturas semelhantes a prateleiras presentes no palato.", "GLOSA": "MOLÉCULA HIDROFÍLICA AUMENTAR PRESSÃO TURGOR ESTRUTURA PRATELEIRA PALATO."}]
+
+json
+[{"ID": "191C3", "PT": "As superfícies palatinas dos molares superiores e as superfícies labiais dos incisivos inferiores.", "GLOSA": "SUPERFÍCIE PALATINA MOLARES SUPERIOR E SUPERFÍCIE LABIAL INCISIVO INFERIOR"}]
+
+json
+[{'ID': '192C3', 'PT': 'o fluido será drenado rapidamente para o tórax abaixo das pregas vocais.', 'GLOSA': 'FLUIDO DRENAR RÁPIDO TÓRAX ABAIXO PREGAS VOCAL.'}]
+
+json
+[{"ID": "193C3", "PT": "surgem do arco da aorta e são preenchidos durante a sístole.", "GLOSA": "ARCO AORTA SURGIR E PREENCHER SÍSTOLE."}]
+
+json
+[{'ID': '194C3', 'PT': 'Músculo pterigóideo medial esquerdo', 'GLOSA': 'MÚSCULO PTERIGÓIDEO MEDIAL ESQUERDO'}]
+
+json
+[{"ID": "195C3", "PT": "diafragma, pleura parietal e pericárdio.", "GLOSA": "DIAFRAGMA, PLEURA PARIETAL PERICÁRDIO."}]
+
+json
+[{"ID": "196C3", "PT": "quinto nervo craniano.", "GLOSA": "NERVO CRANIANO QUINTO."}]
+
+json
+[{"ID": "197C3", "PT": "vermelho abaixo da junção mucogengival e rosa claro acima dela.", "GLOSA": "VERMELHO ABAIXO JUNÇÃO MUCGENGIVAL ROSA CLARO ACIMA."}]
+
+json
+[{"ID": "198C3", "PT": "processos maxilares e frontonasais.", "GLOSA": "PROCESSO MAXILAR FRONTAL-NASAL."}]
+
+json
+[{"ID": "199C3", "PT": "ser perceptível ao toque tanto intra quanto extraoralmente.", "GLOSA": "TOQUE PERCEPTÍVEL INTRA EXTRAORALMENTE."}]
+
+json
+[{"ID": "2249C3", "PT": "f+f+f+g e 3fg", "GLOSA": "F F F G E 3 FG"}]
+
+json
+[{"ID": "2250C3", "PT": "1.060.460 galões", "GLOSA": "GALÃO 1.060.460"}]
+
+json
+[{"ID": "2251C3", "PT": "640", "GLOSA": "640"}]
+
+json
+[{"ID": "2253C3", "PT": "1 de 216", "GLOSA": "UM DE DUZENTOS E DEZESSEIS"}]
+
+json
+[{"ID": "2254C3", "PT": "30", "GLOSA": "30"}]
+
+json
+[{'ID': '2255C3', 'PT': '318 milhas quadradas por condado', 'GLOSA': '318 MILHA QUADRADO CONDADO POR'}]
+
+json
+[{"ID": "2256C3", "PT": "49°C", "GLOSA": "49 GRAU CELSIUS"}]
+
+json
+[{"ID": "2258C3", "PT": "289", "GLOSA": ""}]
+
+json
+[{'ID': '14469C3', 'PT': 'diminuir a demanda agregada e aumentar o PIB real.', 'GLOSA': 'DEMANDA AGREGADA DIMINUIR PIB REAL AUMENTAR.'}]
+
+json
+[{"ID": "14470C3", "PT": "o índice de preços ao consumidor", "GLOSA": "ÍNDICE PREÇO CONSUMIDOR"}]
+
+json
+[{"ID": "14471C3", "PT": "tanto a inflação quanto o desemprego aumentam.", "GLOSA": "INFLAÇÃO DESEMPREGO AUMENTAR."}]
+
+json
+[{"ID": "14472C3", "PT": "seis reais", "GLOSA": "REAIS SEIS"}]
+
+json
+[{'ID': '14473C3', 'PT': 'diminuir em US$ 400 milhões.', 'GLOSA': 'DIMINUIR DÓLAR 400 MILHÃO.'}]
+
+json
+[{"ID": "14474C3", "PT": "O país A deve usar suas reservas estrangeiras como garantia para obter empréstimos.", "GLOSA": "PAÍS A DEVER USAR RESERVA ESTRANGEIRO GARANTIA EMPRÉSTIMO OBTENÇÃO."}]
+
+json
+[{"ID": "14475C3", "PT": "$ 530", "GLOSA": "DINHEIRO 530"}]
+
+json
+[{"ID": "14476C3", "PT": "recursos; salários e lucros", "GLOSA": "RECURSOS SALÁRIO LUCRO"}]
+
+json
+[{"ID": "14477C3", "PT": "causar inflação na economia.", "GLOSA": "ECONOMIA INFLACAO CAUSAR"}]
+
+json
+[{"ID": "14480C3", "PT": "aumento de US$ 20 milhões.", "GLOSA": "AUMENTO US$ 20 MILHÃO."}]
+
+json
+[{"ID": "14481C3", "PT": "tanto o PIB italiano quanto o dos EUA", "GLOSA": "ITÁLIA PIB EUA PIB TAMBÉM"}]
+
+json
+[{"ID": "14483C3", "PT": "O preço de equilíbrio e a quantidade de equilíbrio aumentarão.", "GLOSA": "PREÇO EQUILÍBRIO QUANTIDADE EQUILÍBRIO AUMENTAR"}]
+
+json
+[{"ID": "14486C3", "PT": "Max compra o carro usado do pai.", "GLOSA": "MAX COMPRAR CARRO USADO PAI"}]
+
+json
+[{"ID": "14487C3", "PT": "50", "GLOSA": "50"}]
+
+json
+[{"ID": "14492C3", "PT": "Diminuindo a taxa de reserva", "GLOSA": "TAXA RESERVA DIMINUIR"}]
+
+json
+[{"ID": "14493C3", "PT": "O PIB aumenta.", "GLOSA": "PIB AUMENTAR."}]
+
+json
+[{'ID': '14494C3', 'PT': 'está acima do nível de emprego máximo possível do PIB real', 'GLOSA': 'NIVEIS EMPREGO MÁXIMO PIB REAL ACIMA ESTAR'}]
+
+json
+[{"ID": "14495C3", "PT": "Aumentar os gastos do governo sem alterar os impostos.", "GLOSA": "GOVERNO GASTO AUMENTAR IMPOSTO ALTERAR NÃO."}]
+
+json
+[{"ID": "14496C3", "PT": "Relativo à estação do ano", "GLOSA": "ANO ESTAÇÃO RELATIVO"}]
+
+json
+[{"ID": "14499C3", "PT": "50", "GLOSA": "CINQUENTA"}]
+
+json
+[{"ID": "14500C3", "PT": "20", "GLOSA": "20"}]
+
+json
+[{"ID": "14501C3", "PT": "1", "GLOSA": "UM"}]
+
+json
+[{"ID": "14502C3", "PT": "\\\\frac{3}{24}", "GLOSA": "TRÊS VINTE E QUATRO FRAÇÃO"}]
+
+json
+[{"ID": "14503C3", "PT": "2.015", "GLOSA": "DOIS PONTO ZERO UM CINCO"}]
+
+json
+[{"ID": "14504C3", "PT": "12", "GLOSA": "DOZE"}]
+
+json
+[{"ID": "14505C3", "PT": "81", "GLOSA": "81"}]
+
+json
+[{"ID": "14506C3", "PT": "121", "GLOSA": "121"}]
+
+json
+[{"ID": "14507C3", "PT": "6", "GLOSA": "6"}]
+
+json
+[{"ID": "14508C3", "PT": "\\\\frac{16}{3}", "GLOSA": "FRACAO DEZESSEIS SOBRE TRÊS"}]
+
+json
+[{"ID": "14509C3", "PT": "3", "GLOSA": "3"}]
+
+json
+[{"ID": "14510C3", "PT": "(5, 5)", "GLOSA": "CINCO CINCO"}]
+
+json
+[{"ID": "14511C3", "PT": "6.6", "GLOSA": "6.6"}]
+
+json
+[{"ID": "14512C3", "PT": "8910", "GLOSA": "8910"}]
+
+json
+[{"ID": "14513C3", "PT": "36", "GLOSA": "36"}]
+
+json
+[{"ID": "14514C3", "PT": "39", "GLOSA": "39"}]
+
+json
+[{"ID": "14515C3", "PT": "-7", "GLOSA": "-7"}]
+
+json
+[{"ID": "14516C3", "PT": "1+0i", "GLOSA": "UM MAIS ZERO I"}]
+
+json
+[{"ID": "14517C3", "PT": "i", "GLOSA": "EU"}]
+
+json
+[{'ID': '14518C3', 'PT': '0.5', 'GLOSA': '0.5'}]
+
+json
+[{"ID": "14519C3", "PT": "7", "GLOSA": "SETE"}]
+
+json
+[{"ID": "14520C3", "PT": "O conjunto de pontos (x, y) tais que y = 0", "GLOSA": "PONTO CONJUNTO X Y IGUAL ZERO"}]
+
+json
+[{"ID": "14521C3", "PT": "592", "GLOSA": "592"}]
+
+json
+[{"ID": "14522C3", "PT": "\\\\frac{5}{3}", "GLOSA": "CINCO TERÇO"}]
+
+json
+[{"ID": "14523C3", "PT": "-1", "GLOSA": "-1"}]
+
+json
+[{"ID": "14524C3", "PT": "3", "GLOSA": "3"}]
+
+json
+[{"ID": "14525C3", "PT": "0.3", "GLOSA": "0.3"}]
+
+json
+[{"ID": "14526C3", "PT": "40x + 10", "GLOSA": "40 X + 10"}]
+
+json
+[{"ID": "14527C3", "PT": "96", "GLOSA": "96"}]
+
+json
+[{"ID": "14528C3", "PT": "um bem extra.", "GLOSA": "BEM EXTRA UM"}]
+
+json
+[{"ID": "14529C3", "PT": "O preço dos pães de hambúrguer", "GLOSA": "PÃO HAMBURGUER PREÇO"}]
+
+json
+[{"ID": "14530C3", "PT": "É um sinal de que muitos vendedores estão juntos/agrupados.", "GLOSA": "SINAL MUITO VENDEDOR JUNTO AGRUPAR."}]
+
+json
+[{"ID": "14531C3", "PT": "A utilidade adicional de cada unidade consumida aumenta.", "GLOSA": "UTILIDADE ADICIONAL CADA UNIDADE CONSUMIR AUMENTAR."}]
+
+json
+[{"ID": "14532C3", "PT": "obtém prejuízo econômico", "GLOSA": "ELE OBTER PREJUÍZO ECONÔMICO"}]
+
+json
+[{'ID': '14533C3', 'PT': 'níveis de produção superiores', 'GLOSA': 'NÍVEL PRODUÇÃO SUPERIOR'}]
+
+json
+[{'ID': '14534C3', 'PT': 'A oferta aumenta e a demanda pelo bem diminui.', 'GLOSA': 'OFERTA AUMENTAR E DEMANDA BEM DIMINUIR.'}]
+
+json
+[{'ID': '14536C3', 'PT': 'A produção aumentaria; o preço aumentaria.', 'GLOSA': 'PRODUÇÃO AUMENTAR; PREÇO AUMENTAR.'}]
+
+json
+[{"ID": "14537C3", "PT": "tem o maior valor de utilidade marginal para o preço de cada bem.", "GLOSA": "BEM CADA PREÇO UTILIDADE MARGINAL VALOR MAIOR TER."}]
+
+json
+[{"ID": "14538C3", "PT": "Eficiência na produção", "GLOSA": "EFICIÊNCIA PRODUÇÃO"}]
+
+json
+[{'ID': '14539C3', 'PT': 'A taxa de mortalidade infantil do país aumenta.', 'GLOSA': 'PAÍS TAXA MORTALIDADE INFANTIL AUMENTAR.'}]
+
+json
+[{"ID": "14540C3", "PT": "ponto mínimo no custo variável médio.", "GLOSA": "PONTO MÍNIMO CUSTO VARIÁVEL MÉDIO."}]
+
+json
+[{"ID": "14541C3", "PT": "Preço é determinado pelo custo marginal.", "GLOSA": "PREÇO CUSTO MARGINAL DETERMINAR"}]
+
+json
+[{'ID': '14542C3', 'PT': 'uma diminuição definitiva na quantidade e uma mudança imprevisível no preço', 'GLOSA': 'QUANTIDADE DIMINUIÇÃO DEFINITIVO E PREÇO MUDANÇA IMPREVISÍVEL'}]
+
+json
+[
+  {
+    "ID": "14543C3",
+    "PT": "preço e receita marginal são constantes em todos os níveis de produção",
+    "GLOSA": "PREÇO RECEITA MARGINAL CONSTANTE NÍVEL PRODUÇÃO TODOS"
+  }
+]
+
+json
+[{"ID": "14544C3", "PT": "Taxe a empresa.", "GLOSA": "EMPRESA TAXAR"}]
+
+json
+[{"ID": "14545C3", "PT": "prejudicial a todos os trabalhadores e empregadores", "GLOSA": "PREJUDICIAL TODOS TRABALHADOR EMPREGADOR"}]
+
+json
+[{"ID": "14547C3", "PT": "A elasticidade-preço da demanda responde significativamente a mudanças de preço.", "GLOSA": "ELASTICIDADE-PREÇO DEMANDA RESPONDER SIGNIFICATIVO PREÇO MUDANÇA"}]
+
+json
+[{'ID': '14548C3', 'PT': 'efeito marginal.', 'GLOSA': 'EFEITO MARGINAL.'}]
+
+json
+[{"ID": "14549C3", "PT": "mais flexível a longo prazo.", "GLOSA": "FLEXÍVEL MAIS LONGO PRAZO."}]
+
+json
+[{"ID": "14550C3", "PT": "a demanda responde significativamente às mudanças de preço", "GLOSA": "DEMANDA RESPONDER SIGNIFICATIVO PREÇO MUDANÇA"}]
+
+json
+[{"ID": "14551C3", "PT": "O custo total médio é igual aos custos fixos médios mais os custos variáveis médios.", "GLOSA": "CUSTO TOTAL MÉDIO IGUAL CUSTO FIXO MÉDIO MAIS CUSTO VARIÁVEL MÉDIO."}]
+
+json
+[{"ID": "14552C3", "PT": "Preço moderadamente alto", "GLOSA": "PREÇO ALTO MODERADAMENTE"}]
+
+json
+[{"ID": "14553C3", "PT": "um mercado dominado por um pequeno número de empresas", "GLOSA": "MERCADO DOMINADO EMPRESA POUCO NÚMERO"}]
+
+json
+[{"ID": "14554C3", "PT": "III somente", "GLOSA": "III SOMENTE"}]
+
+json
+[{'ID': '14556C3', 'PT': 'use a metade da medida do raio', 'GLOSA': 'RAIO MEDIDA METADE USAR'}]
+
+json
+[{"ID": "14557C3", "PT": "A força dos braços do nadador na água ao redor", "GLOSA": "FORÇA BRAÇO NADADOR ÁGUA REDOR"}]
+
+json
+[{"ID": "14558C3", "PT": "Aumentará em oito vezes.", "GLOSA": "AUMENTAR OITO VEZES."}]
+
+json
+[{"ID": "14559C3", "PT": "18 m", "GLOSA": "18 METRO"}]
+
+json
+[{"ID": "14560C3", "PT": "21,40%", "GLOSA": "21,40%"}]
+
+json
+[{"ID": "14561C3", "PT": "As moléculas de hidrogênio, em média, aceleram mais e terminam com uma energia cinética média mais alta.", "GLOSA": "MOLÉCULA HIDROGÊNIO MÉDIA ACELERAR MAIS TERMINAR ENERGIA CINÉTICA MÉDIA ALTO"}]
+
+json
+[{"ID": "14563C3", "PT": "100 m/s", "GLOSA": "100 METRO POR SEGUNDO"}]
+
+json
+[{"ID": "14564C3", "PT": "(L^2)M/T^3", "GLOSA": "L QUADRADO M T CÚBICO DIVIDIR"}]
+
+json
+[{'ID': '14565C3', 'PT': '500 m', 'GLOSA': '500 METRO'}]
+
+json
+[{"ID": "14566C3", "PT": "A massa do carrinho, a velocidade inicial do carrinho e a velocidade final do carrinho", "GLOSA": "CARRINHO MASSA, CARRINHO VELOCIDADE INICIAL, CARRINHO VELOCIDADE FINAL"}]
+
+json
+[{"ID": "14568C3", "PT": "A carga se move continuamente dentro da esfera.", "GLOSA": "CARGA MOVIMENTO CONTÍNUO DENTRO ESFERA"}]
+
+json
+[{"ID": "14569C3", "PT": "quatro vezes a medida m", "GLOSA": "MEDIDA M QUATRO VEZES"}]
+
+json
+[{"ID": "14570C3", "PT": "Wc < 2R(mv^2/R)", "GLOSA": "WC MENOR 2R MULTIPLICAR MV AO QUADRADO DIVIDIR R"}]
+
+json
+[{"ID": "14571C3", "PT": "plano", "GLOSA": "PLANO"}]
+
+json
+[{"ID": "14573C3", "PT": "Eles aumentam a capacidade de memória ao expandir o espaço disponível para armazenamento de informações.", "GLOSA": "ELES AUMENTAR CAPACIDADE MEMÓRIA ESPAÇO DISPONÍVEL EXPANDIR INFORMAÇÃO ARMAZENAMENTO."}]
+
+json
+[{"ID": "14574C3", "PT": "com tendência para o negativo; tendencioso negativamente", "GLOSA": "TENDÊNCIA NEGATIVO; TENDENCIOSO NEGATIVO"}]
+
+json
+[{"ID": "14575C3", "PT": "junto com", "GLOSA": "JUNTO COM"}]
+
+json
+[{"ID": "14576C3", "PT": "duração da memória de trabalho.", "GLOSA": "MEMÓRIA TRABALHO DURAÇÃO"}]
+
+json
+[{"ID": "14577C3", "PT": "Diminuição dos episódios de início do sono", "GLOSA": "SONO INÍCIO EPISÓDIO DIMINUIR"}]
+
+json
+[{'ID': '14578C3', 'PT': 'estudo das interações entre pessoas', 'GLOSA': 'PESSOA INTERAÇÃO ESTUDO'}]
+
+json
+[{"ID": "14579C3", "PT": "o método de julgamento baseado na similaridade", "GLOSA": "MÉTODO JULGAMENTO SIMILAR BASEAR"}]
+
+json
+[{"ID": "14581C3", "PT": "Pesquisa que busca relações entre variáveis", "GLOSA": "PESQUISA BUSCAR RELAÇÃO VARIÁVEL"}]
+
+json
+[{"ID": "14582C3", "PT": "O comportamento resulta do condicionamento.", "GLOSA": "COMPORTAMENTO RESULTAR CONDICIONAMENTO."}]
+
+json
+[{"ID": "14583C3", "PT": "medula, ponte e cerebelo", "GLOSA": "MEDULA PONTE CEREBELO"}]
+
+json
+[{"ID": "5572C4", "PT": "0.833", "GLOSA": "0.833"}]
+
+json
+[{"ID": "5576C4", "PT": "0.91", "GLOSA": "0.91"}]
+

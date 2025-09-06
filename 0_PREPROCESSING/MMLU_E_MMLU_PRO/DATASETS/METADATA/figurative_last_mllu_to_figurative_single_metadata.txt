@@ -1,0 +1,525 @@
+bucket 88
+prompt_token_count: 239
+candidates_token_count: 172
+total_token_count: 411
+
+bucket 108
+prompt_token_count: 250
+candidates_token_count: 159
+total_token_count: 409
+
+bucket 116
+prompt_token_count: 255
+candidates_token_count: 189
+total_token_count: 444
+
+bucket 157
+prompt_token_count: 274
+candidates_token_count: 220
+total_token_count: 494
+
+bucket 161
+prompt_token_count: 195
+candidates_token_count: 122
+total_token_count: 317
+
+bucket 169
+prompt_token_count: 194
+candidates_token_count: 139
+total_token_count: 333
+
+bucket 170
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 171
+prompt_token_count: 177
+candidates_token_count: 86
+total_token_count: 263
+
+bucket 172
+prompt_token_count: 176
+candidates_token_count: 87
+total_token_count: 263
+
+bucket 173
+prompt_token_count: 173
+candidates_token_count: 76
+total_token_count: 249
+
+bucket 174
+prompt_token_count: 177
+candidates_token_count: 84
+total_token_count: 261
+
+bucket 180
+prompt_token_count: 180
+candidates_token_count: 108
+total_token_count: 288
+
+bucket 183
+prompt_token_count: 224
+candidates_token_count: 210
+total_token_count: 434
+
+bucket 184
+prompt_token_count: 463
+candidates_token_count: 702
+total_token_count: 1165
+
+bucket 192
+prompt_token_count: 197
+candidates_token_count: 130
+total_token_count: 327
+
+bucket 216
+prompt_token_count: 237
+candidates_token_count: 205
+total_token_count: 442
+
+bucket 222
+prompt_token_count: 166
+candidates_token_count: 65
+total_token_count: 231
+
+bucket 223
+prompt_token_count: 168
+candidates_token_count: 69
+total_token_count: 237
+
+bucket 234
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 236
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 237
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 238
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 241
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 267
+prompt_token_count: 166
+candidates_token_count: 47
+total_token_count: 213
+
+bucket 312
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 318
+prompt_token_count: 166
+candidates_token_count: 47
+total_token_count: 213
+
+bucket 335
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 336
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 338
+prompt_token_count: 166
+candidates_token_count: 64
+total_token_count: 230
+
+bucket 339
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 340
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 347
+prompt_token_count: 214
+candidates_token_count: 213
+total_token_count: 427
+
+bucket 351
+prompt_token_count: 165
+candidates_token_count: 7
+total_token_count: 172
+
+bucket 357
+prompt_token_count: 170
+candidates_token_count: 71
+total_token_count: 241
+
+bucket 358
+prompt_token_count: 170
+candidates_token_count: 71
+total_token_count: 241
+
+bucket 359
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 360
+prompt_token_count: 169
+candidates_token_count: 69
+total_token_count: 238
+
+bucket 380
+prompt_token_count: 169
+candidates_token_count: 70
+total_token_count: 239
+
+bucket 381
+prompt_token_count: 170
+candidates_token_count: 72
+total_token_count: 242
+
+bucket 383
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 431
+prompt_token_count: 168
+candidates_token_count: 51
+total_token_count: 219
+
+bucket 448
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 450
+prompt_token_count: 171
+candidates_token_count: 74
+total_token_count: 245
+
+bucket 460
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 476
+prompt_token_count: 167
+candidates_token_count: 49
+total_token_count: 216
+
+bucket 477
+prompt_token_count: 167
+candidates_token_count: 49
+total_token_count: 216
+
+bucket 479
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 481
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 482
+prompt_token_count: 166
+candidates_token_count: 47
+total_token_count: 213
+
+bucket 483
+prompt_token_count: 167
+candidates_token_count: 68
+total_token_count: 235
+
+bucket 489
+prompt_token_count: 173
+candidates_token_count: 84
+total_token_count: 257
+
+bucket 490
+prompt_token_count: 170
+candidates_token_count: 93
+total_token_count: 263
+
+bucket 491
+prompt_token_count: 171
+candidates_token_count: 72
+total_token_count: 243
+
+bucket 494
+prompt_token_count: 202
+candidates_token_count: 146
+total_token_count: 348
+
+bucket 495
+prompt_token_count: 177
+candidates_token_count: 141
+total_token_count: 318
+
+bucket 502
+prompt_token_count: 192
+candidates_token_count: 121
+total_token_count: 313
+
+bucket 503
+prompt_token_count: 172
+candidates_token_count: 111
+total_token_count: 283
+
+bucket 504
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 612
+prompt_token_count: 169
+candidates_token_count: 70
+total_token_count: 239
+
+bucket 613
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 614
+prompt_token_count: 200
+candidates_token_count: 115
+total_token_count: 315
+
+bucket 615
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 616
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 617
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 619
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 620
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 621
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 627
+prompt_token_count: 173
+candidates_token_count: 83
+total_token_count: 256
+
+bucket 628
+prompt_token_count: 190
+candidates_token_count: 136
+total_token_count: 326
+
+bucket 630
+prompt_token_count: 190
+candidates_token_count: 123
+total_token_count: 313
+
+bucket 631
+prompt_token_count: 179
+candidates_token_count: 98
+total_token_count: 277
+
+bucket 634
+prompt_token_count: 184
+candidates_token_count: 120
+total_token_count: 304
+
+bucket 641
+prompt_token_count: 180
+candidates_token_count: 96
+total_token_count: 276
+
+bucket 642
+prompt_token_count: 171
+candidates_token_count: 73
+total_token_count: 244
+
+bucket 643
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 644
+prompt_token_count: 173
+candidates_token_count: 77
+total_token_count: 250
+
+bucket 645
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 646
+prompt_token_count: 169
+candidates_token_count: 69
+total_token_count: 238
+
+bucket 652
+prompt_token_count: 167
+candidates_token_count: 64
+total_token_count: 231
+
+bucket 669
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 671
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 672
+prompt_token_count: 164
+candidates_token_count: 44
+total_token_count: 208
+
+bucket 674
+prompt_token_count: 168
+candidates_token_count: 51
+total_token_count: 219
+
+bucket 675
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 676
+prompt_token_count: 164
+candidates_token_count: 7
+total_token_count: 171
+
+bucket 736
+prompt_token_count: 165
+candidates_token_count: 44
+total_token_count: 209
+
+bucket 740
+prompt_token_count: 166
+candidates_token_count: 64
+total_token_count: 230
+
+bucket 752
+prompt_token_count: 170
+candidates_token_count: 72
+total_token_count: 242
+
+bucket 759
+prompt_token_count: 167
+candidates_token_count: 49
+total_token_count: 216
+
+bucket 764
+prompt_token_count: 169
+candidates_token_count: 53
+total_token_count: 222
+
+bucket 766
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 767
+prompt_token_count: 168
+candidates_token_count: 51
+total_token_count: 219
+
+bucket 768
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 770
+prompt_token_count: 167
+candidates_token_count: 66
+total_token_count: 233
+
+bucket 771
+prompt_token_count: 168
+candidates_token_count: 68
+total_token_count: 236
+
+bucket 772
+prompt_token_count: 166
+candidates_token_count: 64
+total_token_count: 230
+
+bucket 773
+prompt_token_count: 166
+candidates_token_count: 64
+total_token_count: 230
+
+bucket 774
+prompt_token_count: 166
+candidates_token_count: 47
+total_token_count: 213
+
+bucket 776
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 785
+prompt_token_count: 170
+candidates_token_count: 71
+total_token_count: 241
+
+bucket 786
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 788
+prompt_token_count: 165
+candidates_token_count: 7
+total_token_count: 172
+
+bucket 795
+prompt_token_count: 168
+candidates_token_count: 67
+total_token_count: 235
+
+bucket 796
+prompt_token_count: 187
+candidates_token_count: 111
+total_token_count: 298
+
+bucket 797
+prompt_token_count: 170
+candidates_token_count: 71
+total_token_count: 241
+

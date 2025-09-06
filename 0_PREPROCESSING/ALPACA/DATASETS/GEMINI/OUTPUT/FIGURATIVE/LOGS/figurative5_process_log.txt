@@ -1,0 +1,368 @@
+2024-10-31 09:25:02,452 - INFO - Modelo instanciado.
+2024-10-31 09:25:02,455 - INFO - Iniciando processamento do bucket 0
+2024-10-31 09:25:16,681 - ERROR - Ocorreu um erro ao processar o bucket 0: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:25:16,681 - INFO - Iniciando processamento do bucket 1
+2024-10-31 09:25:30,805 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:25:30,805 - INFO - Metadados do bucket 1 salvos com sucesso.
+2024-10-31 09:25:30,805 - INFO - Iniciando processamento do bucket 2
+2024-10-31 09:25:45,265 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:25:45,265 - INFO - Metadados do bucket 2 salvos com sucesso.
+2024-10-31 09:25:45,265 - INFO - Iniciando processamento do bucket 3
+2024-10-31 09:25:59,244 - ERROR - Ocorreu um erro ao processar o bucket 3: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:25:59,244 - INFO - Iniciando processamento do bucket 4
+2024-10-31 09:26:12,724 - ERROR - Ocorreu um erro ao processar o bucket 4: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:26:12,725 - INFO - Iniciando processamento do bucket 5
+2024-10-31 09:26:26,673 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:26:26,674 - INFO - Metadados do bucket 5 salvos com sucesso.
+2024-10-31 09:26:26,674 - INFO - Iniciando processamento do bucket 6
+2024-10-31 09:26:39,875 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:26:39,875 - INFO - Metadados do bucket 6 salvos com sucesso.
+2024-10-31 09:26:39,876 - INFO - Iniciando processamento do bucket 7
+2024-10-31 09:26:52,609 - ERROR - Ocorreu um erro ao processar o bucket 7: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:26:52,609 - INFO - Iniciando processamento do bucket 8
+2024-10-31 09:27:06,067 - ERROR - Ocorreu um erro ao processar o bucket 8: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:27:06,067 - INFO - Iniciando processamento do bucket 9
+2024-10-31 09:27:19,922 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:27:19,922 - INFO - Metadados do bucket 9 salvos com sucesso.
+2024-10-31 09:27:19,923 - INFO - Iniciando processamento do bucket 10
+2024-10-31 09:27:34,370 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:27:34,370 - INFO - Metadados do bucket 10 salvos com sucesso.
+2024-10-31 09:27:34,370 - INFO - Iniciando processamento do bucket 11
+2024-10-31 09:27:48,856 - ERROR - Ocorreu um erro ao processar o bucket 11: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:27:48,856 - INFO - Iniciando processamento do bucket 12
+2024-10-31 09:28:02,163 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:28:02,163 - INFO - Metadados do bucket 12 salvos com sucesso.
+2024-10-31 09:28:02,163 - INFO - Iniciando processamento do bucket 13
+2024-10-31 09:28:15,248 - ERROR - Ocorreu um erro ao processar o bucket 13: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:28:15,248 - INFO - Iniciando processamento do bucket 14
+2024-10-31 09:28:29,044 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:28:29,044 - INFO - Metadados do bucket 14 salvos com sucesso.
+2024-10-31 09:28:29,044 - INFO - Iniciando processamento do bucket 15
+2024-10-31 09:28:42,712 - ERROR - Ocorreu um erro ao processar o bucket 15: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:28:42,712 - INFO - Iniciando processamento do bucket 16
+2024-10-31 09:28:56,346 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:28:56,346 - INFO - Metadados do bucket 16 salvos com sucesso.
+2024-10-31 09:28:56,346 - INFO - Iniciando processamento do bucket 17
+2024-10-31 09:29:09,779 - ERROR - Ocorreu um erro ao processar o bucket 17: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:29:09,779 - INFO - Iniciando processamento do bucket 18
+2024-10-31 09:29:23,005 - ERROR - Ocorreu um erro ao processar o bucket 18: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:29:23,006 - INFO - Iniciando processamento do bucket 19
+2024-10-31 09:29:35,896 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:29:35,896 - INFO - Metadados do bucket 19 salvos com sucesso.
+2024-10-31 09:29:35,896 - INFO - Iniciando processamento do bucket 20
+2024-10-31 09:29:49,933 - ERROR - Ocorreu um erro ao processar o bucket 20: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:29:49,934 - INFO - Iniciando processamento do bucket 21
+2024-10-31 09:30:03,621 - ERROR - Ocorreu um erro ao processar o bucket 21: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:30:03,621 - INFO - Iniciando processamento do bucket 22
+2024-10-31 09:30:18,476 - ERROR - Ocorreu um erro ao processar o bucket 22: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:30:18,476 - INFO - Iniciando processamento do bucket 23
+2024-10-31 09:30:32,612 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:30:32,612 - INFO - Metadados do bucket 23 salvos com sucesso.
+2024-10-31 09:30:32,612 - INFO - Iniciando processamento do bucket 24
+2024-10-31 09:30:46,252 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:30:46,252 - INFO - Metadados do bucket 24 salvos com sucesso.
+2024-10-31 09:30:46,252 - INFO - Iniciando processamento do bucket 25
+2024-10-31 09:31:00,034 - ERROR - Ocorreu um erro ao processar o bucket 25: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:31:00,034 - INFO - Iniciando processamento do bucket 26
+2024-10-31 09:31:13,002 - ERROR - Ocorreu um erro ao processar o bucket 26: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:31:13,002 - INFO - Iniciando processamento do bucket 27
+2024-10-31 09:31:27,219 - ERROR - Ocorreu um erro ao processar o bucket 27: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:31:27,219 - INFO - Iniciando processamento do bucket 28
+2024-10-31 09:31:40,301 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:31:40,301 - INFO - Metadados do bucket 28 salvos com sucesso.
+2024-10-31 09:31:40,301 - INFO - Iniciando processamento do bucket 29
+2024-10-31 09:31:51,772 - ERROR - Ocorreu um erro ao processar o bucket 29: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:31:51,772 - INFO - Iniciando processamento do bucket 30
+2024-10-31 09:32:05,399 - ERROR - Ocorreu um erro ao processar o bucket 30: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:32:05,400 - INFO - Iniciando processamento do bucket 31
+2024-10-31 09:32:19,613 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:32:19,613 - INFO - Metadados do bucket 31 salvos com sucesso.
+2024-10-31 09:32:19,614 - INFO - Iniciando processamento do bucket 32
+2024-10-31 09:32:32,995 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:32:32,996 - INFO - Metadados do bucket 32 salvos com sucesso.
+2024-10-31 09:32:32,996 - INFO - Iniciando processamento do bucket 33
+2024-10-31 09:32:45,112 - ERROR - Ocorreu um erro ao processar o bucket 33: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:32:45,112 - INFO - Iniciando processamento do bucket 34
+2024-10-31 09:32:59,579 - ERROR - Ocorreu um erro ao processar o bucket 34: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:32:59,580 - INFO - Iniciando processamento do bucket 35
+2024-10-31 09:33:13,748 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:33:13,748 - INFO - Metadados do bucket 35 salvos com sucesso.
+2024-10-31 09:33:13,748 - INFO - Iniciando processamento do bucket 36
+2024-10-31 09:33:29,031 - ERROR - Ocorreu um erro ao processar o bucket 36: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:33:29,031 - INFO - Iniciando processamento do bucket 37
+2024-10-31 09:33:43,042 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:33:43,042 - INFO - Metadados do bucket 37 salvos com sucesso.
+2024-10-31 09:33:43,042 - INFO - Iniciando processamento do bucket 38
+2024-10-31 09:33:55,329 - ERROR - Ocorreu um erro ao processar o bucket 38: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:33:55,330 - INFO - Iniciando processamento do bucket 39
+2024-10-31 09:34:09,159 - ERROR - Ocorreu um erro ao processar o bucket 39: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:34:09,160 - INFO - Iniciando processamento do bucket 40
+2024-10-31 09:34:17,773 - ERROR - Ocorreu um erro ao processar o bucket 40: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:34:17,773 - INFO - Iniciando processamento do bucket 41
+2024-10-31 09:34:30,995 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:34:30,996 - INFO - Metadados do bucket 41 salvos com sucesso.
+2024-10-31 09:34:30,996 - INFO - Iniciando processamento do bucket 42
+2024-10-31 09:34:41,656 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:34:41,656 - INFO - Metadados do bucket 42 salvos com sucesso.
+2024-10-31 09:34:41,656 - INFO - Iniciando processamento do bucket 43
+2024-10-31 09:34:49,724 - ERROR - Ocorreu um erro ao processar o bucket 43: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:34:49,724 - INFO - Iniciando processamento do bucket 44
+2024-10-31 09:34:58,249 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:34:58,249 - INFO - Metadados do bucket 44 salvos com sucesso.
+2024-10-31 09:34:58,250 - INFO - Iniciando processamento do bucket 45
+2024-10-31 09:35:07,033 - ERROR - Ocorreu um erro ao processar o bucket 45: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:35:07,034 - INFO - Iniciando processamento do bucket 46
+2024-10-31 09:35:15,290 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:35:15,290 - INFO - Metadados do bucket 46 salvos com sucesso.
+2024-10-31 09:35:15,290 - INFO - Iniciando processamento do bucket 47
+2024-10-31 09:35:23,565 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:35:23,565 - INFO - Metadados do bucket 47 salvos com sucesso.
+2024-10-31 09:35:23,565 - INFO - Iniciando processamento do bucket 48
+2024-10-31 09:35:32,315 - ERROR - Ocorreu um erro ao processar o bucket 48: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:35:32,315 - INFO - Iniciando processamento do bucket 49
+2024-10-31 09:35:40,389 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:35:40,389 - INFO - Metadados do bucket 49 salvos com sucesso.
+2024-10-31 09:35:40,389 - INFO - Iniciando processamento do bucket 50
+2024-10-31 09:35:49,259 - ERROR - Ocorreu um erro ao processar o bucket 50: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:35:49,259 - INFO - Iniciando processamento do bucket 51
+2024-10-31 09:35:58,598 - ERROR - Ocorreu um erro ao processar o bucket 51: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:35:58,598 - INFO - Iniciando processamento do bucket 52
+2024-10-31 09:36:05,609 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:36:05,609 - INFO - Metadados do bucket 52 salvos com sucesso.
+2024-10-31 09:36:05,609 - INFO - Iniciando processamento do bucket 53
+2024-10-31 09:36:13,579 - ERROR - Ocorreu um erro ao processar o bucket 53: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:36:13,579 - INFO - Iniciando processamento do bucket 54
+2024-10-31 09:36:23,464 - ERROR - Ocorreu um erro ao processar o bucket 54: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:36:23,464 - INFO - Iniciando processamento do bucket 55
+2024-10-31 09:36:32,049 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:36:32,049 - INFO - Metadados do bucket 55 salvos com sucesso.
+2024-10-31 09:36:32,049 - INFO - Iniciando processamento do bucket 56
+2024-10-31 09:36:41,251 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:36:41,251 - INFO - Metadados do bucket 56 salvos com sucesso.
+2024-10-31 09:36:41,251 - INFO - Iniciando processamento do bucket 57
+2024-10-31 09:36:48,985 - ERROR - Ocorreu um erro ao processar o bucket 57: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:36:48,986 - INFO - Iniciando processamento do bucket 58
+2024-10-31 09:36:57,255 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:36:57,255 - INFO - Metadados do bucket 58 salvos com sucesso.
+2024-10-31 09:36:57,256 - INFO - Iniciando processamento do bucket 59
+2024-10-31 09:37:08,431 - ERROR - Ocorreu um erro ao processar o bucket 59: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:37:08,431 - INFO - Iniciando processamento do bucket 60
+2024-10-31 09:37:16,499 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:37:16,499 - INFO - Metadados do bucket 60 salvos com sucesso.
+2024-10-31 09:37:16,499 - INFO - Iniciando processamento do bucket 61
+2024-10-31 09:37:24,696 - ERROR - Ocorreu um erro ao processar o bucket 61: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:37:24,696 - INFO - Iniciando processamento do bucket 62
+2024-10-31 09:37:34,805 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:37:34,805 - INFO - Metadados do bucket 62 salvos com sucesso.
+2024-10-31 09:37:34,805 - INFO - Iniciando processamento do bucket 63
+2024-10-31 09:37:43,466 - ERROR - Ocorreu um erro ao processar o bucket 63: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:37:43,466 - INFO - Iniciando processamento do bucket 64
+2024-10-31 09:37:50,923 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:37:50,923 - INFO - Metadados do bucket 64 salvos com sucesso.
+2024-10-31 09:37:50,923 - INFO - Iniciando processamento do bucket 65
+2024-10-31 09:37:59,873 - ERROR - Ocorreu um erro ao processar o bucket 65: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:37:59,873 - INFO - Iniciando processamento do bucket 66
+2024-10-31 09:38:09,415 - ERROR - Ocorreu um erro ao processar o bucket 66: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:38:09,415 - INFO - Iniciando processamento do bucket 67
+2024-10-31 09:38:17,278 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:38:17,279 - INFO - Metadados do bucket 67 salvos com sucesso.
+2024-10-31 09:38:17,279 - INFO - Iniciando processamento do bucket 68
+2024-10-31 09:38:26,269 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:38:26,270 - INFO - Metadados do bucket 68 salvos com sucesso.
+2024-10-31 09:38:26,270 - INFO - Iniciando processamento do bucket 69
+2024-10-31 09:38:34,498 - ERROR - Ocorreu um erro ao processar o bucket 69: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:38:34,498 - INFO - Iniciando processamento do bucket 70
+2024-10-31 09:38:45,889 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:38:45,889 - INFO - Metadados do bucket 70 salvos com sucesso.
+2024-10-31 09:38:45,889 - INFO - Iniciando processamento do bucket 71
+2024-10-31 09:38:54,282 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:38:54,282 - INFO - Metadados do bucket 71 salvos com sucesso.
+2024-10-31 09:38:54,282 - INFO - Iniciando processamento do bucket 72
+2024-10-31 09:39:01,818 - ERROR - Ocorreu um erro ao processar o bucket 72: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:39:01,819 - INFO - Iniciando processamento do bucket 73
+2024-10-31 09:39:10,270 - ERROR - Ocorreu um erro ao processar o bucket 73: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:39:10,271 - INFO - Iniciando processamento do bucket 74
+2024-10-31 09:39:19,257 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:39:19,257 - INFO - Metadados do bucket 74 salvos com sucesso.
+2024-10-31 09:39:19,258 - INFO - Iniciando processamento do bucket 75
+2024-10-31 09:39:27,748 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:39:27,748 - INFO - Metadados do bucket 75 salvos com sucesso.
+2024-10-31 09:39:27,749 - INFO - Iniciando processamento do bucket 76
+2024-10-31 09:39:36,493 - ERROR - Ocorreu um erro ao processar o bucket 76: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:39:36,493 - INFO - Iniciando processamento do bucket 77
+2024-10-31 09:39:45,722 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:39:45,722 - INFO - Metadados do bucket 77 salvos com sucesso.
+2024-10-31 09:39:45,723 - INFO - Iniciando processamento do bucket 78
+2024-10-31 09:39:48,839 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:39:48,839 - INFO - Metadados do bucket 78 salvos com sucesso.
+2024-10-31 09:39:48,839 - INFO - Iniciando processamento do bucket 79
+2024-10-31 09:40:01,769 - ERROR - Ocorreu um erro ao processar o bucket 79: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:40:01,769 - INFO - Iniciando processamento do bucket 80
+2024-10-31 09:40:10,125 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:40:10,125 - INFO - Metadados do bucket 80 salvos com sucesso.
+2024-10-31 09:40:10,125 - INFO - Iniciando processamento do bucket 81
+2024-10-31 09:40:16,759 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:40:16,759 - INFO - Metadados do bucket 81 salvos com sucesso.
+2024-10-31 09:40:16,760 - INFO - Iniciando processamento do bucket 82
+2024-10-31 09:40:25,947 - ERROR - Ocorreu um erro ao processar o bucket 82: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:40:25,947 - INFO - Iniciando processamento do bucket 83
+2024-10-31 09:40:32,605 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:40:32,605 - INFO - Metadados do bucket 83 salvos com sucesso.
+2024-10-31 09:40:32,605 - INFO - Iniciando processamento do bucket 84
+2024-10-31 09:40:42,924 - ERROR - Ocorreu um erro ao processar o bucket 84: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:40:42,924 - INFO - Iniciando processamento do bucket 85
+2024-10-31 09:40:51,684 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:40:51,684 - INFO - Metadados do bucket 85 salvos com sucesso.
+2024-10-31 09:40:51,684 - INFO - Iniciando processamento do bucket 86
+2024-10-31 09:41:00,675 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:41:00,675 - INFO - Metadados do bucket 86 salvos com sucesso.
+2024-10-31 09:41:00,675 - INFO - Iniciando processamento do bucket 87
+2024-10-31 09:41:10,106 - ERROR - Ocorreu um erro ao processar o bucket 87: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:41:10,106 - INFO - Iniciando processamento do bucket 88
+2024-10-31 09:41:18,910 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:41:18,910 - INFO - Metadados do bucket 88 salvos com sucesso.
+2024-10-31 09:41:18,910 - INFO - Iniciando processamento do bucket 89
+2024-10-31 09:41:26,382 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:41:26,382 - INFO - Metadados do bucket 89 salvos com sucesso.
+2024-10-31 09:41:26,382 - INFO - Iniciando processamento do bucket 90
+2024-10-31 09:41:34,461 - ERROR - Ocorreu um erro ao processar o bucket 90: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:41:34,462 - INFO - Iniciando processamento do bucket 91
+2024-10-31 09:41:43,980 - ERROR - Ocorreu um erro ao processar o bucket 91: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:41:43,980 - INFO - Iniciando processamento do bucket 92
+2024-10-31 09:41:52,450 - ERROR - Ocorreu um erro ao processar o bucket 92: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:41:52,450 - INFO - Iniciando processamento do bucket 93
+2024-10-31 09:42:01,416 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:42:01,416 - INFO - Metadados do bucket 93 salvos com sucesso.
+2024-10-31 09:42:01,416 - INFO - Iniciando processamento do bucket 94
+2024-10-31 09:42:11,713 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:42:11,713 - INFO - Metadados do bucket 94 salvos com sucesso.
+2024-10-31 09:42:11,713 - INFO - Iniciando processamento do bucket 95
+2024-10-31 09:42:19,362 - ERROR - Ocorreu um erro ao processar o bucket 95: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:42:19,362 - INFO - Iniciando processamento do bucket 96
+2024-10-31 09:42:29,994 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:42:29,994 - INFO - Metadados do bucket 96 salvos com sucesso.
+2024-10-31 09:42:29,994 - INFO - Iniciando processamento do bucket 97
+2024-10-31 09:42:36,662 - ERROR - Ocorreu um erro ao processar o bucket 97: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:42:36,662 - INFO - Iniciando processamento do bucket 98
+2024-10-31 09:42:44,819 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:42:44,819 - INFO - Metadados do bucket 98 salvos com sucesso.
+2024-10-31 09:42:44,819 - INFO - Iniciando processamento do bucket 99
+2024-10-31 09:42:52,209 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:42:52,209 - INFO - Metadados do bucket 99 salvos com sucesso.
+2024-10-31 09:42:52,209 - INFO - Iniciando processamento do bucket 100
+2024-10-31 09:43:01,395 - ERROR - Ocorreu um erro ao processar o bucket 100: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:43:01,396 - INFO - Iniciando processamento do bucket 101
+2024-10-31 09:43:09,854 - ERROR - Ocorreu um erro ao processar o bucket 101: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:43:09,854 - INFO - Iniciando processamento do bucket 102
+2024-10-31 09:43:18,244 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:43:18,244 - INFO - Metadados do bucket 102 salvos com sucesso.
+2024-10-31 09:43:18,244 - INFO - Iniciando processamento do bucket 103
+2024-10-31 09:43:26,843 - ERROR - Ocorreu um erro ao processar o bucket 103: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:43:26,843 - INFO - Iniciando processamento do bucket 104
+2024-10-31 09:43:36,431 - ERROR - Ocorreu um erro ao processar o bucket 104: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:43:36,431 - INFO - Iniciando processamento do bucket 105
+2024-10-31 09:43:46,445 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:43:46,445 - INFO - Metadados do bucket 105 salvos com sucesso.
+2024-10-31 09:43:46,445 - INFO - Iniciando processamento do bucket 106
+2024-10-31 09:43:55,036 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:43:55,036 - INFO - Metadados do bucket 106 salvos com sucesso.
+2024-10-31 09:43:55,036 - INFO - Iniciando processamento do bucket 107
+2024-10-31 09:44:01,291 - ERROR - Ocorreu um erro ao processar o bucket 107: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:44:01,292 - INFO - Iniciando processamento do bucket 108
+2024-10-31 09:44:12,614 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:44:12,614 - INFO - Metadados do bucket 108 salvos com sucesso.
+2024-10-31 09:44:12,614 - INFO - Iniciando processamento do bucket 109
+2024-10-31 09:44:19,295 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:44:19,295 - INFO - Metadados do bucket 109 salvos com sucesso.
+2024-10-31 09:44:19,295 - INFO - Iniciando processamento do bucket 110
+2024-10-31 09:44:29,602 - ERROR - Ocorreu um erro ao processar o bucket 110: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:44:29,602 - INFO - Iniciando processamento do bucket 111
+2024-10-31 09:44:38,898 - ERROR - Ocorreu um erro ao processar o bucket 111: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:44:38,898 - INFO - Iniciando processamento do bucket 112
+2024-10-31 09:44:45,530 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:44:45,530 - INFO - Metadados do bucket 112 salvos com sucesso.
+2024-10-31 09:44:45,530 - INFO - Iniciando processamento do bucket 113
+2024-10-31 09:44:54,546 - ERROR - Ocorreu um erro ao processar o bucket 113: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:44:54,546 - INFO - Iniciando processamento do bucket 114
+2024-10-31 09:45:03,258 - ERROR - Ocorreu um erro ao processar o bucket 114: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:45:03,259 - INFO - Iniciando processamento do bucket 115
+2024-10-31 09:45:09,158 - ERROR - Ocorreu um erro ao processar o bucket 115: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:45:09,158 - INFO - Iniciando processamento do bucket 116
+2024-10-31 09:45:18,514 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:45:18,514 - INFO - Metadados do bucket 116 salvos com sucesso.
+2024-10-31 09:45:18,514 - INFO - Iniciando processamento do bucket 117
+2024-10-31 09:45:27,667 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:45:27,667 - INFO - Metadados do bucket 117 salvos com sucesso.
+2024-10-31 09:45:27,667 - INFO - Iniciando processamento do bucket 118
+2024-10-31 09:45:36,279 - ERROR - Ocorreu um erro ao processar o bucket 118: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:45:36,279 - INFO - Iniciando processamento do bucket 119
+2024-10-31 09:45:43,492 - ERROR - Ocorreu um erro ao processar o bucket 119: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:45:43,492 - INFO - Iniciando processamento do bucket 120
+2024-10-31 09:45:51,269 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:45:51,269 - INFO - Metadados do bucket 120 salvos com sucesso.
+2024-10-31 09:45:51,270 - INFO - Iniciando processamento do bucket 121
+2024-10-31 09:46:00,263 - ERROR - Ocorreu um erro ao processar o bucket 121: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:46:00,263 - INFO - Iniciando processamento do bucket 122
+2024-10-31 09:46:06,474 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:46:06,474 - INFO - Metadados do bucket 122 salvos com sucesso.
+2024-10-31 09:46:06,474 - INFO - Iniciando processamento do bucket 123
+2024-10-31 09:46:16,543 - ERROR - Ocorreu um erro ao processar o bucket 123: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:46:16,543 - INFO - Iniciando processamento do bucket 124
+2024-10-31 09:46:25,774 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:46:25,774 - INFO - Metadados do bucket 124 salvos com sucesso.
+2024-10-31 09:46:25,774 - INFO - Iniciando processamento do bucket 125
+2024-10-31 09:46:33,254 - ERROR - Ocorreu um erro ao processar o bucket 125: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:46:33,254 - INFO - Iniciando processamento do bucket 126
+2024-10-31 09:46:41,290 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:46:41,290 - INFO - Metadados do bucket 126 salvos com sucesso.
+2024-10-31 09:46:41,290 - INFO - Iniciando processamento do bucket 127
+2024-10-31 09:46:50,943 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:46:50,943 - INFO - Metadados do bucket 127 salvos com sucesso.
+2024-10-31 09:46:50,943 - INFO - Iniciando processamento do bucket 128
+2024-10-31 09:46:59,180 - ERROR - Ocorreu um erro ao processar o bucket 128: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:46:59,180 - INFO - Iniciando processamento do bucket 129
+2024-10-31 09:47:06,345 - ERROR - Ocorreu um erro ao processar o bucket 129: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:47:06,345 - INFO - Iniciando processamento do bucket 130
+2024-10-31 09:47:15,240 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:47:15,240 - INFO - Metadados do bucket 130 salvos com sucesso.
+2024-10-31 09:47:15,240 - INFO - Iniciando processamento do bucket 131
+2024-10-31 09:47:25,009 - ERROR - Ocorreu um erro ao processar o bucket 131: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:47:25,010 - INFO - Iniciando processamento do bucket 132
+2024-10-31 09:47:34,917 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:47:34,917 - INFO - Metadados do bucket 132 salvos com sucesso.
+2024-10-31 09:47:34,917 - INFO - Iniciando processamento do bucket 133
+2024-10-31 09:47:42,945 - ERROR - Ocorreu um erro ao processar o bucket 133: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:47:42,945 - INFO - Iniciando processamento do bucket 134
+2024-10-31 09:47:50,630 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:47:50,630 - INFO - Metadados do bucket 134 salvos com sucesso.
+2024-10-31 09:47:50,630 - INFO - Iniciando processamento do bucket 135
+2024-10-31 09:47:59,294 - ERROR - Ocorreu um erro ao processar o bucket 135: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:47:59,294 - INFO - Iniciando processamento do bucket 136
+2024-10-31 09:48:07,368 - ERROR - Ocorreu um erro ao processar o bucket 136: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:48:07,368 - INFO - Iniciando processamento do bucket 137
+2024-10-31 09:48:15,391 - ERROR - Ocorreu um erro ao processar o bucket 137: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:48:15,392 - INFO - Iniciando processamento do bucket 138
+2024-10-31 09:48:24,847 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:48:24,847 - INFO - Metadados do bucket 138 salvos com sucesso.
+2024-10-31 09:48:24,847 - INFO - Iniciando processamento do bucket 139
+2024-10-31 09:48:33,757 - ERROR - Ocorreu um erro ao processar o bucket 139: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:48:33,757 - INFO - Iniciando processamento do bucket 140
+2024-10-31 09:48:42,327 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:48:42,327 - INFO - Metadados do bucket 140 salvos com sucesso.
+2024-10-31 09:48:42,327 - INFO - Iniciando processamento do bucket 141
+2024-10-31 09:48:51,234 - ERROR - Ocorreu um erro ao processar o bucket 141: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:48:51,234 - INFO - Iniciando processamento do bucket 142
+2024-10-31 09:49:00,624 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:49:00,624 - INFO - Metadados do bucket 142 salvos com sucesso.
+2024-10-31 09:49:00,624 - INFO - Iniciando processamento do bucket 143
+2024-10-31 09:49:09,808 - ERROR - Ocorreu um erro ao processar o bucket 143: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:49:09,808 - INFO - Iniciando processamento do bucket 144
+2024-10-31 09:49:19,257 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:49:19,258 - INFO - Metadados do bucket 144 salvos com sucesso.
+2024-10-31 09:49:19,258 - INFO - Iniciando processamento do bucket 145
+2024-10-31 09:49:27,088 - ERROR - Ocorreu um erro ao processar o bucket 145: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-10-31 09:49:27,088 - INFO - Iniciando processamento do bucket 146
+2024-10-31 09:49:32,127 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-10-31 09:49:32,127 - INFO - Metadados do bucket 146 salvos com sucesso.
+2024-10-31 09:49:32,127 - INFO - Processamento concluído.
+2024-10-31 09:49:32,127 - INFO - Tempo total de execução: 1469.69 segundos.

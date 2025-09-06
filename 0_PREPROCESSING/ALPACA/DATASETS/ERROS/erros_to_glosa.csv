@@ -1,0 +1,914 @@
+ID,PT,TOTAL_TOKENS
+10017out,Esta frase é informal.,10
+10061out,A poluição do ar na cidade está piorando.,20
+10120out,"animal, cachorro, Labrador, Fido, ama",17
+10246inp,Produto: Apple iPhone 12,11
+10460inp,Quais são as três cores primárias?,18
+10460out,"As três cores primárias são vermelho, azul e amarelo.",25
+10474out,Ele está escrevendo uma carta.,14
+10476inp,Pode me ajudar?,11
+10476out,Sentença interrogativa.,10
+10514inp,das Alterações Climáticas,16
+10552inp,Posso tomar uma xícara de chá?,18
+10583inp,Qual é a capital da França?,12
+10583out,A capital da França é Paris.,11
+10589out,Por que a galinha atravessou o parquinho? Para alcançar o outro escorregador!,33
+10833inp,John Doe,6
+10849out,"Começando com um aquecimento, os exercícios de alongamento ajudam a relaxar os músculos antes do treino. Adicionar um programa de exercícios rigoroso e desafiador à sua programação também ajuda a melhorar sua saúde e bem-estar geral.",90
+10890inp,Apple Inc.,7
+11009out,"O que tem quatro pernas, mas é imóvel?\nUma cadeira!",25
+11056inp,Espécies que invadem outros ambientes,15
+11064out,CIA (Central Intelligence Agency),9
+11067inp,O cachorro latiu.,12
+11126inp,sapatos fabricados pela Nike,12
+11146out,Eu sou seu estudante.,12
+11148inp,capacidade de um sistema computacional de realizar tarefas que normalmente exigem inteligência humana,37
+11259out,Sentimento negativo.,10
+11386out,Um amigo que te ajuda quando você precisa é um amigo de verdade.,26
+113inp,Eu fui à loja.,11
+11402inp,AirPods da Apple,9
+11499inp,Nelson Mandela,7
+11502out,Sentença declarativa.,10
+11550inp,Agrupamento K-Means,12
+1168out,O triângulo é um triângulo obtusângulo.,21
+11701out,O cachorro latiu.,11
+11807inp,um leão que é o líder,13
+11822out,1. Tenda\n2. Saco de dormir\n3. Lanterna\n4. Fogão de acampamento\n5. Partidas,39
+11907inp,Tópico: Natureza,11
+11911out,O volume do cubo é 64 cm3.,13
+11931inp,Alguém que protege crianças da corrupção,20
+11932inp,Apple e Samsung,7
+11ins,Qual é a capital da França?,10
+11out,A capital da França é Paris.,10
+12040ins,Qual é a cor do céu?,12
+12169out,Sentimento negativo.,10
+1216inp,"Em 2018, o ano mais recente para o qual há dados disponíveis em 2021, o Centro Nacional de Estatísticas de Saúde dos Centros de Controle e Prevenção de Doenças (CDC) relata 38.390 mortes por arma de fogo, das quais 24.432 foram por suicídio. A taxa de mortes por armas de fogo por 100.000 pessoas aumentou de 10,3 por 100.000 em 1999 para 12 por 100.000 em 2017, com uma média de 109 mortes por dia ou cerca de 14.542 homicídios no total, sendo 11,9 por 100.000 em 2018.",180
+1218out,"Aumentei a taxa de mortes por armas de fogo de 10,3 por 100.000 para 12 por 100.000 de 1999 a 2017.",37
+12415out,"Maçã, queijo mussarela, caminhão",19
+12455out,Forrest Gump,7
+12456out,Willian Shakespeare,6
+12476out,Nome comum.,8
+1253inp,Um laptop,6
+125inp,"Los Angeles, Califórnia",10
+12676inp,Carro elétrico,10
+12701inp,Tópico: Mudanças Climáticas,17
+12712out,Sem solução/alternativa,12
+12757out,A frase é uma frase declarativa.,15
+12806inp,O caderno,7
+12897out,Consumir uma maçã diariamente contribui para a boa saúde e reduz a necessidade de ir ao médico.,42
+12999inp,Texto 1: As pétalas de rosa gigantes eram movidas pela brisa levemente. \nTexto 2: As pétalas do girassol balançavam ao vento.,55
+12999out,Texto 1: As pétalas de rosa gigantes eram movidas pela brisa. \nTexto 2: As pétalas do girassol balançavam ao vento.,51
+13018inp,João Smith,7
+13067out,A avaliação é negativa.,13
+13090out,A afirmação é uma afirmação declarativa.,21
+13102out,Ele está pronto para começar a trabalhar.,17
+13112out,Ela está indo para a loja.,13
+1323inp,Golden retriever,7
+13310out,A ligeira raposa marrom saltou sobre o cão preguiçoso.,23
+13534inp,Das Alterações Climáticas,16
+13580inp,"O câncer é o responsável pelos problemas, de John Green",22
+13612inp,João Smith,7
+13625inp,O céu é azul,11
+13625out,O céu é azul.,11
+13653inp,Estados Unidos,9
+13692inp,Alice em um lugar fantástico e imaginário,17
+13952inp,[Sem entrada],9
+13970inp,Acontecimento importante para a história: a crise dos mísseis cubanos,27
+13990inp,das Alterações Climáticas,16
+13992inp,Simulação de inteligência humana por máquinas,21
+139inp,Ela escreveu um livro.,12
+14011inp,(sem entrada),9
+14013inp,(sem entrada),9
+14015inp,(sem entrada),9
+14064inp,Harry Potter e a Pedra Filosofal,14
+14085inp,Meios de comunicação online que permitem a interação entre pessoas,28
+14097inp,um leão que é o rei,13
+14120inp,Simulação de inteligência humana em máquinas,21
+14121inp,Processamento de linguagem natural,12
+14130inp,Computação quântica,13
+14136inp,"Um jovem que protege as crianças, de J. D. Salinger",24
+14162inp,Produto: Smartphone,10
+14244inp,Modelo de aprendizado de máquina,16
+14261inp,Saudação ao planeta Terra,14
+14287inp,Agricultura orgânica,12
+14326out,Prevenir um problema salva nove.,14
+14336inp,A terra é redonda.,11
+14360inp,Este é um dia muito bom!,15
+14522inp,Devemos separar um tempo para apreciar o que nos rodeia.,21
+14523out,Devemos reservar um tempo para apreciar o que nos rodeia.,20
+14561inp,Linguagem de programação: Python,15
+1457out,A capital do Canadá é Ottawa.,11
+14671out,Ele falou alto.,9
+14729inp,Produto A e Produto B,13
+14730inp,Simulação de inteligência humana em máquinas,21
+14731inp,Simulação de inteligência humana por máquinas,21
+14735inp,Exploração espacial,10
+14791out,"atraente, carinhoso, bonito",14
+14830inp,Das Alterações Climáticas,16
+14874inp,Espécies que invadem,11
+14880inp,Apple e Samsung,7
+14882inp,Simulação de inteligência humana por meio de sistemas computacionais,27
+1503inp,12 e 5,7
+15057out,"SELECIONE *FROM Clientes ONDE País=\""EUA\"";",22
+15059out,Eu sou um estudante.,11
+15069inp,Tópico: Mudanças Climáticas,17
+15120out,John foi com ansiedade à loja.,14
+15149inp,y = mx + b,10
+15184out,"imprimir(\""Olá mundo\"")",14
+15332out,Sentimento negativo.,10
+1541inp,Programas: Adobe Photoshop,9
+15473inp,A destruição do Muro de Berlim em 1989,18
+1553out,Esta frase é uma pergunta.,14
+15597inp,Processamento de linguagem humana,13
+15600inp,print(,6
+15600out,Saudação ao planeta Terra,13
+1568out,Sentença interrogativa.,10
+15790inp,Saudação ao mundo,13
+15891inp,Los Angeles,7
+1595out,"Grécia: Atenas, França: Paris, Índia: Nova Deli",24
+15963inp,Eu amo sorvete.,13
+1596out,Buenos dias.,8
+15988inp,iPhone 11 e Google Pixel 4,10
+15995out,Porque eles criam tudo!,14
+16061inp,sem entrada,8
+16062inp,sem entrada,8
+16063inp,sem entrada,8
+16066inp,sem entrada,7
+16067inp,sem entrada,7
+16069inp,sem entrada,8
+16086out,Sentença interrogativa.,11
+16087out,O vendedor demonstrou falta de profissionalismo.,20
+16141out,Sentença declarativa.,10
+16162out,O cachorro latiu.,11
+16283out,Esta é uma frase declarativa.,14
+16301out,Michelle Obama,5
+16528out,Eu li o livro.,10
+16722inp,Profissional especializado em analisar dados,18
+16735inp,Realidade complementada por elementos virtuais,15
+16809inp,Conjunto de árvores geradas de forma aleatória,22
+16880inp,Cidade de Nova York,10
+16934out,"Japão, Índia",11
+16965inp,"Los Angeles, Califórnia",11
+16996inp,A Redenção de Shawshank,13
+17014inp,"Laranja, Maçã, Banana",13
+17015out,Sentimento negativo.,10
+17041out,"imprimir(\""Olá mundo\"")",14
+17061out,Emoção desagradável,13
+17130inp,x + y > 5,9
+17130out,x + y > 5,8
+17181inp,1. Produto da empresa Apple: $ 399\n2.Samsung: $ 499\n3.LG: $ 599,34
+17181out,1. Maçã: $ 399\n2.Samsung: $ 499\n3.LG: $ 599,28
+17296out,O filme foi muito ruim.,14
+17500out,Sentimento positivo.,9
+17615inp,Vincent Van Gogh,9
+17619out,Sentimento positivo.,9
+17678out,Dois e doze,8
+17691inp,Estados Unidos,9
+1779out,O cachorro latiu.,11
+17844inp,Inteligente TV,8
+18010out,"Smith, J. (2020). O futuro da IA. Revista AI, 21(2), 45–50.",28
+1811out,Sentença declarativa.,10
+18130out,Sentimento: Positivo,10
+18172out,Estrutura gramatical onde o sujeito sofre a ação,21
+18237out,O triângulo é um triângulo retângulo.,19
+18335out,"Opostos, contrastantes",9
+18468out,- Maçãs\n- Bananas\n- Laranjas\n- Uvas\n- Morangos,30
+1850out,"Alemanha, França e Reino Unido.",15
+18635inp,AirPods da Apple,9
+18641inp,Toronto e Vancouver,7
+18673inp,João Smith,7
+18715inp,"Japão, Índia",12
+18732inp,"imprimir(\""Olá mundo\"")",15
+18742out,Toronto e Vancouver,6
+18752inp,Corporação ABC,9
+18778inp,O crescimento rápido da inteligência artificial,21
+18779inp,Sustentabilidade ambiental,12
+18970inp,Simulação de inteligência humana em máquinas,21
+18985inp,"Bolsa, sapatos, camisa",14
+18985out,"Bolsa, sapatos, camisa",13
+19044inp,"Laranja, Maçã, Banana",13
+19044out,"Maçã, Banana, Laranja",12
+19109out,Estou cansado.,8
+19127inp,Tema: Amizade,10
+19199out,Harry Potter,5
+19217inp,Ele abriu a porta.,12
+19264inp,Eu amo sorvete.,12
+19303out,Frase imperativa.,9
+1931out,Não há necessidade de sair,13
+19343inp,"Paris, França",8
+1934out,Não é preciso sair,10
+19374inp,João Smith,7
+19436inp,Energia solar,8
+19437inp,Energia solar,8
+19456out,Das Alterações Climáticas.,16
+19498out,Processamento de linguagem humana,12
+19503inp,Visualização de dados,11
+19538inp,O gato perseguiu o rato.,15
+19538out,O rato foi perseguido pelo gato.,17
+19540inp,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",25
+19590inp,"Paris, França",8
+19639inp,"\""Olá Mundo\""",10
+19671out,Olá! Em que posso ser útil?,15
+19711out,O Rei Leão (1994),10
+19748inp,Estou experimentando um alto grau de felicidade.,19
+1ins,Quais são as três cores primárias?,16
+1out,"As três cores primárias são vermelho, azul e amarelo.",24
+20079out,A frase é uma frase declarativa.,15
+20769out,Prevenir um problema no início poupa muito trabalho e esforço posteriormente.,32
+20796out,Bom dia! Tenha um dia muito bom!,18
+207out,"A contração de \""they are\"" é \""they",14
+20911inp,"Prezado professor Smith,",10
+20921inp,um leão que é o rei (ou líder),18
+20923inp,A noite com muitas estrelas,14
+20970inp,Aumento da temperatura média da Terra,17
+20973inp,Simulação de inteligência humana em máquinas,21
+20987inp,3 e 5,7
+21175inp,Gatos e cachorros,11
+21182inp,Ela foi até a loja.,14
+21198out,Este é um exemplo da tarefa.,14
+21208out,Willian Shakespeare,6
+21262inp,Ele foi até a loja.,13
+21583out,Estou muito desejoso para ouvir de você em breve.,23
+21590out,"Computador, Rápido, Pesquisa",15
+21707out,Frase completa.,8
+21762out,"As três cores primárias são vermelho, azul e amarelo.",25
+21863out,"Desculpe, a tarefa requer uma saída visual que não pode ser gerada pelo modelo.",32
+21868out,"Desculpe, a tarefa requer uma saída visual que não pode ser gerada pelo modelo.",32
+21907out,Judy: Cientista\nDavid: Músico\nBob: CEO,22
+21930out,Porque eles criam muitas coisas falsas ou distorcidas!,25
+22155inp,Los Angeles Lakers,7
+22253inp,Saudação ao mundo!,14
+22253out,"print(\""Olá mundo!\"")",13
+22292out,A inclinação da linha é 2.,14
+22399inp,<sem entrada>,9
+22523out,Ele foi à loja comprar mantimentos.,15
+22571out,O sol brilhava intensamente.,13
+22583inp,iPhone 12,6
+22899out,"\""Se na primeira vez você não conseguir, tente mais vezes.\""",27
+23199out,O que tem quatro pernas mas não anda?\nUma cadeira!,24
+23250out,O céu era completamente coberto de estrelas.,19
+23575out,O triângulo é um triângulo que possui um ângulo obtuso (maior que 90 graus).,34
+23583out,"""""""""\nCrie um modelo de aprendizado de máquina para prever o IMC (Índice de Massa Corporal) usando temperatura e altura de pessoas em uma determinada população\n""""""\n\nimportar pandas como pd\nimportar numpy como np\nde sklearn.model_selection importar train_test_split\nde sklearn.linear_model importar LinearRegression\n\n#Carrega os dados\ndados = pd.read_csv(\""temperatura_altura_dados.csv\"")\n\n# Dividir em características (temperatura e altura) e rótulo (IMC)\nX = dados.iloc[:, :2]\ny = dados.iloc[:, 2]\n\n# Dividir em conjuntos de treinamento e teste\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0,2, random_state = 0)\n\n# Treine o modelo\nregressor = LinearRegression()\nregressor.fit(X_train, y_train)\n\n# Fazer previsões\ny_pred = regressor.predict(X_test)\n\n# Avaliar previsões\npontuação = regressor.score(X_test, y_test)\nprint(\""Pontuação R-quadrado:\"", pontuação)""",380
+23676out,A avaliação é negativa.,13
+24062out,Ela está indo para a loja.,14
+24181out,Estou cansado.,8
+24386inp,Tópico: Mudanças Climáticas,17
+24402inp,Gerente de marketing,9
+24435inp,John Doe,6
+24444inp,A Internet,6
+24470inp,Processamento de dados para a construção de modelos preditivos,23
+24472inp,Processamento de linguagem humana,13
+24495out,Ele era extremamente corajoso.,12
+24563out,Processos computacionais que permitem que os computadores aprendam com os dados sem serem explicitamente programados,31
+24590inp,Maria Curie,7
+24626out,Sentimento negativo,9
+24694out,Esta afirmação é uma opinião.,17
+24848out,Esta é uma frase declarativa.,14
+2504inp,"Berlim, Alemanha",10
+25143inp,Processamento de informações por algoritmos,19
+25319out,2 e 12,6
+25404inp,Filme que mistura elementos de comédia e romance,18
+25424inp,Apple AirPods Pro,9
+25480inp,Elevação do nível do mar,15
+25534out,"console.log(\""Olá Mundo!\"");",15
+25537inp,O cachorro perseguiu o gato.,17
+25543out,Sentença interrogativa.,10
+25584inp,Ele correu rapidamente.,12
+25620inp,Das Alterações Climáticas,16
+2574out,"Olá, como vai?",11
+25821out,Emoção desagradável,12
+25934out,Sinto muito pelo que você me contou. Há algo que eu possa fazer para ajudar?,33
+26041out,O sentimento da frase é positivo.,13
+2604out,A Mona Lisa de Leonardo da Vinci.,13
+26050out,Estou experienciando um alto grau de felicidade.,19
+26162inp,Visualização de dados,11
+26233inp,Categoria: Ficção Científica,17
+26234inp,Número: 8,10
+26259inp,O homem correu rapidamente.,14
+26289out,"Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno",30
+26315out,Sentença declarativa.,10
+26637inp,Engenheiro de software,10
+26794out,Sentimento positivo,8
+26855out,"Maçã, Banana, Uvas",11
+26862out,Qual é a capital da França?,12
+26938out,Sentimento negativo.,10
+27005out,Sentença declarativa.,10
+27121out,"Nome usual, nome popular.",11
+27154out,"maçã, banana, laranja",12
+27174out,O sentimento da frase é positivo.,13
+27353out,"Que possui muitos recursos financeiros - Que causa nojo, aversão",25
+27368inp,O gato sentou-se no tapete.,15
+27422out,"Minha cor favorita é (A) vermelho, (B) roxo, (C) amarelo.",30
+27425out,"Moro nos Estados Unidos da América, mas vim do Canadá.",22
+27441out,Sentimento positivo,8
+27444out,Uma mulher com pele muito clara,15
+2750inp,João Smith,7
+27510inp,Donald Trump,6
+27513inp,Inteligência Artificial na área da saúde,18
+2753out,Ele foi até a loja.,12
+27737inp,O cachorro perseguiu o gato.,17
+27737out,O gato foi perseguido pelo cachorro.,19
+2781out,"""""""""\nEncontre o palíndromo mais longo em uma determinada string\n""""""\n\ndef find_longest_palindrome(s):\n\t# Inicializa o resultado \n\tcomprimento_máx = 1\t \n\t\n\t# Inicializa o índice inicial e final\n\tinício, fim = 0, 0\n\t\n\t# Itera sobre a string de entrada\n\tpara i no intervalo(1, len(s)):\n\t\t\t\t\n\t\t# Encontre o palíndromo de comprimento par mais longo\n\t\tbaixo, alto = i-1, eu \n\t\tenquanto baixo >= 0 e alto < len(s) e s[low] == s[high]:\n\t\t\tse alto - baixo + 1 > max_length:\n\t\t\t\tinício = baixo \n\t\t\t\tfim = alto \n\t\t\t\tmax_length = alto - baixo + 1 \n\t\t\tbaixo -= 1\n\t\t\talto += 1\n\t\t# Encontre o palíndromo de comprimento ímpar mais longo\n\t\tbaixo, alto = i-1, i+1 \n\t\tenquanto baixo >= 0 e alto < len(s) e s[low] == s[high]: \n\t\t\tse alto - baixo + 1 > max_length:\n\t\t\t\tinício = baixo \n\t\t\t\tfim = alto \n\t\t\t\tmax_length = alto - baixo + 1 \n\t\t\tbaixo -= 1\n\t\t\talto += 1\n\t\n\t#resultado retornado\n\tretornar s[início:fim+1]\n\t\nse __nome__ == \""__principal__\"":\n\ts = ""babad""\n\tprint(""O palíndromo mais longo é: "", end="""")\n\timprimir (encontrar_palíndromo mais longo(s))""",610
+27853inp,São Francisco,7
+2786out,A capital do Canadá é Ottawa.,11
+27916inp,1 quilômetro,10
+27962out,Esta frase é uma pergunta.,15
+28091inp,Donald Trump,6
+28118inp,Apple e Samsung,7
+28171inp,Estados Unidos,9
+2828inp,4 centímetros,9
+28624inp,"Alex estava estudando há semanas para sua grande prova de matemática. Ele estava nervoso, mas se sentia confiante de que conseguiria. Quando o teste começou, ele ficou cada vez mais ansioso. Ele começou a duvidar de si mesmo e ficou cada vez mais confuso à medida que avançava. Ele acreditava fortemente que não obteria um bom resultado, mas continuou tentando.",130
+28625inp,"Alex estava estudando há semanas para sua grande prova de matemática. Ele estava nervoso, mas se sentia confiante de que conseguiria. Quando o teste começou, ele ficou cada vez mais ansioso. Ele começou a duvidar de si mesmo e ficou cada vez mais confuso à medida que avançava. Ele acreditava que não iria obter um bom resultado, mas continuou tentando.",128
+2871inp,Alice em um lugar fantástico e irreal,16
+28795inp,O padrinho,8
+28912inp,"TV a cabo: $ 49,95, Modem a cabo: $ 25,49, Cabo HDMI: $ 17,99",33
+28912out,"TV a cabo: $ 49,95, Modem a cabo: $ 25,49, Cabo HDMI: $ 17,99",32
+28955out,Esta é uma frase declarativa.,14
+29142inp,Harry Potter e a Pedra Filosofal de J.K. Rowling,20
+29161out,A rápida raposa marrom salta sobre o cachorro preguiçoso.,26
+29175out,Ela está indo para a loja.,13
+29296out,Eu vou para a loja.,11
+292inp,"""""A educação é fundamental para o sucesso.""""",17
+29591out,"Verso 1:\nToda noite eu fico acordado\nE conte as estrelas no céu\nEsperando que algum dia eu te encontre\nE descubra por que me sinto tão vivo\n\nCoro:\nO tempo continua passando\nMas minha saudade não morre\nUm amor tão forte, tão difícil de encontrar\nEstou procurando por você o tempo todo\n\nVersículo 2:\nE quando estou perdido no escuro\nMeus pensamentos se voltam para o nosso passado\nSua beleza, comparável à beleza do sol da manhã\nSeu toque gentil, meu único\n\nCoro:\nO tempo continua passando\nMas minha saudade não morre\nUm amor tão forte, tão difícil de encontrar\nEstou procurando por você o tempo todo\n\nPonte:\nE quando o sol se põe no oeste\nE as estrelas entram para ver\nVou fechar meus olhos, sonhar com você\nE o amor que parece tão verdadeiro\n\nCoro:\nO tempo continua passando\nMas minha saudade não morre\nUm amor tão forte, tão difícil de encontrar\nEstou procurando por você o tempo todo",382
+29647inp,Sequóia,7
+296inp,O padrinho,7
+29720inp,Quais são os benefícios de aprender uma língua estrangeira?,26
+29772inp,Processamento de informações por algoritmos,19
+29807out,Ele foi à loja comprar mantimentos.,15
+29942inp,4 centímetros,9
+29942out,O volume do cubo é 64 cm3.,13
+30033out,Nelson Mandela,6
+30034out,Tom Cruise,5
+30063out,Qual é a cor do céu?,12
+30097inp,Conhecimento e aplicação de métodos científicos para extrair conhecimento a partir de dados,40
+30122inp,João Smith,7
+30146inp,França e Alemanha,10
+30173out,Sentença declarativa.,10
+30216inp,A influência da tecnologia na educação,19
+30292inp,Tópico: Mudanças Climáticas,17
+30300inp,Categoria: Ficção Científica,17
+30309out,William Shakespeare,5
+30339inp,Barack Obama,7
+30366out,"""""O sucesso não é permanente, o fracasso não é irreversível: o que conta é a coragem de continuar."" - Winston Churchill""",43
+30367out,Vicente Van Gogh,9
+304out,Estou cansado.,7
+30642inp,"print(\""Olá mundo!\"")",14
+306out,"<sem solução, sem alternativas>",14
+30768out,<html>\n<cabeçalho>\n</cabeçalho>\n<corpo>\n</corpo>\n</html>,41
+30817inp,Produto A e Produto B,13
+3091inp,Esta é uma frase de exemplo.,15
+30958inp,Nova Iorque,9
+30959inp,Sustentabilidade ambiental,12
+31162inp,Nova Iorque,9
+31284out,"“O sucesso não é permanente, o fracasso não é irreversível: é a coragem de continuar que conta.” -Winston Churchill",45
+31299inp,Simulação de inteligência humana em máquinas,21
+31301inp,Computação através da internet,14
+31398out,sem solução ou alternativa,13
+31426out,SELECT * FROM nome_tabela;,12
+31475out,"""""Precisamos descobrir uma maneira de resolver esse problema"", disse John.\n\n""Vai ser difícil"", respondeu Sarah. ""É uma questão complexa e teremos que examinar todos os aspectos para chegar a uma solução.""\n\n""Bem, vamos começar dividindo o problema em partes menores e analisando cada uma delas separadamente"", sugeriu John.\n\n""Boa ideia"", concordou Sarah. ""Podemos então olhar para os componentes individuais e encontrar soluções para cada um deles."""", }, { """,173
+31524inp,Tesla Modelo 3,8
+31527out,A rápida raposa marrom salta sobre o cachorro preguiçoso,25
+31627inp,Qual é o pico mais alto do mundo?,17
+316inp,John correu rapidamente para a loja.,15
+31705inp,f(x) = x^2,12
+31711out,Ele abriu a porta.,11
+31724out,Alan Turing,5
+31743inp,Profissional especializado em analisar dados para extrair conhecimento e insights.,29
+31773inp,"O Câncer é o responsável pelos problemas, de John Green",22
+31822out,Hoje é sexta-feira.,14
+3202inp,f(x) = x^2,12
+32219inp,O conflito entre os EUA e a URSS em Cuba envolvendo mísseis,27
+32236out,Sentimento positivo.,9
+32260inp,Alguém que protege a inocência,16
+32285out,O esquema de rima do poema é AABB.,18
+32405out,Por que a galinha atravessou o parquinho? Para alcançar o outro escorregador!,33
+3245inp,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",25
+32562inp,Uma disputa pelo poder entre famílias nobres,21
+32575inp,4 centímetros,9
+32588out,Esta é uma questão.,11
+32645out,Bom dia! Tenha um dia muito bom!,18
+32646out,Esta noite irei dar um passeio no parque.,19
+32728inp,"""""Aprendizado de máquina é uma área da inteligência artificial que se concentra no desenvolvimento de algoritmos e sistemas que podem aprender e fazer previsões a partir de dados. Ele tem o potencial de revolucionar uma ampla variedade de indústrias, de diagnósticos médicos a carros autônomos. Tecnologias como aprendizado profundo e redes neurais aumentaram drasticamente as capacidades do aprendizado de máquina, e o campo está se expandindo rapidamente. O aprendizado de máquina continuará sendo um dos principais motores da inovação tecnológica nos próximos anos.""""",203
+32734inp,Das Alterações Climáticas,16
+32783out,Prevenir um problema no início evita problemas maiores posteriormente.,25
+32784inp,<sem entrada>.,9
+32940inp,Um laptop,6
+32960inp,Animais de estimação muito diferentes,19
+32961inp,O cão está latindo.,13
+32997inp,Saudação ao mundo!,14
+32997out,"console.log(\""Olá mundo!\"");",15
+33032out,A rápida raposa marrom salta sobre o cachorro preguiçoso.,26
+33062inp,Estou com muito entusiasmo!,15
+33137out,"""""""""\nCriar um classificador Random Forest para prever o sentimento de uma determinada frase\n""""""\n\nfrom sklearn.ensemble import RandomForestClassifier\nimport numpy as np \n\n# criar a entrada para o classificador: \nsentence = np.array([[1,0,0,0,1]]) # representar a frase como um vetor de uns e zeros, sendo 1 positivo e 0 negativo \n\n# definir o rótulo \nlabel = np.array([1]) # 1 positivo e 0 negativo \n\n# criar e treinar o classificador Random Forest \nclf = RandomForestClassifier() \nclf.fit(sentence, label) \n\n#testar o classificador \ntest_sentence = \""A comida aqui é realmente incrível.\""\ntest_sentence_vector = np.array([[1,0,0,0,1]]) \nprediction = clf.predict(test_sentence_vector) \n\n# saída da previsão de sentimento \nprint(prediction) # saída: 1 (classificação de sentimento como positivo)""",308
+33140out,"""""""""\nDivida 887 por 3 usando Python\n""""""\n\nresultado = 887/3\nimprimir (resultado) # Saída: 295.6666666666667""",51
+33199inp,Processos computacionais que permitem que os computadores aprendam sem serem explicitamente programados,28
+3330inp,Cidade de Nova York,10
+33368inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33369inp,O novo smartwatch da Apple vem com um período de seis meses com acesso sem custo adicional ao serviço de streaming Apple Watch Music.,45
+33370inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33371inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+33372inp,O novo smartwatch da Apple vem com seis meses de acesso gratuito ao serviço de streaming Apple Watch Music.,37
+3346out,A capital da Índia é Nova Delhi.,14
+33472out,"""""Google e Apple se unem para revelar aplicativo extremamente inovador"""" }, { """,28
+33594out,Está chovendo muito.,12
+33639inp,Barack Obama,7
+33643inp,O artigo pode ser acessado aqui: [URL do artigo],22
+33883out,1. Barraca\n2. Saco de dormir\n3. Lanterna\n4. Fogão de acampamento\n5. Fósforos,43
+3390inp,A vida é com muitos eventos inesperados.,19
+3402out,Sentimento negativo.,10
+34094out,Sentimento positivo,8
+34385out,"Roxo, azul, amarelo, vermelho",17
+3439inp,O gato sentou-se no tapete.,15
+3439out,Sentença declarativa.,10
+34425out,"Misture os ingredientes, pré-aqueça o forno, asse o bolo, decore o bolo",29
+34587out,"print(\""Olá mundo!\"")",13
+34708inp,Carvalho,7
+34712inp,El fenómeno climático cíclico,18
+34755out,O cachorro latiu.,11
+34792out,O filme de animação chamado O Rei Leão (1994),21
+34846inp,Grande Canyon,7
+34980inp,Meios de comunicação social,13
+3501out,Sentimento positivo.,9
+35058inp,Toyota Camry,8
+35076out,Ela comeu uma maçã.,13
+35117out,<nooutput> – Os visuais não podem ser criados por um modelo de linguagem.,29
+35123out,<nooutput> – Os visuais não podem ser criados por um modelo de linguagem.,29
+35154inp,Simulação de inteligência humana em máquinas,21
+35160inp,O impacto das mídias sociais na saúde mental,21
+35336out,Triângulo retângulo.,12
+3536out,A área do triângulo é 6 cm^2.,18
+3545out,Ela escreveu um livro.,12
+3546inp,Aplicativo de entrega de supermercado,18
+35472out,Hoje é sexta-feira.,14
+35482out,y = mx + b,9
+35535out,"cedro, beija-flor, onça, carvalho",18
+35544out,Sentimento positivo,8
+35785out,"Olá, como vai?",11
+3598inp,João Smith,7
+36176out,A raiz quadrada de 64 é 8.,14
+36582out,A rápida raposa marrom salta sobre o cachorro preguiçoso,25
+36757out,Frase imperativa.,9
+36855inp,Exploração espacial,10
+36862out,Lamento o ocorrido. Há algo que eu possa fazer para ajudar?,29
+36932inp,Um smartphone,6
+36941out,Ele/Ela está indo para a loja.,15
+37016out,sem solução/ sem alternativa/ sem escapatória,20
+37117out,Sentença interrogativa.,10
+37277inp,"Computação remota, acessível pela internet",19
+37290out,Sentimento positivo.,9
+37390inp,das Alterações Climáticas,16
+37431out,O rato foi perseguido pelo gato.,17
+37462out,Ele está indo para a loja.,12
+37522inp,Computação através da internet,14
+37570inp,Os benefícios de comer alimentos orgânicos,19
+37614out,O sentimento da frase é negativo.,14
+37671out,"imprimir(\""Olá mundo\"")",14
+37878out,João – Editor de Vídeo \nTina – Gerente de Mídias Sociais\nAlice – Desenvolvedora Web,37
+37982out,A capital da Índia é Nova Déli.,17
+38043out,Esta é uma frase declarativa.,14
+38052out,"Olá, como vai?",11
+38072out,Eu fui à loja.,11
+38075out,Eu fui à loja.,11
+38252out,iPhone 11.,6
+38432inp,João foi até a loja.,14
+38432out,John foi com ansiedade à loja.,14
+38507out,Lamento o ocorrido. Há algo que eu possa fazer para ajudar?,28
+3867out,Agir preventivamente resolve muitos problemas futuros.,19
+38744inp,Realidade que adiciona informações virtuais à realidade existente,26
+38872inp,Cidade de Nova York,10
+38895ins,Crie um GIF que se repete continuamente de um gato correndo.,22
+38895out,Crie um GIF que se repete continuamente de um gato correndo.,22
+38909inp,Inteligência Artificial e Aprendizado de Máquina,21
+38920out,A área do triângulo é 6 cm^2.,18
+38921inp,3 e 7,7
+38966inp,Nome: Emma Smith\nGênero: Filme de ação\nFilme Favorito: O Cavaleiro das Trevas,37
+38972inp,Visualização de dados,11
+38973inp,Os benefícios de comer alimentos orgânicos,19
+38984inp,"Alguém que cuida das crianças que estão caindo, de J. D. Salinger",32
+39004inp,Agrupamento K-Means,12
+39028out,Eu sou seu estudante.,12
+39086inp,"WASHINGTON (CNN) – Uma corrida presidencial aberta e a vontade dos candidatos, grupos de interesse, sindicatos e empresas de comprarem tempo de televisão conduzirão a gastos muito elevados em publicidade política e de defesa de questões no ciclo eleitoral de 2008, mostra uma análise.",103
+39095inp,A capital da França é Paris.,13
+39095out,Qual é a capital da França?,12
+39114out,Sentimento negativo.,10
+39179out,Al + O2 → Al2O3,12
+39199inp,Inteligência Artificial na área da saúde,18
+39272inp,< sem entrada >,9
+39273inp,<sem entrada>,9
+39274inp,<sem entrada>,9
+39276inp,<sem entrada>,9
+39339inp,Realidade suplementada ou acrescida de elementos virtuais,21
+39358inp,iPhone 11,6
+39382inp,Gerente de marketing,9
+39437out,<html>\n  <cabeça>\n  </head>\n  <corpo>\n  </body>\n</html>,38
+39491out,"sem solução, sem alternativa, sem possibilidade de sucesso",24
+39509out,Falso. O sol nasce no leste.,14
+39534inp,Energia solar,8
+39636inp,Tecnologia de reconhecimento de voz,18
+39638inp,"Berlim, Alemanha",10
+39667inp,Programas: Adobe Photoshop,9
+39935inp,O crescimento rápido da inteligência artificial,21
+40027inp,"Maçã, laranja, banana",13
+40147out,Falso. O sol nasce no leste.,14
+40259out,Sentença declarativa.,10
+40290out,Esta frase descreve uma ação.,15
+40298inp,"nan}] json [ { """,11
+40355inp,O Regresso,7
+40458out,Esta é uma questão.,11
+40489inp,A Ronda Noturna de Rembrandt,14
+40507inp,Produto A e Produto B,13
+40557inp,<sem entrada>,9
+40575inp,A pessoa que exerce a função de padrinho,20
+40612out,Olá! Como posso ajudá-lo?,16
+40649inp,das Alterações Climáticas,16
+40656inp,iPhone 12,6
+40756inp,Tópico: Exploração Espacial,15
+40768out,Pode me ajudar?,10
+40781inp,Simulação de inteligência humana em máquinas,21
+40869inp,Arábia Saudita,9
+40915out,Esta é uma frase declarativa.,14
+40920inp,iPhone 11,6
+40947inp,Grande Canyon,7
+41123inp,"123 Main Street, Anytown, EUA",13
+41185inp,Apple Inc.,7
+41216out,Ele foi rapidamente para a loja.,14
+41291out,Sentença interrogativa.,10
+4134inp,"Princípio - Uma verdade, teoria ou regra básica\n\nAxioma – Uma verdade evidente\n\nTeorema - Uma afirmação ou proposição que é provada ou demonstrada",68
+4134out,"Princípio - Uma verdade, teoria ou regra básica\n\nAxioma – Uma verdade evidente\n\nTeorema - Uma afirmação ou proposição que é provada ou demonstrada",67
+4135inp,Computação através da internet ou de servidores remotos,22
+41405out,"As Vinhas da Ira, Para Matar um Mockingbird, Homem Invisível, 1984",27
+4153out,A inclinação da linha é 2.,14
+41589out,Taylor Swift,5
+41605out,Sentimento positivo.,9
+41733out,"""""""""\nCrie um modelo computacional Multilayer Perceptron (MLP) com três entradas e uma saída.\n""""""\n\nimportar Keras\nde importação sequencial de keras.models\nde keras.layers importar Denso\n\n#define o modelo\nmodelo = Sequencial()\nmodel.add(Dense(12, input_dim=3, ativação=\""relu\""))\nmodel.add(Dense(1, ativação=\""sigmóide\""))\n\n#compila o modelo\nmodel.compile(loss=\""binary_crossentropy\"", otimizador=\""adam\"", métricas=[\""accuracy\""])\n\n# resumir o modelo\nmodelo.resumo()""",206
+41772out,Decidi dar uma caminhada porque o tempo estava agradável.,24
+4177inp,João Smith,7
+4180out,"As cores do arco-íris são vermelho, laranja, amarelo, verde, azul, índigo e violeta.",39
+41842out,Frase imperativa.,9
+41903out,A área do retângulo é 50 cm2.,17
+41998inp,João Smith,7
+42290inp,"O conteúdo da página da web inclui textos, imagens e vídeos.",29
+42292inp,"O conteúdo da página da web inclui textos, imagens e vídeos.",29
+42372inp,Eu vou para a loja.,12
+42372out,Ele/Ela está indo para a loja.,15
+42418out,Estados Unidos,8
+42448out,Ele está indo para a loja.,12
+42534out,Por que os cientistas não confiam nos átomos? Porque eles formam todas as coisas!,34
+42562out,Agência de Inteligência Central,14
+42582inp,Eu vou para a loja.,12
+42582out,Eu irei até a loja.,13
+42817out,Sentença declarativa,9
+42955out,"Como você chama um urso sem dentes? um doce, normalmente feito de gelatina, com formato de urso!",37
+43086out,Mãe - Enfermeira \nPai - Professor \nIrmã - Estudante,26
+43133out,O sentimento da frase é positivo.,13
+43297inp,Esta é uma frase aleatória.,16
+43375out,Sentença declarativa,9
+43377inp,Este é um exemplo de frase.,14
+4342out,"\""A economia de um centavo equivale a um centavo recebido.\""",25
+43524out,Esta é uma maneira eficiente de fazer isso.,21
+43558out,Uma pessoa que muda muito de emprego ou situação não acumula bens ou estabilidade.,38
+43595out,Compare esses dois itens.,11
+43728out,João Smith,6
+43773inp,Desenvolvedor de software,10
+43788out,Qual é o pico mais alto do mundo?,16
+43799inp,Tom Cruise,6
+43916out,Buenos dias.,8
+44007inp,Maria Curie,7
+44053inp,Albert Einstein,6
+44193inp,Maria Curie,7
+44202out,Taylor Swift,5
+44210out,y = mx + b,9
+44315inp,Retriever Dourado,10
+44335out,Sentimento negativo.,10
+44344inp,Alice e Bob,7
+44350inp,Das Alterações Climáticas.,17
+44384out,A rápida raposa marrom salta sobre o cachorro preguiçoso.,26
+44510out,Sentimento positivo.,9
+44528out,"Esta é uma cidade pequena, pacífica e bonita.",23
+44573inp,Esta é uma frase de exemplo.,15
+44588inp,Harry Potter e a Pedra Filosofal,14
+44591out,P: Qual foi a reação do peixe ao colidir com a parede?\nR: Droga!,36
+44622inp,Coisas diferentes e incompatíveis,17
+44630out,"imprimir(\""Olá mundo\"")",14
+44662inp,Produto: Apple iPhone 12,11
+4472out,Algo que tem aspectos bons e ruins; algo que apresenta características opostas.,29
+44752inp,Eu sou um estudante.,12
+44952inp,Carvalho,7
+45152out,Qual é a capital da França?,11
+45553out,"Itália, França, Alemanha, Espanha, Polónia",21
+45708out,Ela foi até a loja.,13
+45721out,"Monalisa, de Leonardo da Vinci, apresenta uma mulher serena com um sorriso que instiga a interpretação e demonstra sabedoria que cativou gerações de amantes da arte.",58
+45737out,Uma pessoa que muda muito de atividade ou lugar não consegue se estabelecer e construir algo duradouro.,42
+45745inp,<sem entrada>,9
+45818out,"Console.WriteLine(\""Olá Mundo\"");",15
+46064inp,"Resumo: O ajuste fino de prompts contínuos para tarefas alvo emergiu recentemente como uma alternativa compacta ao ajuste fino completo do modelo. Motivados por esses resultados promissores, investigamos a viabilidade de extrair uma interpretação discreta (textual) de prompts contínuos que seja fiel ao problema que eles resolvem. Na prática, observamos um comportamento imprevisível entre a tarefa resolvida por prompts contínuos e suas projeções discretas vizinhas mais próximas: podemos encontrar prompts contínuos que resolvem uma tarefa enquanto são projetados para um texto arbitrário (por exemplo, definição de um texto diferente ou mesmo um tarefa contraditória), estando dentro de uma margem muito pequena (2%) do melhor prompt contínuo do mesmo tamanho para a tarefa. Fornecemos intuições por trás desse comportamento estranho e surpreendente, bem como extensas análises empíricas que quantificam o efeito de vários parâmetros. Por exemplo, para modelos maiores, observamos maior desobediência, ou seja, podemos encontrar prompts que mapeiam mais de perto qualquer texto arbitrário com uma queda menor na precisão. Estas descobertas têm implicações importantes relacionadas com a dificuldade de interpretar fielmente prompts contínuos e sua generalização entre modelos e tarefas, fornecendo orientação para progressos futuros em modelos de linguagem de prompts.",475
+46065inp,"Resumo: O ajuste fino de prompts contínuos para tarefas alvo emergiu recentemente como uma alternativa compacta ao ajuste fino completo do modelo. Motivados por esses resultados promissores, investigamos a viabilidade de extrair uma interpretação discreta (textual) de prompts contínuos que seja fiel ao problema que eles resolvem. Na prática, observamos um comportamento imprevisível ou inconsistente entre a tarefa resolvida por prompts contínuos e suas projeções discretas vizinhas mais próximas: podemos encontrar prompts contínuos que resolvem uma tarefa enquanto são projetados para um texto arbitrário (por exemplo, definição de um texto diferente ou mesmo um tarefa contraditória), estando dentro de uma margem muito pequena (2%) do melhor prompt contínuo do mesmo tamanho para a tarefa. Fornecemos intuições por trás desse comportamento estranho e surpreendente, bem como extensas análises empíricas que quantificam o efeito de vários parâmetros. Por exemplo, para modelos maiores, observamos maior desobediência, ou seja, podemos encontrar prompts que mapeiam mais de perto qualquer texto arbitrário com uma queda menor na precisão. Estas descobertas têm implicações importantes relacionadas com a dificuldade de interpretar fielmente prompts contínuos e sua generalização entre modelos e tarefas, fornecendo orientação para progressos futuros em modelos de linguagem de prompts.",479
+46069inp,"null }, { """,8
+46071inp,"null }, { """,8
+46072inp,"null }, { """,8
+46073inp,"null }, { """,8
+46075inp,"null }, { """,8
+46078inp,"null }, { """,8
+46079inp,"null }, { """,8
+46080inp,"null }, { """,8
+46081inp,"null }, { """,8
+46082inp,"null }, { """,8
+46085inp,"null }, { """,8
+46087inp,"null }, { """,8
+46089inp,"null }, { """,8
+46090inp,"null }, { """,8
+46091inp,"null }, { """,8
+46092inp,"null }, { """,8
+46093inp,"null }, { """,8
+46094inp,"null }, { """,8
+46096inp,"null }, { """,8
+46097inp,"null }, { """,8
+46098inp,"null }, { """,8
+46099inp,"null }, { """,8
+46101inp,"null }, { """,8
+46103inp,"null }, { """,8
+46104inp,"null }, { """,8
+46111inp,"null }, { """,8
+46113inp,"null }, { """,8
+46114inp,"null }, { """,8
+46115inp,"null }, { """,8
+46117inp,"null }, { """,8
+46118inp,"null }, { """,8
+46120inp,"null }, { """,8
+46121inp,"null }, { """,8
+46122inp,"null }, { """,8
+46123inp,"null }, { """,8
+46124inp,"null }, { """,8
+46125inp,"null }, { """,8
+46126inp,"null }, { """,8
+46127inp,"null }, { """,8
+46128inp,"null }, { """,8
+46129inp,"null }, { """,8
+46130inp,"null }, { """,8
+46133inp,"null }, { """,8
+46138inp,"null }, { """,8
+46139inp,"null }, { """,8
+46142inp,"null }, { """,8
+46142out,"imprimir(\""Olá mundo\"")",14
+46145inp,"null }, { """,8
+46146inp,"null }, { """,8
+46147inp,"null }, { """,8
+46148inp,"null }, { """,8
+46149inp,"null }, { """,8
+46150inp,"null }, { """,8
+46153inp,"null }, { """,8
+46154inp,"null }, { """,8
+46155inp,"null }, { """,8
+46156inp,"null }, { """,8
+46157inp,"null }, { """,8
+46158inp,"null }, { """,8
+46159inp,"null }, { """,8
+46160inp,"null }, { """,8
+46168inp,"null }, { """,8
+46169inp,"null }, { """,8
+46170inp,"null }, { """,8
+46171inp,"null }, { """,8
+46173inp,"null }, { """,8
+46174inp,"null }, { """,8
+46175inp,"null }, { """,8
+46176inp,"null }, { """,8
+46177inp,"null }, { """,8
+46178inp,"null }, { """,8
+46180inp,"null }, { """,8
+46181inp,"null }, { """,8
+46182inp,"null }, { """,8
+46183inp,"null }, { """,8
+46184inp,"null }, { """,8
+46186inp,"null }, { """,8
+46189inp,"null }, { """,8
+46190inp,"null }, { """,8
+46191inp,"null }, { """,8
+46192inp,"null }, { """,8
+46193inp,"null }, { """,8
+46194inp,"null }, { """,8
+46195inp,"null }, { """,8
+46196inp,"null }, { """,8
+46198inp,"null }, { """,8
+46200inp,"null }, { """,8
+46201inp,"null }, { """,8
+46202inp,"null }, { """,8
+46203inp,"null }, { """,8
+46204inp,"null }, { """,8
+46205inp,"null }, { """,8
+46214inp,"null }, { """,8
+46216inp,"null }, { """,8
+46219inp,"null }, { """,8
+46220inp,"null }, { """,8
+46221inp,"null }, { """,8
+46222inp,"null }, { """,8
+46223inp,"null }, { """,8
+46224inp,"null }, { """,8
+46225inp,"null }, { """,8
+46227inp,"null }, { """,8
+46228inp,"null }, { """,8
+46229inp,"null }, { """,8
+46230inp,"null }, { """,8
+46232inp,"null }, { """,8
+46233inp,"null }, { """,8
+46239inp,"null }, { """,8
+46240inp,"null }, { """,8
+46241inp,"null }, { """,8
+46243inp,"null }, { """,8
+46244inp,"null }, { """,8
+46245inp,"null }, { """,8
+46246inp,"null }, { """,8
+46247inp,"null }, { """,8
+46248inp,"null }, { """,8
+46250inp,"null }, { """,8
+46251inp,"null }, { """,8
+46252inp,"null }, { """,8
+46253inp,"null }, { """,8
+46254inp,"null }, { """,8
+46255inp,"null }, { """,8
+46260inp,"null }, { """,8
+46262inp,"null }, { """,8
+46263inp,"null }, { """,8
+46264inp,"null }, { """,8
+46265inp,"null }, { """,8
+46268inp,"null }, { """,8
+46269inp,"null }, { """,8
+46270inp,"null }, { """,8
+46271inp,"null }, { """,8
+46273inp,O homem correu com muita velocidade.,19
+46391inp,Computação quântica,13
+46561inp,Simulação de inteligência humana por meio de máquinas,24
+46604out,Ele estava andando até a loja.,14
+46610inp,Aumento da temperatura média da Terra,17
+46626inp,O famoso Gatsby,10
+46768inp,Esta é uma frase aleatória.,16
+46779out,A ligeira raposa marrom saltou sobre o cão preguiçoso.,23
+46821inp,Animais de espécies diferentes que geralmente não se dão bem,27
+46840inp,"""""A Noite Estrelada"" (Vincent van Gogh) e ""A Noite Antes do Circo"" (Vik Muniz)""",36
+46843inp,Alice e Bob,7
+46874inp,Carros elétricos,10
+46934inp,O famoso Gatsby,10
+4699out,Sentença interrogativa.,10
+47066out,Eu sou um estudante.,11
+47130inp,Nova Iorque,9
+47210inp,Gerente de marketing,9
+47382inp,O artigo pode ser acessado através deste endereço eletrônico,28
+47430out,O sentimento da frase é negativo.,14
+47456out,O gato sentou-se no tapete.,14
+47500inp,sapatos fabricados pela Nike,12
+47501inp,Realidade suplementada por elementos virtuais,16
+47591out,Eu quero ir a loja.,12
+47614out,Nenhum preconceito foi detectado.,14
+47727inp,Tesla Modelo 3,8
+47750out,Esta frase é uma afirmação.,16
+47892out,Foi um belo dia.,12
+48209out,Triângulo retângulo.,12
+48215out,A porta foi aberta por ele.,14
+48362inp,Ele abriu a porta.,12
+48467inp,João Smith,7
+48468inp,Cidade de Nova York,10
+48528inp,Torta de maçã,11
+48633inp,Simulação de inteligência humana em máquinas,21
+48690inp,Simulação de inteligência humana em máquinas,21
+48691inp,Corporação ABC,9
+48762out,"\""A educação é essencial para alcançar o sucesso.\""",24
+48778inp,Objeto 1: Maçã\nObjeto 2: Laranja,20
+48823inp,5 e 8,7
+49019out,Nenhum viés desse tipo foi detectado.,17
+49049out,Sentença declarativa.,10
+4912out,Sentença declarativa,9
+4913out,Frase completa.,8
+49162out,"Console.WriteLine(\""Olá Mundo\"");",15
+49203out,Ela está indo para a loja.,13
+49306out,Sentimento negativo.,10
+4933inp,Harry Potter e a Pedra Filosofal,14
+49378out,Ela fez aquilo.,10
+4942out,Albert Einstein,5
+49485inp,Das Alterações Climáticas,16
+49524inp,Vingadores Ultimato,11
+49573out,"""""A solidão expressa a dor de estar sozinho e a solitude expressa o prazer de estar sozinho."" ― Paul Tillich""",39
+49740inp,Qual é a capital da França?,12
+49740out,A capital da França é Paris.,11
+49777out,sem solução ou alternativa,13
+49780out,"sem solução, sem alternativa, sem possibilidade de escape",22
+49781out,Sem solução/ sem alternativa/ sem escapatória,20
+49783out,Sem solução ou alternativa,13
+49784out,sem solução/ sem alternativa/ sem opção,18
+49824out,Estou muito desejoso para ouvir de você em breve.,23
+49836inp,"123 Main Street, Anytown, EUA",13
+49932out,"Paris, França",7
+49933out,"Berlim, Alemanha",9
+50120out,SELECT * FROM nome_tabela;,12
+50162inp,Esta é uma frase de exemplo.,15
+50163inp,Donald Trump foi processado formalmente em 18 de dezembro de 2019.,23
+50164inp,Donald Trump foi processado formalmente em 18 de dezembro de 2019.,23
+50223inp,"Maçã, Laranja, Banana",13
+5025inp,Produto: Smartphone,10
+50341out,"(1) “É um ótimo dia”, disse ele. (2) \""Com certeza\"", ela concordou, aproveitando o sol brilhante. (3) Ele sentiu o calor do sol no rosto e sorriu, pensando em todas as possibilidades.",82
+50344inp,Los Angeles,6
+5035out,print(,5
+5041out,Hello World,5
+50421inp,"Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno",31
+50421out,"Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano, Netuno",30
+50425inp,Este é um exemplo de frase.,14
+50436inp,Desejo a você um dia agradável,17
+50554inp,Apple AirPods Pro,9
+50589inp,Cidade de Nova York,10
+50628inp,Torta de maçã,11
+50687inp,Produto: Smartphone,10
+50747inp,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",25
+50752out,Ele correu para a loja.,12
+50774inp,"Maçã, Banana, Uvas",12
+50808inp,"imprimir(\""Olá mundo\"")",15
+50829out,A menina pintou com pincel à tarde.,16
+50848out,Sentimento negativo.,10
+50916out,"A contração de \""eles são\"" é \""eles são\"".",22
+51047out,Sentimento: Positivo,10
+51149out,Sentença declarativa.,10
+51210out,O triângulo é um triângulo retângulo.,19
+51220out,Sequóia,6
+51412inp,Bolo de chocolate,8
+51671out,"\""Se na primeira vez você não conseguir, tente mais vezes.\""",27
+51675out,Sentença declarativa,9
+51706inp,das Alterações Climáticas,16
+51716out,"Olá, como vai?",11
+51753out,Esta afirmação é uma opinião.,17
+51786out,A capital da Índia é Nova Delhi.,14
+51797inp,Vingadores Ultimato,11
+51854inp,Cidade de Nova York,10
+5189inp,Java e Python,7
+51923inp,A Noite Estrelada de Vincent van Gogh,15
+51979out,Sentimento positivo.,9
+51999inp,Michelle Obama,6
+5250inp,O impacto das mídias sociais na saúde mental,21
+526out,Sentimento positivo.,8
+5340inp,"Computação remota, através da internet",17
+5359inp,Qual é a montanha mais alta do mundo?,18
+5361inp,A noite com muitas estrelas,14
+5375inp,Tecnologia: Processos computacionais que permitem que os computadores aprendam com dados sem serem explicitamente programados,37
+5419out,O sentimento da frase é positivo.,13
+5469inp,Pode me ajudar?,11
+5509inp,"Atender telefone, reservar voo, escrever relatório",21
+5509out,"Atender telefone, reservar voo, escrever relatório",20
+550out,- Maçãs\n- Bananas\n- Laranjas\n- Uvas\n- Morangos,29
+5538out,Ele estava andando até a loja.,14
+562out,Los Angeles Lakers,5
+5635inp,Samsung Galaxy S20,8
+5714out,Frase completa.,8
+5814out,"As cores do arco-íris são vermelho, laranja, amarelo, verde, azul, índigo e violeta.",39
+5829inp,"Sistemas computacionais que imitam a capacidade humana de raciocinar, aprender e resolver problemas",34
+6183out,Sentença declarativa.,10
+6357out,Sentimento positivo.,9
+6422inp,Esta é uma frase aleatória.,16
+6434out,Sentimento positivo,8
+6778out,Ela correu para a loja.,13
+7057out,Sentimento positivo.,9
+7081out,Forrest Gump,7
+7120out,Esta é uma questão.,11
+7131out,Emoção ruim,9
+7148inp,O caderno,7
+7148out,Filme que mistura elementos de comédia e romance,17
+7191inp,"\""Olá Mundo\""",10
+7226out,A Mona Lisa de Leonardo da Vinci.,13
+7293out,Eu fui à loja.,11
+7314inp,"Eu queria descansar das más notícias do mundo, então decidi me afastar um pouco. Fui à praia e aproveitei o sol, a areia e as ondas. Conheci algumas pessoas novas e tive ótimas conversas. Foi um ótimo momento para escapar das preocupações do mundo.",109
+7376inp,Java e Python,7
+739inp,O artigo,7
+743inp,O artigo é uma leitura essencial para quem quer entender a fundo o assunto.,30
+7494out,Voz na qual o sujeito recebe a ação,17
+751out,y = mx + b,8
+7538inp,O retorno,7
+7598inp,1965 - a missão Apollo 11\n1973 - a primeira chamada de celular\n1989 - a queda do Muro de Berlim,37
+7598out,1965 - a missão Apollo 11\n1973 - a primeira chamada de celular\n1989 - a queda do Muro de Berlim,36
+7634inp,O Apanhador no Campo de Centeio,16
+7655inp,Tópico: Mudanças Climáticas,17
+7676out,iPhone 11.,6
+7693inp,Coisas diferentes e incompatíveis,17
+7730out,O esquema de rima do poema é AABB.,18
+7737out,A raiz quadrada de 64 é 8.,14
+776out,"Olá, como vai?",10
+7796out,Esta é uma frase declarativa.,14
+782inp,Engenheiro de software,9
+8187out,Eu li o livro.,10
+8441ins,Quais são os benefícios de aprender uma língua estrangeira?,25
+8545out,"Alemanha, França e Reino Unido.",15
+8549out,Esta frase é uma afirmação.,16
+8687out,"Maçã, Laranja, Banana",12
+8810inp,Ela foi até a loja.,14
+9009out,Ele estava caminhando para a loja.,15
+9092inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9093inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9095inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9096inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9097inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9098inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9099inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9101inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9102inp,"Num inquérito recente, 90% dos participantes indicaram que o autocuidado é importante para a sua saúde e bem-estar geral.",43
+9263out,Eu fui à loja.,11
+946inp,iPhone 11 Pro,7
+952inp,Inteligência Artificial e Aprendizado de Máquina,20
+9748ins,Compare esses dois itens.,11
+97out,A área do retângulo é 50 cm2.,16
+9855out,Eu irei à loja.,11
+985out,Sentença declarativa.,9
+98out,A capital de Espanha é madrid.,12

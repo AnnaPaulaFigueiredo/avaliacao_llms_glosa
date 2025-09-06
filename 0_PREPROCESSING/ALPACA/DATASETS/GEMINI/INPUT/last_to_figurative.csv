@@ -1,0 +1,41 @@
+id,instance,class_type,tokens_est_instance,tokens_est_id
+2374ins,Descreva o que é um buraco negro,ins,10,4
+9378ins,O que é um evento Cisne Negro?,ins,11,4
+10160ins,Crie uma analogia para ilustrar o conceito de buraco negro.,ins,18,4
+16885ins,"Crie uma história de terror de três frases que incorpore ""corvos negros"" e ""medos supersticiosos"".",ins,35,4
+17764ins,"Como você descreveria o conceito de ""buraco negro""?",ins,17,4
+20439ins,Resuma as características de um buraco negro.,ins,14,3
+22650ins,Escreva uma breve descrição das características de um buraco negro.,ins,24,4
+31422ins,Crie uma analogia para o buraco negro,ins,11,4
+33737ins,Dê-me três fatos sobre buracos negros.,ins,17,4
+35712ins,Liste 5 tipos de buracos negros.,ins,12,4
+39228ins,Explique o que é um buraco negro em menos de 50 palavras,ins,17,4
+39563ins,Explique como um buraco negro se forma.,ins,12,4
+42297ins,Explique o conceito de buraco negro para uma criança.,ins,16,4
+45164ins,Descreva o impacto dos buracos negros na evolução das galáxias.,ins,25,4
+46489ins,Em que circunstâncias um cisne negro poderia ser uma metáfora,ins,22,4
+49559ins,"Escreva uma definição de ""buraco negro"" em duas frases.",ins,21,4
+51406ins,"Defina o termo ""buraco negro"".",ins,10,4
+2374out,"Um buraco negro é um objeto no espaço cuja atração gravitacional é tão forte que nada, nem mesmo a luz, pode escapar de seu interior. Ele é formado a partir do núcleo colapsado de uma estrela massiva e é considerado o objeto mais denso do universo. Um buraco negro normalmente tem uma massa muitas vezes maior que o nosso Sol, e sua massa pode ser determinada pela quantidade de radiação que ele libera.",out,138,4
+9378out,"Um evento Cisne Negro é um evento raro e imprevisível que tem uma grande escala, impacto duradouro e é frequentemente difícil de explicar depois que o evento já aconteceu. É um termo cunhado por Nassim Nicholas Taleb para descrever um evento inesperado que tem um impacto profundo no mundo. Exemplos de eventos Cisne Negro podem incluir crises econômicas, convulsões políticas e revoluções sociais.",out,138,4
+10160out,"Um buraco negro pode ser comparado a uma pessoa com um apetite enorme. Não importa o que você coloque na frente dela, ela consumirá tudo, nunca se enchendo e ficando cada vez mais faminta. À medida que mais e mais massa é adicionada a um buraco negro, sua atração gravitacional fica mais forte, assim como quanto mais um glutão consome, mais faminto ele fica.",out,130,4
+16885out,"Os moradores da cidade eram supersticiosos em relação aos corvos negros que circulavam suas casas. Conforme os dias passavam, seus medos só eram validados quando ocorrências estranhas começavam. Ninguém sabia o que os causava, mas alguns culpavam os pássaros misteriosos e rapidamente perceberam a horrível verdade de que os corvos tinham sido amaldiçoados com espíritos malignos.",out,139,4
+17764out,"Um buraco negro é uma região incrivelmente densa do espaço, criada quando uma estrela colapsa sobre si mesma devido à sua própria gravidade. Como a estrela é tão densa, nada pode escapar dela, nem mesmo a luz, e é por isso que ela cria um ""buraco negro"" no espaço. A gravidade dentro de um buraco negro é tão forte que qualquer coisa perto dele, incluindo estrelas, planetas e até galáxias inteiras, são puxadas para dentro e eventualmente consumidas.",out,167,4
+20439out,"Um buraco negro é uma região extremamente densa do espaço com uma atração gravitacional intensa. É formado por uma estrela colapsada que se tornou tão densamente compactada que nada, nem mesmo a luz, pode escapar de sua poderosa força gravitacional. É caracterizado por uma singularidade em seu núcleo, um limite invisível conhecido como horizonte de eventos e um disco de acreção ao redor do horizonte de eventos. Buracos negros são frequentemente associados aos monstros supermassivos que existem no centro de muitas galáxias.",out,175,3
+22650out,"Um buraco negro é um objeto astronômico com uma atração gravitacional extremamente forte. Ele é formado quando uma estrela colapsa sob sua própria gravidade. A gravidade é tão forte que dobra o tecido do espaço-tempo e até mesmo a luz fica presa dentro de seus limites. Sem nenhuma luz escapando, um buraco negro é essencialmente invisível para os observadores e pode ser detectado apenas por seus efeitos gravitacionais em objetos próximos.",out,156,4
+31422out,"Um buraco negro é como um poço sem fundo, com uma força gravitacional tão forte que nem mesmo a luz consegue escapar de seu alcance.",out,48,4
+33737out,"1. Buracos negros são regiões do espaço com uma atração gravitacional tão forte que nem a luz consegue escapar delas.
+2. Eles geralmente são formados quando uma grande estrela morre e colapsa sobre si mesma devido ao seu imenso campo gravitacional.
+3. Um único buraco negro pode conter a massa de milhões ou até bilhões de estrelas.",out,135,4
+35712out,"- Buraco Negro Estelar
+- Buraco Negro Supermassivo
+- Buraco Negro de Massa Intermediária
+- Buraco Negro Recuante
+- Buraco Negro Primordial",out,41,4
+39228out,"Um buraco negro é um objeto no espaço feito de uma quantidade supermassiva de matéria compactada em uma pequena área. Sua atração gravitacional é tão forte que nem mesmo a luz consegue escapar, tornando-o completamente preto e invisível.",out,84,4
+39563out,"Um buraco negro é criado quando uma estrela muito massiva fica sem combustível nuclear e seu núcleo não consegue mais resistir à gravidade estelar. O núcleo colapsa para dentro em uma reação em cadeia que ricocheteia para fora, empurrando as camadas externas da estrela para o espaço em uma explosão de supernova. Eventualmente, o núcleo para de colapsar, comprimindo-se em um único ponto de raio infinitamente pequeno e densidade infinitamente grande, conhecido como singularidade. Isso cria um campo gravitacional extremamente poderoso do qual nada, nem mesmo a luz, pode escapar, dando origem à sua distinta silhueta escura.",out,223,4
+42297out,"Um buraco negro é uma área no espaço que é tão poderosa e densa que nem mesmo a luz consegue escapar de sua atração. Buracos negros são como o oposto de estrelas - em vez de emitir luz, eles absorvem tudo, até mesmo a luz. Os cientistas sabem que buracos negros existem porque podem ver a maneira como eles afetam estrelas e outras matérias ao redor deles. É como um vácuo gigante que suga e prende qualquer coisa próxima, como um poço gigante sem fundo no espaço.",out,179,4
+45164out,"Buracos negros têm um impacto significativo na evolução das galáxias. Eles engolem gás e poeira próximos, suprimindo assim a formação de estrelas em suas regiões circundantes. Isso pode levar ao desligamento da formação de estrelas em uma galáxia, alterando assim sua evolução e aparência. Além disso, buracos negros também ajudam a regular o crescimento de uma galáxia, limitando a quantidade de material disponível para formar estrelas.",out,169,4
+46489out,"O termo ""cisne negro"" é frequentemente usado como uma metáfora para descrever um evento ou ocorrência que é altamente improvável, mas tem um impacto massivo e inesperado. É usado para nos lembrar que tais eventos, embora raros, podem ocorrer e ocorrem e devem ser preparados, mesmo que essa probabilidade pareça pequena.",out,115,4
+49559out,"Um buraco negro é uma região no espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, pode escapar de sua atração. Eles são formados quando uma grande estrela morre e colapsa sobre si mesma, formando um objeto incrivelmente denso, muito menor do que seu tamanho original.",out,104,4
+51406out,"Um buraco negro é uma região do espaço-tempo onde a gravidade é tão forte que nada, nem mesmo a luz, pode escapar de sua atração. Ele é formado quando uma estrela massiva morre e colapsa sobre si mesma, criando uma área de densidade infinita e um horizonte de eventos que marca o ponto em que qualquer matéria ou luz que entra não pode escapar.",out,128,4

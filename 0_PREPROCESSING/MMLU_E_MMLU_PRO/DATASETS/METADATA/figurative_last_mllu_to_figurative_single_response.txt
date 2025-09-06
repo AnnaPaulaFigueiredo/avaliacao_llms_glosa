@@ -1,0 +1,939 @@
+json
+[
+  {
+    "ID": "2466Q1",
+    "ORIGINAL": "Construa uma tabela verdade completa para o seguinte argumento. Então, usando a tabela verdade, determine se o argumento é válido ou inválido. Se o argumento for inválido, escolha uma opção que apresente um contraexemplo. (Pode haver outros contraexemplos também.)",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Construa uma tabela verdade completa para o seguinte argumento. Então, usando a tabela verdade, determine se o argumento é válido ou inválido. Se o argumento for inválido, escolha uma opção que apresente um contraexemplo. (Pode haver outros contraexemplos também.)"
+  }
+]
+
+json
+[
+  {
+    "ID": "2521Q1",
+    "ORIGINAL": "Use tabelas de verdade indiretas para determinar se cada conjunto de proposições é consistente. Se o conjunto for consistente, escolha uma opção com uma avaliação consistente. (Pode haver outras avaliações consistentes.)",
+    "FIGURATIVO": "consistente",
+    "REESCRITO": "não contraditório",
+    "RESULTADO": "Use tabelas de verdade indiretas para determinar se cada conjunto de proposições é não contraditório. Se o conjunto for não contraditório, escolha uma opção com uma avaliação não contraditória. (Pode haver outras avaliações não contraditórias.)"
+  }
+]
+
+json
+[
+  {
+    "ID": "2540Q1",
+    "ORIGINAL": "Use tabelas de verdade indiretas para determinar se o argumento a seguir é válido. Se o argumento for inválido, escolha uma opção que apresente um contraexemplo. (Pode haver outros contraexemplos também.)",
+    "FIGURATIVO": "Se o argumento for inválido, escolha uma opção que apresente um contraexemplo.",
+    "REESCRITO": "Se o argumento for inválido, escolha uma opção que mostre um exemplo que o refute.",
+    "RESULTADO": "Use tabelas de verdade indiretas para determinar se o argumento a seguir é válido. Se o argumento for inválido, escolha uma opção que mostre um exemplo que o refute. (Pode haver outros exemplos que o refutem também.)"
+  }
+]
+
+json
+[
+  {
+    "ID": "4885Q1",
+    "ORIGINAL": "O Gravitron é um brinquedo de parque de diversões que parece um grande cilindro. As pessoas ficam dentro do cilindro contra a parede enquanto ele começa a girar. Eventualmente, ele está girando rápido o suficiente para que o chão possa ser removido sem que ninguém caia.",
+    "FIGURATIVO": "o chão possa ser removido sem que ninguém caia",
+    "REESCRITO": "a força centrípeta seja suficiente para manter as pessoas pressionadas contra a parede, impedindo-as de cair",
+    "RESULTADO": "O Gravitron é um brinquedo de parque de diversões que parece um grande cilindro. As pessoas ficam dentro do cilindro contra a parede enquanto ele começa a girar. Eventualmente, ele está girando rápido o suficiente para que a força centrípeta seja suficiente para manter as pessoas pressionadas contra a parede, impedindo-as de cair."
+  }
+]
+
+json
+[
+  {
+    "ID": "5510Q1",
+    "ORIGINAL": '"Um teste de hipótese produz um valor P de 0,20." Qual das opções a seguir descreve melhor o que essa afirmação significa?',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"Um teste de hipótese produz um valor P de 0,20." Qual das opções a seguir descreve melhor o que essa afirmação significa?'
+  }
+]
+
+json
+[
+  {
+    "ID": "6433Q1",
+    "ORIGINAL": "\"O Estado não tem nada a ver com os quartos da nação\", é uma citação famosa deste ex-primeiro-ministro canadense.",
+    "FIGURATIVO": "quartos da nação",
+    "REESCRITO": "problemas internos ou assuntos privados dos cidadãos",
+    "RESULTADO": "\"O Estado não tem nada a ver com os problemas internos ou assuntos privados dos cidadãos\", é uma citação famosa deste ex-primeiro-ministro canadense."
+  }
+]
+
+json
+[]
+
+json
+[
+  {
+    "ID": "6696Q1",
+    "ORIGINAL": '"_Ad crumenam_ " é um tipo específico de',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"_Ad crumenam_ " é um tipo específico de'
+  }
+]
+
+json
+[
+  {
+    "ID": "6777Q1",
+    "ORIGINAL": '"_Ad antiquitatem_" é um tipo específico de',
+    "FIGURATIVO": "_Ad antiquitatem_",
+    "REESCRITO": "à antiguidade",
+    "RESULTADO": '"à antiguidade" é um tipo específico de'
+  }
+]
+
+json
+[
+  {
+    "ID": "6779Q1",
+    "ORIGINAL": '"_Ad lazarum_" é',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"_Ad lazarum_" é'
+  }
+]
+
+json
+[
+  {
+    "ID": "6809Q1",
+    "ORIGINAL": '"_Ad lazarum_" é um tipo específico de',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"_Ad lazarum_" é um tipo específico de'
+  }
+]
+
+json
+[
+  {
+    "ID": "7031Q1",
+    "ORIGINAL": "'Não há ligação discernível entre planejamento e desempenho'. Quem ocupa esse cargo?",
+    "FIGURATIVO": "Não há ligação discernível",
+    "REESCRITO": "Não há relação clara e perceptível",
+    "RESULTADO": "'Não há relação clara e perceptível entre planejamento e desempenho'. Quem ocupa esse cargo?"
+  }
+]
+
+json
+[
+  {
+    "ID": "7871Q1",
+    "ORIGINAL": '"Contei sete ministros, todos pregando ao mesmo tempo... Algumas pessoas estavam cantando, outras orando, algumas clamando por misericórdia nos sotaques mais piedosos." A citação acima descreve a participação do grupo em um evento que foi mais característico de qual dos seguintes?',
+    "FIGURATIVO": "clamando por misericórdia nos sotaques mais piedosos",
+    "REESCRITO": "suplicando misericórdia com tons de voz suaves e comoventes",
+    "RESULTADO": '"Contei sete ministros, todos pregando ao mesmo tempo... Algumas pessoas estavam cantando, outras orando, algumas suplicando misericórdia com tons de voz suaves e comoventes." A citação acima descreve a participação do grupo em um evento que foi mais característico de qual dos seguintes?'
+  }
+]
+
+json
+[
+  {
+    "ID": "12128Q1",
+    "ORIGINAL": "\"Um assalto é uma tentativa ilegal, com ou sem capacidade presente, de cometer uma agressão contra a pessoa de outra pessoa. É uma contravenção punível com prisão de até seis meses. \"Um réu era um advogado que trabalhava em um escritório de advocacia localizado no estado. O réu, que tinha a reputação de ser um brincalhão, decidiu pregar uma peça no sócio sênior do escritório de advocacia. O réu vestiu uma máscara de cowboy e entrou no escritório do sócio sênior. Enquanto o sócio sênior falava ao telefone de costas para a porta, o réu sacou uma arma de brinquedo e disse: \"Isso é um assalto... me dê sua carteira ou eu atiro.\" Quando o sócio sênior se virou para encarar o réu, ele puxou o gatilho da arma. Isso fez com que a pistola de brinquedo fizesse um barulho alto. Embora o sócio sênior não estivesse assustado, ele demitiu o réu por causa do incidente, citando conduta não profissional. O réu foi posteriormente acusado de agressão criminosa sob o estatuto acima mencionado. No julgamento, o réu testemunhou que estava apenas pregando uma peça no sócio sênior e estava tentando assustá-lo como uma brincadeira inofensiva. Se o júri acreditar no réu, eles devem considerá-lo\"",
+    "FIGURATIVO": "\"Isso é um assalto... me dê sua carteira ou eu atiro\"",
+    "REESCRITO": "\"Estou simulando um assalto para te assustar; entregue-me sua carteira ou simularei um disparo\"",
+    "RESULTADO": "\"Um assalto é uma tentativa ilegal, com ou sem capacidade presente, de cometer uma agressão contra a pessoa de outra pessoa. É uma contravenção punível com prisão de até seis meses. \"Um réu era um advogado que trabalhava em um escritório de advocacia localizado no estado. O réu, que tinha a reputação de ser um brincalhão, decidiu pregar uma peça no sócio sênior do escritório de advocacia. O réu vestiu uma máscara de cowboy e entrou no escritório do sócio sênior. Enquanto o sócio sênior falava ao telefone de costas para a porta, o réu sacou uma arma de brinquedo e disse: \"Estou simulando um assalto para te assustar; entregue-me sua carteira ou simularei um disparo\". Quando o sócio sênior se virou para encarar o réu, ele puxou o gatilho da arma. Isso fez com que a pistola de brinquedo fizesse um barulho alto. Embora o sócio sênior não estivesse assustado, ele demitiu o réu por causa do incidente, citando conduta não profissional. O réu foi posteriormente acusado de agressão criminosa sob o estatuto acima mencionado. No julgamento, o réu testemunhou que estava apenas pregando uma peça no sócio sênior e estava tentando assustá-lo como uma brincadeira inofensiva. Se o júri acreditar no réu, eles devem considerá-lo\""
+  }
+]
+
+json
+[
+  {
+    "ID": "12549Q1",
+    "ORIGINAL": '"De acordo com o modelo de liderança situacional de Hersey e Blanchard, um líder deve usar um estilo "participativo" para subordinados que tenham:"',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"De acordo com o modelo de liderança situacional de Hersey e Blanchard, um líder deve usar um estilo em que os subordinados participam das decisões para subordinados que tenham:"'
+  }
+]
+
+json
+[
+  {
+    "ID": "15447Q1",
+    "ORIGINAL": '"Um psicólogo organizacional foi contratado por uma empresa de manufatura para desenvolver uma bateria de seleção que ajudará a empresa a responder à seguinte pergunta: ""Com qual grupo (trabalhadores da linha de montagem ou trabalhadores administrativos) o candidato à vaga mais se assemelha?"" Qual das seguintes técnicas multivariadas seria útil para esse propósito?"',
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": '"Um psicólogo organizacional foi contratado por uma empresa de manufatura para desenvolver uma bateria de seleção que ajudará a empresa a responder à seguinte pergunta: ""Com qual grupo (trabalhadores da linha de montagem ou trabalhadores administrativos) o candidato à vaga mais se assemelha?"" Qual das seguintes técnicas multivariadas seria útil para esse propósito?"'
+  }
+]
+
+json
+[
+  {
+    "ID": "616C1",
+    "ORIGINAL": "6 ATP.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "6 ATP."
+  }
+]
+
+json
+[
+  {
+    "ID": "715C1",
+    "ORIGINAL": "Lisozima.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Lisozima."
+  }
+]
+
+json
+[]
+
+json
+[]
+
+json
+[]
+
+json
+[]
+
+json
+[]
+
+json
+[{"ID": "2507C1", "ORIGINAL": "Sx", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "Sx"}]
+
+json
+[
+  {
+    "ID": "3503C1",
+    "ORIGINAL": "Rostow.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Rostow."
+  }
+]
+
+json
+[{"ID": "4598C1", "ORIGINAL": "capital.", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "capital."}]
+
+json
+[
+  {
+    "ID": "6934C1",
+    "ORIGINAL": "Norma L0",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Norma L0"
+  }
+]
+
+json
+[
+  {
+    "ID": "7110C1",
+    "ORIGINAL": "Comportamento.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Comportamento."
+  }
+]
+
+json
+[
+  {
+    "ID": "7915C1",
+    "ORIGINAL": "barco",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "barco"
+  }
+]
+
+json
+[
+  {
+    "ID": "7952C1",
+    "ORIGINAL": "vegetais",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "vegetais"
+  }
+]
+
+json
+[
+  {
+    "ID": "10152C1",
+    "ORIGINAL": "Alasca.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Alasca."
+  }
+]
+
+json
+[
+  {
+    "ID": "13316C1",
+    "ORIGINAL": "'Uma nação é segura na medida em que não corre o risco de ter que sacrificar valores essenciais se quiser evitar a guerra e é capaz, se desafiada, de mantê-los pela vitória em tal guerra.' Lippman, W.",
+    "FIGURATIVO": "sacrificar valores essenciais se quiser evitar a guerra e é capaz, se desafiada, de mantê-los pela vitória em tal guerra",
+    "REESCRITO": "abrir mão de princípios fundamentais para prevenir a guerra e consegue, em caso de conflito, preservá-los através do sucesso militar",
+    "RESULTADO": "'Uma nação é segura na medida em que não corre o risco de ter que abrir mão de princípios fundamentais para prevenir a guerra e consegue, em caso de conflito, preservá-los através do sucesso militar.' Lippman, W."
+  }
+]
+
+json
+[]
+
+json
+[
+  {
+    "ID": "14860C1",
+    "ORIGINAL": "'Mork e Mindy'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Mork e Mindy'"
+  }
+]
+
+json
+[
+  {
+    "ID": "14875C1",
+    "ORIGINAL": "'Cidadão Kane'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Cidadão Kane'"
+  }
+]
+
+json
+[
+  {
+    "ID": "14886C1",
+    "ORIGINAL": "'Rocky II'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Rocky II'"
+  }
+]
+
+json
+[
+  {
+    "ID": "15387C1",
+    "ORIGINAL": "Acarbose",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Acarbose"
+  }
+]
+
+json
+[
+  {
+    "ID": "1303C2",
+    "ORIGINAL": "hexoquinase.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "hexoquinase."
+  }
+]
+
+json
+[
+  {
+    "ID": "1461C2",
+    "ORIGINAL": "0.18 J",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "0.18 J"
+  }
+]
+
+json
+[
+  {
+    "ID": "1669C2",
+    "ORIGINAL": "25 m",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "25 m"
+  }
+]
+
+json
+[{'ID': '2719C2', 'ORIGINAL': 'embriologia.', 'FIGURATIVO': null, 'REESCRITO': null, 'RESULTADO': 'embriologia.'}]
+
+json
+[
+  {
+    "ID": "3519C2",
+    "ORIGINAL": "Bíblia.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Bíblia."
+  }
+]
+
+json
+[
+  {
+    "ID": "4283C2",
+    "ORIGINAL": "\\frac{25}{6}",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "\\frac{25}{6}"
+  }
+]
+
+json
+[
+  {
+    "ID": "4745C2",
+    "ORIGINAL": "1 s",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "1 s"
+  }
+]
+
+json
+[{"ID": "6110C2", "ORIGINAL": "Foos", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "Foos"}]
+
+json
+[{"ID": "6230C2", "ORIGINAL": "Maggie Kuhn", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "Maggie Kuhn"}]
+
+json
+[
+  {
+    "ID": "7268C2",
+    "ORIGINAL": "Anúncio.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Anúncio."
+  }
+]
+
+json
+[
+  {
+    "ID": "7568C2",
+    "ORIGINAL": "Lando",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Lando"
+  }
+]
+
+json
+[{"ID": "7686C2", "ORIGINAL": "II", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "II"}]
+
+json
+[
+  {
+    "ID": "8334C2",
+    "ORIGINAL": "\"deveria.\"",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "\"deveria.\""
+  }
+]
+
+json
+[
+  {
+    "ID": "12507C2",
+    "ORIGINAL": """"todo mundo está fazendo isso."""",
+    "FIGURATIVO": "todo mundo",
+    "REESCRITO": "a maioria das pessoas",
+    "RESULTADO": """"a maioria das pessoas está fazendo isso."""
+  }
+]
+
+json
+[
+  {
+    "ID": "12661C2",
+    "ORIGINAL": "Egocentrismo",
+    "FIGURATIVO": "Egocentrismo",
+    "REESCRITO": "Pensamento excessivo em si mesmo; autocentramento.",
+    "RESULTADO": "Pensamento excessivo em si mesmo; autocentramento."
+  }
+]
+
+json
+[
+  {
+    "ID": "12662C2",
+    "ORIGINAL": """"desintegração."""",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": """"desintegração."""
+  }
+]
+
+json
+[
+  {
+    "ID": "13316C2",
+    "ORIGINAL": "'A segurança em si é uma relativa liberdade de guerra, juntamente com uma expectativa relativamente alta de que a derrota não será uma consequência de qualquer guerra que ocorra.' Bellamy, M.",
+    "FIGURATIVO": "relativa liberdade de guerra",
+    "REESCRITO": "menor probabilidade de guerra",
+    "RESULTADO": "'A segurança em si é uma menor probabilidade de guerra, juntamente com uma expectativa relativamente alta de que a derrota não será uma consequência de qualquer guerra que ocorra.' Bellamy, M."
+  }
+]
+
+json
+[
+  {
+    "ID": "14090C2",
+    "ORIGINAL": "'Objetivos de Desenvolvimento Sustentável' das Nações Unidas",
+    "FIGURATIVO": "Objetivos de Desenvolvimento Sustentável",
+    "REESCRITO": "Metas para um desenvolvimento que atende às necessidades do presente sem comprometer a capacidade das gerações futuras de atenderem às suas próprias necessidades",
+    "RESULTADO": "'Metas para um desenvolvimento que atende às necessidades do presente sem comprometer a capacidade das gerações futuras de atenderem às suas próprias necessidades' das Nações Unidas"
+  }
+]
+
+json
+[
+  {
+    "ID": "14748C2",
+    "ORIGINAL": "'Violação material' é a rejeição ou violação significativa do tratado e serve como fundamento para a rescisão unilateral do tratado",
+    "FIGURATIVO": "Violação material",
+    "REESCRITO": "Violação grave",
+    "RESULTADO": "'Violação grave' é a rejeição ou violação significativa do tratado e serve como fundamento para a rescisão unilateral do tratado"
+  }
+]
+
+json
+[
+  {
+    "ID": "14860C2",
+    "ORIGINAL": "'Perfeitos Estranhos'",
+    "FIGURATIVO": "Perfeitos Estranhos",
+    "REESCRITO": "Indivíduos aparentemente impecáveis que, na realidade, são desconhecidos uns dos outros",
+    "RESULTADO": "'Indivíduos aparentemente impecáveis que, na realidade, são desconhecidos uns dos outros'"
+  }
+]
+
+json
+[
+  {
+    "ID": "14886C2",
+    "ORIGINAL": "'Rocky III'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Rocky III'"
+  }
+]
+
+json
+[
+  {
+    "ID": "6660C3",
+    "ORIGINAL": "Cognitivismo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cognitivismo."
+  }
+]
+
+json
+[
+  {
+    "ID": "6664C3",
+    "ORIGINAL": "Ordem.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ordem."
+  }
+]
+
+json
+[{'ID': '6876C3', 'ORIGINAL': 'P(H, U, P, L) = P(H) * P(L) * P(P | L) * P(U | H, P)', 'FIGURATIVO': None, 'REESCRITO': None, 'RESULTADO': 'P(H, U, P, L) = P(H) * P(L) * P(P | L) * P(U | H, P)'}]
+
+json
+[
+  {
+    "ID": "7098C3",
+    "ORIGINAL": "Opinião.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Opinião."
+  }
+]
+
+json
+[
+  {
+    "ID": "7110C3",
+    "ORIGINAL": "Cognitivo.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Cognitivo."
+  }
+]
+
+json
+[
+  {
+    "ID": "7140C3",
+    "ORIGINAL": "E-marketing.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "E-marketing."
+  }
+]
+
+json
+[
+  {
+    "ID": "7771C3",
+    "ORIGINAL": "Russos",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Russos"
+  }
+]
+
+json
+[
+  {
+    "ID": "7802C3",
+    "ORIGINAL": "Xisto",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Xisto"
+  }
+]
+
+json
+[
+  {
+    "ID": "8165C3",
+    "ORIGINAL": "Harrisburg",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Harrisburg"
+  }
+]
+
+json
+[
+  {
+    "ID": "12442C3",
+    "ORIGINAL": '"a ""segunda camada"" da terapia."',
+    "FIGURATIVO": '"segunda camada"',
+    "REESCRITO": "um nível mais profundo",
+    "RESULTADO": '"um nível mais profundo da terapia."'
+  }
+]
+
+json
+[
+  {
+    "ID": "12446C3",
+    "ORIGINAL": '"use uma equipe de múltiplos terapeutas para evitar que qualquer terapeuta se torne ""triangulado"" no sistema familiar."',
+    "FIGURATIVO": "triangulado",
+    "REESCRITO": "envolvido em uma dinâmica de conflito entre duas outras pessoas",
+    "RESULTADO": '"use uma equipe de múltiplos terapeutas para evitar que qualquer terapeuta se torne envolvido em uma dinâmica de conflito entre duas outras pessoas no sistema familiar."'
+  }
+]
+
+json
+[
+  {
+    "ID": "12727C3",
+    "ORIGINAL": "\"inaceitável porque, nesta situação, a esposa é “vulnerável a influências indevidas”.",
+    "FIGURATIVO": "vulnerável a influências indevidas",
+    "REESCRITO": "fácil de ser influenciada de maneira negativa",
+    "RESULTADO": "\"inaceitável porque, nesta situação, a esposa é fácil de ser influenciada de maneira negativa\"."
+  }
+]
+
+json
+[
+  {
+    "ID": "12760C3",
+    "ORIGINAL": '"a mensagem está dentro de sua “latitude de aceitação”."',
+    "FIGURATIVO": "latitude de aceitação",
+    "REESCRITO": "limite de compreensão ou tolerância",
+    "RESULTADO": '"a mensagem está dentro de seu limite de compreensão ou tolerância."'
+  }
+]
+
+json
+[
+  {
+    "ID": "13591C3",
+    "ORIGINAL": "'maternidade' é uma atividade socialmente construída identificada nas narrativas de novas mães",
+    "FIGURATIVO": "socialmente construída",
+    "REESCRITO": "criada e moldada pelas normas e valores da sociedade",
+    "RESULTADO": "'maternidade' é uma atividade criada e moldada pelas normas e valores da sociedade identificada nas narrativas de novas mães"
+  }
+]
+
+json
+[
+  {
+    "ID": "14748C3",
+    "ORIGINAL": "'Violação material' é uma violação insignificante de um tratado",
+    "FIGURATIVO": "insignificante",
+    "REESCRITO": "sem importância",
+    "RESULTADO": "'Violação material' é uma violação sem importância de um tratado"
+  }
+]
+
+json
+[
+  {
+    "ID": "14860C3",
+    "ORIGINAL": "'Joanie ama Chachi'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Joanie ama Chachi'"
+  }
+]
+
+json
+[
+  {
+    "ID": "14867C3",
+    "ORIGINAL": "Renfield",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Renfield"
+  }
+]
+
+json
+[
+  {
+    "ID": "14875C3",
+    "ORIGINAL": "'O caçador de veados'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'O caçador de veados'"
+  }
+]
+
+json
+[
+  {
+    "ID": "14886C3",
+    "ORIGINAL": "'Rocky IV'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Rocky IV'"
+  }
+]
+
+json
+[
+  {
+    "ID": "14949C3",
+    "ORIGINAL": "dissuasão.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "dissuasão."
+  }
+]
+
+json
+[{'ID': '633C4', 'ORIGINAL': 'Glicemia.', 'FIGURATIVO': 'Glicemia', 'REESCRITO': 'Taxa de glicose no sangue', 'RESULTADO': 'Taxa de glicose no sangue.'}]
+
+json
+[]
+
+json
+[]
+
+json
+[{'ID': '1988C4', 'ORIGINAL': null, 'FIGURATIVO': null, 'REESCRITO': null, 'RESULTADO': null}]
+
+json
+[{'ID': '2022C4', 'ORIGINAL': '60 mA.', 'FIGURATIVO': None, 'REESCRITO': None, 'RESULTADO': '60 mA.'}]
+
+json
+[]
+
+json
+[]
+
+json
+[{"ID": "3204C4", "ORIGINAL": "|", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": null}]
+
+json
+[
+  {
+    "ID": "3391C4",
+    "ORIGINAL": "Darwin",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Darwin"
+  }
+]
+
+json
+[
+  {
+    "ID": "4831C4",
+    "ORIGINAL": "1600 N",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "1600 N"
+  }
+]
+
+json
+[{"ID": "5504C4", "ORIGINAL": "assimetria.", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "assimetria."}]
+
+json
+[{'ID': '6069C4', 'ORIGINAL': 'Xuanzang', 'FIGURATIVO': None, 'REESCRITO': None, 'RESULTADO': 'Xuanzang'}]
+
+json
+[
+  {
+    "ID": "7051C4",
+    "ORIGINAL": "Opinião.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Opinião."
+  }
+]
+
+json
+[{'ID': '7095C4', 'ORIGINAL': 'Anúncio.', 'FIGURATIVO': None, 'REESCRITO': None, 'RESULTADO': 'Anúncio.'}]
+
+json
+[
+  {
+    "ID": "7170C4",
+    "ORIGINAL": "Pesquisa documental.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Pesquisa documental."
+  }
+]
+
+json
+[
+  {
+    "ID": "7393C4",
+    "ORIGINAL": "Ben Affleck",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Ben Affleck"
+  }
+]
+
+json
+[
+  {
+    "ID": "7431C4",
+    "ORIGINAL": "Leavenworth",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Leavenworth"
+  }
+]
+
+json
+[
+  {
+    "ID": "7584C4",
+    "ORIGINAL": "Hyundai",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Hyundai"
+  }
+]
+
+json
+[
+  {
+    "ID": "7915C4",
+    "ORIGINAL": "bicicleta",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "bicicleta"
+  }
+]
+
+json
+[{"ID": "9557C4", "ORIGINAL": "Sal", "FIGURATIVO": null, "REESCRITO": null, "RESULTADO": "Sal"}]
+
+json
+[
+  {
+    "ID": "10392C4",
+    "ORIGINAL": "Julho.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Julho."
+  }
+]
+
+json
+[
+  {
+    "ID": "13437C4",
+    "ORIGINAL": "Emílio Durkheim",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Emílio Durkheim"
+  }
+]
+
+json
+[
+  {
+    "ID": "13614C4",
+    "ORIGINAL": "Congresso.",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "Congresso."
+  }
+]
+
+json
+[]
+
+json
+[
+  {
+    "ID": "14603C4",
+    "ORIGINAL": "serotonin",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "serotonin"
+  }
+]
+
+json
+[
+  {
+    "ID": "14748C4",
+    "ORIGINAL": "'Violação material' é uma violação significativa do tratado que nunca pode levar à rescisão do tratado",
+    "FIGURATIVO": "Violação material",
+    "REESCRITO": "Violação importante",
+    "RESULTADO": "'Violação importante' é uma violação significativa do tratado que nunca pode levar à rescisão do tratado"
+  }
+]
+
+json
+[
+  {
+    "ID": "14860C4",
+    "ORIGINAL": "'Laverne e Shirley'",
+    "FIGURATIVO": null,
+    "REESCRITO": null,
+    "RESULTADO": "'Laverne e Shirley'"
+  }
+]
+

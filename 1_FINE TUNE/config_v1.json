@@ -1,0 +1,83 @@
+{
+    "wandb_api_key": "",
+    "hf_read_token": "",
+    "hf_write_token": "",
+    "project_name": "Chatbot-Finetune-UnslothV1",
+    "output_base_dir": "./checkpoints_unsloth/v1",
+    "models": [
+        {
+          "model_name": "annagoncalves2/chatbot-gemma-3-12b-it-bnb-4bit-test",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-gemma-3-12b-it-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/Llama-3.1-8B-unsloth-bnb-4bit",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-Llama-3.1-8B-unsloth-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/Llama-3.2-3B-Instruct-unsloth-bnb-4bit",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-Llama-3.2-3B-Instruct-unsloth-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/phi-4-unsloth-bnb-4bit",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-phi-4-unsloth-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/Qwen2.5-7B-Instruct-bnb-4bit",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-Qwen2.5-7B-Instruct-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/Qwen2.5-14B-Instruct-unsloth-bnb-4bit",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-Qwen2.5-14B-Instruct-unsloth-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/zephyr-sft-bnb-4bit",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-zephyr-sft-bnb-4bit-test"
+        },
+        {
+          "model_name": "unsloth/DeepSeek-R1-Distill-Llama-8B",
+          "dataset_name": "annagoncalves2/glosa",
+          "repo_name": "chatbot-DeepSeek-R1-Distill-Llama-8B-test"
+        }
+                {
+          "model_name": "unsloth/DeepSeek-R1-Distill-Llama-8B",
+          "dataset_name": "annagoncalves2/glosa",
+          
+          "repo_name": "chatbot-DeepSeek-R1-Distill-Llama-8B-test"
+        },
+    ]
+    ,
+    "training_args": {
+      "per_device_train_batch_size": 2,
+      "gradient_accumulation_steps": 4,
+      "warmup_steps": 5,
+      "num_train_epochs": 2,
+      "learning_rate": 2e-4,
+      "logging_steps": 5,
+      "save_steps": 20,
+      "save_total_limit": 1,
+      "weight_decay": 0.01,
+      "lr_scheduler_type": "linear",
+      "seed": 42,
+      "max_seq_length": 2048,
+      "dataset_num_proc": 2,
+      "packing": false,
+      "optim": "adamw_8bit"
+    },
+    "lora_r": 16,
+    "lora_target_modules": ["q_proj", "k_proj", "v_proj", "o_proj"],
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "lora_bias": "none",
+    "use_gradient_checkpointing": true,
+    "random_state": 42,
+    "use_rslora": false,
+    "loftq_config": null
+  }
+  

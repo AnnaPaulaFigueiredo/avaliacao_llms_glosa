@@ -1,0 +1,1437 @@
+2024-11-05 11:14:25,908 - INFO - Modelo instanciado.
+2024-11-05 11:14:25,910 - INFO - Iniciando processamento da instância 0
+2024-11-05 11:14:27,385 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:27,386 - INFO - Metadados do bucket 0 salvos com sucesso.
+2024-11-05 11:14:27,387 - INFO - Iniciando processamento da instância 1
+2024-11-05 11:14:28,036 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:28,036 - INFO - Metadados do bucket 1 salvos com sucesso.
+2024-11-05 11:14:28,036 - INFO - Iniciando processamento da instância 2
+2024-11-05 11:14:28,751 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:28,752 - INFO - Metadados do bucket 2 salvos com sucesso.
+2024-11-05 11:14:28,753 - INFO - Iniciando processamento da instância 3
+2024-11-05 11:14:29,484 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:29,485 - INFO - Metadados do bucket 3 salvos com sucesso.
+2024-11-05 11:14:29,486 - INFO - Iniciando processamento da instância 4
+2024-11-05 11:14:30,161 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:30,161 - INFO - Metadados do bucket 4 salvos com sucesso.
+2024-11-05 11:14:30,163 - INFO - Iniciando processamento da instância 5
+2024-11-05 11:14:30,784 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:30,784 - INFO - Metadados do bucket 5 salvos com sucesso.
+2024-11-05 11:14:30,784 - INFO - Iniciando processamento da instância 6
+2024-11-05 11:14:31,447 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:31,448 - INFO - Metadados do bucket 6 salvos com sucesso.
+2024-11-05 11:14:31,449 - INFO - Iniciando processamento da instância 7
+2024-11-05 11:14:32,091 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:32,092 - INFO - Metadados do bucket 7 salvos com sucesso.
+2024-11-05 11:14:32,093 - INFO - Iniciando processamento da instância 8
+2024-11-05 11:14:32,664 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:32,665 - INFO - Metadados do bucket 8 salvos com sucesso.
+2024-11-05 11:14:32,666 - INFO - Iniciando processamento da instância 9
+2024-11-05 11:14:33,454 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:33,454 - INFO - Metadados do bucket 9 salvos com sucesso.
+2024-11-05 11:14:33,456 - INFO - Iniciando processamento da instância 10
+2024-11-05 11:14:34,164 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:34,164 - INFO - Metadados do bucket 10 salvos com sucesso.
+2024-11-05 11:14:34,165 - INFO - Iniciando processamento da instância 11
+2024-11-05 11:14:34,801 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:34,801 - INFO - Metadados do bucket 11 salvos com sucesso.
+2024-11-05 11:14:34,802 - INFO - Iniciando processamento da instância 12
+2024-11-05 11:14:35,378 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:35,379 - INFO - Metadados do bucket 12 salvos com sucesso.
+2024-11-05 11:14:35,380 - INFO - Iniciando processamento da instância 13
+2024-11-05 11:14:35,962 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:35,963 - INFO - Metadados do bucket 13 salvos com sucesso.
+2024-11-05 11:14:35,964 - INFO - Iniciando processamento da instância 14
+2024-11-05 11:14:36,552 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:36,552 - INFO - Metadados do bucket 14 salvos com sucesso.
+2024-11-05 11:14:36,552 - INFO - Iniciando processamento da instância 15
+2024-11-05 11:14:37,269 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:37,269 - INFO - Metadados do bucket 15 salvos com sucesso.
+2024-11-05 11:14:37,271 - INFO - Iniciando processamento da instância 16
+2024-11-05 11:14:37,827 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:37,828 - INFO - Metadados do bucket 16 salvos com sucesso.
+2024-11-05 11:14:37,829 - INFO - Iniciando processamento da instância 17
+2024-11-05 11:14:38,398 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:38,399 - INFO - Metadados do bucket 17 salvos com sucesso.
+2024-11-05 11:14:38,400 - INFO - Iniciando processamento da instância 18
+2024-11-05 11:14:39,030 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:39,031 - INFO - Metadados do bucket 18 salvos com sucesso.
+2024-11-05 11:14:39,031 - INFO - Iniciando processamento da instância 19
+2024-11-05 11:14:39,653 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:39,653 - INFO - Metadados do bucket 19 salvos com sucesso.
+2024-11-05 11:14:39,654 - INFO - Iniciando processamento da instância 20
+2024-11-05 11:14:40,298 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:40,299 - INFO - Metadados do bucket 20 salvos com sucesso.
+2024-11-05 11:14:40,299 - INFO - Iniciando processamento da instância 21
+2024-11-05 11:14:40,872 - ERROR - Ocorreu um erro ao processar a instância 21: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: MEDIUM\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: MEDIUM
+])
+2024-11-05 11:14:40,873 - INFO - Iniciando processamento da instância 22
+2024-11-05 11:14:41,496 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:41,496 - INFO - Metadados do bucket 22 salvos com sucesso.
+2024-11-05 11:14:41,497 - INFO - Iniciando processamento da instância 23
+2024-11-05 11:14:42,197 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:42,197 - INFO - Metadados do bucket 23 salvos com sucesso.
+2024-11-05 11:14:42,198 - INFO - Iniciando processamento da instância 24
+2024-11-05 11:14:42,855 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:42,856 - INFO - Metadados do bucket 24 salvos com sucesso.
+2024-11-05 11:14:42,856 - INFO - Iniciando processamento da instância 25
+2024-11-05 11:14:43,406 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:43,406 - INFO - Metadados do bucket 25 salvos com sucesso.
+2024-11-05 11:14:43,408 - INFO - Iniciando processamento da instância 26
+2024-11-05 11:14:44,214 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:44,215 - INFO - Metadados do bucket 26 salvos com sucesso.
+2024-11-05 11:14:44,216 - INFO - Iniciando processamento da instância 27
+2024-11-05 11:14:44,811 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:44,812 - INFO - Metadados do bucket 27 salvos com sucesso.
+2024-11-05 11:14:44,813 - INFO - Iniciando processamento da instância 28
+2024-11-05 11:14:45,422 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:45,423 - INFO - Metadados do bucket 28 salvos com sucesso.
+2024-11-05 11:14:45,424 - INFO - Iniciando processamento da instância 29
+2024-11-05 11:14:45,981 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:45,981 - INFO - Metadados do bucket 29 salvos com sucesso.
+2024-11-05 11:14:45,982 - INFO - Iniciando processamento da instância 30
+2024-11-05 11:14:46,597 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:46,598 - INFO - Metadados do bucket 30 salvos com sucesso.
+2024-11-05 11:14:46,599 - INFO - Iniciando processamento da instância 31
+2024-11-05 11:14:47,245 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:47,245 - INFO - Metadados do bucket 31 salvos com sucesso.
+2024-11-05 11:14:47,247 - INFO - Iniciando processamento da instância 32
+2024-11-05 11:14:47,839 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:47,839 - INFO - Metadados do bucket 32 salvos com sucesso.
+2024-11-05 11:14:47,840 - INFO - Iniciando processamento da instância 33
+2024-11-05 11:14:48,609 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:48,610 - INFO - Metadados do bucket 33 salvos com sucesso.
+2024-11-05 11:14:48,611 - INFO - Iniciando processamento da instância 34
+2024-11-05 11:14:49,330 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:49,330 - INFO - Metadados do bucket 34 salvos com sucesso.
+2024-11-05 11:14:49,331 - INFO - Iniciando processamento da instância 35
+2024-11-05 11:14:50,050 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:50,050 - INFO - Metadados do bucket 35 salvos com sucesso.
+2024-11-05 11:14:50,051 - INFO - Iniciando processamento da instância 36
+2024-11-05 11:14:50,716 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:50,716 - INFO - Metadados do bucket 36 salvos com sucesso.
+2024-11-05 11:14:50,718 - INFO - Iniciando processamento da instância 37
+2024-11-05 11:14:51,356 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:51,356 - INFO - Metadados do bucket 37 salvos com sucesso.
+2024-11-05 11:14:51,357 - INFO - Iniciando processamento da instância 38
+2024-11-05 11:14:52,081 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:52,082 - INFO - Metadados do bucket 38 salvos com sucesso.
+2024-11-05 11:14:52,083 - INFO - Iniciando processamento da instância 39
+2024-11-05 11:14:52,774 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:52,775 - INFO - Metadados do bucket 39 salvos com sucesso.
+2024-11-05 11:14:52,776 - INFO - Iniciando processamento da instância 40
+2024-11-05 11:14:53,500 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:53,501 - INFO - Metadados do bucket 40 salvos com sucesso.
+2024-11-05 11:14:53,502 - INFO - Iniciando processamento da instância 41
+2024-11-05 11:14:54,104 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:54,104 - INFO - Metadados do bucket 41 salvos com sucesso.
+2024-11-05 11:14:54,105 - INFO - Iniciando processamento da instância 42
+2024-11-05 11:14:54,717 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:54,718 - INFO - Metadados do bucket 42 salvos com sucesso.
+2024-11-05 11:14:54,719 - INFO - Iniciando processamento da instância 43
+2024-11-05 11:14:55,415 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:55,415 - INFO - Metadados do bucket 43 salvos com sucesso.
+2024-11-05 11:14:55,415 - INFO - Iniciando processamento da instância 44
+2024-11-05 11:14:56,290 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:56,291 - INFO - Metadados do bucket 44 salvos com sucesso.
+2024-11-05 11:14:56,293 - INFO - Iniciando processamento da instância 45
+2024-11-05 11:14:56,876 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:56,876 - INFO - Metadados do bucket 45 salvos com sucesso.
+2024-11-05 11:14:56,878 - INFO - Iniciando processamento da instância 46
+2024-11-05 11:14:57,466 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:57,466 - INFO - Metadados do bucket 46 salvos com sucesso.
+2024-11-05 11:14:57,467 - INFO - Iniciando processamento da instância 47
+2024-11-05 11:14:58,043 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:58,043 - INFO - Metadados do bucket 47 salvos com sucesso.
+2024-11-05 11:14:58,044 - INFO - Iniciando processamento da instância 48
+2024-11-05 11:14:58,583 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:58,583 - INFO - Metadados do bucket 48 salvos com sucesso.
+2024-11-05 11:14:58,583 - INFO - Iniciando processamento da instância 49
+2024-11-05 11:14:59,195 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:59,195 - INFO - Metadados do bucket 49 salvos com sucesso.
+2024-11-05 11:14:59,196 - INFO - Iniciando processamento da instância 50
+2024-11-05 11:14:59,859 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:14:59,859 - INFO - Metadados do bucket 50 salvos com sucesso.
+2024-11-05 11:14:59,860 - INFO - Iniciando processamento da instância 51
+2024-11-05 11:15:00,432 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:00,432 - INFO - Metadados do bucket 51 salvos com sucesso.
+2024-11-05 11:15:00,433 - INFO - Iniciando processamento da instância 52
+2024-11-05 11:15:01,046 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:01,046 - INFO - Metadados do bucket 52 salvos com sucesso.
+2024-11-05 11:15:01,048 - INFO - Iniciando processamento da instância 53
+2024-11-05 11:15:01,711 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:01,711 - INFO - Metadados do bucket 53 salvos com sucesso.
+2024-11-05 11:15:01,713 - INFO - Iniciando processamento da instância 54
+2024-11-05 11:15:02,340 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:02,340 - INFO - Metadados do bucket 54 salvos com sucesso.
+2024-11-05 11:15:02,341 - INFO - Iniciando processamento da instância 55
+2024-11-05 11:15:02,964 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:02,964 - INFO - Metadados do bucket 55 salvos com sucesso.
+2024-11-05 11:15:02,965 - INFO - Iniciando processamento da instância 56
+2024-11-05 11:15:03,886 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:03,887 - INFO - Metadados do bucket 56 salvos com sucesso.
+2024-11-05 11:15:03,888 - INFO - Iniciando processamento da instância 57
+2024-11-05 11:15:04,490 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:04,491 - INFO - Metadados do bucket 57 salvos com sucesso.
+2024-11-05 11:15:04,492 - INFO - Iniciando processamento da instância 58
+2024-11-05 11:15:05,167 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:05,167 - INFO - Metadados do bucket 58 salvos com sucesso.
+2024-11-05 11:15:05,168 - INFO - Iniciando processamento da instância 59
+2024-11-05 11:15:06,050 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:06,050 - INFO - Metadados do bucket 59 salvos com sucesso.
+2024-11-05 11:15:06,051 - INFO - Iniciando processamento da instância 60
+2024-11-05 11:15:06,888 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:06,888 - INFO - Metadados do bucket 60 salvos com sucesso.
+2024-11-05 11:15:06,890 - INFO - Iniciando processamento da instância 61
+2024-11-05 11:15:07,527 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:07,528 - INFO - Metadados do bucket 61 salvos com sucesso.
+2024-11-05 11:15:07,528 - INFO - Iniciando processamento da instância 62
+2024-11-05 11:15:08,189 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:08,189 - INFO - Metadados do bucket 62 salvos com sucesso.
+2024-11-05 11:15:08,190 - INFO - Iniciando processamento da instância 63
+2024-11-05 11:15:08,693 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:08,693 - INFO - Metadados do bucket 63 salvos com sucesso.
+2024-11-05 11:15:08,695 - INFO - Iniciando processamento da instância 64
+2024-11-05 11:15:09,427 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:09,428 - INFO - Metadados do bucket 64 salvos com sucesso.
+2024-11-05 11:15:09,429 - INFO - Iniciando processamento da instância 65
+2024-11-05 11:15:10,014 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:10,015 - INFO - Metadados do bucket 65 salvos com sucesso.
+2024-11-05 11:15:10,016 - INFO - Iniciando processamento da instância 66
+2024-11-05 11:15:10,934 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:10,934 - INFO - Metadados do bucket 66 salvos com sucesso.
+2024-11-05 11:15:10,935 - INFO - Iniciando processamento da instância 67
+2024-11-05 11:15:11,516 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:11,517 - INFO - Metadados do bucket 67 salvos com sucesso.
+2024-11-05 11:15:11,518 - INFO - Iniciando processamento da instância 68
+2024-11-05 11:15:12,068 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:12,069 - INFO - Metadados do bucket 68 salvos com sucesso.
+2024-11-05 11:15:12,070 - INFO - Iniciando processamento da instância 69
+2024-11-05 11:15:12,643 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:12,644 - INFO - Metadados do bucket 69 salvos com sucesso.
+2024-11-05 11:15:12,645 - INFO - Iniciando processamento da instância 70
+2024-11-05 11:15:13,281 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:13,281 - INFO - Metadados do bucket 70 salvos com sucesso.
+2024-11-05 11:15:13,282 - INFO - Iniciando processamento da instância 71
+2024-11-05 11:15:13,869 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:13,870 - INFO - Metadados do bucket 71 salvos com sucesso.
+2024-11-05 11:15:13,871 - INFO - Iniciando processamento da instância 72
+2024-11-05 11:15:14,495 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:14,495 - INFO - Metadados do bucket 72 salvos com sucesso.
+2024-11-05 11:15:14,496 - INFO - Iniciando processamento da instância 73
+2024-11-05 11:15:15,130 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:15,130 - INFO - Metadados do bucket 73 salvos com sucesso.
+2024-11-05 11:15:15,131 - INFO - Iniciando processamento da instância 74
+2024-11-05 11:15:15,755 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:15,755 - INFO - Metadados do bucket 74 salvos com sucesso.
+2024-11-05 11:15:15,756 - INFO - Iniciando processamento da instância 75
+2024-11-05 11:15:16,406 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:16,406 - INFO - Metadados do bucket 75 salvos com sucesso.
+2024-11-05 11:15:16,407 - INFO - Iniciando processamento da instância 76
+2024-11-05 11:15:17,122 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:17,123 - INFO - Metadados do bucket 76 salvos com sucesso.
+2024-11-05 11:15:17,124 - INFO - Iniciando processamento da instância 77
+2024-11-05 11:15:17,733 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:17,733 - INFO - Metadados do bucket 77 salvos com sucesso.
+2024-11-05 11:15:17,735 - INFO - Iniciando processamento da instância 78
+2024-11-05 11:15:18,369 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:18,369 - INFO - Metadados do bucket 78 salvos com sucesso.
+2024-11-05 11:15:18,371 - INFO - Iniciando processamento da instância 79
+2024-11-05 11:15:18,979 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:18,979 - INFO - Metadados do bucket 79 salvos com sucesso.
+2024-11-05 11:15:18,981 - INFO - Iniciando processamento da instância 80
+2024-11-05 11:15:19,615 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:19,615 - INFO - Metadados do bucket 80 salvos com sucesso.
+2024-11-05 11:15:19,616 - INFO - Iniciando processamento da instância 81
+2024-11-05 11:15:20,255 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:20,255 - INFO - Metadados do bucket 81 salvos com sucesso.
+2024-11-05 11:15:20,256 - INFO - Iniciando processamento da instância 82
+2024-11-05 11:15:20,875 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:20,876 - INFO - Metadados do bucket 82 salvos com sucesso.
+2024-11-05 11:15:20,877 - INFO - Iniciando processamento da instância 83
+2024-11-05 11:15:21,459 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:21,460 - INFO - Metadados do bucket 83 salvos com sucesso.
+2024-11-05 11:15:21,461 - INFO - Iniciando processamento da instância 84
+2024-11-05 11:15:21,989 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:21,989 - INFO - Metadados do bucket 84 salvos com sucesso.
+2024-11-05 11:15:21,990 - INFO - Iniciando processamento da instância 85
+2024-11-05 11:15:22,707 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:22,707 - INFO - Metadados do bucket 85 salvos com sucesso.
+2024-11-05 11:15:22,708 - INFO - Iniciando processamento da instância 86
+2024-11-05 11:15:23,276 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:23,276 - INFO - Metadados do bucket 86 salvos com sucesso.
+2024-11-05 11:15:23,278 - INFO - Iniciando processamento da instância 87
+2024-11-05 11:15:23,829 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:23,830 - INFO - Metadados do bucket 87 salvos com sucesso.
+2024-11-05 11:15:23,831 - INFO - Iniciando processamento da instância 88
+2024-11-05 11:15:24,399 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:24,400 - INFO - Metadados do bucket 88 salvos com sucesso.
+2024-11-05 11:15:24,401 - INFO - Iniciando processamento da instância 89
+2024-11-05 11:15:25,025 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:25,025 - INFO - Metadados do bucket 89 salvos com sucesso.
+2024-11-05 11:15:25,025 - INFO - Iniciando processamento da instância 90
+2024-11-05 11:15:25,946 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:25,946 - INFO - Metadados do bucket 90 salvos com sucesso.
+2024-11-05 11:15:25,947 - INFO - Iniciando processamento da instância 91
+2024-11-05 11:15:26,552 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:26,553 - INFO - Metadados do bucket 91 salvos com sucesso.
+2024-11-05 11:15:26,553 - INFO - Iniciando processamento da instância 92
+2024-11-05 11:15:27,120 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:27,121 - INFO - Metadados do bucket 92 salvos com sucesso.
+2024-11-05 11:15:27,122 - INFO - Iniciando processamento da instância 93
+2024-11-05 11:15:27,882 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:27,882 - INFO - Metadados do bucket 93 salvos com sucesso.
+2024-11-05 11:15:27,884 - INFO - Iniciando processamento da instância 94
+2024-11-05 11:15:28,463 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:28,464 - INFO - Metadados do bucket 94 salvos com sucesso.
+2024-11-05 11:15:28,465 - INFO - Iniciando processamento da instância 95
+2024-11-05 11:15:29,163 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:29,164 - INFO - Metadados do bucket 95 salvos com sucesso.
+2024-11-05 11:15:29,165 - INFO - Iniciando processamento da instância 96
+2024-11-05 11:15:31,204 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:31,205 - INFO - Metadados do bucket 96 salvos com sucesso.
+2024-11-05 11:15:31,206 - INFO - Iniciando processamento da instância 97
+2024-11-05 11:15:31,831 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:31,832 - INFO - Metadados do bucket 97 salvos com sucesso.
+2024-11-05 11:15:31,833 - INFO - Iniciando processamento da instância 98
+2024-11-05 11:15:32,410 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:32,411 - INFO - Metadados do bucket 98 salvos com sucesso.
+2024-11-05 11:15:32,412 - INFO - Iniciando processamento da instância 99
+2024-11-05 11:15:33,112 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:33,113 - INFO - Metadados do bucket 99 salvos com sucesso.
+2024-11-05 11:15:33,114 - INFO - Iniciando processamento da instância 100
+2024-11-05 11:15:33,663 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:33,664 - INFO - Metadados do bucket 100 salvos com sucesso.
+2024-11-05 11:15:33,665 - INFO - Iniciando processamento da instância 101
+2024-11-05 11:15:34,413 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:34,414 - INFO - Metadados do bucket 101 salvos com sucesso.
+2024-11-05 11:15:34,415 - INFO - Iniciando processamento da instância 102
+2024-11-05 11:15:35,214 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:35,215 - INFO - Metadados do bucket 102 salvos com sucesso.
+2024-11-05 11:15:35,216 - INFO - Iniciando processamento da instância 103
+2024-11-05 11:15:36,035 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:36,036 - INFO - Metadados do bucket 103 salvos com sucesso.
+2024-11-05 11:15:36,036 - INFO - Iniciando processamento da instância 104
+2024-11-05 11:15:36,595 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:36,595 - INFO - Metadados do bucket 104 salvos com sucesso.
+2024-11-05 11:15:36,597 - INFO - Iniciando processamento da instância 105
+2024-11-05 11:15:37,249 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:37,250 - INFO - Metadados do bucket 105 salvos com sucesso.
+2024-11-05 11:15:37,251 - INFO - Iniciando processamento da instância 106
+2024-11-05 11:15:37,877 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:37,878 - INFO - Metadados do bucket 106 salvos com sucesso.
+2024-11-05 11:15:37,880 - INFO - Iniciando processamento da instância 107
+2024-11-05 11:15:38,524 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:38,524 - INFO - Metadados do bucket 107 salvos com sucesso.
+2024-11-05 11:15:38,525 - INFO - Iniciando processamento da instância 108
+2024-11-05 11:15:39,092 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:39,093 - INFO - Metadados do bucket 108 salvos com sucesso.
+2024-11-05 11:15:39,095 - INFO - Iniciando processamento da instância 109
+2024-11-05 11:15:39,729 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:39,730 - INFO - Metadados do bucket 109 salvos com sucesso.
+2024-11-05 11:15:39,731 - INFO - Iniciando processamento da instância 110
+2024-11-05 11:15:40,680 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:40,681 - INFO - Metadados do bucket 110 salvos com sucesso.
+2024-11-05 11:15:40,682 - INFO - Iniciando processamento da instância 111
+2024-11-05 11:15:41,342 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:41,343 - INFO - Metadados do bucket 111 salvos com sucesso.
+2024-11-05 11:15:41,344 - INFO - Iniciando processamento da instância 112
+2024-11-05 11:15:41,923 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:41,923 - INFO - Metadados do bucket 112 salvos com sucesso.
+2024-11-05 11:15:41,925 - INFO - Iniciando processamento da instância 113
+2024-11-05 11:15:42,595 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:42,595 - INFO - Metadados do bucket 113 salvos com sucesso.
+2024-11-05 11:15:42,597 - INFO - Iniciando processamento da instância 114
+2024-11-05 11:15:43,263 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:43,264 - INFO - Metadados do bucket 114 salvos com sucesso.
+2024-11-05 11:15:43,265 - INFO - Iniciando processamento da instância 115
+2024-11-05 11:15:43,819 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:43,820 - INFO - Metadados do bucket 115 salvos com sucesso.
+2024-11-05 11:15:43,821 - INFO - Iniciando processamento da instância 116
+2024-11-05 11:15:44,608 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:44,609 - INFO - Metadados do bucket 116 salvos com sucesso.
+2024-11-05 11:15:44,610 - INFO - Iniciando processamento da instância 117
+2024-11-05 11:15:45,307 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:45,307 - INFO - Metadados do bucket 117 salvos com sucesso.
+2024-11-05 11:15:45,307 - INFO - Iniciando processamento da instância 118
+2024-11-05 11:15:45,940 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:45,941 - INFO - Metadados do bucket 118 salvos com sucesso.
+2024-11-05 11:15:45,943 - INFO - Iniciando processamento da instância 119
+2024-11-05 11:15:46,579 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:46,579 - INFO - Metadados do bucket 119 salvos com sucesso.
+2024-11-05 11:15:46,581 - INFO - Iniciando processamento da instância 120
+2024-11-05 11:15:47,152 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:47,152 - INFO - Metadados do bucket 120 salvos com sucesso.
+2024-11-05 11:15:47,153 - INFO - Iniciando processamento da instância 121
+2024-11-05 11:15:47,754 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:47,755 - INFO - Metadados do bucket 121 salvos com sucesso.
+2024-11-05 11:15:47,756 - INFO - Iniciando processamento da instância 122
+2024-11-05 11:15:48,351 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:48,352 - INFO - Metadados do bucket 122 salvos com sucesso.
+2024-11-05 11:15:48,353 - INFO - Iniciando processamento da instância 123
+2024-11-05 11:15:48,863 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:48,863 - INFO - Metadados do bucket 123 salvos com sucesso.
+2024-11-05 11:15:48,865 - INFO - Iniciando processamento da instância 124
+2024-11-05 11:15:49,456 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:49,457 - INFO - Metadados do bucket 124 salvos com sucesso.
+2024-11-05 11:15:49,458 - INFO - Iniciando processamento da instância 125
+2024-11-05 11:15:50,091 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:50,092 - INFO - Metadados do bucket 125 salvos com sucesso.
+2024-11-05 11:15:50,093 - INFO - Iniciando processamento da instância 126
+2024-11-05 11:15:52,748 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:52,749 - INFO - Metadados do bucket 126 salvos com sucesso.
+2024-11-05 11:15:52,750 - INFO - Iniciando processamento da instância 127
+2024-11-05 11:15:53,305 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:53,305 - INFO - Metadados do bucket 127 salvos com sucesso.
+2024-11-05 11:15:53,306 - INFO - Iniciando processamento da instância 128
+2024-11-05 11:15:53,951 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:53,951 - INFO - Metadados do bucket 128 salvos com sucesso.
+2024-11-05 11:15:53,953 - INFO - Iniciando processamento da instância 129
+2024-11-05 11:15:54,778 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:54,779 - INFO - Metadados do bucket 129 salvos com sucesso.
+2024-11-05 11:15:54,780 - INFO - Iniciando processamento da instância 130
+2024-11-05 11:15:55,396 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:55,397 - INFO - Metadados do bucket 130 salvos com sucesso.
+2024-11-05 11:15:55,398 - INFO - Iniciando processamento da instância 131
+2024-11-05 11:15:56,024 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:56,025 - INFO - Metadados do bucket 131 salvos com sucesso.
+2024-11-05 11:15:56,026 - INFO - Iniciando processamento da instância 132
+2024-11-05 11:15:56,778 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:56,779 - INFO - Metadados do bucket 132 salvos com sucesso.
+2024-11-05 11:15:56,780 - INFO - Iniciando processamento da instância 133
+2024-11-05 11:15:57,470 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:57,470 - INFO - Metadados do bucket 133 salvos com sucesso.
+2024-11-05 11:15:57,471 - INFO - Iniciando processamento da instância 134
+2024-11-05 11:15:58,056 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:58,056 - INFO - Metadados do bucket 134 salvos com sucesso.
+2024-11-05 11:15:58,057 - INFO - Iniciando processamento da instância 135
+2024-11-05 11:15:58,648 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:15:58,648 - INFO - Metadados do bucket 135 salvos com sucesso.
+2024-11-05 11:15:58,650 - INFO - Iniciando processamento da instância 136
+2024-11-05 11:16:03,598 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:03,599 - INFO - Metadados do bucket 136 salvos com sucesso.
+2024-11-05 11:16:03,600 - INFO - Iniciando processamento da instância 137
+2024-11-05 11:16:04,145 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:04,146 - INFO - Metadados do bucket 137 salvos com sucesso.
+2024-11-05 11:16:04,147 - INFO - Iniciando processamento da instância 138
+2024-11-05 11:16:04,727 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:04,728 - INFO - Metadados do bucket 138 salvos com sucesso.
+2024-11-05 11:16:04,729 - INFO - Iniciando processamento da instância 139
+2024-11-05 11:16:05,298 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:05,298 - INFO - Metadados do bucket 139 salvos com sucesso.
+2024-11-05 11:16:05,299 - INFO - Iniciando processamento da instância 140
+2024-11-05 11:16:05,905 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:05,906 - INFO - Metadados do bucket 140 salvos com sucesso.
+2024-11-05 11:16:05,907 - INFO - Iniciando processamento da instância 141
+2024-11-05 11:16:06,556 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:06,556 - INFO - Metadados do bucket 141 salvos com sucesso.
+2024-11-05 11:16:06,557 - INFO - Iniciando processamento da instância 142
+2024-11-05 11:16:07,157 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:07,158 - INFO - Metadados do bucket 142 salvos com sucesso.
+2024-11-05 11:16:07,159 - INFO - Iniciando processamento da instância 143
+2024-11-05 11:16:07,712 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:07,713 - INFO - Metadados do bucket 143 salvos com sucesso.
+2024-11-05 11:16:07,714 - INFO - Iniciando processamento da instância 144
+2024-11-05 11:16:08,367 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:08,367 - INFO - Metadados do bucket 144 salvos com sucesso.
+2024-11-05 11:16:08,369 - INFO - Iniciando processamento da instância 145
+2024-11-05 11:16:09,070 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:09,070 - INFO - Metadados do bucket 145 salvos com sucesso.
+2024-11-05 11:16:09,071 - INFO - Iniciando processamento da instância 146
+2024-11-05 11:16:09,663 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:09,664 - INFO - Metadados do bucket 146 salvos com sucesso.
+2024-11-05 11:16:09,665 - INFO - Iniciando processamento da instância 147
+2024-11-05 11:16:10,373 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:10,374 - INFO - Metadados do bucket 147 salvos com sucesso.
+2024-11-05 11:16:10,375 - INFO - Iniciando processamento da instância 148
+2024-11-05 11:16:10,982 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:10,983 - INFO - Metadados do bucket 148 salvos com sucesso.
+2024-11-05 11:16:10,984 - INFO - Iniciando processamento da instância 149
+2024-11-05 11:16:11,812 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:11,812 - INFO - Metadados do bucket 149 salvos com sucesso.
+2024-11-05 11:16:11,813 - INFO - Iniciando processamento da instância 150
+2024-11-05 11:16:12,417 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:12,418 - INFO - Metadados do bucket 150 salvos com sucesso.
+2024-11-05 11:16:12,419 - INFO - Iniciando processamento da instância 151
+2024-11-05 11:16:13,069 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:13,069 - INFO - Metadados do bucket 151 salvos com sucesso.
+2024-11-05 11:16:13,070 - INFO - Iniciando processamento da instância 152
+2024-11-05 11:16:13,727 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:13,728 - INFO - Metadados do bucket 152 salvos com sucesso.
+2024-11-05 11:16:13,729 - INFO - Iniciando processamento da instância 153
+2024-11-05 11:16:14,288 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:14,289 - INFO - Metadados do bucket 153 salvos com sucesso.
+2024-11-05 11:16:14,290 - INFO - Iniciando processamento da instância 154
+2024-11-05 11:16:14,816 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:14,817 - INFO - Metadados do bucket 154 salvos com sucesso.
+2024-11-05 11:16:14,818 - INFO - Iniciando processamento da instância 155
+2024-11-05 11:16:15,401 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:15,401 - INFO - Metadados do bucket 155 salvos com sucesso.
+2024-11-05 11:16:15,402 - INFO - Iniciando processamento da instância 156
+2024-11-05 11:16:21,815 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:21,816 - INFO - Metadados do bucket 156 salvos com sucesso.
+2024-11-05 11:16:21,817 - INFO - Iniciando processamento da instância 157
+2024-11-05 11:16:22,446 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:22,446 - INFO - Metadados do bucket 157 salvos com sucesso.
+2024-11-05 11:16:22,447 - INFO - Iniciando processamento da instância 158
+2024-11-05 11:16:23,122 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:23,122 - INFO - Metadados do bucket 158 salvos com sucesso.
+2024-11-05 11:16:23,123 - INFO - Iniciando processamento da instância 159
+2024-11-05 11:16:23,716 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:23,717 - INFO - Metadados do bucket 159 salvos com sucesso.
+2024-11-05 11:16:23,718 - INFO - Iniciando processamento da instância 160
+2024-11-05 11:16:24,342 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:24,343 - INFO - Metadados do bucket 160 salvos com sucesso.
+2024-11-05 11:16:24,344 - INFO - Iniciando processamento da instância 161
+2024-11-05 11:16:25,059 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:25,060 - INFO - Metadados do bucket 161 salvos com sucesso.
+2024-11-05 11:16:25,060 - INFO - Iniciando processamento da instância 162
+2024-11-05 11:16:25,666 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:25,666 - INFO - Metadados do bucket 162 salvos com sucesso.
+2024-11-05 11:16:25,667 - INFO - Iniciando processamento da instância 163
+2024-11-05 11:16:26,300 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:26,301 - INFO - Metadados do bucket 163 salvos com sucesso.
+2024-11-05 11:16:26,302 - INFO - Iniciando processamento da instância 164
+2024-11-05 11:16:26,941 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:26,942 - INFO - Metadados do bucket 164 salvos com sucesso.
+2024-11-05 11:16:26,943 - INFO - Iniciando processamento da instância 165
+2024-11-05 11:16:27,539 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:27,539 - INFO - Metadados do bucket 165 salvos com sucesso.
+2024-11-05 11:16:27,539 - INFO - Iniciando processamento da instância 166
+2024-11-05 11:16:28,254 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:28,255 - INFO - Metadados do bucket 166 salvos com sucesso.
+2024-11-05 11:16:28,256 - INFO - Iniciando processamento da instância 167
+2024-11-05 11:16:28,869 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:28,870 - INFO - Metadados do bucket 167 salvos com sucesso.
+2024-11-05 11:16:28,871 - INFO - Iniciando processamento da instância 168
+2024-11-05 11:16:29,524 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:29,524 - INFO - Metadados do bucket 168 salvos com sucesso.
+2024-11-05 11:16:29,525 - INFO - Iniciando processamento da instância 169
+2024-11-05 11:16:30,221 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:30,222 - INFO - Metadados do bucket 169 salvos com sucesso.
+2024-11-05 11:16:30,223 - INFO - Iniciando processamento da instância 170
+2024-11-05 11:16:30,980 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:30,980 - INFO - Metadados do bucket 170 salvos com sucesso.
+2024-11-05 11:16:30,981 - INFO - Iniciando processamento da instância 171
+2024-11-05 11:16:31,636 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:31,637 - INFO - Metadados do bucket 171 salvos com sucesso.
+2024-11-05 11:16:31,638 - INFO - Iniciando processamento da instância 172
+2024-11-05 11:16:32,285 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:32,286 - INFO - Metadados do bucket 172 salvos com sucesso.
+2024-11-05 11:16:32,287 - INFO - Iniciando processamento da instância 173
+2024-11-05 11:16:32,980 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:32,981 - INFO - Metadados do bucket 173 salvos com sucesso.
+2024-11-05 11:16:32,982 - INFO - Iniciando processamento da instância 174
+2024-11-05 11:16:34,234 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:34,234 - INFO - Metadados do bucket 174 salvos com sucesso.
+2024-11-05 11:16:34,236 - INFO - Iniciando processamento da instância 175
+2024-11-05 11:16:34,883 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:34,883 - INFO - Metadados do bucket 175 salvos com sucesso.
+2024-11-05 11:16:34,884 - INFO - Iniciando processamento da instância 176
+2024-11-05 11:16:35,727 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:35,728 - INFO - Metadados do bucket 176 salvos com sucesso.
+2024-11-05 11:16:35,729 - INFO - Iniciando processamento da instância 177
+2024-11-05 11:16:36,777 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:36,777 - INFO - Metadados do bucket 177 salvos com sucesso.
+2024-11-05 11:16:36,778 - INFO - Iniciando processamento da instância 178
+2024-11-05 11:16:37,754 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:37,754 - INFO - Metadados do bucket 178 salvos com sucesso.
+2024-11-05 11:16:37,755 - INFO - Iniciando processamento da instância 179
+2024-11-05 11:16:38,740 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:38,740 - INFO - Metadados do bucket 179 salvos com sucesso.
+2024-11-05 11:16:38,741 - INFO - Iniciando processamento da instância 180
+2024-11-05 11:16:39,714 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:39,714 - INFO - Metadados do bucket 180 salvos com sucesso.
+2024-11-05 11:16:39,715 - INFO - Iniciando processamento da instância 181
+2024-11-05 11:16:40,580 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:40,580 - INFO - Metadados do bucket 181 salvos com sucesso.
+2024-11-05 11:16:40,581 - INFO - Iniciando processamento da instância 182
+2024-11-05 11:16:41,206 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:41,206 - INFO - Metadados do bucket 182 salvos com sucesso.
+2024-11-05 11:16:41,207 - INFO - Iniciando processamento da instância 183
+2024-11-05 11:16:42,058 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:42,058 - INFO - Metadados do bucket 183 salvos com sucesso.
+2024-11-05 11:16:42,059 - INFO - Iniciando processamento da instância 184
+2024-11-05 11:16:42,668 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:42,668 - INFO - Metadados do bucket 184 salvos com sucesso.
+2024-11-05 11:16:42,669 - INFO - Iniciando processamento da instância 185
+2024-11-05 11:16:43,775 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:43,776 - INFO - Metadados do bucket 185 salvos com sucesso.
+2024-11-05 11:16:43,777 - INFO - Iniciando processamento da instância 186
+2024-11-05 11:16:45,340 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:45,340 - INFO - Metadados do bucket 186 salvos com sucesso.
+2024-11-05 11:16:45,341 - INFO - Iniciando processamento da instância 187
+2024-11-05 11:16:46,058 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:46,059 - INFO - Metadados do bucket 187 salvos com sucesso.
+2024-11-05 11:16:46,059 - INFO - Iniciando processamento da instância 188
+2024-11-05 11:16:46,647 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:46,647 - INFO - Metadados do bucket 188 salvos com sucesso.
+2024-11-05 11:16:46,648 - INFO - Iniciando processamento da instância 189
+2024-11-05 11:16:47,271 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:47,271 - INFO - Metadados do bucket 189 salvos com sucesso.
+2024-11-05 11:16:47,272 - INFO - Iniciando processamento da instância 190
+2024-11-05 11:16:47,899 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:47,900 - INFO - Metadados do bucket 190 salvos com sucesso.
+2024-11-05 11:16:47,901 - INFO - Iniciando processamento da instância 191
+2024-11-05 11:16:48,532 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:48,532 - INFO - Metadados do bucket 191 salvos com sucesso.
+2024-11-05 11:16:48,532 - INFO - Iniciando processamento da instância 192
+2024-11-05 11:16:49,098 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:49,099 - INFO - Metadados do bucket 192 salvos com sucesso.
+2024-11-05 11:16:49,100 - INFO - Iniciando processamento da instância 193
+2024-11-05 11:16:49,752 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:49,752 - INFO - Metadados do bucket 193 salvos com sucesso.
+2024-11-05 11:16:49,753 - INFO - Iniciando processamento da instância 194
+2024-11-05 11:16:50,352 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:50,353 - INFO - Metadados do bucket 194 salvos com sucesso.
+2024-11-05 11:16:50,354 - INFO - Iniciando processamento da instância 195
+2024-11-05 11:16:50,958 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:50,958 - INFO - Metadados do bucket 195 salvos com sucesso.
+2024-11-05 11:16:50,960 - INFO - Iniciando processamento da instância 196
+2024-11-05 11:16:51,613 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:51,614 - INFO - Metadados do bucket 196 salvos com sucesso.
+2024-11-05 11:16:51,615 - INFO - Iniciando processamento da instância 197
+2024-11-05 11:16:52,217 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:52,217 - INFO - Metadados do bucket 197 salvos com sucesso.
+2024-11-05 11:16:52,218 - INFO - Iniciando processamento da instância 198
+2024-11-05 11:16:53,025 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:53,025 - INFO - Metadados do bucket 198 salvos com sucesso.
+2024-11-05 11:16:53,026 - INFO - Iniciando processamento da instância 199
+2024-11-05 11:16:53,701 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:53,701 - INFO - Metadados do bucket 199 salvos com sucesso.
+2024-11-05 11:16:53,702 - INFO - Iniciando processamento da instância 200
+2024-11-05 11:16:54,257 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:54,258 - INFO - Metadados do bucket 200 salvos com sucesso.
+2024-11-05 11:16:54,259 - INFO - Iniciando processamento da instância 201
+2024-11-05 11:16:54,825 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:54,825 - INFO - Metadados do bucket 201 salvos com sucesso.
+2024-11-05 11:16:54,826 - INFO - Iniciando processamento da instância 202
+2024-11-05 11:16:55,383 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:55,383 - INFO - Metadados do bucket 202 salvos com sucesso.
+2024-11-05 11:16:55,384 - INFO - Iniciando processamento da instância 203
+2024-11-05 11:16:55,990 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:55,991 - INFO - Metadados do bucket 203 salvos com sucesso.
+2024-11-05 11:16:55,992 - INFO - Iniciando processamento da instância 204
+2024-11-05 11:16:56,676 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:56,677 - INFO - Metadados do bucket 204 salvos com sucesso.
+2024-11-05 11:16:56,678 - INFO - Iniciando processamento da instância 205
+2024-11-05 11:16:57,317 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:16:57,318 - INFO - Metadados do bucket 205 salvos com sucesso.
+2024-11-05 11:16:57,319 - INFO - Iniciando processamento da instância 206
+2024-11-05 11:17:04,825 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:04,826 - INFO - Metadados do bucket 206 salvos com sucesso.
+2024-11-05 11:17:04,827 - INFO - Iniciando processamento da instância 207
+2024-11-05 11:17:05,399 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:05,399 - INFO - Metadados do bucket 207 salvos com sucesso.
+2024-11-05 11:17:05,401 - INFO - Iniciando processamento da instância 208
+2024-11-05 11:17:05,992 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:05,993 - INFO - Metadados do bucket 208 salvos com sucesso.
+2024-11-05 11:17:05,994 - INFO - Iniciando processamento da instância 209
+2024-11-05 11:17:06,591 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:06,592 - INFO - Metadados do bucket 209 salvos com sucesso.
+2024-11-05 11:17:06,593 - INFO - Iniciando processamento da instância 210
+2024-11-05 11:17:07,219 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:07,220 - INFO - Metadados do bucket 210 salvos com sucesso.
+2024-11-05 11:17:07,221 - INFO - Iniciando processamento da instância 211
+2024-11-05 11:17:07,816 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:07,816 - INFO - Metadados do bucket 211 salvos com sucesso.
+2024-11-05 11:17:07,817 - INFO - Iniciando processamento da instância 212
+2024-11-05 11:17:08,435 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:08,436 - INFO - Metadados do bucket 212 salvos com sucesso.
+2024-11-05 11:17:08,437 - INFO - Iniciando processamento da instância 213
+2024-11-05 11:17:08,935 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:08,935 - INFO - Metadados do bucket 213 salvos com sucesso.
+2024-11-05 11:17:08,936 - INFO - Iniciando processamento da instância 214
+2024-11-05 11:17:09,589 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:09,590 - INFO - Metadados do bucket 214 salvos com sucesso.
+2024-11-05 11:17:09,591 - INFO - Iniciando processamento da instância 215
+2024-11-05 11:17:10,215 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:10,216 - INFO - Metadados do bucket 215 salvos com sucesso.
+2024-11-05 11:17:10,217 - INFO - Iniciando processamento da instância 216
+2024-11-05 11:17:10,836 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:10,836 - INFO - Metadados do bucket 216 salvos com sucesso.
+2024-11-05 11:17:10,837 - INFO - Iniciando processamento da instância 217
+2024-11-05 11:17:11,630 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:11,630 - INFO - Metadados do bucket 217 salvos com sucesso.
+2024-11-05 11:17:11,631 - INFO - Iniciando processamento da instância 218
+2024-11-05 11:17:12,266 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:12,267 - INFO - Metadados do bucket 218 salvos com sucesso.
+2024-11-05 11:17:12,269 - INFO - Iniciando processamento da instância 219
+2024-11-05 11:17:12,861 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:12,862 - INFO - Metadados do bucket 219 salvos com sucesso.
+2024-11-05 11:17:12,863 - INFO - Iniciando processamento da instância 220
+2024-11-05 11:17:13,493 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:13,493 - INFO - Metadados do bucket 220 salvos com sucesso.
+2024-11-05 11:17:13,494 - INFO - Iniciando processamento da instância 221
+2024-11-05 11:17:14,176 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:14,177 - INFO - Metadados do bucket 221 salvos com sucesso.
+2024-11-05 11:17:14,178 - INFO - Iniciando processamento da instância 222
+2024-11-05 11:17:15,343 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:15,344 - INFO - Metadados do bucket 222 salvos com sucesso.
+2024-11-05 11:17:15,346 - INFO - Iniciando processamento da instância 223
+2024-11-05 11:17:15,909 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:15,909 - INFO - Metadados do bucket 223 salvos com sucesso.
+2024-11-05 11:17:15,909 - INFO - Iniciando processamento da instância 224
+2024-11-05 11:17:16,521 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:16,521 - INFO - Metadados do bucket 224 salvos com sucesso.
+2024-11-05 11:17:16,521 - INFO - Iniciando processamento da instância 225
+2024-11-05 11:17:17,187 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:17,187 - INFO - Metadados do bucket 225 salvos com sucesso.
+2024-11-05 11:17:17,188 - INFO - Iniciando processamento da instância 226
+2024-11-05 11:17:21,142 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:21,142 - INFO - Metadados do bucket 226 salvos com sucesso.
+2024-11-05 11:17:21,144 - INFO - Iniciando processamento da instância 227
+2024-11-05 11:17:21,755 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:21,756 - INFO - Metadados do bucket 227 salvos com sucesso.
+2024-11-05 11:17:21,757 - INFO - Iniciando processamento da instância 228
+2024-11-05 11:17:22,427 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:22,428 - INFO - Metadados do bucket 228 salvos com sucesso.
+2024-11-05 11:17:22,429 - INFO - Iniciando processamento da instância 229
+2024-11-05 11:17:23,007 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:23,008 - INFO - Metadados do bucket 229 salvos com sucesso.
+2024-11-05 11:17:23,009 - INFO - Iniciando processamento da instância 230
+2024-11-05 11:17:23,952 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:23,953 - INFO - Metadados do bucket 230 salvos com sucesso.
+2024-11-05 11:17:23,954 - INFO - Iniciando processamento da instância 231
+2024-11-05 11:17:24,546 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:24,547 - INFO - Metadados do bucket 231 salvos com sucesso.
+2024-11-05 11:17:24,547 - INFO - Iniciando processamento da instância 232
+2024-11-05 11:17:25,139 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:25,139 - INFO - Metadados do bucket 232 salvos com sucesso.
+2024-11-05 11:17:25,140 - INFO - Iniciando processamento da instância 233
+2024-11-05 11:17:25,753 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:25,754 - INFO - Metadados do bucket 233 salvos com sucesso.
+2024-11-05 11:17:25,755 - INFO - Iniciando processamento da instância 234
+2024-11-05 11:17:26,416 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:26,416 - INFO - Metadados do bucket 234 salvos com sucesso.
+2024-11-05 11:17:26,417 - INFO - Iniciando processamento da instância 235
+2024-11-05 11:17:27,036 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:27,036 - INFO - Metadados do bucket 235 salvos com sucesso.
+2024-11-05 11:17:27,037 - INFO - Iniciando processamento da instância 236
+2024-11-05 11:17:27,758 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:27,759 - INFO - Metadados do bucket 236 salvos com sucesso.
+2024-11-05 11:17:27,760 - INFO - Iniciando processamento da instância 237
+2024-11-05 11:17:28,365 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:28,365 - INFO - Metadados do bucket 237 salvos com sucesso.
+2024-11-05 11:17:28,367 - INFO - Iniciando processamento da instância 238
+2024-11-05 11:17:29,445 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:29,445 - INFO - Metadados do bucket 238 salvos com sucesso.
+2024-11-05 11:17:29,446 - INFO - Iniciando processamento da instância 239
+2024-11-05 11:17:29,974 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:29,975 - INFO - Metadados do bucket 239 salvos com sucesso.
+2024-11-05 11:17:29,976 - INFO - Iniciando processamento da instância 240
+2024-11-05 11:17:30,767 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:30,767 - INFO - Metadados do bucket 240 salvos com sucesso.
+2024-11-05 11:17:30,769 - INFO - Iniciando processamento da instância 241
+2024-11-05 11:17:31,376 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:31,376 - INFO - Metadados do bucket 241 salvos com sucesso.
+2024-11-05 11:17:31,378 - INFO - Iniciando processamento da instância 242
+2024-11-05 11:17:32,282 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:32,282 - INFO - Metadados do bucket 242 salvos com sucesso.
+2024-11-05 11:17:32,284 - INFO - Iniciando processamento da instância 243
+2024-11-05 11:17:33,098 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:33,099 - INFO - Metadados do bucket 243 salvos com sucesso.
+2024-11-05 11:17:33,100 - INFO - Iniciando processamento da instância 244
+2024-11-05 11:17:33,835 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:33,836 - INFO - Metadados do bucket 244 salvos com sucesso.
+2024-11-05 11:17:33,837 - INFO - Iniciando processamento da instância 245
+2024-11-05 11:17:34,686 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:34,687 - INFO - Metadados do bucket 245 salvos com sucesso.
+2024-11-05 11:17:34,688 - INFO - Iniciando processamento da instância 246
+2024-11-05 11:17:35,456 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:35,457 - INFO - Metadados do bucket 246 salvos com sucesso.
+2024-11-05 11:17:35,458 - INFO - Iniciando processamento da instância 247
+2024-11-05 11:17:36,003 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:36,003 - INFO - Metadados do bucket 247 salvos com sucesso.
+2024-11-05 11:17:36,005 - INFO - Iniciando processamento da instância 248
+2024-11-05 11:17:36,886 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:36,886 - INFO - Metadados do bucket 248 salvos com sucesso.
+2024-11-05 11:17:36,888 - INFO - Iniciando processamento da instância 249
+2024-11-05 11:17:37,682 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:37,683 - INFO - Metadados do bucket 249 salvos com sucesso.
+2024-11-05 11:17:37,684 - INFO - Iniciando processamento da instância 250
+2024-11-05 11:17:38,613 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:38,613 - INFO - Metadados do bucket 250 salvos com sucesso.
+2024-11-05 11:17:38,614 - INFO - Iniciando processamento da instância 251
+2024-11-05 11:17:39,710 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:39,710 - INFO - Metadados do bucket 251 salvos com sucesso.
+2024-11-05 11:17:39,712 - INFO - Iniciando processamento da instância 252
+2024-11-05 11:17:40,342 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:40,342 - INFO - Metadados do bucket 252 salvos com sucesso.
+2024-11-05 11:17:40,343 - INFO - Iniciando processamento da instância 253
+2024-11-05 11:17:41,230 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:41,230 - INFO - Metadados do bucket 253 salvos com sucesso.
+2024-11-05 11:17:41,232 - INFO - Iniciando processamento da instância 254
+2024-11-05 11:17:42,306 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:42,307 - INFO - Metadados do bucket 254 salvos com sucesso.
+2024-11-05 11:17:42,308 - INFO - Iniciando processamento da instância 255
+2024-11-05 11:17:43,348 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:43,348 - INFO - Metadados do bucket 255 salvos com sucesso.
+2024-11-05 11:17:43,349 - INFO - Iniciando processamento da instância 256
+2024-11-05 11:17:44,418 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:44,418 - INFO - Metadados do bucket 256 salvos com sucesso.
+2024-11-05 11:17:44,419 - INFO - Iniciando processamento da instância 257
+2024-11-05 11:17:45,111 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:45,112 - INFO - Metadados do bucket 257 salvos com sucesso.
+2024-11-05 11:17:45,113 - INFO - Iniciando processamento da instância 258
+2024-11-05 11:17:46,159 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:46,160 - INFO - Metadados do bucket 258 salvos com sucesso.
+2024-11-05 11:17:46,162 - INFO - Iniciando processamento da instância 259
+2024-11-05 11:17:47,003 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:47,004 - INFO - Metadados do bucket 259 salvos com sucesso.
+2024-11-05 11:17:47,005 - INFO - Iniciando processamento da instância 260
+2024-11-05 11:17:47,612 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:47,612 - INFO - Metadados do bucket 260 salvos com sucesso.
+2024-11-05 11:17:47,613 - INFO - Iniciando processamento da instância 261
+2024-11-05 11:17:48,208 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:48,209 - INFO - Metadados do bucket 261 salvos com sucesso.
+2024-11-05 11:17:48,210 - INFO - Iniciando processamento da instância 262
+2024-11-05 11:17:48,843 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:48,844 - INFO - Metadados do bucket 262 salvos com sucesso.
+2024-11-05 11:17:48,845 - INFO - Iniciando processamento da instância 263
+2024-11-05 11:17:49,573 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:49,573 - INFO - Metadados do bucket 263 salvos com sucesso.
+2024-11-05 11:17:49,574 - INFO - Iniciando processamento da instância 264
+2024-11-05 11:17:50,197 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:50,198 - INFO - Metadados do bucket 264 salvos com sucesso.
+2024-11-05 11:17:50,199 - INFO - Iniciando processamento da instância 265
+2024-11-05 11:17:50,851 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:50,851 - INFO - Metadados do bucket 265 salvos com sucesso.
+2024-11-05 11:17:50,852 - INFO - Iniciando processamento da instância 266
+2024-11-05 11:17:51,417 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:51,418 - INFO - Metadados do bucket 266 salvos com sucesso.
+2024-11-05 11:17:51,419 - INFO - Iniciando processamento da instância 267
+2024-11-05 11:17:52,032 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:52,032 - INFO - Metadados do bucket 267 salvos com sucesso.
+2024-11-05 11:17:52,033 - INFO - Iniciando processamento da instância 268
+2024-11-05 11:17:52,614 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:52,614 - INFO - Metadados do bucket 268 salvos com sucesso.
+2024-11-05 11:17:52,615 - INFO - Iniciando processamento da instância 269
+2024-11-05 11:17:53,140 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:53,141 - INFO - Metadados do bucket 269 salvos com sucesso.
+2024-11-05 11:17:53,142 - INFO - Iniciando processamento da instância 270
+2024-11-05 11:17:53,743 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:53,743 - INFO - Metadados do bucket 270 salvos com sucesso.
+2024-11-05 11:17:53,745 - INFO - Iniciando processamento da instância 271
+2024-11-05 11:17:54,385 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:54,386 - INFO - Metadados do bucket 271 salvos com sucesso.
+2024-11-05 11:17:54,387 - INFO - Iniciando processamento da instância 272
+2024-11-05 11:17:54,998 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:54,998 - INFO - Metadados do bucket 272 salvos com sucesso.
+2024-11-05 11:17:54,999 - INFO - Iniciando processamento da instância 273
+2024-11-05 11:17:55,536 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:55,536 - INFO - Metadados do bucket 273 salvos com sucesso.
+2024-11-05 11:17:55,536 - INFO - Iniciando processamento da instância 274
+2024-11-05 11:17:56,122 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:56,122 - INFO - Metadados do bucket 274 salvos com sucesso.
+2024-11-05 11:17:56,123 - INFO - Iniciando processamento da instância 275
+2024-11-05 11:17:56,764 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:56,764 - INFO - Metadados do bucket 275 salvos com sucesso.
+2024-11-05 11:17:56,765 - INFO - Iniciando processamento da instância 276
+2024-11-05 11:17:57,372 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:57,372 - INFO - Metadados do bucket 276 salvos com sucesso.
+2024-11-05 11:17:57,374 - INFO - Iniciando processamento da instância 277
+2024-11-05 11:17:57,989 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:57,990 - INFO - Metadados do bucket 277 salvos com sucesso.
+2024-11-05 11:17:57,991 - INFO - Iniciando processamento da instância 278
+2024-11-05 11:17:58,615 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:58,616 - INFO - Metadados do bucket 278 salvos com sucesso.
+2024-11-05 11:17:58,617 - INFO - Iniciando processamento da instância 279
+2024-11-05 11:17:59,240 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:59,241 - INFO - Metadados do bucket 279 salvos com sucesso.
+2024-11-05 11:17:59,242 - INFO - Iniciando processamento da instância 280
+2024-11-05 11:17:59,867 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:17:59,867 - INFO - Metadados do bucket 280 salvos com sucesso.
+2024-11-05 11:17:59,868 - INFO - Iniciando processamento da instância 281
+2024-11-05 11:18:00,449 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:00,449 - INFO - Metadados do bucket 281 salvos com sucesso.
+2024-11-05 11:18:00,450 - INFO - Iniciando processamento da instância 282
+2024-11-05 11:18:01,118 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:01,119 - INFO - Metadados do bucket 282 salvos com sucesso.
+2024-11-05 11:18:01,120 - INFO - Iniciando processamento da instância 283
+2024-11-05 11:18:01,706 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:01,707 - INFO - Metadados do bucket 283 salvos com sucesso.
+2024-11-05 11:18:01,708 - INFO - Iniciando processamento da instância 284
+2024-11-05 11:18:02,301 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:02,301 - INFO - Metadados do bucket 284 salvos com sucesso.
+2024-11-05 11:18:02,303 - INFO - Iniciando processamento da instância 285
+2024-11-05 11:18:02,868 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:02,869 - INFO - Metadados do bucket 285 salvos com sucesso.
+2024-11-05 11:18:02,870 - INFO - Iniciando processamento da instância 286
+2024-11-05 11:18:03,508 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:03,509 - INFO - Metadados do bucket 286 salvos com sucesso.
+2024-11-05 11:18:03,510 - INFO - Iniciando processamento da instância 287
+2024-11-05 11:18:04,156 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:04,157 - INFO - Metadados do bucket 287 salvos com sucesso.
+2024-11-05 11:18:04,158 - INFO - Iniciando processamento da instância 288
+2024-11-05 11:18:04,826 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:04,826 - INFO - Metadados do bucket 288 salvos com sucesso.
+2024-11-05 11:18:04,827 - INFO - Iniciando processamento da instância 289
+2024-11-05 11:18:05,568 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:05,569 - INFO - Metadados do bucket 289 salvos com sucesso.
+2024-11-05 11:18:05,569 - INFO - Iniciando processamento da instância 290
+2024-11-05 11:18:06,229 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:06,230 - INFO - Metadados do bucket 290 salvos com sucesso.
+2024-11-05 11:18:06,231 - INFO - Iniciando processamento da instância 291
+2024-11-05 11:18:06,910 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:06,911 - INFO - Metadados do bucket 291 salvos com sucesso.
+2024-11-05 11:18:06,912 - INFO - Iniciando processamento da instância 292
+2024-11-05 11:18:07,579 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:07,579 - INFO - Metadados do bucket 292 salvos com sucesso.
+2024-11-05 11:18:07,580 - INFO - Iniciando processamento da instância 293
+2024-11-05 11:18:08,229 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:08,230 - INFO - Metadados do bucket 293 salvos com sucesso.
+2024-11-05 11:18:08,231 - INFO - Iniciando processamento da instância 294
+2024-11-05 11:18:08,837 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:08,838 - INFO - Metadados do bucket 294 salvos com sucesso.
+2024-11-05 11:18:08,839 - INFO - Iniciando processamento da instância 295
+2024-11-05 11:18:09,389 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:09,390 - INFO - Metadados do bucket 295 salvos com sucesso.
+2024-11-05 11:18:09,391 - INFO - Iniciando processamento da instância 296
+2024-11-05 11:18:10,035 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:10,035 - INFO - Metadados do bucket 296 salvos com sucesso.
+2024-11-05 11:18:10,036 - INFO - Iniciando processamento da instância 297
+2024-11-05 11:18:10,611 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:10,612 - INFO - Metadados do bucket 297 salvos com sucesso.
+2024-11-05 11:18:10,613 - INFO - Iniciando processamento da instância 298
+2024-11-05 11:18:11,190 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:11,191 - INFO - Metadados do bucket 298 salvos com sucesso.
+2024-11-05 11:18:11,192 - INFO - Iniciando processamento da instância 299
+2024-11-05 11:18:11,899 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:11,900 - INFO - Metadados do bucket 299 salvos com sucesso.
+2024-11-05 11:18:11,901 - INFO - Iniciando processamento da instância 300
+2024-11-05 11:18:12,610 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:12,611 - INFO - Metadados do bucket 300 salvos com sucesso.
+2024-11-05 11:18:12,612 - INFO - Iniciando processamento da instância 301
+2024-11-05 11:18:13,200 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:13,201 - INFO - Metadados do bucket 301 salvos com sucesso.
+2024-11-05 11:18:13,202 - INFO - Iniciando processamento da instância 302
+2024-11-05 11:18:13,761 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:13,761 - INFO - Metadados do bucket 302 salvos com sucesso.
+2024-11-05 11:18:13,762 - INFO - Iniciando processamento da instância 303
+2024-11-05 11:18:14,372 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:14,373 - INFO - Metadados do bucket 303 salvos com sucesso.
+2024-11-05 11:18:14,374 - INFO - Iniciando processamento da instância 304
+2024-11-05 11:18:15,059 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:15,059 - INFO - Metadados do bucket 304 salvos com sucesso.
+2024-11-05 11:18:15,060 - INFO - Iniciando processamento da instância 305
+2024-11-05 11:18:15,683 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:15,683 - INFO - Metadados do bucket 305 salvos com sucesso.
+2024-11-05 11:18:15,685 - INFO - Iniciando processamento da instância 306
+2024-11-05 11:18:16,317 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:16,317 - INFO - Metadados do bucket 306 salvos com sucesso.
+2024-11-05 11:18:16,319 - INFO - Iniciando processamento da instância 307
+2024-11-05 11:18:17,070 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:17,070 - INFO - Metadados do bucket 307 salvos com sucesso.
+2024-11-05 11:18:17,071 - INFO - Iniciando processamento da instância 308
+2024-11-05 11:18:17,719 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:17,719 - INFO - Metadados do bucket 308 salvos com sucesso.
+2024-11-05 11:18:17,720 - INFO - Iniciando processamento da instância 309
+2024-11-05 11:18:18,328 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:18,329 - INFO - Metadados do bucket 309 salvos com sucesso.
+2024-11-05 11:18:18,330 - INFO - Iniciando processamento da instância 310
+2024-11-05 11:18:18,970 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:18,971 - INFO - Metadados do bucket 310 salvos com sucesso.
+2024-11-05 11:18:18,972 - INFO - Iniciando processamento da instância 311
+2024-11-05 11:18:19,614 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:19,615 - INFO - Metadados do bucket 311 salvos com sucesso.
+2024-11-05 11:18:19,616 - INFO - Iniciando processamento da instância 312
+2024-11-05 11:18:20,197 - ERROR - Ocorreu um erro ao processar a instância 312: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: LOW\n, category: HARM_CATEGORY_HARASSMENT\nprobability: MEDIUM\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: LOW
+, category: HARM_CATEGORY_HARASSMENT
+probability: MEDIUM
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-05 11:18:20,198 - INFO - Iniciando processamento da instância 313
+2024-11-05 11:18:20,841 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:20,841 - INFO - Metadados do bucket 313 salvos com sucesso.
+2024-11-05 11:18:20,842 - INFO - Iniciando processamento da instância 314
+2024-11-05 11:18:21,430 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:21,431 - INFO - Metadados do bucket 314 salvos com sucesso.
+2024-11-05 11:18:21,432 - INFO - Iniciando processamento da instância 315
+2024-11-05 11:18:22,062 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:22,063 - INFO - Metadados do bucket 315 salvos com sucesso.
+2024-11-05 11:18:22,063 - INFO - Iniciando processamento da instância 316
+2024-11-05 11:18:23,953 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:23,954 - INFO - Metadados do bucket 316 salvos com sucesso.
+2024-11-05 11:18:23,955 - INFO - Iniciando processamento da instância 317
+2024-11-05 11:18:24,587 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:24,587 - INFO - Metadados do bucket 317 salvos com sucesso.
+2024-11-05 11:18:24,589 - INFO - Iniciando processamento da instância 318
+2024-11-05 11:18:25,347 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:25,348 - INFO - Metadados do bucket 318 salvos com sucesso.
+2024-11-05 11:18:25,349 - INFO - Iniciando processamento da instância 319
+2024-11-05 11:18:26,038 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:26,039 - INFO - Metadados do bucket 319 salvos com sucesso.
+2024-11-05 11:18:26,039 - INFO - Iniciando processamento da instância 320
+2024-11-05 11:18:26,609 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:26,609 - INFO - Metadados do bucket 320 salvos com sucesso.
+2024-11-05 11:18:26,610 - INFO - Iniciando processamento da instância 321
+2024-11-05 11:18:27,200 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:27,201 - INFO - Metadados do bucket 321 salvos com sucesso.
+2024-11-05 11:18:27,202 - INFO - Iniciando processamento da instância 322
+2024-11-05 11:18:27,885 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:27,886 - INFO - Metadados do bucket 322 salvos com sucesso.
+2024-11-05 11:18:27,887 - INFO - Iniciando processamento da instância 323
+2024-11-05 11:18:28,445 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:28,445 - INFO - Metadados do bucket 323 salvos com sucesso.
+2024-11-05 11:18:28,446 - INFO - Iniciando processamento da instância 324
+2024-11-05 11:18:29,091 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:29,091 - INFO - Metadados do bucket 324 salvos com sucesso.
+2024-11-05 11:18:29,092 - INFO - Iniciando processamento da instância 325
+2024-11-05 11:18:29,726 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:29,726 - INFO - Metadados do bucket 325 salvos com sucesso.
+2024-11-05 11:18:29,728 - INFO - Iniciando processamento da instância 326
+2024-11-05 11:18:30,382 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:30,382 - INFO - Metadados do bucket 326 salvos com sucesso.
+2024-11-05 11:18:30,383 - INFO - Iniciando processamento da instância 327
+2024-11-05 11:18:31,128 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:31,129 - INFO - Metadados do bucket 327 salvos com sucesso.
+2024-11-05 11:18:31,130 - INFO - Iniciando processamento da instância 328
+2024-11-05 11:18:31,732 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:31,732 - INFO - Metadados do bucket 328 salvos com sucesso.
+2024-11-05 11:18:31,733 - INFO - Iniciando processamento da instância 329
+2024-11-05 11:18:32,497 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:32,497 - INFO - Metadados do bucket 329 salvos com sucesso.
+2024-11-05 11:18:32,498 - INFO - Iniciando processamento da instância 330
+2024-11-05 11:18:33,321 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:33,322 - INFO - Metadados do bucket 330 salvos com sucesso.
+2024-11-05 11:18:33,323 - INFO - Iniciando processamento da instância 331
+2024-11-05 11:18:34,143 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:34,143 - INFO - Metadados do bucket 331 salvos com sucesso.
+2024-11-05 11:18:34,145 - INFO - Iniciando processamento da instância 332
+2024-11-05 11:18:35,147 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:35,147 - INFO - Metadados do bucket 332 salvos com sucesso.
+2024-11-05 11:18:35,148 - INFO - Iniciando processamento da instância 333
+2024-11-05 11:18:35,900 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:35,900 - INFO - Metadados do bucket 333 salvos com sucesso.
+2024-11-05 11:18:35,901 - INFO - Iniciando processamento da instância 334
+2024-11-05 11:18:36,584 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:36,584 - INFO - Metadados do bucket 334 salvos com sucesso.
+2024-11-05 11:18:36,585 - INFO - Iniciando processamento da instância 335
+2024-11-05 11:18:37,125 - ERROR - Ocorreu um erro ao processar a instância 335: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: MEDIUM\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: MEDIUM
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-05 11:18:37,126 - INFO - Iniciando processamento da instância 336
+2024-11-05 11:18:38,481 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:38,482 - INFO - Metadados do bucket 336 salvos com sucesso.
+2024-11-05 11:18:38,483 - INFO - Iniciando processamento da instância 337
+2024-11-05 11:18:39,170 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:39,171 - INFO - Metadados do bucket 337 salvos com sucesso.
+2024-11-05 11:18:39,172 - INFO - Iniciando processamento da instância 338
+2024-11-05 11:18:39,845 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:39,846 - INFO - Metadados do bucket 338 salvos com sucesso.
+2024-11-05 11:18:39,847 - INFO - Iniciando processamento da instância 339
+2024-11-05 11:18:40,434 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:40,435 - INFO - Metadados do bucket 339 salvos com sucesso.
+2024-11-05 11:18:40,436 - INFO - Iniciando processamento da instância 340
+2024-11-05 11:18:41,287 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:41,287 - INFO - Metadados do bucket 340 salvos com sucesso.
+2024-11-05 11:18:41,288 - INFO - Iniciando processamento da instância 341
+2024-11-05 11:18:42,228 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:42,229 - INFO - Metadados do bucket 341 salvos com sucesso.
+2024-11-05 11:18:42,230 - INFO - Iniciando processamento da instância 342
+2024-11-05 11:18:42,889 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:42,890 - INFO - Metadados do bucket 342 salvos com sucesso.
+2024-11-05 11:18:42,891 - INFO - Iniciando processamento da instância 343
+2024-11-05 11:18:43,435 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:43,436 - INFO - Metadados do bucket 343 salvos com sucesso.
+2024-11-05 11:18:43,437 - INFO - Iniciando processamento da instância 344
+2024-11-05 11:18:44,152 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:44,153 - INFO - Metadados do bucket 344 salvos com sucesso.
+2024-11-05 11:18:44,154 - INFO - Iniciando processamento da instância 345
+2024-11-05 11:18:44,771 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:44,771 - INFO - Metadados do bucket 345 salvos com sucesso.
+2024-11-05 11:18:44,772 - INFO - Iniciando processamento da instância 346
+2024-11-05 11:18:46,315 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:46,316 - INFO - Metadados do bucket 346 salvos com sucesso.
+2024-11-05 11:18:46,317 - INFO - Iniciando processamento da instância 347
+2024-11-05 11:18:46,953 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:46,954 - INFO - Metadados do bucket 347 salvos com sucesso.
+2024-11-05 11:18:46,955 - INFO - Iniciando processamento da instância 348
+2024-11-05 11:18:47,560 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:47,561 - INFO - Metadados do bucket 348 salvos com sucesso.
+2024-11-05 11:18:47,561 - INFO - Iniciando processamento da instância 349
+2024-11-05 11:18:48,133 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:48,133 - INFO - Metadados do bucket 349 salvos com sucesso.
+2024-11-05 11:18:48,134 - INFO - Iniciando processamento da instância 350
+2024-11-05 11:18:48,749 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:48,749 - INFO - Metadados do bucket 350 salvos com sucesso.
+2024-11-05 11:18:48,750 - INFO - Iniciando processamento da instância 351
+2024-11-05 11:18:49,425 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:49,425 - INFO - Metadados do bucket 351 salvos com sucesso.
+2024-11-05 11:18:49,426 - INFO - Iniciando processamento da instância 352
+2024-11-05 11:18:50,122 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:50,122 - INFO - Metadados do bucket 352 salvos com sucesso.
+2024-11-05 11:18:50,123 - INFO - Iniciando processamento da instância 353
+2024-11-05 11:18:50,739 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:50,739 - INFO - Metadados do bucket 353 salvos com sucesso.
+2024-11-05 11:18:50,740 - INFO - Iniciando processamento da instância 354
+2024-11-05 11:18:51,415 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:51,415 - INFO - Metadados do bucket 354 salvos com sucesso.
+2024-11-05 11:18:51,417 - INFO - Iniciando processamento da instância 355
+2024-11-05 11:18:52,054 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:52,055 - INFO - Metadados do bucket 355 salvos com sucesso.
+2024-11-05 11:18:52,055 - INFO - Iniciando processamento da instância 356
+2024-11-05 11:18:52,670 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:52,670 - INFO - Metadados do bucket 356 salvos com sucesso.
+2024-11-05 11:18:52,671 - INFO - Iniciando processamento da instância 357
+2024-11-05 11:18:53,245 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:53,246 - INFO - Metadados do bucket 357 salvos com sucesso.
+2024-11-05 11:18:53,247 - INFO - Iniciando processamento da instância 358
+2024-11-05 11:18:53,833 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:53,834 - INFO - Metadados do bucket 358 salvos com sucesso.
+2024-11-05 11:18:53,835 - INFO - Iniciando processamento da instância 359
+2024-11-05 11:18:54,494 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:54,495 - INFO - Metadados do bucket 359 salvos com sucesso.
+2024-11-05 11:18:54,496 - INFO - Iniciando processamento da instância 360
+2024-11-05 11:18:55,033 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:55,033 - INFO - Metadados do bucket 360 salvos com sucesso.
+2024-11-05 11:18:55,033 - INFO - Iniciando processamento da instância 361
+2024-11-05 11:18:55,626 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:55,627 - INFO - Metadados do bucket 361 salvos com sucesso.
+2024-11-05 11:18:55,628 - INFO - Iniciando processamento da instância 362
+2024-11-05 11:18:56,234 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:56,234 - INFO - Metadados do bucket 362 salvos com sucesso.
+2024-11-05 11:18:56,235 - INFO - Iniciando processamento da instância 363
+2024-11-05 11:18:56,768 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:56,769 - INFO - Metadados do bucket 363 salvos com sucesso.
+2024-11-05 11:18:56,770 - INFO - Iniciando processamento da instância 364
+2024-11-05 11:18:57,383 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:57,383 - INFO - Metadados do bucket 364 salvos com sucesso.
+2024-11-05 11:18:57,384 - INFO - Iniciando processamento da instância 365
+2024-11-05 11:18:57,952 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:57,953 - INFO - Metadados do bucket 365 salvos com sucesso.
+2024-11-05 11:18:57,954 - INFO - Iniciando processamento da instância 366
+2024-11-05 11:18:59,146 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:59,147 - INFO - Metadados do bucket 366 salvos com sucesso.
+2024-11-05 11:18:59,148 - INFO - Iniciando processamento da instância 367
+2024-11-05 11:18:59,720 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:18:59,720 - INFO - Metadados do bucket 367 salvos com sucesso.
+2024-11-05 11:18:59,721 - INFO - Iniciando processamento da instância 368
+2024-11-05 11:19:00,336 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:00,336 - INFO - Metadados do bucket 368 salvos com sucesso.
+2024-11-05 11:19:00,337 - INFO - Iniciando processamento da instância 369
+2024-11-05 11:19:01,037 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:01,037 - INFO - Metadados do bucket 369 salvos com sucesso.
+2024-11-05 11:19:01,037 - INFO - Iniciando processamento da instância 370
+2024-11-05 11:19:01,717 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:01,718 - INFO - Metadados do bucket 370 salvos com sucesso.
+2024-11-05 11:19:01,719 - INFO - Iniciando processamento da instância 371
+2024-11-05 11:19:02,351 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:02,352 - INFO - Metadados do bucket 371 salvos com sucesso.
+2024-11-05 11:19:02,353 - INFO - Iniciando processamento da instância 372
+2024-11-05 11:19:02,954 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:02,954 - INFO - Metadados do bucket 372 salvos com sucesso.
+2024-11-05 11:19:02,955 - INFO - Iniciando processamento da instância 373
+2024-11-05 11:19:03,597 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:03,597 - INFO - Metadados do bucket 373 salvos com sucesso.
+2024-11-05 11:19:03,597 - INFO - Iniciando processamento da instância 374
+2024-11-05 11:19:04,194 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:04,195 - INFO - Metadados do bucket 374 salvos com sucesso.
+2024-11-05 11:19:04,196 - INFO - Iniciando processamento da instância 375
+2024-11-05 11:19:04,756 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:04,757 - INFO - Metadados do bucket 375 salvos com sucesso.
+2024-11-05 11:19:04,758 - INFO - Iniciando processamento da instância 376
+2024-11-05 11:19:05,366 - ERROR - Ocorreu um erro ao processar a instância 376: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: MEDIUM\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: MEDIUM
+])
+2024-11-05 11:19:05,367 - INFO - Iniciando processamento da instância 377
+2024-11-05 11:19:05,985 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:05,985 - INFO - Metadados do bucket 377 salvos com sucesso.
+2024-11-05 11:19:05,986 - INFO - Iniciando processamento da instância 378
+2024-11-05 11:19:06,602 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:06,602 - INFO - Metadados do bucket 378 salvos com sucesso.
+2024-11-05 11:19:06,604 - INFO - Iniciando processamento da instância 379
+2024-11-05 11:19:07,121 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:07,122 - INFO - Metadados do bucket 379 salvos com sucesso.
+2024-11-05 11:19:07,123 - INFO - Iniciando processamento da instância 380
+2024-11-05 11:19:07,752 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:07,752 - INFO - Metadados do bucket 380 salvos com sucesso.
+2024-11-05 11:19:07,753 - INFO - Iniciando processamento da instância 381
+2024-11-05 11:19:08,488 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:08,489 - INFO - Metadados do bucket 381 salvos com sucesso.
+2024-11-05 11:19:08,490 - INFO - Iniciando processamento da instância 382
+2024-11-05 11:19:09,454 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:09,454 - INFO - Metadados do bucket 382 salvos com sucesso.
+2024-11-05 11:19:09,455 - INFO - Iniciando processamento da instância 383
+2024-11-05 11:19:10,108 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:10,109 - INFO - Metadados do bucket 383 salvos com sucesso.
+2024-11-05 11:19:10,110 - INFO - Iniciando processamento da instância 384
+2024-11-05 11:19:10,752 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:10,752 - INFO - Metadados do bucket 384 salvos com sucesso.
+2024-11-05 11:19:10,753 - INFO - Iniciando processamento da instância 385
+2024-11-05 11:19:11,313 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:11,314 - INFO - Metadados do bucket 385 salvos com sucesso.
+2024-11-05 11:19:11,315 - INFO - Iniciando processamento da instância 386
+2024-11-05 11:19:17,623 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:17,625 - INFO - Metadados do bucket 386 salvos com sucesso.
+2024-11-05 11:19:17,626 - INFO - Iniciando processamento da instância 387
+2024-11-05 11:19:18,184 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:18,185 - INFO - Metadados do bucket 387 salvos com sucesso.
+2024-11-05 11:19:18,186 - INFO - Iniciando processamento da instância 388
+2024-11-05 11:19:18,740 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:18,740 - INFO - Metadados do bucket 388 salvos com sucesso.
+2024-11-05 11:19:18,742 - INFO - Iniciando processamento da instância 389
+2024-11-05 11:19:19,508 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:19,509 - INFO - Metadados do bucket 389 salvos com sucesso.
+2024-11-05 11:19:19,510 - INFO - Iniciando processamento da instância 390
+2024-11-05 11:19:20,020 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:20,020 - INFO - Metadados do bucket 390 salvos com sucesso.
+2024-11-05 11:19:20,020 - INFO - Iniciando processamento da instância 391
+2024-11-05 11:19:20,650 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:20,650 - INFO - Metadados do bucket 391 salvos com sucesso.
+2024-11-05 11:19:20,652 - INFO - Iniciando processamento da instância 392
+2024-11-05 11:19:21,211 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:21,212 - INFO - Metadados do bucket 392 salvos com sucesso.
+2024-11-05 11:19:21,214 - INFO - Iniciando processamento da instância 393
+2024-11-05 11:19:21,678 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:21,679 - INFO - Metadados do bucket 393 salvos com sucesso.
+2024-11-05 11:19:21,680 - INFO - Iniciando processamento da instância 394
+2024-11-05 11:19:22,397 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:22,397 - INFO - Metadados do bucket 394 salvos com sucesso.
+2024-11-05 11:19:22,399 - INFO - Iniciando processamento da instância 395
+2024-11-05 11:19:23,258 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:23,258 - INFO - Metadados do bucket 395 salvos com sucesso.
+2024-11-05 11:19:23,260 - INFO - Iniciando processamento da instância 396
+2024-11-05 11:19:25,593 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:25,594 - INFO - Metadados do bucket 396 salvos com sucesso.
+2024-11-05 11:19:25,595 - INFO - Iniciando processamento da instância 397
+2024-11-05 11:19:26,067 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:26,067 - INFO - Metadados do bucket 397 salvos com sucesso.
+2024-11-05 11:19:26,068 - INFO - Iniciando processamento da instância 398
+2024-11-05 11:19:26,621 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:26,622 - INFO - Metadados do bucket 398 salvos com sucesso.
+2024-11-05 11:19:26,623 - INFO - Iniciando processamento da instância 399
+2024-11-05 11:19:28,098 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:28,099 - INFO - Metadados do bucket 399 salvos com sucesso.
+2024-11-05 11:19:28,100 - INFO - Iniciando processamento da instância 400
+2024-11-05 11:19:28,934 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:28,935 - INFO - Metadados do bucket 400 salvos com sucesso.
+2024-11-05 11:19:28,936 - INFO - Iniciando processamento da instância 401
+2024-11-05 11:19:29,634 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:29,635 - INFO - Metadados do bucket 401 salvos com sucesso.
+2024-11-05 11:19:29,636 - INFO - Iniciando processamento da instância 402
+2024-11-05 11:19:30,167 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:30,168 - INFO - Metadados do bucket 402 salvos com sucesso.
+2024-11-05 11:19:30,169 - INFO - Iniciando processamento da instância 403
+2024-11-05 11:19:30,878 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:30,878 - INFO - Metadados do bucket 403 salvos com sucesso.
+2024-11-05 11:19:30,879 - INFO - Iniciando processamento da instância 404
+2024-11-05 11:19:31,675 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:31,675 - INFO - Metadados do bucket 404 salvos com sucesso.
+2024-11-05 11:19:31,677 - INFO - Iniciando processamento da instância 405
+2024-11-05 11:19:32,322 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:32,322 - INFO - Metadados do bucket 405 salvos com sucesso.
+2024-11-05 11:19:32,322 - INFO - Iniciando processamento da instância 406
+2024-11-05 11:19:33,290 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:33,291 - INFO - Metadados do bucket 406 salvos com sucesso.
+2024-11-05 11:19:33,292 - INFO - Iniciando processamento da instância 407
+2024-11-05 11:19:33,962 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:33,963 - INFO - Metadados do bucket 407 salvos com sucesso.
+2024-11-05 11:19:33,964 - INFO - Iniciando processamento da instância 408
+2024-11-05 11:19:34,921 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:34,921 - INFO - Metadados do bucket 408 salvos com sucesso.
+2024-11-05 11:19:34,923 - INFO - Iniciando processamento da instância 409
+2024-11-05 11:19:35,710 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:35,710 - INFO - Metadados do bucket 409 salvos com sucesso.
+2024-11-05 11:19:35,712 - INFO - Iniciando processamento da instância 410
+2024-11-05 11:19:36,554 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:36,554 - INFO - Metadados do bucket 410 salvos com sucesso.
+2024-11-05 11:19:36,555 - INFO - Iniciando processamento da instância 411
+2024-11-05 11:19:38,749 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:38,749 - INFO - Metadados do bucket 411 salvos com sucesso.
+2024-11-05 11:19:38,751 - INFO - Iniciando processamento da instância 412
+2024-11-05 11:19:40,273 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:40,274 - INFO - Metadados do bucket 412 salvos com sucesso.
+2024-11-05 11:19:40,276 - INFO - Iniciando processamento da instância 413
+2024-11-05 11:19:41,398 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:41,398 - INFO - Metadados do bucket 413 salvos com sucesso.
+2024-11-05 11:19:41,399 - INFO - Iniciando processamento da instância 414
+2024-11-05 11:19:41,931 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:41,931 - INFO - Metadados do bucket 414 salvos com sucesso.
+2024-11-05 11:19:41,932 - INFO - Iniciando processamento da instância 415
+2024-11-05 11:19:42,494 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:42,495 - INFO - Metadados do bucket 415 salvos com sucesso.
+2024-11-05 11:19:42,496 - INFO - Iniciando processamento da instância 416
+2024-11-05 11:19:43,267 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:43,268 - INFO - Metadados do bucket 416 salvos com sucesso.
+2024-11-05 11:19:43,269 - INFO - Iniciando processamento da instância 417
+2024-11-05 11:19:43,985 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:43,986 - INFO - Metadados do bucket 417 salvos com sucesso.
+2024-11-05 11:19:43,987 - INFO - Iniciando processamento da instância 418
+2024-11-05 11:19:45,147 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:45,148 - INFO - Metadados do bucket 418 salvos com sucesso.
+2024-11-05 11:19:45,149 - INFO - Iniciando processamento da instância 419
+2024-11-05 11:19:46,841 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:46,842 - INFO - Metadados do bucket 419 salvos com sucesso.
+2024-11-05 11:19:46,844 - INFO - Iniciando processamento da instância 420
+2024-11-05 11:19:47,619 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:47,620 - INFO - Metadados do bucket 420 salvos com sucesso.
+2024-11-05 11:19:47,621 - INFO - Iniciando processamento da instância 421
+2024-11-05 11:19:48,711 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:48,712 - INFO - Metadados do bucket 421 salvos com sucesso.
+2024-11-05 11:19:48,714 - INFO - Iniciando processamento da instância 422
+2024-11-05 11:19:50,041 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:50,042 - INFO - Metadados do bucket 422 salvos com sucesso.
+2024-11-05 11:19:50,044 - INFO - Iniciando processamento da instância 423
+2024-11-05 11:19:50,737 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:50,738 - INFO - Metadados do bucket 423 salvos com sucesso.
+2024-11-05 11:19:50,740 - INFO - Iniciando processamento da instância 424
+2024-11-05 11:19:51,466 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:51,466 - INFO - Metadados do bucket 424 salvos com sucesso.
+2024-11-05 11:19:51,468 - INFO - Iniciando processamento da instância 425
+2024-11-05 11:19:52,352 - ERROR - Ocorreu um erro ao processar a instância 425: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-05 11:19:52,353 - INFO - Iniciando processamento da instância 426
+2024-11-05 11:19:53,998 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:53,998 - INFO - Metadados do bucket 426 salvos com sucesso.
+2024-11-05 11:19:54,000 - INFO - Iniciando processamento da instância 427
+2024-11-05 11:19:55,386 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:55,387 - INFO - Metadados do bucket 427 salvos com sucesso.
+2024-11-05 11:19:55,388 - INFO - Iniciando processamento da instância 428
+2024-11-05 11:19:56,674 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:56,675 - INFO - Metadados do bucket 428 salvos com sucesso.
+2024-11-05 11:19:56,677 - INFO - Iniciando processamento da instância 429
+2024-11-05 11:19:57,480 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:57,481 - INFO - Metadados do bucket 429 salvos com sucesso.
+2024-11-05 11:19:57,481 - INFO - Iniciando processamento da instância 430
+2024-11-05 11:19:58,018 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:58,018 - INFO - Metadados do bucket 430 salvos com sucesso.
+2024-11-05 11:19:58,018 - INFO - Iniciando processamento da instância 431
+2024-11-05 11:19:58,898 - ERROR - Ocorreu um erro ao processar a instância 431: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-05 11:19:58,899 - INFO - Iniciando processamento da instância 432
+2024-11-05 11:19:59,576 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:19:59,576 - INFO - Metadados do bucket 432 salvos com sucesso.
+2024-11-05 11:19:59,577 - INFO - Iniciando processamento da instância 433
+2024-11-05 11:20:00,293 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:00,293 - INFO - Metadados do bucket 433 salvos com sucesso.
+2024-11-05 11:20:00,295 - INFO - Iniciando processamento da instância 434
+2024-11-05 11:20:00,852 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:00,853 - INFO - Metadados do bucket 434 salvos com sucesso.
+2024-11-05 11:20:00,854 - INFO - Iniciando processamento da instância 435
+2024-11-05 11:20:01,878 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:01,878 - INFO - Metadados do bucket 435 salvos com sucesso.
+2024-11-05 11:20:01,879 - INFO - Iniciando processamento da instância 436
+2024-11-05 11:20:02,596 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:02,596 - INFO - Metadados do bucket 436 salvos com sucesso.
+2024-11-05 11:20:02,597 - INFO - Iniciando processamento da instância 437
+2024-11-05 11:20:03,787 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:03,788 - INFO - Metadados do bucket 437 salvos com sucesso.
+2024-11-05 11:20:03,789 - INFO - Iniciando processamento da instância 438
+2024-11-05 11:20:06,154 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:06,155 - INFO - Metadados do bucket 438 salvos com sucesso.
+2024-11-05 11:20:06,156 - INFO - Iniciando processamento da instância 439
+2024-11-05 11:20:07,195 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:07,195 - INFO - Metadados do bucket 439 salvos com sucesso.
+2024-11-05 11:20:07,196 - INFO - Iniciando processamento da instância 440
+2024-11-05 11:20:07,727 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:07,728 - INFO - Metadados do bucket 440 salvos com sucesso.
+2024-11-05 11:20:07,729 - INFO - Iniciando processamento da instância 441
+2024-11-05 11:20:08,291 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:08,291 - INFO - Metadados do bucket 441 salvos com sucesso.
+2024-11-05 11:20:08,293 - INFO - Iniciando processamento da instância 442
+2024-11-05 11:20:08,974 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:08,975 - INFO - Metadados do bucket 442 salvos com sucesso.
+2024-11-05 11:20:08,976 - INFO - Iniciando processamento da instância 443
+2024-11-05 11:20:09,504 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:09,505 - INFO - Metadados do bucket 443 salvos com sucesso.
+2024-11-05 11:20:09,506 - INFO - Iniciando processamento da instância 444
+2024-11-05 11:20:10,233 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:10,234 - INFO - Metadados do bucket 444 salvos com sucesso.
+2024-11-05 11:20:10,235 - INFO - Iniciando processamento da instância 445
+2024-11-05 11:20:10,771 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:10,772 - INFO - Metadados do bucket 445 salvos com sucesso.
+2024-11-05 11:20:10,773 - INFO - Iniciando processamento da instância 446
+2024-11-05 11:20:11,383 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:11,384 - INFO - Metadados do bucket 446 salvos com sucesso.
+2024-11-05 11:20:11,385 - INFO - Iniciando processamento da instância 447
+2024-11-05 11:20:12,131 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:12,132 - INFO - Metadados do bucket 447 salvos com sucesso.
+2024-11-05 11:20:12,133 - INFO - Iniciando processamento da instância 448
+2024-11-05 11:20:12,900 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:12,900 - INFO - Metadados do bucket 448 salvos com sucesso.
+2024-11-05 11:20:12,902 - INFO - Iniciando processamento da instância 449
+2024-11-05 11:20:13,711 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:13,712 - INFO - Metadados do bucket 449 salvos com sucesso.
+2024-11-05 11:20:13,713 - INFO - Iniciando processamento da instância 450
+2024-11-05 11:20:14,485 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:14,486 - INFO - Metadados do bucket 450 salvos com sucesso.
+2024-11-05 11:20:14,487 - INFO - Iniciando processamento da instância 451
+2024-11-05 11:20:15,034 - ERROR - Ocorreu um erro ao processar a instância 451: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: MEDIUM\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: MEDIUM
+])
+2024-11-05 11:20:15,035 - INFO - Iniciando processamento da instância 452
+2024-11-05 11:20:15,536 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:15,537 - INFO - Metadados do bucket 452 salvos com sucesso.
+2024-11-05 11:20:15,538 - INFO - Iniciando processamento da instância 453
+2024-11-05 11:20:17,011 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:17,011 - INFO - Metadados do bucket 453 salvos com sucesso.
+2024-11-05 11:20:17,012 - INFO - Iniciando processamento da instância 454
+2024-11-05 11:20:17,654 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:17,655 - INFO - Metadados do bucket 454 salvos com sucesso.
+2024-11-05 11:20:17,656 - INFO - Iniciando processamento da instância 455
+2024-11-05 11:20:18,732 - ERROR - Ocorreu um erro ao processar a instância 455: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+2024-11-05 11:20:18,733 - INFO - Iniciando processamento da instância 456
+2024-11-05 11:20:20,939 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:20,939 - INFO - Metadados do bucket 456 salvos com sucesso.
+2024-11-05 11:20:20,941 - INFO - Iniciando processamento da instância 457
+2024-11-05 11:20:21,857 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:21,857 - INFO - Metadados do bucket 457 salvos com sucesso.
+2024-11-05 11:20:21,858 - INFO - Iniciando processamento da instância 458
+2024-11-05 11:20:24,712 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:24,713 - INFO - Metadados do bucket 458 salvos com sucesso.
+2024-11-05 11:20:24,714 - INFO - Iniciando processamento da instância 459
+2024-11-05 11:20:25,314 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:25,314 - INFO - Metadados do bucket 459 salvos com sucesso.
+2024-11-05 11:20:25,315 - INFO - Iniciando processamento da instância 460
+2024-11-05 11:20:26,432 - ERROR - Ocorreu um erro ao processar a instância 460: ("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 3. The candidate's safety_ratings are: [category: HARM_CATEGORY_SEXUALLY_EXPLICIT\nprobability: MEDIUM\n, category: HARM_CATEGORY_HATE_SPEECH\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_HARASSMENT\nprobability: NEGLIGIBLE\n, category: HARM_CATEGORY_DANGEROUS_CONTENT\nprobability: NEGLIGIBLE\n].", [category: HARM_CATEGORY_SEXUALLY_EXPLICIT
+probability: MEDIUM
+, category: HARM_CATEGORY_HATE_SPEECH
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_HARASSMENT
+probability: NEGLIGIBLE
+, category: HARM_CATEGORY_DANGEROUS_CONTENT
+probability: NEGLIGIBLE
+])
+2024-11-05 11:20:26,433 - INFO - Iniciando processamento da instância 461
+2024-11-05 11:20:27,685 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:27,685 - INFO - Metadados do bucket 461 salvos com sucesso.
+2024-11-05 11:20:27,687 - INFO - Iniciando processamento da instância 462
+2024-11-05 11:20:29,007 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:29,007 - INFO - Metadados do bucket 462 salvos com sucesso.
+2024-11-05 11:20:29,008 - INFO - Iniciando processamento da instância 463
+2024-11-05 11:20:29,559 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:29,560 - INFO - Metadados do bucket 463 salvos com sucesso.
+2024-11-05 11:20:29,561 - INFO - Iniciando processamento da instância 464
+2024-11-05 11:20:30,134 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-05 11:20:30,135 - INFO - Metadados do bucket 464 salvos com sucesso.
+2024-11-05 11:20:30,136 - INFO - Processamento das instâncias concluído.
+2024-11-05 11:20:30,137 - INFO - Tempo total de execução: 364.23 segundos.

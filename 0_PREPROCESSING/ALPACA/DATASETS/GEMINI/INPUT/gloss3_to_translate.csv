@@ -1,0 +1,466 @@
+ID,PT,tokens_est_instance,tokens_est_id
+962ins,Descreva uma tecnologia usada para medir as respostas emocionais das pessoas.,29,3
+963ins,Cite cinco plantas medicinais amplamente utilizadas no Ayurveda.,22,3
+964ins,gerar um algoritmo para encontrar o primeiro ancestral comum de dois nós em uma árvore binária.,35,3
+965ins,Escreva uma história de amizade entre dois garotos de origens diferentes.,26,3
+966ins,Dê um exemplo de como usar um assistente de IA para automatizar um processo de atendimento ao cliente.,33,3
+967ins,Liste cinco fatores que influenciam o custo de produção de um bem.,24,3
+968ins,Avaliar o impacto ambiental de uma fonte de energia renovável,19,2
+969ins,Explique o processo de obtenção de crédito para um empréstimo,22,2
+970ins,Gere uma lista de dicas para melhorar o metabolismo.,17,2
+971ins,Escolha a melhor senha para um determinado serviço.,17,3
+972ins,Escreva uma história sobre um robô que precisa completar uma tarefa difícil.,28,3
+973ins,Escolha a palavra estranha em cada frase:,16,3
+974ins,Componha uma música em Dó Maior.,15,3
+975ins,Classifique o texto a seguir como ficção ou não ficção.,25,2
+976ins,Identifique o tipo de triângulo a partir do seguinte conjunto de ângulos.,29,3
+977ins,"Calcule a área de um triângulo com lados medindo 8 cm, 5 cm e 6 cm.",27,3
+978ins,Descreva como as plantas se parecem no inverno.,18,2
+979ins,Que tipo de número é -625?,12,3
+980ins,Encontre a soma dos ângulos internos de um polígono com cinco lados.,27,2
+981ins,Qual é a diferença entre um porco-espinho e um ouriço?,22,3
+982ins,Atualize a passagem a seguir com a ortografia e gramática corretas.,27,3
+983ins,Cite um produto químico que seja um ácido e uma base.,22,3
+991ins,Organize as seguintes palavras para formar uma frase significativa: vender fazer investidores aconselhar confiar.,35,3
+992ins,"Divida a frase a seguir em duas frases declarativas: \""A comida estava deliciosa e o serviço foi excelente\"".",40,2
+993ins,Explique como redes neurais podem ser usadas para prever preços de ações.,26,2
+994ins,Classifique o seguinte item alimentar saudável,16,2
+995ins,Cite as 6 cidades mais populosas da China.,15,2
+996ins,Edite o texto a seguir para facilitar a leitura,16,2
+997ins,Determine a área da superfície da figura a seguir,19,2
+998ins,Encontre a definição do seguinte termo financeiro,17,2
+999ins,Descreva o perfil de sabor do seguinte tipo de culinária,21,2
+1000ins,Liste 3 eventos históricos relacionados ao seguinte país,20,2
+1001ins,Comparar e contrastar os efeitos do desempenho individual e social,18,2
+4661ins,Descreva uma situação hipotética na qual a tecnologia de IA poderia ser usada para melhorar a segurança dos locais de trabalho.,44,3
+4662ins,Explique as diferenças entre um mecanismo de busca regular e um mecanismo de busca semântico.,31,3
+4663ins,Resuma um artigo de notícias sobre as novas leis tributárias na cidade de Nova York.,30,3
+4664ins,Imprima um objeto 3D usando uma máquina de impressão 3D.,22,3
+4665ins,Classifique o tipo de roupa com base na seguinte descrição: Uma blusa sem mangas com gola em V.,34,3
+4666ins,"Crie um gráfico para mostrar os seguintes dados mensais:\n\nMês, Vendas\nJan, 5\nFev, 10\nMar, 15",46,3
+4667ins,Componha um poema Haiku centrado no conceito de felicidade.,19,3
+4668ins,Escreva uma postagem de blog sobre a transição energética de combustíveis fósseis para fontes de energia renováveis.,41,3
+4669ins,Compare e contraste os papéis de um educador e de um político.,20,3
+4670ins,Crie um algoritmo para identificar se duas strings são anagramas.,21,3
+4671ins,Crie um plano para reduzir as emissões de gases de efeito estufa na sua comunidade local.,33,3
+4672ins,Preencha as lacunas na frase a seguir de forma apropriada e gramaticalmente correta:\n\nA cidade teve que ____ sua proposta devido à falta de ____ apoio.,59,3
+4953ins,Reescreva a frase na forma de uma frase interrogativa.,19,3
+4954ins,Identifique a palavra da frase com a grafia errada.,18,3
+4955ins,"Sugira um sinônimo para a palavra \""eliminar\"".",19,3
+4956ins,"Identifique as duas palavras que rimam com \""chama\"".",18,3
+4957ins,Cite a última frase do parágrafo fornecido.,18,3
+4958ins,"Escreva quatro frases sobre pandemias começando com a palavra \""Pandemias\"".",26,3
+4959ins,Reescreva a frase na primeira pessoa.,14,3
+4960ins,"Crie uma frase com a palavra \""Onipresente\"".",18,3
+4961ins,Reescreva a frase para que ela contenha uma metáfora apropriada.,25,3
+4962ins,"Gere uma história de 5 frases, dada a seguinte premissa:",23,3
+4963ins,Resuma o texto em 50 palavras. A saída deve conter apenas uma frase.,27,3
+4964ins,Gere 3 perguntas exclusivas sobre um determinado tópico.,19,3
+4965ins,Classifique as seguintes palavras em ordem alfabética e exiba a lista ordenada.,28,3
+4966ins,"Dada uma lista de palavras, remova palavras duplicadas e exiba a lista com palavras únicas.",34,3
+4967ins,"Identifique se a seguinte frase é formal ou informal. Produza \""formal\"" ou \""informal\"".",31,3
+4978ins,"Pegue esta frase e reformule-a de uma forma que tenha o mesmo significado, mas que aumente o poder de convencimento.",40,3
+4989ins,Crie uma lista de dicas para um estilo de vida saudável.,21,3
+7374ins,Crie uma consulta dinâmica para filtrar uma grande tabela de dados do usuário,28,3
+7378ins,Gerar um relatório de campo com alguma descrição.,18,3
+7381ins,Descreva um processo para implantar um aplicativo Web usando uma instância do Amazon EC2.,29,3
+7382ins,Identifique e defina a mudança de paradigma na citação a seguir.,23,3
+7387ins,Crie uma piada sobre um professor,10,3
+7388ins,Identifique uma citação famosa do livro fornecido,17,3
+7389ins,Descreva o sentimento emocional da linha fornecida,15,3
+7390ins,Gere uma nova receita com base em uma determinada lista de ingredientes.,21,3
+7391ins,Avalie este programa em relação aos seus pontos fortes e fracos.,24,3
+7392ins,Crie uma história dada a lista de personagens e o cenário.,23,3
+7393ins,Dê conselhos a um colega sobre como demonstrar liderança.,22,3
+7394ins,"Fale sobre o tema discriminação no local de trabalho, dado o contexto da apresentação.",30,3
+7395ins,Crie uma dica para ajudar alguém a aprender uma nova habilidade mais rápido.,32,3
+7396ins,Crie um algoritmo para determinar se um determinado número é primo.,22,3
+7397ins,"Explique o significado do provérbio \""Pessoas inteligentes compreendem facilmente, com poucas explicações\"".",39,3
+7398ins,Componha uma melodia baseada na escala de Dó maior fornecida.,22,3
+7399ins,Crie um programa de computador para determinar a frequência de sequências de caracteres em um determinado texto.,34,3
+7400ins,Reformule a frase dada usando sinônimos.,16,3
+7401ins,Gere uma receita contendo os ingredientes fornecidos.,16,3
+16388ins,Leia esta curta passagem e identifique a ideia principal.,18,3
+16389ins,Cite o nome de um artista musical popular de um determinado país.,18,3
+16390ins,"Ilustre a frase \""uma situação ou lugar do qual é impossível escapar\"".",28,3
+16391ins,O que é probabilidade condicional?,11,3
+16392ins,"Qual figura de linguagem é usada na frase \""O peixe estava fazendo um som que se assemelhava ao canto na banheira\""?",42,3
+16393ins,Qual é o coeficiente de expansão térmica?,15,3
+16394ins,Classifique esses animais de acordo com sua expectativa de vida.,21,3
+16395ins,Qual é a idade média de todos os estados dos EUA?,19,3
+16396ins,"Qual é o significado cultural por trás da expressão \""uma chuva muito forte\""?",24,3
+16397ins,Qual é o número médio de dias que uma pessoa passa no hospital após uma cirurgia cardíaca?,36,3
+16398ins,Crie um logotipo de acordo com as diretrizes da marca fornecidas abaixo.,27,3
+16411ins,Que evento causou a Primeira Guerra Mundial?,13,3
+16412ins,"Da mesma forma que a pergunta anterior, pergunte sobre outras regras da escola",24,3
+16413ins,Explique quem tem direito a votar nos EUA,13,3
+16414ins,Gere uma lista de cinco razões válidas para se tornar vegano,25,3
+16415ins,Encontre cinco receitas para preparar chili vegano,14,3
+16416ins,O que afirmava a Declaração de Independência?,17,3
+16417ins,Recupere os detalhes relevantes do artigo de notícias.,18,3
+16418ins,"Classifique o tweet com base no sentimento. Saída 'positivo', 'negativo' ou 'neutro'.",31,3
+16419ins,Exclua o tweet se ele violar as regras.,13,3
+16420ins,Insira palavras para dar sentido à frase.,14,3
+16421ins,Altere a segunda frase para tornar as duas frases seguintes compatíveis.,25,3
+16422ins,Cite três sinais de depressão.,12,3
+16423ins,Crie um guia de viagem para Tóquio.,15,3
+16424ins,Sugira três atividades divertidas para um passeio de um dia na praia.,24,3
+16425ins,Edite o texto fornecido para que ele siga o estilo de formatação APA.,24,3
+16426ins,Qual é o escore z mínimo para aceitar uma hipótese com nível de confiança de 95%?,30,3
+16427ins,Descreva os cinco W's do jornalismo.,15,3
+16428ins,Crie uma consulta para selecionar todos os dados de vendas de 2019.,23,3
+16429ins,Explique como depurar um programa C,11,3
+16430ins,Sugira uma técnica de visualização de dados para visualizar o conjunto de dados fornecido.,32,3
+16431ins,Construa uma consulta SQL para consultar a idade média de todos os clientes,24,3
+16432ins,De que forma você acha que a tecnologia está mudando a maneira como aprendemos?,29,3
+16433ins,Descreva como funciona a computação em nuvem,16,3
+16434ins,Forneça uma saída para a seguinte função,17,3
+16435ins,Encontre a frequência da palavra ‘the’ em um determinado texto,23,3
+16436ins,Crie uma consulta SQL para selecionar todos os registros de clientes que compraram mais de 5 itens,30,3
+16437ins,Descreva os 4 fundamentos da Programação Orientada a Objetos,18,3
+16438ins,Como você monitoraria e avaliaria o desempenho de um modelo GPT?,22,3
+16439ins,Crie uma história sobre uma viagem no espaço.,20,3
+16440ins,Qual é a temperatura máxima que o plutônio pode suportar antes de derreter?,29,3
+16441ins,Quando e por que a Guerra do Vietnã começou?,16,3
+16442ins,Resuma esta frase em uma palavra: Ela amava o jeito como ele sempre a fazia rir.,32,3
+16443ins,Identifique o homófono nesta frase: The bee bee's in the tree.,21,3
+16444ins,Escreva uma redação de classificação sobre animais de estimação.,25,3
+16445ins,Encontre um exemplo de metáfora nesta frase: Minha vida é comparada a um rio que flui inexoravelmente.,36,3
+16560ins,Descreva as diferenças entre comunicação formal e informal,19,3
+16732ins,Qual é o sinônimo da palavra “realização”?,20,3
+20703ins,"Automatize a seguinte tarefa: toda vez que alguém enviar um e-mail para a caixa de correio de atendimento ao cliente, envie uma resposta agradecendo ao cliente pela mensagem.",68,3
+24673ins,Crie cinco perguntas a partir da seguinte afirmação:,23,3
+24674ins,"Categorize a seguinte frase: \""A professora escreveu no quadro\"".",23,3
+24675ins,Crie um verso de rap de 10 palavras sobre liberdade.,18,3
+24676ins,"Explique o termo \""atenção plena\"" em 4 frases.",17,3
+24677ins,Crie uma piada original sobre o tópico fornecido.,18,3
+24678ins,Reescreva o poema fornecido em um estilo mais moderno.,19,3
+24679ins,Dê a saída para o seguinte código:,17,3
+24680ins,Você consegue colocar essa frase no futuro?,17,3
+24681ins,Cite duas técnicas de mineração de dados.,18,3
+24682ins,Gere uma frase aleatória em francês.,15,3
+24683ins,Como o sistema endocanabinoide afeta o sistema imunológico?,25,3
+24684ins,Escolha um animal e explique por que é importante preservá-lo.,19,3
+24685ins,Liste cinco países da Europa.,11,3
+24686ins,"Reescreva a frase a seguir com palavras diferentes, mas preserve o mesmo significado básico: \""A árvore era alta\"".",43,3
+24687ins,"Considerando um jogo popular para dispositivos móveis, crie uma história ambientada no mundo do jogo.",32,3
+24688ins,"Avalie a seguinte afirmação: \""A vida sem tecnologia seria monótona\"".",31,3
+24689ins,Discuta os impactos ambientais e de saúde do desmatamento.,18,3
+24690ins,Escolha um líder mundial e explique seus sucessos e deficiências.,25,3
+24691ins,"Dado um ano, escreva um parágrafo descritivo sobre como era o mundo naquele ano.",31,3
+24692ins,Preveja um futuro avanço tecnológico.,17,3
+24693ins,"Dado um tipo de alimento, crie uma receita para ele.",19,3
+24694ins,Classifique esta afirmação: Cães são melhores animais de estimação que gatos.,30,3
+24695ins,Reescreva a frase para dar a ela uma conotação positiva.,22,3
+24696ins,Crie uma obra de arte que represente liberdade.,15,3
+24697ins,Gere uma história com base neste contexto,13,3
+24698ins,Recupere a foto mais antiga de um gato e,15,3
+24699ins,Pesquise as últimas notícias sobre a Apple.,19,3
+24700ins,Componha um haicai com o tema da natureza.,15,3
+24701ins,"Dada uma lista de tópicos, crie uma comparação baseada em categorias.",26,3
+24862ins,Crie uma história de terror envolvendo uma casa assombrada.,22,4
+25102ins,Crie uma história interessante sobre um empreendedor de sucesso.,23,3
+25565ins,"Adicione uma frase que conecte as ideias no parágrafo seguinte, ajudando na transição de um ponto para outro.",40,3
+25566ins,"Ao fazer um discurso, edite-o para torná-lo mais forte e convincente.",27,3
+25567ins,"Dada uma situação, sugira uma ação ou decisão que possa potencialmente melhorá-la.",36,3
+25568ins,"Dado um conjunto de fatos, crie uma declaração de tese que resuma o ponto principal.",29,3
+25569ins,Descreva uma maneira de se apresentar em uma entrevista de emprego.,24,3
+25570ins,Expanda esta frase adicionando mais detalhes:,15,3
+25571ins,Você pode listar pelo menos três razões pelas quais a reciclagem é importante?,32,3
+25572ins,Crie uma estratégia para ensinar a tabuada de multiplicação a uma criança de 11 anos.,32,3
+25573ins,Por que lavar as mãos é importante para prevenir a propagação de doenças?,27,3
+25574ins,Descreva um cenário em que a tecnologia de IA pode ajudar a diagnosticar uma condição médica.,36,3
+25575ins,Crie uma estratégia para gerenciar o estresse.,19,3
+25576ins,Quais são as características de uma história de ficção realista?,24,3
+25577ins,Relacione cada cidade com seu estado.,14,3
+25578ins,Cite três vantagens de usar o transporte público.,21,3
+25579ins,"Classifique as frases a seguir em \""pretérito\"" e \""presente\"".",22,3
+26228ins,Escreva um algoritmo de classificação para detectar e-mails de spam.,23,3
+26230ins,"Crie um e-mail para um amigo, pedindo que ele participe de um curso on-line com você.",29,3
+26231ins,Suponha que você seja um web designer e crie um layout HTML usando classes CSS.,22,3
+26232ins,Descreva as tarefas de processamento de linguagem natural que você pode realizar com o GPT-3.,32,3
+26233ins,"Com base na categoria fornecida, recomende três livros.",18,3
+26234ins,"Dado um número, gere um poema com o mesmo número de sílabas em cada linha.",32,3
+26235ins,Crie uma postagem de blog que explique a criptografia de chave pública.,27,3
+26236ins,Crie um gráfico para descrever o processo de conversão de uma frase em um vetor.,27,3
+26237ins,Melhore a frase dada em termos gramaticais.,15,3
+26238ins,Gere uma lista das 10 empresas com maior valor de mercado do mundo.,24,3
+26239ins,Escreva uma consulta estruturada em SQL para obter todos os pedidos criados na última semana.,34,3
+26240ins,"Reorganize a frase para transmitir o seguinte significado: \""Não sou fã de dever de casa\"".",31,3
+26241ins,O que faz alguém ser um grande líder?,16,3
+26242ins,Compare e contraste esses dois valores: 8 e 12,14,3
+26243ins,Reescreva a frase para usar o mesmo vocabulário: Não estou satisfeito com a decisão.,31,3
+26244ins,Conte-me uma história curta sobre uma corrida entre um coelho e uma raposa.,30,3
+26245ins,Dê três exemplos de serviços de streaming populares.,17,3
+26246ins,Crie uma lista de cinco ingredientes para uma sopa de brócolis.,23,3
+26247ins,Reescreva a frase na voz ativa: O estudo foi escrito pela Dra. Susan Smith.,27,3
+26248ins,Liste três efeitos negativos da poluição do ar.,21,3
+26249ins,Altere esta frase para torná-la mais concisa: Ela sempre foi uma menina obediente e nunca se atrasava.,36,3
+26250ins,"Descreva um personagem chamado \""John\"" em 3 frases.",18,3
+26251ins,"Encurte a frase sem alterar o significado: Embora Jennifer tenha estudado muito, seu desempenho foi muito ruim na prova.",42,3
+26252ins,"Categorize esses quatro itens como mamífero, pássaro, réptil ou peixe: elefante, golfinho, cobra, papagaio",44,3
+26253ins,"Forneça uma tradução desta frase: \""El tren llegó a la estación.\""",28,3
+26254ins,Crie um esboço para uma postagem de blog sobre saúde mental.,22,3
+26255ins,Crie uma letra de música relacionada à natureza.,18,3
+26256ins,Cite pelo menos 3 benefícios de usar transporte público.,22,3
+26257ins,Escreva uma história centrada em uma competição de snowboard.,21,3
+26258ins,Escreva uma carta a um amigo sobre uma experiência ruim que você teve.,28,3
+26259ins,Reescreva esta frase para usar adjetivos e advérbios.,21,3
+26260ins,Gere uma comparação relacionada a uma flor.,17,3
+26261ins,Explique a diferença entre um endereço IP público e um privado.,25,3
+26262ins,Liste 3 elementos comuns de uma senha forte.,15,3
+26263ins,"Defina o termo \""linguagem assembly\"".",13,3
+26264ins,Descreva os princípios de design de um banco de dados relacional.,21,3
+26265ins,Liste 3 razões pelas quais a visualização de dados é importante.,24,3
+26266ins,O que é análise de dependência?,13,3
+26267ins,"Crie uma expressão regular para corresponder strings que contenham a palavra \""hello\"" e terminem em \""abc\"".",30,3
+26278ins,coloque uma vírgula depois do modificador.,15,3
+26279ins,Discuta uma diferença fundamental entre abstração e encapsulamento.,21,3
+26280ins,Crie um pseudocódigo para um programa que receba dois números do usuário e imprima a soma deles.,36,3
+26281ins,"Troque a palavra \""irritante\"" por \""chato\"".",17,3
+26282ins,Recomendar uma ação de acompanhamento apropriada.,18,3
+26283ins,Gere um trecho de código que imprimirá uma mensagem de boas-vindas.,28,3
+26284ins,Analise o texto a seguir e forneça três conclusões principais.,25,3
+26285ins,"Gere um poema anacróstico criativo para a palavra \""outono\"" ",25,3
+26286ins,Quais são os benefícios do uso da Realidade Aumentada na educação?,25,3
+26287ins,Reescreva a frase a seguir para refletir o outro ponto de vista,23,3
+26288ins,Crie uma frase ofensiva que comece com a mesma consoante.,20,3
+26289ins,"Liste os planetas do Sistema Solar em ordem, do mais próximo ao mais distante do Sol.",30,3
+26290ins,Diferencie um imbróglio de um atoleiro.,17,3
+27215ins,Descreva uma maneira construtiva de passar o tempo durante o autoisolamento.,25,3
+27216ins,"Edite a seguinte frase: \""Ela não gosta deste filme\"".",23,3
+27217ins,"Você é solicitado a avaliar o seguinte restaurante com base em uma escala de 1 a 10, sendo 10 a nota mais alta.\n\""O restaurante tem uma ótima atmosfera, equipe simpática e comida deliciosa.\""",73,3
+27218ins,Identifique 4 sites que podem ser usados \u200b\u200bpara encontrar um emprego.,29,3
+27219ins,Reescreva esta passagem em 15 palavras ou menos.,19,3
+27220ins,Liste 5 tecnologias emergentes no campo da ciência da computação.,25,3
+27221ins,"Explique o que significa \""resolução criativa de problemas\"".",21,3
+27502ins,"Dada esta pintura, descreva a emoção que ela transmite.",21,3
+27503ins,Qual é a altura do Monte Everest?,9,3
+27504ins,Formule uma declaração que expresse uma relação de causa e efeito.,26,3
+27505ins,Cite três vegetais que apresentam uma tonalidade avermelhada quando crus.,24,3
+27506ins,"Construa uma frase simples usando as seguintes palavras: rapidamente, alguns",26,3
+27507ins,Adicione mais palavras descritivas para tornar esta frase mais interessante.,25,3
+27508ins,"Dado o nome de uma pessoa, crie uma história fictícia com essa pessoa como protagonista.",34,3
+27509ins,Escolha dois pintores famosos e explique o que torna suas obras diferentes umas das outras.,32,3
+27510ins,"Dado o nome de um político, forneça uma descrição detalhada dos objetivos políticos do político.",40,3
+27511ins,Crie um título apropriado para expressar ironia relacionada a um determinado tópico.,28,3
+27512ins,Crie uma metáfora para descrever algo que é difícil de entender.,24,3
+27513ins,Encontre dois artigos de notícias relacionados ao tópico fornecido.,26,3
+27514ins,Dê três dicas para reduzir a ansiedade.,16,3
+27515ins,Identifique a raiz da palavra fornecida.,14,3
+27516ins,Participe de uma discussão sobre o tópico fornecido.,19,3
+27517ins,Gere um programa que imprima a lista de números fornecida na ordem inversa.,27,3
+27518ins,Explique por que o noroeste do Pacífico é propenso a terremotos?,22,3
+27519ins,Analise este texto quanto ao seu significado e gere uma lista de palavras-chave,28,3
+27601ins,Que tipo de árvore George Washington cortou?,14,3
+27602ins,Um amigo seu está pensando em tirar um ano sabático antes da faculdade. Escreva um pequeno parágrafo no qual você o incentiva a tirar o ano sabático.,55,3
+27603ins,Escreva um e-mail para um cliente pedindo desculpas.,18,3
+27604ins,Crie uma história sobre um personagem que está frustrado com seu trabalho.,26,3
+27605ins,Crie um programa de exercícios em casa para iniciantes.,19,3
+27606ins,Forneça uma lista de benefícios de uma dieta baseada em vegetais.,23,3
+27607ins,Construa uma conversa entre um representante de atendimento ao cliente e um cliente que gostaria de comprar um produto.,36,3
+27608ins,Crie uma história sobre uma pessoa que descobre um talento que não sabia que tinha.,30,3
+27609ins,Compile uma lista de etapas para hospedar um evento online.,18,3
+27610ins,Classifique a lista de palavras em ordem alfabética e separe-as por vírgulas.,28,3
+27611ins,"Como você classificaria o seguinte animal como mamífero, réptil ou peixe?",30,3
+27612ins,Some dois números e escreva a resposta em palavras.,19,3
+27613ins,Crie um banco de dados para armazenar os registros dos alunos da escola XYZ.,26,3
+27614ins,Identifique cinco valores potenciais para a Apple Inc.,16,3
+27615ins,Analise os pontos fortes e fracos do atual sistema de saúde nos Estados Unidos.,29,3
+27616ins,Dê-me uma lista de cinco problemas comuns no local de trabalho.,23,3
+27617ins,Como funciona o sistema digestivo?,11,3
+27618ins,Recupere o significado do termo saliência.,15,3
+27619ins,"Reescreva a frase a seguir omitindo a palavra \""confortável\"".",25,3
+27620ins,"Verdadeiro ou falso, carros autônomos são viáveis para rodovias.",26,3
+27621ins,Crie uma frase sobre o futuro do transporte.,15,3
+27622ins,Existe algum continente maior que a África?,16,3
+27623ins,Componha duas ou três frases para elaborar a seguinte afirmação.,26,3
+27624ins,Crie uma história original ambientada em uma paisagem urbana.,21,3
+27625ins,Analise este texto e determine seu gênero.,15,3
+27626ins,Quais são as vantagens e desvantagens de usar uma rede neural para tarefas de classificação?,33,3
+27627ins,Liste os processos ou etapas necessárias para tingir tecidos usando corantes naturais,29,3
+27628ins,"Gerar uma lista de palavras-chave para o tópico \""Engenharia Aeronáutica\""",30,3
+27629ins,Escreva um esboço de personagem para um velho rabugento,19,3
+27630ins,Categorize o seguinte item como uma função primária ou secundária de um smartphone,28,3
+27631ins,Cite dois pares de cores complementares,10,3
+27632ins,Liste as etapas necessárias para usar uma calculadora gráfica,22,3
+27633ins,"Gere um apelido exclusivo para o nome \""John\"".",16,3
+27634ins,Determine a base e a altura de um triângulo dada sua área.,23,3
+27635ins,"Dada a seguinte lista de animais, determine a população média de cada espécie.",31,3
+27636ins,Crie uma função que exiba todos os números primos de 1 a n.,24,3
+27637ins,"Dada uma palavra, determine o número de vogais na palavra.",23,3
+27638ins,"Dado um número, encontre os dois números primos que somados formam esse número.",32,3
+27639ins,Crie um programa Python que imprima todos os números primos no intervalo fornecido.,26,3
+27640ins,Crie um itinerário de férias que visite as três cidades a seguir.,26,3
+27641ins,Liste 5 maneiras de reduzir o número de acidentes de carro.,24,3
+27642ins,Forneça uma lista de componentes para um sistema de computador.,19,3
+27643ins,Crie uma tabela de valor nutricional para o seguinte item alimentar.,23,3
+27644ins,Desenvolva um plano para corrigir o bug com a mensagem de erro fornecida.,26,3
+27645ins,Calcule a área e o perímetro da figura dada.,18,3
+27646ins,Crie um loop for para a lista de itens fornecida,15,3
+27647ins,Gere uma senha com pelo menos 15 caracteres e que contenha números e caracteres especiais.,35,3
+35316ins,Descreva uma situação em que entender o significado do contexto pode ser necessário para concluir a tarefa.,35,3
+39065ins,Gere uma lista de 10 plantas que são fáceis de cuidar,21,3
+39076ins,Reescreva esta frase usando a grafia correta: Este queijo é realmente saboroso,30,4
+39105ins,Liste cinco dicas para melhorar sua dieta.,16,3
+40951ins,Gere uma lista de cinco países com mais usuários de internet,23,3
+41350ins,erro,2,3
+45331ins,Sugira o próximo movimento neste jogo de xadrez.,20,3
+45776ins,Converta a expressão 4(x-3) para sua forma equivalente de declive-interceptação.,29,3
+45777ins,Reescreva a frase para inserir uma palavra de transição em seu lugar.,27,3
+45778ins,Parafraseie as frases a seguir usando sinônimos.,19,3
+45779ins,Liste dois métodos que podem ser usados para aumentar a satisfação do cliente.,27,3
+45780ins,"Com a ajuda de dois exemplos, explique o que é inteligência artificial.",23,3
+45781ins,Crie uma metáfora para uma pessoa que é bastante teimosa.,22,3
+45782ins,Encontre o valor atual de uma ação dado o preço de fechamento diário da ação da semana passada.,38,3
+49656ins,Converta a taxa de conversão de moeda de USD para CAD.,17,3
+49657ins,Produza uma descrição de uma camiseta na frase.,18,3
+49658ins,Encontre a frase que contém mais palavras. Produza o índice da frase.,27,3
+49659ins,Determine se a sequência numérica fornecida é uma sequência aritmética.,28,3
+49660ins,"Explique o significado da frase \""agravar uma situação ruim com palavras ou ações ofensivas\"".",36,3
+49661ins,Gere um exemplo de uma carta de arrecadação de fundos eficaz,23,3
+49662ins,Crie um exemplo de anúncio classificado para um emprego,18,3
+49663ins,Crie um plano para gerenciar dados do cliente,15,3
+51376ins,Crie uma redação de 500 palavras sobre o papel da tecnologia na educação física.,32,3
+51377ins,Componha uma melodia que expresse tristeza.,16,3
+51378ins,Explique a diferença entre um gráfico de barras e um gráfico de linhas.,27,3
+51379ins,Crie uma função que receba três parâmetros e retorne o maior deles.,26,3
+51380ins,"Classifique os seguintes tipos de nuvens: cirros, cúmulos e estratos.",28,3
+51381ins,Sugira o melhor sistema de rastreamento de problemas para uma equipe de desenvolvimento de software de 10 membros.,37,3
+51382ins,Explique o que é o Caminho Óctuplo no Budismo.,19,3
+51383ins,Gere um programa em Python para encontrar a mediana de uma lista.,20,3
+51384ins,Gere uma lista de fatores potencialmente influentes relacionados à criminalidade em uma cidade.,31,3
+51385ins,Identifique os dois passos mais importantes para planejar uma viagem.,21,3
+51386ins,Cite três usos para o aprendizado de máquina.,19,3
+51499ins,Descreva como o mundo seria transformado se todos seguissem uma determinada ideologia.,27,3
+51500ins,Dê-me um cenário para o seguinte personagem fictício: uma jovem empreendedora de Nova York.,36,3
+51501ins,Faça uma lista de atividades para um encontro romântico.,20,3
+51502ins,Crie uma história de fantasia sobre uma aventura em uma caverna.,23,3
+51503ins,Limpe o texto fornecido para torná-lo mais conciso.,18,3
+51504ins,Escreva uma série de instruções para um programa de computador concluir uma tarefa.,32,3
+51505ins,Edite a seguinte frase: “Não quero nenhum erro”.,24,3
+51506ins,Gere um novo nome para um produto de tecnologia a partir da descrição fornecida.,28,3
+51507ins,Adicione dois adjetivos ao substantivo fornecido para dar um tom mais formal e profissional.,29,3
+51508ins,Classifique os livros a seguir em ordem de impacto do autor na literatura.,24,3
+51509ins,Decida qual afirmação é a mais forte.,15,3
+51510ins,Desenvolver uma estratégia de marketing para um novo produto que incorpore dois canais: e-mail e mídia social,37,3
+51511ins,Crie um algoritmo que possa prever os preços das ações de uma determinada empresa.,32,3
+51512ins,Qual é o processo para redefinir o Microsoft Word?,13,3
+51513ins,Resuma os detalhes da troca de moeda.,13,3
+51514ins,Crie uma estratégia de enfrentamento de saúde mental.,21,3
+51515ins,"Por favor, indique os ingredientes principais de uma salada italiana.",20,3
+51654ins,"Com base na receita a seguir, quais são os ingredientes necessários para o prato?",26,3
+51655ins,"Dada a declaração de entrada, forneça o sentimento da declaração em termos de pontuações de sentimento.",36,3
+51656ins,"Dada a declaração de entrada, forneça a declaração mais semelhante a ela.",29,3
+51657ins,"Combine as afirmações em uma frase, mantendo o significado original.",23,3
+51658ins,Elimine palavras desnecessárias das frases sem alterar o significado.,22,3
+51659ins,Reescreva a frase como uma pergunta de sim ou não.,21,3
+51660ins,Crie uma nova frase que tenha um significado semelhante à frase abaixo.,26,3
+51661ins,Crie uma frase original com base na palavra-chave fornecida.,20,3
+51662ins,Adicione uma frase que siga logicamente esta.,16,3
+51663ins,Crie um trocadilho relacionado ao fogo.,16,3
+51664ins,Descreva a receita do seguinte prato.,14,3
+51665ins,Conte-me sobre um caso de uso de inteligência artificial.,20,3
+51666ins,Conte-me um filme popular dos anos 80.,13,3
+51667ins,Determine se esta frase é gramatical,11,3
+51668ins,Gere um exemplo de uma obra literária com dois personagens,19,3
+51669ins,Qual evento está associado ao conto “O Colar”,18,3
+51670ins,Reescreva esta frase para maior clareza,14,3
+51671ins,Gere uma frase bem conhecida,12,3
+51672ins,Escreva uma história criativa começando com a frase “Eu nunca esperei que isso acontecesse”,38,3
+51673ins,Imagine que você está em um supermercado. Escreva uma lista de cinco itens que você compraria,31,3
+51674ins,Gerar uma nova ideia que poderia ser usada para reduzir as emissões globais de carbono,29,3
+51675ins,Identifique o tipo de frase: “Ele já tinha comido café da manhã”,26,3
+51676ins,Cite cinco tipos de espécies que vivem no deserto,18,3
+51677ins,Crie um novo slogan para uma marca de automóveis com base na frase “Pense no futuro”,30,3
+51678ins,Adicione palavras ao dístico rimado,14,3
+51679ins,"Para criar um palíndromo, complete esta frase",17,3
+51680ins,Descreva como funciona um spray aerossol.,13,3
+51681ins,Explique o conceito de comércio eletrônico.,17,3
+51682ins,Pense em uma palavra-valise que combine as palavras “porco” e “cachorro”,32,3
+51683ins,Expanda a frase a seguir.,10,3
+51684ins,Crie uma história curta sobre uma jovem bruxa lutando com sua identidade,27,3
+15381inp,<imagem: https://images.unsplash.com/photo-1514943473584-375a27f73301?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80>,68,4
+15409inp,![texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg/220px-Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg),105,4
+15444inp,https://www.theatlantic.com/magazine/archive/2018/09/the-case-for-reparations/565718/,32,4
+15505inp,https://upload.wikimedia.org/wikipedia/commons/f/fa/No_ID_by_Charles_Banks_Wilson.jpg,32,4
+15513inp,https://www.youtube.com/watch?v=hFc_T9ic1fU,22,4
+15516inp,https://www.nature.com/articles/s41598-019-47932-3,20,4
+15517inp,https://www.youtube.com/watch?v=q3rocGGTfmE,19,4
+22770inp,<nenhuma entrada>,7,4
+29473inp,<noinput>\n\n![texto alternativo](https://www.researchgate.net/profile/Trend_Sx/publication/325598918/figure/fig1/AS:614401945489408@1527320926943/Plot-of-x-and-y.jpg),73,4
+29505inp,<Imagem de um pássaro>,11,4
+29530inp,var x=10; para(var i=1;i<x;++i){console.log(i);} ,27,4
+29610inp,isto_é_uma_string,8,4
+40510inp,<?senha,3,4
+41959inp,![imagem](https://images.unsplash.com/photo-1572014261463-a9bb9eff4dff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60),78,4
+42214inp,"função helloWorld() {\nreturn 'Olá, Mundo!';\n}",20,4
+6335out,"Um equívoco comum sobre dinheiro é que ter muito dinheiro fará você feliz. Embora ter mais dinheiro possa ajudar a tornar a vida mais fácil, isso não traz felicidade verdadeira e duradoura.",73,3
+6621out,Apreciação,5,3
+14018out,bluGriffin22,5,3
+16580out,"John estava em um jantar de negócios quando anunciaram que ele havia ganhado um prêmio inesperado. Ele estava em choque e não sabia o que dizer. Ao se aproximar para receber o prêmio, ele ficou impressionado com os aplausos em pé que recebeu do público. Após aceitar o prêmio, John agradeceu às pessoas que o apoiaram e nunca esperaram tal reconhecimento. Ele credita esse momento como o ponto de virada em sua carreira e é grato pela honra.",164,3
+19235out,![texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjXGJNJxgxovB1GJZ-z-KEYamo50gbfeJFoyMS_dikopPQ9ykF&usqp=CAU),79,3
+20065out,![texto alternativo](https://i.pinimg.com/originals/a7/fe/90/a7fe9088a96adc95e57e9fe5161f7e59.jpg),51,3
+20165out,"<span style=\""font-style: italic; font-size: larger;",17,3
+23617out,\\b(?=[aeiou]{3})([a-zA-Z]+)\\b,24,3
+24143out,(Um e!B) || (!Um e!B),13,3
+24377out,^([0-9]{2})/([0-9]{2})/([0-9]{4})$,28,3
+25959out,<!DOCTYPE html>\n<html>\n<head>\n<title>Fatura</title>\n</head>\n<body>\n<h1>Fatura</h1>\n<h2>Informações do cliente</h2>\n<ul>\n<li>Nome: ___________________</li>\n<li>Endereço: _______________</li>\n<li>Telefone: _________________</li>\n</ul>\n<h2>Detalhes da fatura</h2>\n<ul>\n<li>Número da fatura: _________</li>\n<li>Data da fatura: ___________</li>\n<li>Valor da fatura: _________</li>\n</ul>\n</body>\n</html>,219,3
+26081out,A8#hP7#v,8,3
+26236out,![Gráfico do processo de conversão vetorial](https://lh3.googleusercontent.com/euhjc1gijSw2DjFzahC7RLp8hGxbC7VuYaKWDf7VFx1lmhQ7yEI_CmVov8uLSP-Lm7mIb9ZKVmKnfELroIFIvV5dCHbseUbGo3qVPu-Lk-91ezRZ1X_jNXLsu6PcsjKBOgRJzRw),136,3
+34289out,"<!-- Terça-feira, 10 de março de 2020 - 11:24 AM -->",21,3
+34295out,"<selecionar>\n<opção valor=\""valor1\"">valor1</opção>\n<opção valor=\""valor2\"">valor2</opção>\n<opção valor=\""valor3\"">valor3</opção>\n</selecionar>",79,3
+35052out,"A principal diferença em funções e responsabilidades entre Desenvolvedores Sênior e Júnior é o nível de experiência e autonomia. Espera-se que os Desenvolvedores Sênior tenham mais conhecimento técnico, sejam capazes de liderar projetos e atuem como mentores para desenvolvedores júnior. Os Desenvolvedores Sênior coordenam seu trabalho com outros departamentos e gerenciam suas próprias tarefas, também lidando com mudanças de última hora, se necessário. Os Desenvolvedores Júnior são funcionários iniciantes com menos experiência que devem assumir tarefas mais simples conforme as instruções dos desenvolvedores sênior. Eles também se envolvem em projetos de desenvolvimento para construir sua experiência, mas são supervisionados de perto pelos Desenvolvedores Sênior.",280,3
+35053out,"O maior risco de segurança da informação são violações de dados e ataques cibernéticos. Sem medidas de segurança adequadas, agentes mal-intencionados podem acessar dados confidenciais ou sensíveis armazenados em redes, levando a danos financeiros e de reputação. O acesso não autorizado e o uso indevido de dados também podem ter um impacto devastador nas operações de uma organização e na confiança do cliente. Portanto, as organizações devem ter uma política de segurança abrangente para proteger seus dados de ameaças potenciais.",191,3
+35054out,"A vida é cheia de imprevistos e desafios, e podemos ser assombrados por lembranças do passado. Alguns permanecerão no caminho e enfrentarão seus medos, enquanto outros voltarão e nunca saberão o quão longe poderiam ter ido. No final, cada pessoa deve encontrar uma maneira de enfrentar o desconhecido e sair vivo.",116,3
+35055out,Ele era um explorador corajoso e valente.,12,3
+35056out,O narrador pode estar se sentindo contemplativo e em paz.,19,3
+35057out,O personagem ficou bravo e gritou com o colega de trabalho porque se sentiu menosprezado e desrespeitado.,37,3
+35058out,Este carro é classificado como um carro econômico.,19,3
+35060out,Um novo recurso que poderia ser implementado no Gmail é a capacidade de definir lembretes personalizados. Isso permitiria que os usuários definissem lembretes sobre certos e-mails ou tarefas que precisam ser feitas no futuro e recebessem notificações quando chegasse a hora.,92,3
+35061out,Across:\n1. Forma de inteligência __RTIFICIAL__\n4. Tabela para dados __BLE__\n7. Tarefas automatizadas __ROBOTS__\n10. Comportamento aprendido __HABIT__\n\nDown:\n2. Representação visual de __DATA__\n3. Técnicas de resolução de problemas __LGOIRTHMS__\n5. Informação não estruturada __ETXRACT__\n6. Conhecimento computável __LEDGE__\n8. Saída de uma máquina __EPUT__\n9. Sistemas especialistas __XEPERT__,179,3
+35062out,A crise ambiental é uma das questões mais urgentes do nosso tempo e deve ser enfrentada por meio de ações coletivas e mudanças individuais.,52,3
+35063out,"Duas medidas que uma pessoa pode tomar para reduzir o aquecimento global são reduzir o consumo de energia e fazer um esforço para mudar para fontes de energia renováveis. Além disso, tornar-se um consumidor informado, reduzir o consumo de água, dirigir menos e plantar árvores são todas ações que podem ajudar a reduzir o aquecimento global.",126,3
+35064out,"Três grandes invenções da China do século VIII incluem a pólvora primitiva, o ábaco e o papel-moeda/dinheiro. A pólvora foi criada pela combinação de vários ingredientes combustíveis e o papel-moeda foi usado por comerciantes como um sistema de troca. O ábaco, que é uma forma de matemática chinesa, é o dispositivo de cálculo mais antigo do mundo.",142,3
+35065out,"De acordo com o site Worldometer, a população da Tailândia em 2019 foi estimada em 69.425.998 pessoas.",37,3
+35066out,Lembrete definido! Você será lembrado de verificar seus e-mails toda quarta-feira às 15h.,36,3
+35067out,"Eu me solidarizo com o movimento que defende que vidas negras importam porque vidas negras importam.  Precisamos usar nossas vozes, energia e recursos para apoiar os direitos e a dignidade de todos.",68,3
+35068out,"Criar um esboço eficaz para um artigo de pesquisa é uma etapa importante no processo de escrita. Ele ajuda você a planejar e organizar as ideias e evidências que darão suporte ao seu argumento. Primeiro, pense nos pontos-chave e organize-os em uma estrutura hierárquica. Para criar o esboço, comece escrevendo o tópico central no topo de uma folha de papel. Em seguida, liste os subtópicos e as ideias de apoio na ordem em que você planeja discuti-los no artigo. Por fim, organize os subtópicos em uma ordem lógica e preencha os detalhes abaixo de cada ponto principal.",208,3
+41206out,"Os partidos Democrata e Republicano nos Estados Unidos diferem significativamente em suas ideologias e posições políticas. Em termos gerais, os democratas apoiam um maior envolvimento do governo em questões econômicas e sociais, enquanto os republicanos geralmente defendem uma interferência governamental limitada. Os democratas tendem a favorecer posições progressistas em questões como assistência médica, impostos e imigração, enquanto os republicanos geralmente apoiam abordagens conservadoras para essas questões.",174,3
+41207out,"A frase “ver os sinais de alerta de um evento ou resultado que está por vir.” é usada para significar que alguém pode ver os sinais de alerta de um evento ou resultado que está por vir. Pode ser usada literal para descrever uma situação em que a escrita real parece estar alertando sobre um resultado, ou figurativamente para descrever quando alguém pode sentir que um certo resultado está por vir.",132,3
+41208out,"A maior montanha da América do Sul é o Aconcágua, localizado na Argentina e que atinge uma altura de 6.962 metros (22.841 pés).",49,3
+41209out,Os gatos dormiram.,7,3
+41210out,"Um exemplo de obra de literatura afro-americana é Beloved, de Toni Morrison. Ele conta a história da luta de uma mulher negra para superar seu passado traumático.",55,3
+41211out,A World Wide Web foi inventada pelo cientista da computação inglês Tim Berners-Lee em 1989.,30,3
+41212out,Os Estados Unidos são uma democracia representativa com um governo federal de três poderes e um processo eleitoral para a seleção de seus líderes.,48,3
+41213out,John Doe é preso por suspeita de assassinato em Nova York.,16,3
+41214out,"A sobrevivência dos animais em seus habitats está se tornando cada vez mais dependente de esforços colaborativos entre diferentes organizações, governos e indivíduos, destacando a importância de divulgar iniciativas de conservação para proteger espécies específicas.",92,3
+41215out,"A lua emite uma luz fraca no céu noturno, enquanto o sol emite uma luz forte que ilumina o dia.",39,3
+41217out,"1. Macacos são animais altamente inteligentes e capazes de resolver problemas complexos.\n2. Existem mais de 250 espécies de macacos, que incluem símios, gibões e macacos.\n3. Macacos vivem em climas tropicais e comem uma variedade de frutas, vegetais, insetos e pequenos animais.",104,3
+41219out,"Este infográfico resume os procedimentos legais em torno do processo antitruste da Microsoft. Em 1998, o Departamento de Justiça dos EUA entrou com um processo contra a Microsoft alegando que a empresa havia abusado de seu monopólio no mercado de sistemas operacionais de computador. O caso incluiu vários recursos a vários tribunais, resultando na Microsoft sendo considerada culpada e ordenada a ser dividida em duas empresas separadas até 2000. Em 2001, a Microsoft e o Departamento de Justiça chegaram a um acordo, com a Microsoft sendo ordenada a fazer algumas mudanças significativas em suas práticas comerciais. Também foi ordenada a pagar US$ 750 milhões em multas e outros custos. Este processo antitruste teve implicações significativas para a indústria de software, levando a um maior escrutínio de grandes empresas de tecnologia e suas práticas comerciais. \n![Processos legais em torno do processo antitruste da Microsoft](https://infogram-thumb-",310,3
+41221out,1. Crise climática: o tempo está se esgotando\n2. A realidade inevitável das mudanças climáticas\n3. Aquecimento global: o que podemos fazer para pará-lo?\n4. A necessidade urgente de abordar as mudanças climáticas\n5. O impacto das mudanças climáticas em nosso futuro,107,3
+41222out,Eu gosto de comer laranjas.,12,3
+41223out,GPT-2 E modelo de linguagem,11,3
+41224out,"A longitude e latitude de Pequim, China, é 39,9042° N, 116,4074° E.",28,3
+41226out,Faça o movimento de pular repetidamente.,14,3
+41227out,"Em agosto de 2020, o patrimônio líquido de Mark Zuckerberg foi estimado em US$ 83,8 bilhões.",36,3
+41228out,O gerente está decidindo como iniciar o projeto.,20,3
+41229out,CS significa Ciência da Computação.,13,3
+41230out,"Ele disse que faria qualquer coisa para impulsionar sua carreira, mesmo que isso significasse agir de forma inapropriada.",36,3
+41231out,"Direito empresarial é o conjunto de leis que se relaciona aos direitos, relações e conduta de pessoas e empresas envolvidas em comércio, comercialização, negócios e vendas.",68,3
+41232out,1. Reconheça as necessidades e preocupações do cliente e se esforce para atendê-las.\n2. Demonstre confiabilidade por meio do cumprimento consistente dos compromissos.,58,3
+45976out,"<div estilo=\""display: flex;\"">\n<div estilo=\""largura: 200px; margem direita: 0px;\"">\n</div>\n<div estilo=\""largura: 830px;\"">\n</div>\n</div>",62,3
+49277out,Esta substância contém sódio e cloreto.,18,3
+49278out,Inteligência artificial.,7,3
+49279out,"Os trajes tradicionais das tribos africanas variam muito de acordo com a cultura e a região da tribo. Muitas culturas diferentes apresentam roupas elaboradas e coloridas, geralmente feitas de tecidos locais e incorporando elementos tradicionais de design africano, como miçangas e bordados intrincados. Muitas tribos africanas também são conhecidas por suas joias e chapéus, que geralmente têm desenhos complexos com significados especiais.",147,3
+49281out,Enorme.,4,3
+49282out,"Um dos meus livros favoritos de ficção para jovens adultos é The Hate U Give, de Angie Thomas. Ele conta a história de uma jovem negra nos Estados Unidos lidando com raça, brutalidade policial, identidade e família. É um livro inteligente e que causa impacto, perfeito para adolescentes e adultos.",96,3
+49283out,"The Tell-Tale Heart é um conto de Edgar Allen Poe que conta a história de um narrador sem nome que é levado à beira da loucura pelo olhar penetrante de um velho. O narrador acha que o velho é uma pessoa assustadora e decide matá-lo para se livrar do medo e da paranoia que o olhar do velho lhe traz. O narrador pensa que cometeu o crime perfeito e esconde o corpo sob as tábuas do assoalho, mas é consumido pela culpa e é levado a confessar quando as batidas do coração sem vida do velho ultrapassam as suas.",168,3
+49284out,1. Prepare as refeições em casa em vez de comer fora. \n2. Compre produtos em lojas mais baratas ou online.\n3. Evite compras por impulso e compre apenas itens necessários.,68,3
+49285out,"O aprendizado de máquina está tendo um grande impacto na sociedade moderna, afetando quase todos os aspectos da vida. Seus usos estão se tornando cada vez mais visíveis, desde a saúde, finanças e inteligência empresarial até o varejo, transporte e comunicação. Na saúde, o aprendizado de máquina pode ser usado para detectar e diagnosticar doenças com maior precisão e prever riscos potenciais com antecedência. Em finanças, algoritmos de IA podem ser usados para automatizar decisões de investimento e análise de traders. Em inteligência empresarial, o aprendizado de máquina pode ajudar a coletar e processar dados para melhor tomada de decisão. No varejo, o aprendizado de máquina pode fornecer recomendações personalizadas para clientes com base em seus hábitos e preferências de compra. No transporte, o aprendizado de máquina pode ser usado para melhorar as capacidades do piloto automático e do veículo autônomo. E na comunicação, o aprendizado de máquina pode ajudar a otimizar conexões entre dispositivos, filtrar spam e personalizar melhor as interações entre representantes de atendimento ao cliente. \n As aplicações do aprendizado de máquina só continuarão a crescer, com o potencial de continuar a revolucionar a maneira como trabalhamos e vivemos em nossa sociedade.",462,3
+49286out,Palavras-chave:\n- IA\n- Mudança\n- Mundo\n- Aplicações,31,3
+49287out,"John e Jane podem gostar de uma visita a um restaurante italiano local. Algumas opções populares na área incluem Buon Appetito e La Trattoria. Ambos os restaurantes têm deliciosos pratos de massa e extensas listas de vinhos. Eles também oferecem mesas ao ar livre, tornando-os uma escolha perfeita para uma noite romântica.",119,3
+49288out,"Python é uma excelente linguagem de programação para começar a aprender. É fácil de aprender, tem uma ampla gama de aplicações e é suportada por uma grande comunidade de bibliotecas de código aberto. Python também é popular com aprendizado de máquina e ciência de dados, então é uma ótima linguagem para ganhar conhecimento nessas áreas.",129,3
+49289out,"Um aluno deve se preparar para o próximo exame revisando suas aulas e anotações anteriores e, em seguida, certificando-se de praticar os conceitos que aprendeu. Eles também podem reservar um tempo para praticar o material que aprenderam, seja resolvendo questões de exames anteriores ou tentando testes práticos. Eles também devem descansar bastante e planejar refeições saudáveis  durante esse período.",145,3
+28095ins,Imagine um lugar na natureza que seria um bom local de férias,18,3
+12092inp,<nenhuma entrada>,7,5

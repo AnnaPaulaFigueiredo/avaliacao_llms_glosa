@@ -1,0 +1,22 @@
+json
+[
+  {
+    "ID": "22650out",
+    "ORIGINAL": "A gravidade é tão forte que dobra o tecido do espaço-tempo e até mesmo a luz fica presa dentro de seus limites.",
+    "FIGURATIVO": "dobra o tecido do espaço-tempo",
+    "REESCRITO": "distorce a estrutura do espaço-tempo",
+    "RESULTADO": "A gravidade é tão forte que distorce a estrutura do espaço-tempo e até mesmo a luz fica presa dentro de seus limites."
+  }
+]
+
+json
+[
+  {
+    "ID": "39228out",
+    "ORIGINAL": "Sua atração gravitacional é tão forte que nem mesmo a luz consegue escapar, tornando-o completamente preto e invisível.",
+    "FIGURATIVO": "nem mesmo a luz consegue escapar",
+    "REESCRITO": "a velocidade da luz não é suficiente para superar a força gravitacional",
+    "RESULTADO": "Sua atração gravitacional é tão forte que a velocidade da luz não é suficiente para superar a força gravitacional, tornando-o completamente preto e invisível."
+  }
+]
+

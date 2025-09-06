@@ -1,0 +1,123 @@
+ID,INSTANCE,TOTAL_TOKENS
+2374ins,Descreva o que é um buraco negro,13
+9378ins,O que é um evento Cisne Negro?,14
+10160ins,Crie uma analogia para ilustrar o conceito de buraco negro.,21
+16885ins,"Crie uma história de terror de três frases que incorpore ""corvos negros"" e ""medos supersticiosos"".",38
+17764ins,Como você descreveria o conceito de “buraco negro”?,23
+20439ins,Resuma as características de um buraco negro.,16
+22650ins,Escreva uma breve descrição das características de um buraco negro.,27
+31422ins,Crie uma analogia para o buraco negro,14
+33737ins,Dê-me três fatos sobre buracos negros.,20
+35712ins,Liste 5 tipos de buracos negros.,15
+39228ins,Explique o que é um buraco negro em menos de 50 palavras,20
+39563ins,Explique como se forma um buraco negro.,15
+42297ins,Explique o conceito de buraco negro para uma criança.,19
+45164ins,Descreva o impacto dos buracos negros na evolução das galáxias.,28
+46489ins,Em que circunstâncias um cisne negro poderia ser uma metáfora,25
+49559ins,"Escreva uma definição de ""buraco negro"" em duas frases.",24
+51406ins,Defina o termo “buraco negro”.,16
+11887inp,"O estudo investigou as propriedades de fadiga por compressão e tração de borracha de pneu de caminhão submetida a temperaturas de cura variando entre 25 e 120 °C. Foram consideradas as temperaturas de cura da borracha à base de β-dicetona composta com negro de fumo, sílica e óxido de zinco.",103
+12801inp,O artigo “O lado negro do consumo excessivo de mídias sociais” discute as consequências negativas do uso excessivo das mídias sociais.,54
+13895inp,"""Não pare de tirar dinheiro do caixa eletrônico
+Olhando para o 'Gram, ficando bravo porque um negro tem mais bandas
+Não pare, empilhe, sim, eu estou dentro
+Meu dinheiro é longo, você não consegue encontrar o fim""",92
+14036inp,"Stephen Hawking foi um cientista britânico nascido em Oxford em 1942. Ele era um especialista em cosmologia e física teórica, e seu livro mais popular foi Uma Breve História do Tempo. Hawking também era conhecido por suas pesquisas pioneiras sobre buracos negros e mecânica quântica.",104
+28842inp,"Malcolm X foi um ministro muçulmano afro-americano, ativista dos direitos humanos e um proeminente líder nacionalista negro nas décadas de 1950 e 60.",57
+32725inp,"Matriz: [""verde"", ""céu azul"", ""montanha azul"", ""buraco negro"", ""maçã vermelha"", ""mar azul""]",42
+38928inp,Pessoa A: “Precisamos mostrar solidariedade aos nossos irmãos e irmãs negros”.,41
+48624inp,"Este artigo fornece informações detalhadas sobre buracos negros, um fenômeno na astronomia em que a gravidade é tão forte que nem mesmo a luz, a partícula mais rápida do universo, consegue escapar de seu alcance.",87
+2374out,"Um buraco negro é um objeto no espaço cuja atração gravitacional é tão forte que nada, nem mesmo a luz, consegue escapar de seu interior. É formado a partir do núcleo colapsado de uma estrela massiva e é considerado o objeto mais denso do universo. Um buraco negro normalmente tem uma massa muitas vezes maior que a do nosso Sol, e sua massa pode ser determinada pela quantidade de radiação que ele libera.",142
+3304out,"A teoria da relatividade de Albert Einstein é significativa porque revolucionou a nossa compreensão do universo. Substituiu a noção secular de espaço e tempo absolutos pelo conceito de espaço-tempo, permitindo-nos compreender fenómenos como ondas gravitacionais, buracos negros e a expansão do universo. Também abriu a porta para avanços na física que antes não eram possíveis, como foguetes mais poderosos e experimentos mais precisos em física de partículas.",166
+3818out,"A automação residencial é uma tecnologia em rápido crescimento que oferece comodidade e maior segurança nas residências. Muitas vezes inclui automação de temperatura e iluminação, vigilância, sistemas e aparelhos de segurança. Muitos dos benefícios incluem poupança de energia, maior segurança e conveniência, mas há um lado negro que deve ser considerado. Os riscos incluem vulnerabilidade a violações de dados e hacks, aumento de custos e aumento da sensação de falta de privacidade.",186
+9378out,"Um evento Cisne Negro é um evento raro e imprevisível que tem um impacto duradouro e de grande escala e muitas vezes é difícil de explicar depois que o evento já aconteceu. É um termo cunhado por Nassim Nicholas Taleb para descrever um acontecimento inesperado que tem um impacto profundo no mundo. Exemplos de eventos do Cisne Negro podem incluir crises económicas, convulsões políticas e revoluções sociais.",147
+9392out,"Os sete mares do mundo são: Mar do Norte, Mar Báltico, Mar Mediterrâneo, Mar Negro, Mar da Arábia, Mar da China Meridional e Mar do Caribe.",54
+9596out,"- Leopardo de Amur
+- Tartarugas marinhas
+- Elefante africano
+- Abutre de garupa branca
+- Rinoceronte negro",45
+10160out,"Um buraco negro pode ser comparado a uma pessoa com um apetite enorme. Não importa o que você coloque na frente deles, eles consumirão tudo, nunca se fartando e ficando cada vez mais famintos. À medida que mais e mais massa é adicionada a um buraco negro, sua atração gravitacional fica mais forte, assim como quanto mais um glutão consome, mais faminto ele fica.",132
+10470out,"Havia dois irmãos, Mary e Richard, que tinham acabado de se mudar para uma nova cidade. Um dia, enquanto exploravam a floresta perto de sua casa, descobriram um objeto misterioso. Era uma pequena caixa feita de metal e coberta de runas estranhas. Quando abriram a caixa, descobriram um colar dentro. Depois de olharem mais de perto, perceberam que se tratava de um colar mágico, com poder de realizar desejos. Mas logo descobriram que o colar também tinha um lado negro - ele realizaria qualquer desejo, a um alto custo.",191
+10728out,"O foguete espacial era um pilar branco e brilhante de poder e energia, apontando diretamente para o céu noturno negro. Ele estava cercado por um brilho dourado das chamas brilhantes que saíam de cada um de seus motores enquanto ele lentamente saía da plataforma de lançamento e subia para o céu. O chão tremeu com um rugido estrondoso enquanto o foguete se afastava, subindo cada vez mais alto enquanto disparava para o espaço.",153
+11887out,"Este estudo analisou como o calor afeta a resistência da borracha usada em pneus de caminhões. Examinamos os efeitos das temperaturas de cura de 25°C a 120°C na borracha do pneu, que foi misturada com negro de fumo, sílica e óxido de zinco. Descobrimos que quanto maior a temperatura de cura, mais “forte” a borracha se torna.",133
+12370out,"Malcolm X (19 de maio de 1925 - 21 de fevereiro de 1965), nascido Malcolm Little e mais tarde também conhecido como El-Hajj Malik El-Shabazz, foi um ministro muçulmano afro-americano e ativista dos direitos humanos. Desde então, alguns de seus ideais e ensinamentos inspiraram muitos movimentos em todo o mundo. Ele é mais conhecido pelas suas opiniões controversas sobre o nacionalismo negro e os direitos civis, que eram frequentemente aplicáveis ​​a outras questões raciais e socioeconómicas.",181
+12607out,Recentemente assisti ao filme O Dia Chegará. É uma hilária comédia de humor negro que segue um infeliz aspirante a revolucionário que é recrutado por um agente do FBI para encenar um ataque. É estrelado por Anna Kendrick e apresenta performances incríveis de alguns dos atores cômicos mais talentosos da atualidade.,105
+14036out,"Stephen Hawking (1942-2018) foi um cientista britânico e especialista em cosmologia e física teórica, mais conhecido por escrever o livro Uma Breve História do Tempo e por sua pesquisa pioneira sobre buracos negros e mecânica quântica. Ele nasceu em Oxford em 1942.",99
+14133out,"Yoda e Darth Vader são personagens muito diferentes. Yoda é um pequeno, sábio e benevolente Mestre Jedi, enquanto Darth Vader é um poderoso Lorde Sith e um servo do lado negro da Força. Yoda é um mestre da diplomacia e da razão, enquanto os métodos de Darth Vader são limitados pelo medo, pela coerção e pela coerção. Yoda se concentra no autoaperfeiçoamento, enquanto Darth Vader se concentra apenas em cumprir a vontade de seu mestre sombrio. Além disso, os métodos de Yoda são compassivos e pacíficos, enquanto os de Darth Vader são implacáveis ​​e violentos.",201
+15647out,"Três espécies animais que estão ameaçadas devido à atividade humana são o rinoceronte negro, a baleia azul e o elefante africano.",51
+16885out,"Os habitantes da cidade eram supersticiosos com os corvos negros que circulavam em torno de suas casas. Com o passar dos dias, seus medos só foram validados quando estranhas ocorrências começaram. Ninguém sabia o que os causou, mas alguns culparam os pássaros misteriosos e rapidamente perceberam a horrível verdade de que os corvos haviam sido amaldiçoados por espíritos malignos.",137
+17379out,"A tendência identificada neste artigo é o número crescente de negros americanos que procuram educação médica, especialmente à luz dos efeitos desproporcionais da pandemia da COVID-19 nas suas comunidades.",77
+17764out,"Um buraco negro é uma região incrivelmente densa do espaço, criada quando uma estrela entra em colapso devido à sua própria gravidade. Como a estrela é tão densa, nada consegue escapar dela, nem mesmo a luz, e é por isso que ela cria um “buraco negro” no espaço. A gravidade dentro de um buraco negro é tão forte que qualquer coisa perto dele, incluindo estrelas, planetas e até galáxias inteiras, é puxada e eventualmente consumida.",167
+18308out,"Um quadro-negro, mesas, cadeiras, livros e um apontador de lápis.",31
+19270out,"Os cientistas fazem uso de diversas observações para estudar o universo, como catalogar estrelas e outros objetos celestes, medir a radiação e estudar a química do gás e da poeira intergalácticos. Outras observações incluem a busca de planetas ao redor de outras estrelas, a procura de evidências de buracos negros e o uso de radiotelescópios para procurar sinais de possíveis civilizações extraterrestres.",154
+20439out,"Um buraco negro é uma região extremamente densa do espaço com intensa atração gravitacional. É formado por uma estrela em colapso que se tornou tão densamente compactada que nada, nem mesmo a luz, consegue escapar à sua poderosa força gravitacional. É caracterizado por uma singularidade em seu núcleo, uma fronteira invisível conhecida como horizonte de eventos e um disco de acreção circundando o horizonte de eventos. Os buracos negros são frequentemente associados aos monstros supermassivos que existem no centro de muitas galáxias.",179
+22939out,"- 1895: Teoria da Relatividade Especial 
+- 1905: Efeito Fotoelétrico, Equivalência Massa-Energia
+- 1911: Explicação do Movimento Browniano 
+- 1915: Teoria Geral da Relatividade 
+- 1916: Explicação matemática dos buracos negros
+- 1920: Teoria do campo unificado
+- 1923: estatísticas de Bose-Einstein",115
+24164out,"A Guerra Civil Americana começou em 1861 e terminou em 1865. Durante este período, numerosos eventos moldaram a guerra e influenciaram o seu resultado. Esses eventos podem ser classificados em diversas categorias. Os eventos políticos incluem os debates Lincoln-Douglas, a eleição de Abraham Lincoln e a secessão dos estados do Sul. Os eventos militares incluem a Batalha de Antietam, a Batalha de Gettysburg e a Batalha de Vicksburg. Os eventos sociais incluem a Proclamação de Emancipação, o alistamento de soldados negros no Exército da União e a adoção do recrutamento. Os esforços diplomáticos incluem as negociações do presidente Lincoln com a Grã-Bretanha e a França, o apelo de Lincoln à paz vindo do Sul e o apelo do presidente confederado Jefferson Davis ao público para o reconhecimento da Confederação.",271
+24266out,"O primeiro capítulo de To Kill a Mockingbird apresenta a protagonista, Scout Finch, e seu irmão, Jem. É ambientado no condado de Maycomb, Alabama, durante a Grande Depressão. O capítulo revela o relacionamento de Scout com seu pai Atticus e sua governanta Calpurnia, bem como seu conhecimento geral sobre o racismo na área. A narradora relembra sua infância e relembra a metáfora do mockingbird que tem sido usada para se referir a pessoas inocentes. O capítulo também aborda a educação peculiar de Scout e sua compreensão de sua comunidade. Ficamos sabendo que Scout e Jem estão sob os cuidados de seu pai, que recentemente concordou em assumir o caso de Tom Robinson, um homem negro acusado. Vemos também a presença de Boo Radley, o estranho e misterioso vizinho que patrulha o bairro à noite.",277
+25789out,"A missão de resgate no espaço tinha um objetivo: encontrar e trazer de volta uma tripulação de astronautas que havia sido enviada em missão para explorar uma região misteriosa do espaço. Após semanas de busca, a tripulação finalmente conseguiu localizar os astronautas presos. 
+
+A missão de resgate não foi tarefa fácil. A tripulação teve que enfrentar perigosos campos de asteróides, buracos negros traiçoeiros e o frio implacável do espaço profundo. Mesmo os pilotos mais experientes tiveram dificuldade em controlar a sua nave espacial nestas condições hostis. 
+
+A missão foi um sucesso – a equipe de resgate conseguiu localizar os astronautas presos e trazê-los de volta à Terra em segurança. Seguiu-se uma grande celebração e os astronautas resgatados foram aclamados como heróis. Foi um momento triunfante e brilhante de vitória para a missão de resgate e uma recompensa pela sua coragem face ao perigo.",330
+26506out,"Três espécies de animais ameaçadas de extinção são a salamandra gigante chinesa, o gorila da montanha e o rinoceronte negro.",49
+27695out,"Tudo começou com uma faísca. Tudo começou pequeno, nada mais do que o sussurro de um fósforo aceso. Mas o vento estava forte naquele dia e aquela faísca cresceu, viajando por toda parte. As pessoas começaram a notar a fumaça ao longe, cobrindo o céu com um sinistro manto negro. 
+
+À medida que o fogo se espalhava, as pessoas se dispersavam e os animais escapavam o mais rápido que podiam. Infelizmente, nem todos conseguiram escapar a tempo. Bombeiros, policiais e voluntários da comunidade se uniram em um esforço para conter o incêndio e proteger a vida das pessoas em seu caminho. Eles lutaram bravamente e, eventualmente, o fogo foi dominado. 
+
+Os danos, no entanto, foram muito mais extensos do que se imaginava. Casas, empresas e memórias viraram fumaça.  Mas no meio da destruição e do desespero, uma coisa permaneceu constante: a resiliência do espírito humano. Pessoas de todas as origens e idades uniram-se para reconstruir, começando das cinzas como a fênix de antigamente. Eles mostraram que nada, nem mesmo um fogo crepitante, pode extinguir a vontade do coração humano.",427
+28828out,"A teoria da relatividade de Einstein é uma das teorias mais importantes da física moderna. Revolucionou nossa compreensão do espaço e do tempo e introduziu uma nova visão do universo. Explica como funciona a gravidade, como o espaço e o tempo estão interligados e fornece a base para a compreensão de fenómenos como buracos negros e outros eventos exóticos. A relatividade também previu a expansão do universo e lançou as bases para a cosmologia moderna.",157
+28842out,"Malcolm X foi um influente líder nacionalista negro que se dedicou a lutar pelos direitos civis e a defender melhores oportunidades para os afro-americanos. Ele ganhou destaque como ministro na Nação do Islã e adotou uma postura mais radical mais tarde em sua vida, altamente crítico do movimento dominante pelos direitos civis.",116
+29575out,"Gorilas, tigres, elefantes africanos, rinocerontes negros, gorilas da montanha, tartarugas-de-couro, leopardos da neve, orangotangos, pangolins, rinocerontes brancos do norte e vaquitas.",82
+30846out,"1. ""O lado negro das mídias sociais: o impacto das mídias sociais na saúde mental"", do professor Rami Yacoub.
+2. ""Impacto negativo do uso da mídia social: uma revisão da literatura"", do Dr. Sanju Kanwar e Shveta Rajpal.
+3. ""Mídia social e seu impacto na vida das pessoas"", da Dra. Priya Agrawal.",122
+30911out,"Cinco espécies ameaçadas de extinção são o rinoceronte negro, o gorila da montanha, o wombat de nariz peludo do norte, o pau-rosa de Madagascar e a tartaruga-de-pente.",67
+31422out,"Um buraco negro é como um poço sem fundo, com uma força gravitacional tão forte que nem mesmo a luz consegue escapar de seu alcance.",51
+32339out,"Os personagens de To Kill a Mockingbird incluem Atticus Finch, um advogado e pai sábio e compassivo; Jem, filho de Atticus, que começa a compreender as complexidades do mundo ao seu redor; Scout, filha pequena de Atticus, que vive muitas aventuras; Boo Radley, um vizinho misterioso; e vários outros personagens da cidade de Maycomb. A história gira em torno da defesa de Atticus de um homem negro falsamente acusado e como seus filhos são afetados pelos acontecimentos do julgamento.",169
+33737out,"1. Os buracos negros são regiões do espaço com uma atração gravitacional tão forte que nem mesmo a luz consegue escapar deles.
+2. Eles são frequentemente formados quando uma grande estrela morre e colapsa sobre si mesma devido ao seu imenso campo gravitacional.
+3. Um único buraco negro pode conter a massa de milhões ou mesmo bilhões de estrelas.",140
+34917out,“Explorando o lado negro do consumo de bebidas alcoólicas pelos adolescentes – um aviso terrível para os pais.”,42
+35712out,"- Buraco Negro Estelar 
+- Buraco negro supermassivo 
+- Buraco Negro de Massa Intermediária 
+- Buraco negro recuando
+- Buraco Negro Primordial",47
+38344out,"Mesa, quadro-negro, livros.",15
+39563out,"Um buraco negro é criado quando uma estrela muito massiva fica sem combustível nuclear e o seu núcleo já não consegue resistir à gravidade estelar. O núcleo colapsa para dentro numa reação em cadeia que ricocheteia para fora, empurrando as camadas exteriores da estrela para o espaço numa explosão de supernova. Eventualmente, o núcleo para de entrar em colapso, comprimindo-se em um único ponto de raio infinitamente pequeno e densidade infinitamente grande, conhecido como singularidade. Isto cria um campo gravitacional extremamente poderoso do qual nada, nem mesmo a luz, pode escapar, dando origem à sua distinta silhueta escura.",230
+40757out,"- Albert Einstein: Teoria da relatividade
+- Marie Curie: Radioatividade 
+- Isaac Newton: Leis do movimento, gravitação universal 
+- Charles Darwin: Teoria da evolução 
+- Galileo Galilei: astronomia telescópica, cinemática 
+- Stephen Hawking: teoria do buraco negro, singularidade espaço-tempo 
+- Alan Turing: Máquina de Turing, programação de computadores 
+- Linus Pauling: Ligações químicas, estrutura molecular",141
+41951out,"Astronauta, foguete, buraco negro, satélite, cratera.",23
+42297out,"Um buraco negro é uma área no espaço tão poderosa e densa que nem mesmo a luz consegue escapar de sua atração. Os buracos negros são como o oposto das estrelas – em vez de emitirem luz, absorvem tudo, até mesmo a luz. Os cientistas sabem que os buracos negros existem porque podem ver a forma como afectam as estrelas e outras matérias ao seu redor. É como um vácuo gigante que suga e prende qualquer coisa próxima, como um gigantesco poço sem fundo no espaço.",181
+42883out,"Você pode encontrar um artigo que critica a impressão 3D, como ""O lado negro da impressão 3D: ar respirável, mudanças climáticas e poluição"" do The Guardian.",59
+44175out,"A principal diferença entre ondas eletromagnéticas e gravitacionais é a sua origem. Ondas eletromagnéticas, como a luz, são geradas por campos elétricos e magnéticos. As ondas gravitacionais são geradas pela aceleração da massa, como quando dois buracos negros colidem. As ondas eletromagnéticas viajam à velocidade da luz, enquanto as ondas gravitacionais viajam à velocidade da gravidade. As ondas eletromagnéticas podem ser refletidas, refratadas ou absorvidas, enquanto as ondas gravitacionais só podem ser absorvidas.",194
+45164out,"Os buracos negros têm um impacto significativo na evolução das galáxias. Eles engolem gás e poeira próximos, suprimindo assim a formação de estrelas nas regiões circundantes. Isto pode levar ao encerramento da formação estelar numa galáxia, alterando assim a sua evolução e aparência. Além disso, os buracos negros também ajudam a regular o crescimento de uma galáxia, limitando a quantidade de material disponível para formar estrelas.",172
+45718out,"Os biscoitos são lanches pequenos e saborosos que vêm em todos os formatos, tamanhos e sabores. O giz é uma substância barata, semelhante a poeira, popularmente usada em quadros negros e calçadas. A tinta é um tipo de meio líquido composto por um pigmento, um aglutinante e um solvente usado para adicionar cores brilhantes e acabamentos interessantes a diversas superfícies.",134
+46489out,"O termo ""cisne negro"" é frequentemente usado como uma metáfora para descrever um evento ou ocorrência que é altamente improvável, mas tem um impacto massivo e inesperado. É usado para nos lembrar que tais eventos, embora raros, podem ocorrer e ocorrem e devem ser preparados, mesmo que essa probabilidade pareça pequena.",118
+47264out,Duas espécies de plantas ameaçadas de extinção incluem a flor-de-macaco-de-Santa-Bárbara e a margarida-de-árvore-de-Tongariro. Duas espécies de animais ameaçadas de extinção incluem o tigre-de-Sumatra e o rinoceronte-negro.,100
+47957out,"O Telescópio Espacial Hubble é um telescópio espacial lançado em 1990 e é a espaçonave de observação mais longeva e bem-sucedida já lançada. Permitiu algumas das observações mais detalhadas e precisas já feitas de objetos astronômicos distantes, como galáxias e quasares, desempenhando um papel crítico no estudo da matéria escura, dos buracos negros e da expansão do universo.",143
+49559out,"Um buraco negro é uma região do espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, consegue escapar da sua atração. Eles são formados quando uma grande estrela morre e colapsa sobre si mesma, formando um objeto incrivelmente denso, muito menor que seu tamanho original.",107
+49652out,"1. Leão
+2. Elefante Africano
+3. Girafa
+4. Cão Selvagem Africano
+5. Rinoceronte Negro",38
+50564out,"1. O Silêncio dos Inocentes 
+2. Ilha do Obturador 
+3. Psicopata 
+4. Cisne Negro 
+5. Lembrança",48
+51406out,"Um buraco negro é uma região do espaço-tempo onde a gravidade é tão forte que nada, nem mesmo a luz, consegue escapar da sua atração. É formado quando uma estrela massiva morre e colapsa sobre si mesma, criando uma área de densidade infinita e um horizonte de eventos que marca o ponto em que qualquer matéria ou luz que entra não pode escapar.",131

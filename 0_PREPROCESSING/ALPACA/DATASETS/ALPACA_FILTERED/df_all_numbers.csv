@@ -1,0 +1,2392 @@
+id,instance,class_type,number_instance,all_number_instance,contains_code,only_special_characters
+6_inp,4/16,inp,False,True,False,False
+37_inp,"[2, 3, 7, 8, 10]",inp,True,True,False,False
+41_inp,3x+5y=9,inp,True,True,False,False
+53_inp,"2, 4, 0, 8, 3",inp,True,True,False,False
+61_inp,101101,inp,False,True,False,False
+73_inp,"21, 4",inp,True,True,False,False
+122_inp,94F,inp,False,True,False,False
+131_inp,"2, 5, 10",inp,True,True,False,False
+266_inp,"1, 2, 3, 4, 5",inp,True,True,False,False
+270_inp,"7, 9, 13, 2, 8",inp,True,True,False,False
+294_inp,(x + 3)(2x - 5),inp,True,True,False,False
+353_inp,"[5, 10, 15, 8, 9, 5, 8, 10, 9]",inp,True,True,False,False
+399_inp,"5, 10, 20",inp,True,True,False,False
+403_inp,6 + 12,inp,False,True,False,False
+491_inp,7 + 6,inp,False,True,False,False
+513_inp,12/8,inp,False,True,False,False
+634_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+686_inp,a=4,inp,False,True,False,False
+688_inp,"15, 68, 20, 41, 28",inp,True,True,False,False
+689_inp,125,inp,False,True,False,False
+712_inp,"8, 22, 11, 47",inp,True,True,False,False
+764_inp,"[1, -1, 0.5, -0.5, 0.8, -0.9, 0.4]",inp,False,True,False,False
+767_inp,"[4, 1, 6, 5, 2]",inp,True,True,False,False
+770_inp,5309 7677 8244 1346,inp,False,True,False,False
+841_inp,x = 14,inp,True,True,False,False
+896_inp,"9, -7, 15, 12",inp,False,True,False,False
+957_inp,"[1,2,3,4]",inp,True,True,False,False
+1009_inp,2 + 3 =,inp,False,True,False,False
+1041_inp,"[[2, 3],
+ [4, 5]]",inp,True,True,False,False
+1100_inp,"40.728157, -73.794853",inp,False,True,False,False
+1112_inp,2 + 4 + 6,inp,False,True,False,False
+1231_inp,y = 3x - 2,inp,True,True,False,False
+1249_inp,73,inp,False,True,False,False
+1301_inp,3048,inp,False,True,False,False
+1339_inp,3 + 4,inp,False,True,False,False
+1349_inp,"9, 2, 7, 4, 1, 6, 8",inp,True,True,False,False
+1384_inp,"[25.2, 24.6, 22.7, 26.1, 28.2]",inp,True,True,False,False
+1398_inp,3x + 4y = 20,inp,True,True,False,False
+1420_inp,62,inp,False,True,False,False
+1550_inp,2x + 10 = 20,inp,True,True,False,False
+1555_inp,"3, 11, 17, 5",inp,True,True,False,False
+1557_inp,7.123e-2,inp,False,True,False,False
+1618_inp,C2H2,inp,False,True,False,False
+1619_inp,"5, 15, 10, 7",inp,True,True,False,False
+1622_inp,"(1, 2) (2, 3) (3, 2) (4, 5)",inp,False,True,False,False
+1626_inp,"7, 9",inp,True,True,False,False
+1660_inp,"[7, 3, 5, 10, 1]",inp,True,True,False,False
+1683_inp,"2, 4, 6, 8, 10",inp,True,True,False,False
+1724_inp,"9, 5",inp,True,True,False,False
+1733_inp,42,inp,False,True,False,False
+1736_inp,18047,inp,False,True,False,False
+1740_inp,"2 x 3 = 6 
+7 x 7 = 49
+9 x 4 = 36",inp,False,True,False,False
+1822_inp,"7, 8, 6, 9",inp,True,True,False,False
+1845_inp,"541, 1183, 745",inp,True,True,False,False
+1857_inp,0.567,inp,False,True,False,False
+1922_inp,2x+3=7,inp,True,True,False,False
+1951_inp,"(2,-3) (1,-2)",inp,False,True,False,False
+1988_inp,7+10*2,inp,True,True,False,False
+2098_inp,"2x + y = 5
+-x + 3y = 4",inp,True,True,False,False
+2209_inp,"a = 4
+b = 2",inp,False,True,False,False
+2210_inp,"[114, 11, 90, 7, 34]",inp,True,True,False,False
+2240_inp,"[-5, 10, 15, 20, 25, 30, 35]",inp,False,True,False,False
+2253_inp,"1 4 7
+2 5 8 
+3 6 9",inp,False,True,False,False
+2281_inp,2(x + 9) + 2(x + 7),inp,False,True,False,False
+2329_inp,"3, 2, 5",inp,True,True,False,False
+2365_inp,"[4, 10, 20, 12]",inp,True,True,False,False
+2510_inp,2/5,inp,False,True,False,False
+2538_inp,f(x)= 3x+6,inp,True,True,False,False
+2649_inp,"1, 4, 7, 10",inp,True,True,False,False
+2724_inp,"2, 5, 7, 8, 10",inp,True,True,False,False
+2794_inp,"[3, 2, 1, 2, 3, 4]",inp,True,True,False,False
+2798_inp,"[10, 20, 30, 40]",inp,True,True,False,False
+2822_inp,"10, 11, 8, 12, 7",inp,True,True,False,False
+2823_inp,N/A,inp,False,True,False,False
+2827_inp,N/A,inp,False,True,False,False
+2830_inp,N/A,inp,False,True,False,False
+2837_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+2894_inp,"[1, 2, 3, 4]",inp,True,True,False,False
+2909_inp,25 + 45,inp,False,True,False,False
+2969_inp,"[11, 2, 31, 7, 15]",inp,True,True,False,False
+3007_inp,"[5, 2, 6, 1, 9]",inp,True,True,False,False
+3025_inp,45 + 86,inp,False,True,False,False
+3111_inp,a = 2,inp,False,True,False,False
+3132_inp,2 x 3 =,inp,False,True,False,False
+3169_inp,"5, 37, 18, 90, 23",inp,True,True,False,False
+3246_inp,"4, 32, 6, 87",inp,True,True,False,False
+3379_inp,"a = 8
+b = 5
+c = a + b",inp,False,True,False,False
+3384_inp,"1, 4, 7, 9, 11",inp,True,True,False,False
+3424_inp,8 5 2 9 1,inp,False,True,False,False
+3617_inp,y=x+3,inp,False,True,False,False
+3619_inp,41,inp,False,True,False,False
+3633_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+3683_inp,8+4*9,inp,True,True,False,False
+3706_inp,1275,inp,False,True,False,False
+3798_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+3801_inp,23,inp,False,True,False,False
+3939_inp,2x+5=7,inp,True,True,False,False
+3963_inp,"130, 200, 110, 95",inp,True,True,False,False
+3999_inp,"[[1, 2], [3, 4], [5, 6]]",inp,True,True,False,False
+4006_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+4010_inp,"[4, 3, 6, 10, 8]",inp,True,True,False,False
+4011_inp,7,inp,False,True,False,False
+4031_inp,"[[1, 2, 3], [2, 3, 4], [3, 4, 5], [4, 5, 6]]",inp,True,True,False,False
+4044_inp,72,inp,False,True,False,False
+4052_inp,"2, 4, 6, 9",inp,True,True,False,False
+4060_inp,-6.2,inp,False,True,False,False
+4108_inp,"9.3, 10.1, 10.4, 8.7",inp,False,True,False,False
+4168_inp,10,inp,False,True,False,False
+4381_inp,"[4, 9, 3, 2, 7, 1, 5]",inp,True,True,False,False
+4388_inp,6 + 3,inp,False,True,False,False
+4422_inp,"x = 5 
+y = 10
+z = x + y",inp,True,True,False,False
+4461_inp,6/3,inp,False,True,False,False
+4478_inp,62,inp,False,True,False,False
+4581_inp,"[5, 4, 2, 8, 9, 10, 1]",inp,True,True,False,False
+4591_inp,"[4, 7, 1, 6, 3]",inp,True,True,False,False
+4592_inp,4442345678,inp,False,True,False,False
+4741_inp,"[25, 20, 15, 8, 5]",inp,True,True,False,False
+4767_inp,0101,inp,False,True,False,False
+4819_inp,"[7, 1, 3, 5, 9]",inp,True,True,False,False
+4888_inp,7 + 3,inp,False,True,False,False
+5040_inp,2x + 8 = 2y-6,inp,True,True,False,False
+5043_inp,"[""a"",""b"",""c""]",inp,False,True,False,False
+5287_inp,"[1, 3, 15, 20, 8, 9]",inp,True,True,False,False
+5390_inp,N/A,inp,False,True,False,False
+5393_inp,N/A,inp,False,True,False,False
+5404_inp,5,inp,False,True,False,False
+5406_inp,"[4, 8, 1, 10]",inp,True,True,False,False
+5409_inp,"[1, 2, 3, 2, 4, 2]",inp,True,True,False,False
+5465_inp,56,inp,False,True,False,False
+5549_inp,0.45,inp,False,True,False,False
+5560_inp,2x + 3y = 6,inp,True,True,False,False
+5565_inp,"1, 2, 8, 9, 12, 13",inp,True,True,False,False
+5664_inp,"A(2,5), B(5,1), C(7,7)",inp,True,True,False,False
+5665_inp,"(-3,1), (2,5)",inp,True,True,False,False
+5706_inp,"[2, 4, 9, 1, 10]",inp,True,True,False,False
+5761_inp,c = a + b,inp,False,True,False,False
+5875_inp,5x + 7 = 57,inp,True,True,False,False
+5929_inp,"[1, 2, 3, 2, 4, 5, 6, 7, 1, 4]",inp,True,True,False,False
+6003_inp,"[5, 2, 9, 7, 4, 1]",inp,True,True,False,False
+6012_inp,57,inp,False,True,False,False
+6014_inp,3 + 2 x 5,inp,False,True,False,False
+6149_inp,"C, E, G",inp,False,True,False,False
+6150_inp,"3, 6, 9, 12, 15, 18, 21, 24, 27",inp,True,True,False,False
+6152_inp,4x + 5y - 6z,inp,True,True,False,False
+6341_inp,60,inp,False,True,False,False
+6342_inp,"[3, 6, 4, 7, 8, 10, 0, 9]",inp,True,True,False,False
+6402_inp,1,inp,False,True,False,False
+6416_inp,9838,inp,False,True,False,False
+6497_inp,"45, 67",inp,True,True,False,False
+6505_inp,"4, 6, 10, 16",inp,True,True,False,False
+6520_inp,"1, 4, 7, 10",inp,True,True,False,False
+6532_inp,"[-9, 0, 5, 12, 19]",inp,False,True,False,False
+6596_inp,2x + 3y = 15,inp,True,True,False,False
+6639_inp,"2, 3, 5, 8",inp,True,True,False,False
+6659_inp,"2, 6, 14, 30",inp,True,True,False,False
+6712_inp,"5, 8, 10, 11",inp,True,True,False,False
+6714_inp,3/4 + 2/3,inp,False,True,False,False
+6717_inp,"H, O, C, N",inp,False,True,False,False
+6829_inp,"1 4 5 0 0 0 0 3 9
+0 0 0 8 0 3 4 0 0
+0 0 9 0 0 0 6 8 0
+0 0 3 7 0 0 0 0 4
+0 9 0 0 6 0 0 7 0
+6 0 0 0 0 4 9 0 0
+0 3 1 0 0 0 5 0 0
+0 0 7 2 0 5 0 0 0
+5 2 0 0 0 0 7 4 8",inp,False,True,False,False
+6840_inp,"[3, 9, 5, 4, 7]",inp,True,True,False,False
+6859_inp,"2, 4, 4, 4, 2",inp,True,True,False,False
+6997_inp,25.09,inp,False,True,False,False
+7054_inp,427,inp,False,True,False,False
+7073_inp,"[-10, 8, 0, 18, 1]",inp,False,True,False,False
+7189_inp,25 + 37,inp,False,True,False,False
+7271_inp,14,inp,False,True,False,False
+7283_inp,"1, 2, 4, 5, 8, 9",inp,True,True,False,False
+7364_inp,"2, 5, 1, 4, 9",inp,True,True,False,False
+7380_inp,3x + 4 = 2x + 12,inp,True,True,False,False
+7420_inp,0100100001100101011011000110110001101111001000000111011101101111011100100110110001100100,inp,False,True,False,False
+7540_inp,x + y = 6,inp,True,True,False,False
+7544_inp,"[1, 5, 7, 18, 24, 32]",inp,True,True,False,False
+7614_inp,"[5, 1, 9, 3, 4]",inp,True,True,False,False
+7635_inp,"x = 7
+y = 4",inp,True,True,False,False
+7661_inp,f(x) = 2x,inp,True,True,False,False
+7672_inp,54,inp,False,True,False,False
+7680_inp,2(x + 3y - 4z),inp,True,True,False,False
+7686_inp,1101,inp,False,True,False,False
+7711_inp,2x + 6 = 16,inp,True,True,False,False
+7811_inp,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",inp,True,True,False,False
+7882_inp,"3, 6, 10, 15...",inp,False,True,False,False
+7885_inp,"5, 8, 10, 12",inp,True,True,False,False
+7886_inp,"90, 86, 75, 63",inp,True,True,False,False
+8050_inp,"a = 4, b = 3",inp,False,True,False,False
+8325_inp,"[1, 2, 3, 4, 5, 6]",inp,True,True,False,False
+8379_inp,"5, 4, 7, 2, 8",inp,True,True,False,False
+8384_inp,45678 + 67543,inp,False,True,False,False
+8403_inp,"[1, 5, 2, 4, 2, 5]",inp,True,True,False,False
+8497_inp,"7, 4, 5, 9",inp,True,True,False,False
+8561_inp,"2, 4, 6, 8",inp,True,True,False,False
+8631_inp,"1, 10, 50, 100",inp,True,True,False,False
+8665_inp,"288, 320",inp,True,True,False,False
+8667_inp,2x+3y=5,inp,True,True,False,False
+8669_inp,2x+6=12,inp,True,True,False,False
+8675_inp,89,inp,False,True,False,False
+8692_inp,"G, A, B, C",inp,False,True,False,False
+8733_inp,"9, 4, 1, 5, 6",inp,True,True,False,False
+8792_inp,64,inp,False,True,False,False
+8801_inp,x =,inp,False,True,False,False
+8953_inp,"5, 18, -3, 7",inp,False,True,False,False
+8968_inp,1+4+9+16+25,inp,True,True,False,False
+9012_inp,f(x) = 2x + 1,inp,True,True,False,False
+9060_inp,7,inp,False,True,False,False
+9088_inp,"2, 3, 5, 8, 6, 4",inp,True,True,False,False
+9153_inp,"(1,2), (3,5)",inp,True,True,False,False
+9237_inp,"2, 3, 5, 6, 10",inp,True,True,False,False
+9253_inp,"90, 70, 80, 75, 85",inp,True,True,False,False
+9316_inp,67,inp,False,True,False,False
+9354_inp,(5*5) + 4,inp,True,True,False,False
+9390_inp,"[100, 15, -50, 0, 20]",inp,False,True,False,False
+9536_inp,"5, 9, 4, 6, 7",inp,True,True,False,False
+9537_inp,1945,inp,False,True,False,False
+9580_inp,125,inp,False,True,False,False
+9613_inp,"[1, 2, 3, 2, 4, 3]",inp,True,True,False,False
+9658_inp,"[2, 13, 7, 17, 4]",inp,True,True,False,False
+9675_inp,7,inp,False,True,False,False
+9742_inp,732,inp,False,True,False,False
+9890_inp,"[2, 4, 5, 7, 1]",inp,True,True,False,False
+9929_inp,(3 + 2i) * (2 + 4i),inp,False,True,False,False
+10095_inp,2y-4x=8,inp,True,True,False,False
+10129_inp,2x + 3 = 7,inp,True,True,False,False
+10233_inp,"[2, 4, 6, 8]",inp,True,True,False,False
+10234_inp,x = 4,inp,True,True,False,False
+10409_inp,19,inp,False,True,False,False
+10504_inp,4 * 4 * 4 * 4 - 10,inp,False,True,False,False
+10537_inp,7/20,inp,False,True,False,False
+10580_inp,4x - 2 = 10,inp,True,True,False,False
+10618_inp,1/2,inp,False,True,False,False
+10654_inp,0.8,inp,False,True,False,False
+10665_inp,5,inp,False,True,False,False
+10723_inp,"[1, 2, 3, 4, 5, 6]",inp,True,True,False,False
+10724_inp,"[1, 2, 3] and [3, 4, 5]",inp,True,True,False,False
+10829_inp,"[""a"", ""b"", ""c"", ""d"", ""e"", ""f"", ""g""]",inp,False,True,False,False
+10832_inp,"A (0, 0), B (3, 0), C (0, 4)",inp,False,True,False,False
+10861_inp,10 - 8,inp,False,True,False,False
+10902_inp,10 20 2020,inp,False,True,False,False
+10948_inp,110111,inp,False,True,False,False
+11096_inp,"40.752007,  -73.984140",inp,False,True,False,False
+11255_inp,"3, 5, 4, 1, 6",inp,True,True,False,False
+11376_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+11449_inp,"[3, 6, 11, 25, 0, 17]",inp,True,True,False,False
+11463_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+11758_inp,"3, 8, 5, 1, 9",inp,True,True,False,False
+11763_inp,"5, 15, 20, 2, 10",inp,True,True,False,False
+11795_inp,467,inp,False,True,False,False
+11901_inp,"30, 20, 22, 34, 16, 32",inp,True,True,False,False
+11972_inp,"5, 8, 13",inp,True,True,False,False
+12044_inp,y + 8 + 4y,inp,True,True,False,False
+12046_inp,5,inp,False,True,False,False
+12207_inp,"[10, 20, 30, 40, 50]",inp,True,True,False,False
+12225_inp,"3, 4, 6, 8, 10",inp,True,True,False,False
+12265_inp,14.659,inp,False,True,False,False
+12299_inp,"17, 8, 3, 22, 9",inp,True,True,False,False
+12322_inp,"1, 2, 4, 5, 10",inp,True,True,False,False
+12516_inp,"1, 5, 23, 9",inp,True,True,False,False
+12548_inp,"1,2,3,4",inp,True,True,False,False
+12586_inp,C6H12O6,inp,False,True,False,False
+12610_inp,"A(-3,-2)",inp,False,True,False,False
+12611_inp,N/A,inp,False,True,False,False
+12612_inp,N/A,inp,False,True,False,False
+12650_inp,30,inp,False,True,False,False
+12651_inp,"231, 132, 83, 489",inp,True,True,False,False
+12733_inp,3x + 5 = 28,inp,True,True,False,False
+12822_inp,63,inp,False,True,False,False
+12906_inp,"(5, 7) (1, 3) (4, 4)",inp,False,True,False,False
+12970_inp,"1, 2, 3, 4",inp,True,True,False,False
+12974_inp,"2, 4, 6",inp,True,True,False,False
+13056_inp,7,inp,False,True,False,False
+13063_inp,"A = (2, 4), B = (6, 8).",inp,False,True,False,False
+13068_inp,"2, 3, 5",inp,True,True,False,False
+13126_inp,"[2, 5, 8, 10, 20, 15]",inp,True,True,False,False
+13136_inp,"3, 7",inp,True,True,False,False
+13242_inp,103,inp,False,True,False,False
+13322_inp,10,inp,False,True,False,False
+13356_inp,1959,inp,False,True,False,False
+13462_inp,4.7,inp,False,True,False,False
+13676_inp,"[1, 5, 3, 8, 4]",inp,True,True,False,False
+13734_inp,"3, 7, 12",inp,True,True,False,False
+13793_inp,4x+ 6 = 20,inp,True,True,False,False
+13794_inp,y = 4x + 10,inp,True,True,False,False
+13894_inp,9 + 4 x 3,inp,False,True,False,False
+13930_inp,"[3, 8, 5, 4, 1, 9]",inp,True,True,False,False
+13944_inp,"1
+2 2
+3 3 3
+4 4 4 4",inp,False,True,False,False
+13999_inp,01110101 01100001 01110010 01101001 01110100,inp,False,True,False,False
+14007_inp,"8, 10, 15",inp,True,True,False,False
+14145_inp,"A, B, C, D",inp,False,True,False,False
+14189_inp,y = x3 + 2,inp,False,True,False,False
+14254_inp,"a = 8, b = 27",inp,False,True,False,False
+14404_inp,"[3, 4, 5, 6, 7]",inp,True,True,False,False
+14736_inp,"[2, 7, 11, 4]",inp,True,True,False,False
+14924_inp,"5, 10, 15, 20, 25",inp,True,True,False,False
+15034_inp,"2, 5, 10",inp,True,True,False,False
+15040_inp,"[[1, 2], [3, 4]]",inp,True,True,False,False
+15060_inp,(5+7)*3.,inp,True,True,False,False
+15085_inp,"[1,2,3]",inp,True,True,False,False
+15096_inp,"2, 3, 3, 5, 6",inp,True,True,False,False
+15155_inp,300,inp,False,True,False,False
+15185_inp,30,inp,False,True,False,False
+15240_inp,C3H7N,inp,False,True,False,False
+15244_inp,123-456-7890,inp,False,True,False,False
+15352_inp,"3, 10, 33, 2",inp,True,True,False,False
+15402_inp,"[1, 5, 9, 4]",inp,True,True,False,False
+15498_inp,"3, 5, 8",inp,True,True,False,False
+15523_inp,10 * 5,inp,False,True,False,False
+15547_inp,"4, 7, 12",inp,True,True,False,False
+15706_inp,"2, 4, 6, 8",inp,True,True,False,False
+15720_inp,85368,inp,False,True,False,False
+15731_inp,538,inp,False,True,False,False
+15740_inp,"x = 2y + 4, y = 3.",inp,True,True,False,False
+15879_inp,"10, 25",inp,True,True,False,False
+15885_inp,2 + 3 = 5,inp,False,True,False,False
+15893_inp,10 x 5,inp,False,True,False,False
+15915_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+15971_inp,"2, 3, 7, 11, 15",inp,True,True,False,False
+15983_inp,"[4,21,11,32,14]",inp,True,True,False,False
+16000_inp,32,inp,False,True,False,False
+16094_inp,"[4, 3, 5, 9, 1]",inp,True,True,False,False
+16174_inp,2 + 3 x 4,inp,False,True,False,False
+16223_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+16319_inp,"16, 17, 33, 35",inp,True,True,False,False
+16351_inp,"[10, 8, 12, 14]",inp,True,True,False,False
+16501_inp,53,inp,False,True,False,False
+16568_inp,"1, 4, 6, 8, 7",inp,True,True,False,False
+16601_inp,"5, 11, 87, 32",inp,True,True,False,False
+16630_inp,582,inp,False,True,False,False
+16660_inp,254,inp,False,True,False,False
+16687_inp,"1,2,3",inp,True,True,False,False
+16715_inp,"3, 8, 11",inp,True,True,False,False
+16841_inp,255,inp,False,True,False,False
+16852_inp,"3, 4, 5",inp,True,True,False,False
+17038_inp,"[(3,7),(2,2),(2,5),(1,3),(8,6)]",inp,True,True,False,False
+17067_inp,"56, 99, 24",inp,True,True,False,False
+17111_inp,F.B.I.,inp,False,True,False,False
+17119_inp,2x - 3 = 7,inp,True,True,False,False
+17124_inp,"7, 9",inp,True,True,False,False
+17137_inp,"1, 2, 3, 4, 32, 0",inp,True,True,False,False
+17143_inp,8x + 6 = 52,inp,True,True,False,False
+17164_inp,"[8, 3, 9, 5, 1]",inp,True,True,False,False
+17221_inp,"[7, 9, 5, 4, 6, 8]",inp,True,True,False,False
+17235_inp,"[5, 3, 9, 4, 1]",inp,True,True,False,False
+17244_inp,"5, 3, 7, 2",inp,True,True,False,False
+17333_inp,"[-5, 9, 10, 0]",inp,False,True,False,False
+17334_inp,"43, -2, 3, 39",inp,False,True,False,False
+17336_inp,"63, 22",inp,True,True,False,False
+17338_inp,60,inp,False,True,False,False
+17556_inp,"[1, 3, 5, 7, 9]",inp,True,True,False,False
+17628_inp,"2, 5, 7, 8",inp,True,True,False,False
+17677_inp,"95, 98, 65, 88, 70",inp,True,True,False,False
+17715_inp,"[1, 5, 6, 8, -3, -2, 0]",inp,False,True,False,False
+17745_inp,3.116,inp,False,True,False,False
+17874_inp,37,inp,False,True,False,False
+17903_inp,"[2, 4, 6, 8, 10]",inp,True,True,False,False
+17906_inp,"2, 4, 8, 16",inp,True,True,False,False
+17917_inp,3 + 5,inp,False,True,False,False
+18009_inp,..-. --- -.-. .... .,inp,False,True,False,False
+18020_inp,U.S,inp,False,True,False,False
+18290_inp,"[3, 7, 2, 1, 6]",inp,True,True,False,False
+18337_inp,"[1, 4, 9, 5, 1, 4, 9]",inp,True,True,False,False
+18339_inp,"(1, 1), (2, 2), (3, 4)",inp,False,True,False,False
+18378_inp,"2, 5, 10, 17",inp,True,True,False,False
+18507_inp,100,inp,False,True,False,False
+18545_inp,+,inp,False,True,False,True
+18646_inp,4x + 8y = 16,inp,True,True,False,False
+18920_inp,2x + 5 = 11,inp,True,True,False,False
+19020_inp,"6, 3, 9, 5",inp,True,True,False,False
+19036_inp,"3, 7, 2, 8, 9, 1",inp,True,True,False,False
+19069_inp,3,inp,False,True,False,False
+19079_inp,"[1,2,3,3,3,3,4,5]",inp,True,True,False,False
+19148_inp,"*
+**
+***
+****",inp,False,True,False,False
+19175_inp,24,inp,False,True,False,False
+19180_inp,1-10,inp,False,True,False,False
+19188_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+19450_inp,y=3x+2,inp,True,True,False,False
+19508_inp,"[1, 6, 5, 9, 8]",inp,True,True,False,False
+19509_inp,"[2, 3, 4]",inp,True,True,False,False
+19614_inp,"2, 7, 11, 14",inp,True,True,False,False
+19629_inp,"[5, 4, 10, 3, 6]",inp,True,True,False,False
+19647_inp,2x + 3y = 4z,inp,True,True,False,False
+19662_inp,"G, B, E",inp,False,True,False,False
+19712_inp,"7, 4, 11",inp,True,True,False,False
+19749_inp,"x + 2y = 6
+3x - 4y = 4",inp,True,True,False,False
+19839_inp,1 2 3,inp,False,True,False,False
+19890_inp,"123.126.25.5, 192.168.255.0, 255.256.12.1, 192.88.0.1",inp,False,True,False,False
+19891_inp,"[1, 5, 8, 11, 15, 20, 24, 30]",inp,True,True,False,False
+19909_inp,"[3, 4, 6, 2, 7]",inp,True,True,False,False
+19912_inp,"A = 36
+B = 48",inp,False,True,False,False
+19976_inp,2x + 4y - 3y,inp,True,True,False,False
+19995_inp,"1, 5, 9, 20, 25",inp,True,True,False,False
+20048_inp,68669/7,inp,False,True,False,False
+20115_inp,"[5, 1, 1, 5]",inp,True,True,False,False
+20122_inp,"2.85, 3.45, 4.30",inp,False,True,False,False
+20522_inp,"[4, 8, 2, 3, 0, 10]",inp,True,True,False,False
+20545_inp,"3, 7, 4, 19",inp,True,True,False,False
+20557_inp,"[5, 10, 15, 20]",inp,True,True,False,False
+20559_inp,2x + 5 = 13,inp,True,True,False,False
+20568_inp,"3, 5, 10, 17",inp,True,True,False,False
+20597_inp,2.115,inp,False,True,False,False
+20618_inp,2F35,inp,False,True,False,False
+20706_inp,"1,2,3,4,5",inp,True,True,False,False
+20707_inp,"10, 20, 30, 40",inp,True,True,False,False
+20831_inp,"22, 34, 10",inp,True,True,False,False
+20879_inp,f(x)=2x,inp,True,True,False,False
+21009_inp,"[10, 30, 20, 50, 40]",inp,True,True,False,False
+21097_inp,"[1,2,3,4,5,6]",inp,True,True,False,False
+21141_inp,3x + 4y = 10,inp,True,True,False,False
+21152_inp,02/29/2020,inp,False,True,False,False
+21157_inp,2145558444,inp,False,True,False,False
+21190_inp,"[1, -4, -5, 2, 0, -20]",inp,False,True,False,False
+21193_inp,"0.91, 0.92, 0.93",inp,False,True,False,False
+21197_inp,"[5, 2, 9, 4, 6]",inp,True,True,False,False
+21212_inp,7 + 4 =,inp,False,True,False,False
+21320_inp,"3, 7, 11, 15",inp,True,True,False,False
+21403_inp,"2, 3, 4",inp,True,True,False,False
+21444_inp,"50, 80, 90",inp,True,True,False,False
+21461_inp,4 + 5 x 10,inp,False,True,False,False
+21464_inp,"[8, 3, 5, 9, 1]",inp,True,True,False,False
+21498_inp,"5, 2, 4, 1, 8",inp,True,True,False,False
+21545_inp,3,inp,False,True,False,False
+21558_inp,2x + 3 = 7,inp,True,True,False,False
+21729_inp,"-2, -1, 0, 1, 2, 3",inp,False,True,False,False
+21769_inp,"1, 4, 6, 2, 7",inp,True,True,False,False
+21975_inp,17 x 25,inp,False,True,False,False
+22031_inp,"4, 5, 6, 3",inp,True,True,False,False
+22081_inp,2 4 6,inp,False,True,False,False
+22109_inp,"[4, 2, 7, 9, 1]",inp,True,True,False,False
+22110_inp,4x + 2y + 3x + 5y,inp,True,True,False,False
+22288_inp,"2, 5, 11",inp,True,True,False,False
+22291_inp,"68, 46, 34, 98, 82",inp,True,True,False,False
+22292_inp,y = 2x + 4,inp,True,True,False,False
+22376_inp,"[1, 2, 3, 2, 4, 5]",inp,True,True,False,False
+22453_inp,"D, C, F, A",inp,False,True,False,False
+22465_inp,"x + 4y = 7
+5x + 2y = 7",inp,True,True,False,False
+22548_inp,"[3,7,9,2]",inp,True,True,False,False
+22609_inp,"[4, 2, 7, 1, 3]",inp,True,True,False,False
+22710_inp,2x + 3 = 7,inp,True,True,False,False
+22719_inp,10110010,inp,False,True,False,False
+22741_inp,"A = (4, 8), B = (1, 10)",inp,False,True,False,False
+22744_inp,7381,inp,False,True,False,False
+23032_inp,"[3.14, 6, 2, 8, 9, 8, 2]",inp,True,True,False,False
+23070_inp,"5, 4, 8, 2, 3",inp,True,True,False,False
+23142_inp,"[5, -10, 2, 46, 0]",inp,False,True,False,False
+23268_inp,"A=(1,2), B=(3,4), C=(5,6)",inp,True,True,False,False
+23367_inp,"3, 7, 5, 9",inp,True,True,False,False
+23407_inp,x + y = 10,inp,True,True,False,False
+23574_inp,"[2, 5, 8, 15, 7]",inp,True,True,False,False
+23586_inp,"[40, 33, 21, 92, 3, 68, 10]",inp,True,True,False,False
+23590_inp,2x + 4y + 5z = 7,inp,True,True,False,False
+23602_inp,"7, 8, 4, 3, 9, 11",inp,True,True,False,False
+23686_inp,"8, 2, *",inp,False,True,False,False
+23707_inp,"[3,7,2,4,9]",inp,True,True,False,False
+23985_inp,"2, 15, 3, 6, 7",inp,True,True,False,False
+24007_inp,"[3, 4, 9, 11]",inp,True,True,False,False
+24043_inp,210,inp,False,True,False,False
+24254_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+24303_inp,"1, 2, 3, 4",inp,True,True,False,False
+24337_inp,"3x + 5y = 1
+6x + 4y = 2",inp,True,True,False,False
+24409_inp,2 (3 + 5),inp,False,True,False,False
+24447_inp,"[1, 2, 3, 4, 5, 6, 7, 8]",inp,True,True,False,False
+24573_inp,"7, 8",inp,True,True,False,False
+24609_inp,"10, 20, 15",inp,True,True,False,False
+24691_inp,1989,inp,False,True,False,False
+24739_inp,"[4, 5]",inp,True,True,False,False
+24800_inp,"2, 3, 5, 4, 1",inp,True,True,False,False
+24946_inp,"[1,2,3,4,5]",inp,True,True,False,False
+25035_inp,(7x + 7)/(3x + 4) = 5,inp,True,True,False,False
+25078_inp,"4 x 5 =
+A) 10
+B) 20
+C) 30
+D) 40",inp,False,True,False,False
+25196_inp,2x + 4 = 10,inp,True,True,False,False
+25217_inp,"[2, 3, 5, 8]",inp,True,True,False,False
+25234_inp,8+6,inp,True,True,False,False
+25256_inp,"3, -9, 7, 4",inp,False,True,False,False
+25319_inp,24,inp,False,True,False,False
+25336_inp,"284, 252",inp,True,True,False,False
+25359_inp,"2, 4, 7, 11, 16",inp,True,True,False,False
+25419_inp,17,inp,False,True,False,False
+25491_inp,"6, 3",inp,True,True,False,False
+25548_inp,"10, 65, 8, 22, 15",inp,True,True,False,False
+25682_inp,8x7y+3,inp,True,True,False,False
+25722_inp,"2, 3, 6, 23",inp,True,True,False,False
+25725_inp,1990s,inp,False,True,False,False
+25806_inp,"3, 8, 10",inp,True,True,False,False
+25857_inp,"[5, 15, 17, 20, 39]",inp,True,True,False,False
+25862_inp,"[1,2,3,4]",inp,True,True,False,False
+25940_inp,"[5, 10, 15, 20]",inp,True,True,False,False
+25944_inp,"[1,7,9,11,12,14,18,21]",inp,True,True,False,False
+25968_inp,"(-2,5) (2,-3)",inp,False,True,False,False
+25999_inp,"A = 4, B = 9, C = 8",inp,False,True,False,False
+26001_inp,a - (b + c),inp,False,True,False,False
+26045_inp,x = 5,inp,True,True,False,False
+26061_inp,"12, 18, 7, 5, 25",inp,True,True,False,False
+26137_inp,y = 4x + 2,inp,True,True,False,False
+26154_inp,"145, 156, 400, 454",inp,True,True,False,False
+26212_inp,"3, 4, 1, 6, 8",inp,True,True,False,False
+26242_inp,"8, 12",inp,True,True,False,False
+26275_inp,"2, 4, 6",inp,True,True,False,False
+26340_inp,"1, 7, 4, 11, 6",inp,True,True,False,False
+26584_inp,"[6, 2, 8, 3, 1, 2]",inp,True,True,False,False
+26587_inp,"[1, 2, 3, 4, 5, 6]",inp,True,True,False,False
+26643_inp,123456,inp,False,True,False,False
+26771_inp,"2, 5, 6, 7, 9",inp,True,True,False,False
+26848_inp,7 x 9,inp,False,True,False,False
+26895_inp,"[-3, -7, 4, 8, -2]",inp,False,True,False,False
+26966_inp,3 * (5 - 4),inp,False,True,False,False
+27188_inp,"2, 4, 8, 16",inp,True,True,False,False
+27319_inp,"[4, 7, 3, 6, 8, 9, 10, 1]",inp,True,True,False,False
+27371_inp,2/5,inp,False,True,False,False
+27386_inp,5,inp,False,True,False,False
+27412_inp,"5, 8, 4, 7, 1",inp,True,True,False,False
+27442_inp,"2, 4, 6, 8",inp,True,True,False,False
+27479_inp,"1, 2  8, 7",inp,False,True,False,False
+27485_inp,"2, 4, 8",inp,True,True,False,False
+27517_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+27612_inp,8 + 8,inp,False,True,False,False
+27636_inp,n = 10,inp,False,True,False,False
+27665_inp,"2, 4, 7",inp,True,True,False,False
+27710_inp,"38, 12, -5, 1, 59",inp,False,True,False,False
+27720_inp,2x+3y=7,inp,True,True,False,False
+27736_inp,2+2,inp,True,True,False,False
+27769_inp,"[5, 2, 8, 17]",inp,True,True,False,False
+27929_inp,"8, 4, 7, 7, 5, 2, 10",inp,True,True,False,False
+27944_inp,123,inp,False,True,False,False
+27959_inp,"[3, 8, 5, 4, 1, 9, 7]",inp,True,True,False,False
+27987_inp,25,inp,False,True,False,False
+27988_inp,2y + 6 =10,inp,True,True,False,False
+28048_inp,"2, 3, 4, 7",inp,True,True,False,False
+28181_inp,"[1, 2, 3, 4, 5, 6, 7, 8]",inp,True,True,False,False
+28198_inp,"a=30, b=10",inp,False,True,False,False
+28209_inp,0.375,inp,False,True,False,False
+28236_inp,5 - 9,inp,False,True,False,False
+28250_inp,25 x 8,inp,False,True,False,False
+28309_inp,"[5, 1, 9, 6]",inp,True,True,False,False
+28392_inp,"[3, 8, 13, 4, 17, 30]",inp,True,True,False,False
+28491_inp,"23, 71, 28, 9",inp,True,True,False,False
+28498_inp,"[5, 10, 15]",inp,True,True,False,False
+28570_inp,99,inp,False,True,False,False
+28593_inp,5 + 2 * 4 - 3,inp,False,True,False,False
+28710_inp,5,inp,False,True,False,False
+28719_inp,"1, 2, 5, 9",inp,True,True,False,False
+28904_inp,2x + 3 = 7,inp,True,True,False,False
+28960_inp,"[3, 5, 7, 2]",inp,True,True,False,False
+29055_inp,x = 20,inp,True,True,False,False
+29080_inp,19.6,inp,False,True,False,False
+29084_inp,"14, 16, 15, 18, 17",inp,True,True,False,False
+29242_inp,"[2, 3, 8, 45, 6, 99, 72]",inp,True,True,False,False
+29269_inp,"a = 2
+b = 3",inp,False,True,False,False
+29381_inp,85260,inp,False,True,False,False
+29419_inp,3 + 5 + 7,inp,False,True,False,False
+29492_inp,"[2, 3, 4, 9, 15, 22, 25, 31, 33]",inp,True,True,False,False
+29495_inp,N/A,inp,False,True,False,False
+29496_inp,N/A,inp,False,True,False,False
+29497_inp,"x = 5, y = 4",inp,True,True,False,False
+29504_inp,"[3, 7, 14, 17]",inp,True,True,False,False
+29553_inp,7/9 + 4/5,inp,False,True,False,False
+29558_inp,4 + 1,inp,False,True,False,False
+29650_inp,f(x) = 3x + 2,inp,True,True,False,False
+29846_inp,"4, 2, 5, 1, 6",inp,True,True,False,False
+29861_inp,"2x + 7y = 5
+3x - 7y = 5",inp,True,True,False,False
+29931_inp,"[2, 5, 7, 9, 11]",inp,True,True,False,False
+30168_inp,3x + 4y = 9,inp,True,True,False,False
+30241_inp,128.178.163.54,inp,False,True,False,False
+30305_inp,"A = -2, 3
+B = 1, -1
+C = 4, 0",inp,False,True,False,False
+30338_inp,595 / 77,inp,False,True,False,False
+30359_inp,y = 2x,inp,True,True,False,False
+30473_inp,"[128, 2, 5, 9, 23]",inp,True,True,False,False
+30603_inp,"x+3y=6
+3x-5y=6",inp,True,True,False,False
+30711_inp,"[3, 4, 6, 7, 8]",inp,True,True,False,False
+30735_inp,123456789,inp,False,True,False,False
+30739_inp,38,inp,False,True,False,False
+30755_inp,"1, 64, 22, -45, -7",inp,False,True,False,False
+30796_inp,"5, 10, 15, 20, 25",inp,True,True,False,False
+30816_inp,5x - 2y + 6z = 8,inp,True,True,False,False
+30830_inp,7x + 14 = 21,inp,True,True,False,False
+30863_inp,"[-10, 0, 10, 20]",inp,False,True,False,False
+30865_inp,"[90, 23, 2, 1000, -50]",inp,False,True,False,False
+30903_inp,7/9,inp,False,True,False,False
+30908_inp,-3,inp,False,True,False,False
+30915_inp,0.75,inp,False,True,False,False
+30941_inp,37,inp,False,True,False,False
+31024_inp,7,inp,False,True,False,False
+31198_inp,"41, 29, 71",inp,True,True,False,False
+31241_inp,5,inp,False,True,False,False
+31270_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+31286_inp,12,inp,False,True,False,False
+31342_inp,"8, 3, 9, 5",inp,True,True,False,False
+31365_inp,"[2, 4, 3, 7, 5]",inp,True,True,False,False
+31396_inp,"[3, 5, 6, 9, 12]",inp,True,True,False,False
+31532_inp,52 58 40 26,inp,False,True,False,False
+31594_inp,9 - 5 * 4,inp,False,True,False,False
+31751_inp,"3, 7, 11, 15, 19",inp,True,True,False,False
+31834_inp,"[19, 8, 6, -3, 11]",inp,False,True,False,False
+31836_inp,30F,inp,False,True,False,False
+31856_inp,"82, 23, 55, 64, 71",inp,True,True,False,False
+31912_inp,"3, 6, 12, 24, 48,",inp,False,True,False,False
+31915_inp,"25, 8, 14, 18",inp,True,True,False,False
+31949_inp,"987,654,321",inp,True,True,False,False
+31952_inp,6 - 6 + 8,inp,False,True,False,False
+31964_inp,"[1, 2, 3, 2, 4, 3, 5]",inp,True,True,False,False
+31989_inp,"7, 32, 15",inp,True,True,False,False
+31999_inp,146,inp,False,True,False,False
+32048_inp,N/A,inp,False,True,False,False
+32051_inp,N/A,inp,False,True,False,False
+32128_inp,"f1(x, y) = x + y
+f2(x, y) = x * y",inp,False,True,False,False
+32138_inp,7 1/8,inp,False,True,False,False
+32220_inp,"[4, 5, 2, 1, 3]",inp,True,True,False,False
+32283_inp,"[3, 9, 8, 5, 1, 11]",inp,True,True,False,False
+32289_inp,"2, 3, 4, 5",inp,True,True,False,False
+32357_inp,y=-5x+2,inp,True,True,False,False
+32362_inp,"[1, 2, 9, 4, 25]",inp,True,True,False,False
+32511_inp,"22,000",inp,True,True,False,False
+32571_inp,"3, 7, 9",inp,True,True,False,False
+32600_inp,192.168.0.1,inp,False,True,False,False
+32642_inp,D E G B C,inp,False,True,False,False
+32678_inp,6+3*2,inp,True,True,False,False
+32704_inp,"[1, 4, 6, 7, 10, 11]",inp,True,True,False,False
+32746_inp,N/A,inp,False,True,False,False
+32889_inp,n = 20,inp,False,True,False,False
+32945_inp,7x + 12 = 15,inp,True,True,False,False
+32999_inp,n + 3 = 8,inp,False,True,False,False
+33010_inp,"[1, 4, 9, 0]",inp,True,True,False,False
+33109_inp,"[5, 9, 10, 15, 16, 20, 25, 30]",inp,True,True,False,False
+33234_inp,5,inp,False,True,False,False
+33313_inp,"[2, 3, 4, 5, 6, 7]",inp,True,True,False,False
+33323_inp,"[1, 8, 3, 6, 10, 20]",inp,True,True,False,False
+33340_inp,"[1, 2, 4, 5]",inp,True,True,False,False
+33356_inp,68,inp,False,True,False,False
+33406_inp,1995,inp,False,True,False,False
+33486_inp,"1, 2, 4, 8, 16...",inp,False,True,False,False
+33568_inp,3*(7 + 4),inp,False,True,False,False
+33818_inp,"A (2, 3), B (1, -1), C (-2, 4)",inp,False,True,False,False
+33820_inp,4,inp,False,True,False,False
+33857_inp,"8*6....194
+.2.3578...
+.9.8.....6
+7..954....
+.45.1..793
+....783..2
+6.....2.5.
+...9486.2.
+297....*83",inp,True,True,False,False
+33905_inp,9,inp,False,True,False,False
+33907_inp,72/7,inp,False,True,False,False
+33912_inp,46-32,inp,False,True,False,False
+33944_inp,"[7, 9, 5, 4, 6]",inp,True,True,False,False
+33968_inp,3 + 10 - 4,inp,False,True,False,False
+34061_inp,"A (3, 2)
+B (3, 8)
+C (8, 8)
+D (8, 2)",inp,False,True,False,False
+34114_inp,"[75, 90, 99, 55]",inp,True,True,False,False
+34135_inp,92660,inp,False,True,False,False
+34136_inp,"[8, 3, 5, 7, 0]",inp,True,True,False,False
+34249_inp,-5,inp,False,True,False,False
+34251_inp,5,inp,False,True,False,False
+34315_inp,(2x+7)(4x+5),inp,True,True,False,False
+34354_inp,3x - 2 = 10,inp,True,True,False,False
+34377_inp,"5
+7",inp,False,True,False,False
+34590_inp,25 + 7,inp,False,True,False,False
+34623_inp,N/A,inp,False,True,False,False
+34666_inp,"[1,2,3,4,5]",inp,True,True,False,False
+34687_inp,19,inp,False,True,False,False
+34689_inp,9094561234,inp,False,True,False,False
+34692_inp,"2, 4, 6",inp,True,True,False,False
+34773_inp,7x + 6 = 28,inp,True,True,False,False
+34844_inp,"x = 5, y = 4",inp,True,True,False,False
+34972_inp,"x+2y=6
+2x+4y=6",inp,True,True,False,False
+35101_inp,(5x + 6y) / (5x + 5y),inp,True,True,False,False
+35126_inp,2x + 3 = 5,inp,True,True,False,False
+35129_inp,f(x) = x + 5,inp,False,True,False,False
+35222_inp,110101,inp,False,True,False,False
+35232_inp,2021,inp,False,True,False,False
+35258_inp,2x + 3y = 8,inp,True,True,False,False
+35357_inp,"[25, 32, 10, 17, 9]",inp,True,True,False,False
+35453_inp,"2, 8, 5, 1",inp,True,True,False,False
+35556_inp,"25, 27, 32, 29, 21",inp,True,True,False,False
+35587_inp,"[3, 5, 27, 1, -3]",inp,False,True,False,False
+35657_inp,"[5, 2, 8, 1, 4]",inp,True,True,False,False
+35680_inp,(2+3)(3-2),inp,True,True,False,False
+35816_inp,"a, b, c, d, e, f",inp,False,True,False,False
+36009_inp,2/9,inp,False,True,False,False
+36043_inp,"3, 8, 5, 9, 4",inp,True,True,False,False
+36122_inp,2a+3b = 15,inp,False,True,False,False
+36139_inp,2+6,inp,True,True,False,False
+36169_inp,"[[[1, 2], [3, 4]], [[5, 6], [7, 8]]]",inp,True,True,False,False
+36302_inp,"[4, 12, 8, 14, 10]",inp,True,True,False,False
+36309_inp,"v, u, m, e, t",inp,False,True,False,False
+36330_inp,x = x + 1,inp,False,True,False,False
+36459_inp,10,inp,False,True,False,False
+36622_inp,"2, 4, +",inp,False,True,False,False
+36654_inp,15*10 =,inp,True,True,False,False
+36728_inp,"19, 4",inp,True,True,False,False
+36916_inp,2 + 3x - 5,inp,True,True,False,False
+36922_inp,58,inp,False,True,False,False
+37028_inp,"2, 4, 6, 8",inp,True,True,False,False
+37122_inp,"x1 = 0,  y1 = 0,  x2 = 7,  y2 = 3,  x3 = 11,  y3 = 6",inp,False,True,False,False
+37198_inp,f(x) = x3 + 2x,inp,True,True,False,False
+37307_inp,x=5,inp,True,True,False,False
+37337_inp,"[4, 8, 10, 15]",inp,True,True,False,False
+37383_inp,"A=5, B=3",inp,False,True,False,False
+37429_inp,"2, 3, 4, 5, 6",inp,True,True,False,False
+37540_inp,"[1, 3, 4, 7, 8, 13]",inp,True,True,False,False
+37585_inp,3 + 8 = 10,inp,False,True,False,False
+37620_inp,"2, 4, 8, 7, 6",inp,True,True,False,False
+37621_inp,H2 + O2,inp,False,True,False,False
+37675_inp,3 + 3 = 7,inp,False,True,False,False
+37794_inp,"[1, 2, 3, 4]",inp,True,True,False,False
+38071_inp,08/15/2020,inp,False,True,False,False
+38076_inp,"a = 2, b = 3, c = 4",inp,False,True,False,False
+38163_inp,"8, 15, 19",inp,True,True,False,False
+38219_inp,"[3, 4, -8, 5]",inp,False,True,False,False
+38244_inp,6 + 8,inp,False,True,False,False
+38359_inp,1.83 m,inp,False,True,False,False
+38424_inp,3.75,inp,False,True,False,False
+38447_inp,"3, 85, 6, 7, 1",inp,True,True,False,False
+38680_inp,"[2, 4, 6, 8]",inp,True,True,False,False
+38683_inp,"[33, 29, 130, 21, 42, 11]",inp,True,True,False,False
+38783_inp,"21, 19, 22",inp,True,True,False,False
+38882_inp,"47, 1558",inp,True,True,False,False
+38896_inp,5,inp,False,True,False,False
+38900_inp,"[10, 20, 30, -2]",inp,False,True,False,False
+38925_inp,x = 12,inp,True,True,False,False
+38931_inp,(8 + 3) - 5 X 2,inp,False,True,False,False
+39039_inp,132,inp,False,True,False,False
+39258_inp,"[3, 5, 7, 10]",inp,True,True,False,False
+39300_inp,"g,o,t,o,p",inp,False,True,False,False
+39411_inp,14,inp,False,True,False,False
+39544_inp,"1, 2, 5",inp,True,True,False,False
+39593_inp,"5, 6, 7, 8, 9",inp,True,True,False,False
+39693_inp,"75, 67",inp,True,True,False,False
+39715_inp,"[3, 4, 6, 7, 8, 10]",inp,True,True,False,False
+39908_inp,"59, 22, 15, 11, 5",inp,True,True,False,False
+39942_inp,"22, 23, 24, 25, 22",inp,True,True,False,False
+39943_inp,x + 5 = 8,inp,False,True,False,False
+39961_inp,"[1, 4, 8, 13, 28, 34]",inp,True,True,False,False
+39977_inp,"[-2, -1, 0, 1, 2, 3]",inp,False,True,False,False
+39994_inp,2 x 9 + 5,inp,False,True,False,False
+40019_inp,"30, 60",inp,True,True,False,False
+40035_inp,"1, 3, 4",inp,True,True,False,False
+40079_inp,"[16, 31, 5, 9, 18]",inp,True,True,False,False
+40080_inp,"[10, 15, 20, 4, 6]",inp,True,True,False,False
+40096_inp,-32,inp,False,True,False,False
+40110_inp,7x + 4 = 38,inp,True,True,False,False
+40224_inp,"2, 3, 5, 4",inp,True,True,False,False
+40367_inp,a1b2c3,inp,False,True,False,False
+40395_inp,"9.6, -13.4, 0",inp,False,True,False,False
+40433_inp,"[3, -4, 2, -1, 7]",inp,False,True,False,False
+40457_inp,"8, 4, 12, 2, 16",inp,True,True,False,False
+40461_inp,"11, 13, 14, 13, 15",inp,True,True,False,False
+40559_inp,"[2, 6, 3, 7, 1, 4]",inp,True,True,False,False
+40639_inp,5x + 2 = 17,inp,True,True,False,False
+40753_inp,"[5, 3, 8, 4, 1]",inp,True,True,False,False
+40779_inp,H2O,inp,False,True,False,False
+40900_inp,"4, 7",inp,True,True,False,False
+40904_inp,2/7 + 3/7,inp,False,True,False,False
+40909_inp,a/b = c,inp,False,True,False,False
+40950_inp,N=12,inp,False,True,False,False
+40991_inp,3x + 2 = 8,inp,True,True,False,False
+41015_inp,"6, 2, 10, 8",inp,True,True,False,False
+41241_inp,"34, 87, 13",inp,True,True,False,False
+41300_inp,"8, 10",inp,True,True,False,False
+41345_inp,"87, 11, 95, 64, 12",inp,True,True,False,False
+41359_inp,"1, 2, -8, 9, 5",inp,False,True,False,False
+41473_inp,"[4, 2, 5, 1, 3]",inp,True,True,False,False
+41488_inp,"[56, 45, 23, 17, 87, 32, 12]",inp,True,True,False,False
+41502_inp,"3, 5, 7, 8, 1",inp,True,True,False,False
+41550_inp,"X   Y
+2	4
+4	16
+8	256",inp,False,True,False,False
+41706_inp,n = 10,inp,False,True,False,False
+41773_inp,25 C,inp,False,True,False,False
+41814_inp,3x + 5y - 4z = 9,inp,True,True,False,False
+41817_inp,"x + 2y = 7
+2x + 4y = 14",inp,True,True,False,False
+41916_inp,3n + 5,inp,False,True,False,False
+41938_inp,1.5,inp,False,True,False,False
+42033_inp,x = 10,inp,True,True,False,False
+42048_inp,"a = 1, b = -3, c = -3, d = -1",inp,False,True,False,False
+42080_inp,"w, o, l, f",inp,False,True,False,False
+42127_inp,"3, 7",inp,True,True,False,False
+42185_inp,"[4,7,2,9,6,1,8]",inp,True,True,False,False
+42192_inp,"[2,5,9,4]",inp,True,True,False,False
+42281_inp,"1,3,4,2,9,7,8",inp,True,True,False,False
+42411_inp,"60, 0.004, -12, 0.03",inp,False,True,False,False
+42421_inp,"2, 5, 9",inp,True,True,False,False
+42508_inp,"[1, 2, 3]",inp,True,True,False,False
+42675_inp,"(2,4), (4,1)",inp,True,True,False,False
+42684_inp,28,inp,False,True,False,False
+42702_inp,3.87,inp,False,True,False,False
+42731_inp,"[1,7,8,9]",inp,True,True,False,False
+42915_inp,"2, 4, 8, 16",inp,True,True,False,False
+42980_inp,36,inp,False,True,False,False
+43198_inp,"[1,2,3,4,5]",inp,True,True,False,False
+43259_inp,"5, 8, 7, 10, 8, 6, 9",inp,True,True,False,False
+43285_inp,"8, 3, 10, 7",inp,True,True,False,False
+43289_inp,"[1, 2, 3, 4, 5, 6, 7]",inp,True,True,False,False
+43334_inp,1234567890,inp,False,True,False,False
+43484_inp,"1,2,3,4,5,6,7",inp,True,True,False,False
+43541_inp,"3, 5, 9, 1, 8, 2",inp,True,True,False,False
+43626_inp,C  D  E,inp,False,True,False,False
+43659_inp,"a = 3
+b = 5",inp,False,True,False,False
+43662_inp,258,inp,False,True,False,False
+43791_inp,25,inp,False,True,False,False
+43849_inp,"[7, 7, 5, 1, 9, 9, 5]",inp,True,True,False,False
+43871_inp,"6, 2, 8, 9, 1",inp,True,True,False,False
+43956_inp,"8, 9",inp,True,True,False,False
+43972_inp,"1, 5, 10, 15",inp,True,True,False,False
+44087_inp,8,inp,False,True,False,False
+44140_inp,x + 8 = 10,inp,False,True,False,False
+44214_inp,1000,inp,False,True,False,False
+44226_inp,"7, -4, 5, 1",inp,False,True,False,False
+44274_inp,"2, 4, 6, 8",inp,True,True,False,False
+44297_inp,"1, 2, 3, 6, 8",inp,True,True,False,False
+44386_inp,"1, 7, 4, 8, 10",inp,True,True,False,False
+44396_inp,"n = 4, k = 2",inp,False,True,False,False
+44595_inp,2x +5 = 17,inp,True,True,False,False
+44638_inp,"2, 3, 7, 5",inp,True,True,False,False
+44699_inp,"x + 3y = 6
+2x - 4y = 3",inp,True,True,False,False
+44813_inp,"[4, 8, 0, 9, 15]",inp,True,True,False,False
+44814_inp,"[6, 8, 12, 4, 7]",inp,True,True,False,False
+44816_inp,"17, 23, 19",inp,True,True,False,False
+44936_inp,"1, -5, 0, 2, 7",inp,False,True,False,False
+45026_inp,31,inp,False,True,False,False
+45081_inp,60,inp,False,True,False,False
+45116_inp,"1, 5, 8, 10",inp,True,True,False,False
+45123_inp,"[1, 3, 5, 8, 10]",inp,True,True,False,False
+45131_inp,"[2, 3, 4, 5, 6, 4, 3, 5, 7]",inp,True,True,False,False
+45167_inp,"A (1, 2), B (3, 4), C (5, 6)",inp,False,True,False,False
+45173_inp,8008,inp,False,True,False,False
+45195_inp,"(1,3), (4,7), (6,10)",inp,True,True,False,False
+45246_inp,1000,inp,False,True,False,False
+45501_inp,1  5  10,inp,False,True,False,False
+45515_inp,"[5, 9, 20, 19, 11, 67, 33]",inp,True,True,False,False
+45666_inp,1939,inp,False,True,False,False
+45689_inp,5/7/2020,inp,False,True,False,False
+45746_inp,25 + 52,inp,False,True,False,False
+45804_inp,"[7, 2, 5, 1, 3]",inp,True,True,False,False
+46029_inp,x = 2,inp,True,True,False,False
+46188_inp,27 x 4,inp,False,True,False,False
+46206_inp,"[3, 7, 8, 6, 4, 7, 3]",inp,True,True,False,False
+46207_inp,"[12, 10, 6, 8]",inp,True,True,False,False
+46212_inp,"[28, 39, 22, 27]",inp,True,True,False,False
+46436_inp,7/11,inp,False,True,False,False
+46455_inp,"[1, 7, 4, -2, 9]",inp,False,True,False,False
+46544_inp,"2, 15, 7, 3, 8",inp,True,True,False,False
+46616_inp,"3, 2, 7, 5",inp,True,True,False,False
+46658_inp,"[9, 6, 3, 5, 7, 1, 4]",inp,True,True,False,False
+46683_inp,3x + 6y = 15,inp,True,True,False,False
+46769_inp,45.456,inp,False,True,False,False
+46804_inp,x2 + y2 = 25,inp,False,True,False,False
+46818_inp,"(2, 3), (4, 5), (5, 6), (7, 8)",inp,False,True,False,False
+46982_inp,"a = 5
+b = a + 1",inp,False,True,False,False
+47020_inp,"[45, -102, 10, 3400]",inp,False,True,False,False
+47289_inp,"12, 20",inp,True,True,False,False
+47403_inp,"2, 3, 4, 8, 10, 11",inp,True,True,False,False
+47450_inp,"[3, 2, 4, 1, 5]",inp,True,True,False,False
+47457_inp,3a + 6b,inp,False,True,False,False
+47470_inp,5,inp,False,True,False,False
+47495_inp,"2, 3, 4, 5, 6",inp,True,True,False,False
+47551_inp,1 9 8,inp,False,True,False,False
+47590_inp,A.I.,inp,False,True,False,False
+47598_inp,8 x 5,inp,False,True,False,False
+47713_inp,a + b + c = 12,inp,False,True,False,False
+47875_inp,"87, 89, 92, 95",inp,True,True,False,False
+47912_inp,"[4, 7, 8, 10]",inp,True,True,False,False
+47916_inp,0.001,inp,False,True,False,False
+48111_inp,50,inp,False,True,False,False
+48112_inp,1e9,inp,False,True,False,False
+48183_inp,"[5, 3, 6, 1, 8]",inp,True,True,False,False
+48316_inp,78,inp,False,True,False,False
+48324_inp,25 J,inp,False,True,False,False
+48464_inp,"[86, 49, 22, 24, 29]",inp,True,True,False,False
+48499_inp,2,inp,False,True,False,False
+48628_inp,100,inp,False,True,False,False
+48631_inp,5000,inp,False,True,False,False
+48644_inp,12,inp,False,True,False,False
+48645_inp,"[0, 1, 6, 3, 4]",inp,True,True,False,False
+48658_inp,"[10, 7, 4, 8, 13, 6]",inp,True,True,False,False
+48726_inp,"2, 4, 6, 8",inp,True,True,False,False
+48930_inp,150,inp,False,True,False,False
+48950_inp,6x+3y=12,inp,True,True,False,False
+48958_inp,x + 4 = 10,inp,False,True,False,False
+48960_inp,5 + 50,inp,False,True,False,False
+48964_inp,230,inp,False,True,False,False
+49055_inp,"1 9 
+
+3",inp,False,True,False,False
+49074_inp,"1966, 1971, 1950, 1939",inp,True,True,False,False
+49150_inp,"[1, 2, 3, 4, 5]",inp,True,True,False,False
+49161_inp,"2, 3, 0, 1",inp,True,True,False,False
+49180_inp,5x + 10 = 50,inp,True,True,False,False
+49233_inp,"15, 20, 35, 25",inp,True,True,False,False
+49374_inp,"5, 2, 9, 12, 8, 6, a, 11",inp,False,True,False,False
+49659_inp,"2, 5, 8, 11, 14",inp,True,True,False,False
+49716_inp,"14, 18, 12, 16, 16, 20",inp,True,True,False,False
+49734_inp,74321,inp,False,True,False,False
+49909_inp,"[5, 10, 15]",inp,True,True,False,False
+49957_inp,5 + 10,inp,False,True,False,False
+50047_inp,1450,inp,False,True,False,False
+50051_inp,"A(5, 0), B(5, 5), C(0, 5)",inp,False,True,False,False
+50069_inp,"2, 3, 4, 7",inp,True,True,False,False
+50144_inp,x,inp,False,True,False,False
+50153_inp,"5, 1, 3, 8, 9",inp,True,True,False,False
+50170_inp,n = 27,inp,False,True,False,False
+50224_inp,0.45,inp,False,True,False,False
+50260_inp,"1, 2, 3",inp,True,True,False,False
+50296_inp,A = 2B + 4,inp,False,True,False,False
+50440_inp,2+2,inp,True,True,False,False
+50538_inp,24,inp,False,True,False,False
+50540_inp,42,inp,False,True,False,False
+50543_inp,"[1,2,3,4,5]",inp,True,True,False,False
+50856_inp,(C4 E4 F4 G4 A4 B4),inp,False,True,False,False
+50863_inp,"4, 7, 10, 13, ...",inp,False,True,False,False
+50886_inp,"2, 4, 8, 16",inp,True,True,False,False
+50903_inp,87,inp,False,True,False,False
+51030_inp,"5, 4, 3, 2, 7, 6, 1",inp,True,True,False,False
+51033_inp,8,inp,False,True,False,False
+51036_inp,"5, 8, 2, 9",inp,True,True,False,False
+51063_inp,"1, 3, 5",inp,True,True,False,False
+51093_inp,"3, 5, 10, 12, 17",inp,True,True,False,False
+51159_inp,56.28,inp,False,True,False,False
+51199_inp,"15, 18, 21, 12, 19",inp,True,True,False,False
+51318_inp,38698,inp,False,True,False,False
+51319_inp,"[3, 7, 1, 0, 4, 9, 8]",inp,True,True,False,False
+51341_inp,a = b + c,inp,False,True,False,False
+51418_inp,0x3D,inp,True,True,False,False
+51420_inp,"8, 11",inp,True,True,False,False
+51445_inp,"[1,2,3,4,5]",inp,True,True,False,False
+51584_inp,0.375,inp,False,True,False,False
+51697_inp,17,inp,False,True,False,False
+51702_inp,"2, 3, 5",inp,True,True,False,False
+51705_inp,j,inp,False,True,False,False
+51711_inp,94545,inp,False,True,False,False
+51853_inp,"x = 2, y = 3",inp,True,True,False,False
+51932_inp,"65, 55, 45, 35, 25, 15",inp,True,True,False,False
+41_out,3x + 5y - 9 = 0,out,True,True,False,False
+53_out,"0, 2, 3, 4, 8",out,True,True,False,False
+81_out,1,out,False,True,False,False
+122_out,34.4C,out,False,True,False,False
+148_out,"[5, 8, 3, 5]",out,True,True,False,False
+151_out,"[7, 8, 9, 11]",out,True,True,False,False
+154_out,6,out,False,True,False,False
+155_out,"7, 9",out,True,True,False,False
+157_out,865,out,False,True,False,False
+209_out,30932,out,False,True,False,False
+211_out,333,out,False,True,False,False
+226_out,18,out,False,True,False,False
+266_out,3.0,out,False,True,False,False
+270_out,8,out,False,True,False,False
+287_out,11,out,False,True,False,False
+353_out,"15, 5, 8",out,True,True,False,False
+399_out,35,out,False,True,False,False
+403_out,18.,out,False,True,False,False
+410_out,6.,out,False,True,False,False
+480_out,D-C-B-A-D G-A-G-F-E-D D-C-B-A-D E-G-A-G.,out,False,True,False,False
+491_out,13,out,False,True,False,False
+513_out,1.5,out,False,True,False,False
+527_out,8,out,False,True,False,False
+534_out,4x + 5.,out,True,True,False,False
+634_out,"[5, 4, 3, 2, 1]",out,True,True,False,False
+682_out,6,out,False,True,False,False
+686_out,64,out,False,True,False,False
+688_out,29.5,out,False,True,False,False
+712_out,11,out,False,True,False,False
+717_out,X-Y-L-O-P-H-O-N-E,out,False,True,False,False
+770_out,5309,out,False,True,False,False
+896_out,"15, 12, 9, -7",out,False,True,False,False
+906_out,48,out,False,True,False,False
+989_out,"2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47.",out,False,True,False,False
+1009_out,2 + 3 = 5.,out,False,True,False,False
+1031_out,4,out,False,True,False,False
+1041_out,"[[4, 2],
+ [5, 3]]",out,True,True,False,False
+1086_out,6E,out,False,True,False,False
+1112_out,12,out,False,True,False,False
+1149_out,"x = 2
+y = 3",out,True,True,False,False
+1233_out,-8,out,False,True,False,False
+1307_out,10.,out,False,True,False,False
+1339_out,3 4 +,out,False,True,False,False
+1349_out,6,out,False,True,False,False
+1469_out,11,out,False,True,False,False
+1503_out,7,out,False,True,False,False
+1555_out,"17, 11, 5, 3",out,True,True,False,False
+1619_out,10,out,False,True,False,False
+1626_out,16,out,False,True,False,False
+1726_out,15,out,False,True,False,False
+1740_out,"10 x 6 = 60
+11 x 8 = 88
+12 x 5 = 60",out,False,True,False,False
+1776_out,"1, 3, 6, 8.",out,False,True,False,False
+1790_out,28,out,False,True,False,False
+1845_out,2469.,out,False,True,False,False
+1892_out,73109,out,False,True,False,False
+1897_out,9508735610,out,False,True,False,False
+1922_out,X = 2,out,True,True,False,False
+1964_out,"15, 18, 21",out,True,True,False,False
+1988_out,27,out,False,True,False,False
+2076_out,y = 3 x,out,True,True,False,False
+2185_out,6,out,False,True,False,False
+2240_out,25,out,False,True,False,False
+2247_out,216.,out,False,True,False,False
+2281_out,4x + 34.,out,True,True,False,False
+2507_out,0.9,out,False,True,False,False
+2538_out,f(x) = (x-6)/3,out,False,True,False,False
+2622_out,7 + 2 = 9,out,False,True,False,False
+2628_out,P-N-E-U-M-O-N-I-A,out,False,True,False,False
+2649_out,9,out,False,True,False,False
+2751_out,0231,out,False,True,False,False
+2822_out,"7, 8, 10, 11, 12",out,True,True,False,False
+2823_out,N/A,out,False,True,False,False
+2827_out,N/A,out,False,True,False,False
+2830_out,N/A,out,False,True,False,False
+2837_out,3,out,False,True,False,False
+2909_out,70,out,False,True,False,False
+3023_out,14.285714285,out,False,True,False,False
+3025_out,131,out,False,True,False,False
+3121_out,9,out,False,True,False,False
+3132_out,3 x 2 = 6,out,False,True,False,False
+3166_out,53,out,False,True,False,False
+3169_out,"5, 18, 23, 37, 90",out,True,True,False,False
+3185_out,X = 1,out,True,True,False,False
+3228_out,5,out,False,True,False,False
+3271_out,2,out,False,True,False,False
+3384_out,7,out,False,True,False,False
+3418_out,x = 2,out,True,True,False,False
+3424_out,1 2 5 8 9,out,False,True,False,False
+3519_out,o,out,False,True,False,False
+3683_out,72,out,False,True,False,False
+3685_out,8.5,out,False,True,False,False
+3712_out,9,out,False,True,False,False
+3722_out,1712,out,False,True,False,False
+3759_out,-2,out,False,True,False,False
+3798_out,15,out,False,True,False,False
+3892_out,2 x 5 = 10.,out,False,True,False,False
+3900_out,"2, 4, 8, 12, 16",out,True,True,False,False
+3906_out,2,out,False,True,False,False
+3907_out,0,out,False,True,False,False
+3935_out,57,out,False,True,False,False
+3939_out,x=1,out,True,True,False,False
+3999_out,"[1, 2, 3, 4, 5, 6]",out,True,True,False,False
+4020_out,0.23944633205744866,out,False,True,False,False
+4028_out,8,out,False,True,False,False
+4031_out,"[2.5, 3.5, 4.5]",out,True,True,False,False
+4108_out,8.7 - 10.4.,out,False,True,False,False
+4140_out,X=5,out,True,True,False,False
+4143_out,"3,6,7,8,9",out,True,True,False,False
+4168_out,1010,out,False,True,False,False
+4292_out,"104 x 40 = 4,160",out,False,True,False,False
+4335_out,4A,out,False,True,False,False
+4371_out,15,out,False,True,False,False
+4388_out,9,out,False,True,False,False
+4461_out,2/1,out,False,True,False,False
+4471_out,30,out,False,True,False,False
+4475_out,11,out,False,True,False,False
+4478_out,111110,out,False,True,False,False
+4536_out,28,out,False,True,False,False
+4581_out,9,out,False,True,False,False
+4592_out,1,out,False,True,False,False
+4594_out,0,out,False,True,False,False
+4710_out,13,out,False,True,False,False
+4727_out,65/100,out,False,True,False,False
+4767_out,5,out,False,True,False,False
+4795_out,0,out,False,True,False,False
+4888_out,10,out,False,True,False,False
+4969_out,1,out,False,True,False,False
+4999_out,"5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25",out,True,True,False,False
+5040_out,y = 7,out,True,True,False,False
+5082_out,2,out,False,True,False,False
+5356_out,3,out,False,True,False,False
+5404_out,120,out,False,True,False,False
+5406_out,4.9493588689619565,out,False,True,False,False
+5732_out,1,out,False,True,False,False
+5736_out,1,out,False,True,False,False
+5743_out,a,out,False,True,False,False
+5745_out,224,out,False,True,False,False
+5775_out,2210,out,False,True,False,False
+5799_out,2,out,False,True,False,False
+5801_out,2,out,False,True,False,False
+5804_out,2,out,False,True,False,False
+5812_out,3.5,out,False,True,False,False
+5875_out,x = (57 - 7) / 5 = 10,out,False,True,False,False
+5900_out,30,out,False,True,False,False
+6014_out,17,out,False,True,False,False
+6117_out,0,out,False,True,False,False
+6127_out,10,out,False,True,False,False
+6150_out,"[
+  [3, 6, 9], 
+  [12, 15, 18], 
+  [21, 24, 27]
+]",out,True,True,False,False
+6152_out,4x - 6z + 5y,out,True,True,False,False
+6154_out,"111, 222, 333, 444, 555, 666, 777, 888, 999",out,True,True,False,False
+6238_out,"[2,3,5,8,9]",out,True,True,False,False
+6241_out,2,out,False,True,False,False
+6253_out,6.33,out,False,True,False,False
+6317_out,81,out,False,True,False,False
+6341_out,"2, 2, 3, 5",out,True,True,False,False
+6342_out,3,out,False,True,False,False
+6355_out,"2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100",out,True,True,False,False
+6372_out,578,out,False,True,False,False
+6395_out,"[5, 73, 19, 65, 34, 87, 46, 11, 66, 96]",out,True,True,False,False
+6402_out,1001,out,False,True,False,False
+6419_out,0.2763,out,False,True,False,False
+6420_out,101011000,out,False,True,False,False
+6496_out,9,out,False,True,False,False
+6505_out,"10, 16",out,True,True,False,False
+6510_out,0.9381531715393066,out,False,True,False,False
+6520_out,"1, 4, 7, 10, 13",out,True,True,False,False
+6564_out,216.33333333333337,out,False,True,False,False
+6659_out,"62 (2+4=6, 6+8=14, 14+16=30, 30+32=62)",out,True,True,False,False
+6712_out,11,out,False,True,False,False
+6714_out,17/12,out,False,True,False,False
+6789_out,"[1, 2, 3, 4, 5]",out,True,True,False,False
+6807_out,"a, e, i, o, u",out,False,True,False,False
+6819_out,3,out,False,True,False,False
+6832_out,75,out,False,True,False,False
+6893_out,10,out,False,True,False,False
+6902_out,-0.9,out,False,True,False,False
+6942_out,e,out,False,True,False,False
+6952_out,233,out,False,True,False,False
+7001_out,H + (A+A) + (P+P) + Y,out,False,True,False,False
+7069_out,"A, B, C, D, E",out,False,True,False,False
+7072_out,x = 9.,out,True,True,False,False
+7073_out,18,out,False,True,False,False
+7082_out,"3, 6, 9, 12, 15, 18, 21, 24, 27, 30",out,True,True,False,False
+7096_out,7,out,False,True,False,False
+7099_out,x = 5,out,True,True,False,False
+7125_out,"[1.2, 0.6, 0.0, 0.25, 0.0, 0.0, 0.7]",out,True,True,False,False
+7178_out,3265,out,False,True,False,False
+7189_out,62,out,False,True,False,False
+7262_out,0,out,False,True,False,False
+7271_out,7 x 8 = 14,out,False,True,False,False
+7283_out,5,out,False,True,False,False
+7331_out,2,out,False,True,False,False
+7336_out,x * y = 24,out,True,True,False,False
+7352_out,2,out,False,True,False,False
+7473_out,2,out,False,True,False,False
+7475_out,5 + 3 = 8,out,False,True,False,False
+7549_out,12 + 2 * 1 = 14,out,False,True,False,False
+7575_out,1,out,False,True,False,False
+7614_out,"[1, 3, 4, 5, 9]",out,True,True,False,False
+7672_out,"6 (1,2,3,6,9,18)",out,True,True,False,False
+7680_out,2x + 6y - 8z,out,True,True,False,False
+7686_out,1110,out,False,True,False,False
+7770_out,24,out,False,True,False,False
+7817_out,6 + 3 = 9.,out,False,True,False,False
+7882_out,21,out,False,True,False,False
+7931_out,x + y = 5,out,True,True,False,False
+8036_out,1056,out,False,True,False,False
+8041_out,10,out,False,True,False,False
+8144_out,117,out,False,True,False,False
+8157_out,"2, 4, 7, 9",out,True,True,False,False
+8195_out,1,out,False,True,False,False
+8200_out,2,out,False,True,False,False
+8255_out,5,out,False,True,False,False
+8258_out,695,out,False,True,False,False
+8379_out,5.5,out,False,True,False,False
+8384_out,"112,221",out,True,True,False,False
+8423_out,"16, 56, 85, 97, 23, 68",out,True,True,False,False
+8458_out,91466267,out,False,True,False,False
+8476_out,10,out,False,True,False,False
+8497_out,"9, 7, 5, 4",out,True,True,False,False
+8540_out,3,out,False,True,False,False
+8631_out,10,out,False,True,False,False
+8669_out,x = 3,out,True,True,False,False
+8675_out,B,out,False,True,False,False
+8681_out,67,out,False,True,False,False
+8684_out,96,out,False,True,False,False
+8692_out,"G, A, B, C",out,False,True,False,False
+8733_out,"1, 4, 5, 6, 9",out,True,True,False,False
+8760_out,..   .-.. --- .--. .- -- .   .--. .-. .- .--. .-. . . ... .- . .-.. .-..  - .... .,out,False,True,False,False
+8792_out,64/1,out,False,True,False,False
+8801_out,x = 5,out,True,True,False,False
+8806_out,174 * 3 = 522.,out,False,True,False,False
+8953_out,"-3, 5, 7, 18",out,False,True,False,False
+9044_out,11,out,False,True,False,False
+9088_out,"2, 3, 4, 5, 6, 8",out,True,True,False,False
+9253_out,80,out,False,True,False,False
+9260_out,10x - 3.,out,True,True,False,False
+9316_out,1000011,out,False,True,False,False
+9411_out,11.,out,False,True,False,False
+9464_out,y = 2.5x + 0.5,out,True,True,False,False
+9469_out,"80, 82, 84, 86, 88.",out,False,True,False,False
+9536_out,"9, 7, 6, 5, 4",out,True,True,False,False
+9546_out,14,out,False,True,False,False
+9580_out,5,out,False,True,False,False
+9595_out,5050,out,False,True,False,False
+9658_out,3,out,False,True,False,False
+9686_out,2x + 6,out,True,True,False,False
+9742_out,732/26 = 28.308,out,False,True,False,False
+9846_out,0,out,False,True,False,False
+9849_out,1,out,False,True,False,False
+9851_out,1,out,False,True,False,False
+9854_out,5,out,False,True,False,False
+9899_out,7238.229473870882,out,False,True,False,False
+9901_out,3,out,False,True,False,False
+9936_out,3 * 6 + 4 = 22.,out,False,True,False,False
+10025_out,1,out,False,True,False,False
+10084_out,4563,out,False,True,False,False
+10090_out,3.67,out,False,True,False,False
+10095_out,y=2x+2,out,True,True,False,False
+10109_out,n = 7,out,False,True,False,False
+10188_out,5,out,False,True,False,False
+10197_out,15,out,False,True,False,False
+10203_out,3,out,False,True,False,False
+10234_out,3x + 10 = 22,out,True,True,False,False
+10239_out,"0.2, 3, 5, 6, 2.6, 8.2, 11.8",out,False,True,False,False
+10332_out,2,out,False,True,False,False
+10480_out,123-456-789,out,False,True,False,False
+10484_out,7,out,False,True,False,False
+10485_out,"x = 5, y = 3",out,True,True,False,False
+10504_out,310,out,False,True,False,False
+10523_out,15,out,False,True,False,False
+10528_out,14,out,False,True,False,False
+10537_out,0.35,out,False,True,False,False
+10542_out,"3+5-1, 3-1+4, 5-1+4, 3+4-1, 3-4+1, 5+4-1, 3+1-4, 5-4+1, 3+5+4, 3+4+1, 5+1-4, 5+4+1, 3-5+1, 3-1-4, 5-1-4, 3-4-1, 5+1+4, 3+1+4.",out,True,True,False,False
+10577_out,11.5,out,False,True,False,False
+10580_out,x = 6,out,True,True,False,False
+10665_out,7,out,False,True,False,False
+10666_out,5,out,False,True,False,False
+10686_out,2,out,False,True,False,False
+10690_out,"[1, 2, 3, 4]",out,True,True,False,False
+10770_out,"[1, 34, 55, 67, 84, 89]",out,True,True,False,False
+10773_out,458,out,False,True,False,False
+10779_out,5040,out,False,True,False,False
+10828_out,"[1, 1]",out,True,True,False,False
+10839_out,4,out,False,True,False,False
+10861_out,2,out,False,True,False,False
+11225_out,21,out,False,True,False,False
+11255_out,"1, 3, 4, 5, 6",out,True,True,False,False
+11320_out,"[3,5,4]",out,True,True,False,False
+11375_out,y = 15,out,True,True,False,False
+11427_out,0,out,False,True,False,False
+11441_out,18,out,False,True,False,False
+11450_out,4.5/5,out,False,True,False,False
+11463_out,4,out,False,True,False,False
+11645_out,3,out,False,True,False,False
+11792_out,0.5.,out,False,True,False,False
+11883_out,A+,out,False,True,False,False
+11904_out,5,out,False,True,False,False
+11966_out,"1, 2, 3, 4, 5",out,True,True,False,False
+11972_out,"5, 13",out,True,True,False,False
+12027_out,2525,out,False,True,False,False
+12044_out,5y + 8,out,True,True,False,False
+12046_out,31.4159,out,False,True,False,False
+12261_out,"6, 11, 16, 21, 26, 31, 36, 41, 46, 51, 56, 61, 66, 71, 76, 81, 86, 91, 96",out,True,True,False,False
+12297_out,11,out,False,True,False,False
+12299_out,"8, 22",out,True,True,False,False
+12374_out,"10, 11, 12, 13, 14.",out,False,True,False,False
+12448_out,1,out,False,True,False,False
+12449_out,1,out,False,True,False,False
+12452_out,0,out,False,True,False,False
+12487_out,"6 x 1 = 6
+6 x 2 = 12
+6 x 3 = 18
+6 x 4 = 24
+6 x 5 = 30
+6 x 6 = 36
+6 x 7 = 42
+6 x 8 = 48
+6 x 9 = 54
+6 x 10 = 60",out,False,True,False,False
+12502_out,5,out,False,True,False,False
+12514_out,7,out,False,True,False,False
+12651_out,"489, 231, 132, 83",out,True,True,False,False
+12684_out,4513,out,False,True,False,False
+12896_out,5.,out,False,True,False,False
+12898_out,15.,out,False,True,False,False
+12903_out,"A.2
+B.3
+C.1",out,False,True,False,False
+12906_out,"(1, 3), (4, 4), (5, 7)",out,False,True,False,False
+12938_out,7,out,False,True,False,False
+12970_out,10,out,False,True,False,False
+12974_out,48,out,False,True,False,False
+13170_out,432,out,False,True,False,False
+13179_out,12.,out,False,True,False,False
+13187_out,6,out,False,True,False,False
+13242_out,1.03,out,False,True,False,False
+13350_out,45-60,out,False,True,False,False
+13452_out,"37, 81, 56",out,True,True,False,False
+13533_out,x2 + y2 = z2,out,False,True,False,False
+13676_out,4.4,out,False,True,False,False
+13711_out,z,out,False,True,False,False
+13734_out,19,out,False,True,False,False
+13793_out,4x = 14,out,True,True,False,False
+13888_out,(a - 6)(a - 1) = 0,out,False,True,False,False
+13894_out,21,out,False,True,False,False
+13921_out,"[2, 4, 6, 8, 10, 12, 14, 16, 18, 20]",out,True,True,False,False
+13960_out,6,out,False,True,False,False
+13967_out,4,out,False,True,False,False
+14033_out,6,out,False,True,False,False
+14044_out,5,out,False,True,False,False
+14145_out,"A, B, C, D",out,False,True,False,False
+14253_out,y(3) = 0,out,False,True,False,False
+14275_out,14,out,False,True,False,False
+14316_out,"5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25 
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50",out,False,True,False,False
+14343_out,18.3333333,out,False,True,False,False
+14455_out,11000000111001,out,False,True,False,False
+14456_out,45,out,False,True,False,False
+14482_out,32,out,False,True,False,False
+14712_out,1 + 1 + 1 = 3,out,False,True,False,False
+14744_out,"[[6, 26], 
+ [8, 30]]",out,True,True,False,False
+14816_out,x = 4,out,True,True,False,False
+15000_out,"0, 2, 4, 8.",out,False,True,False,False
+15060_out,60.,out,False,True,False,False
+15117_out,"a=7, b=5",out,False,True,False,False
+15155_out,30.00,out,False,True,False,False
+15244_out,(123) 456-7890,out,False,True,False,False
+15258_out,4545-8975-6845-5678,out,False,True,False,False
+15394_out,"1, 2, 3",out,True,True,False,False
+15395_out,2,out,False,True,False,False
+15402_out,19,out,False,True,False,False
+15413_out,C,out,False,True,False,False
+15523_out,50,out,False,True,False,False
+15584_out,2.,out,False,True,False,False
+15588_out,77.,out,False,True,False,False
+15596_out,0.4,out,False,True,False,False
+15706_out,"2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40.",out,False,True,False,False
+15722_out,87,out,False,True,False,False
+15748_out,60,out,False,True,False,False
+15871_out,8/23/2020,out,False,True,False,False
+15885_out,7 - 4 = 3,out,False,True,False,False
+15893_out,50.,out,False,True,False,False
+15915_out,"[5, 4, 3, 2, 1]",out,True,True,False,False
+15950_out,7,out,False,True,False,False
+15962_out,"[1, 2, 3, 4, 5, 6]",out,True,True,False,False
+15964_out,"[1, 2, 3, 4, 5, 6, 7]",out,True,True,False,False
+15970_out,x = 0,out,True,True,False,False
+15983_out,"[14,32,11,21,4]",out,True,True,False,False
+16000_out,49,out,False,True,False,False
+16094_out,"[1, 3, 4, 5, 9]",out,True,True,False,False
+16124_out,2x + 7 - (2/5),out,True,True,False,False
+16174_out,14,out,False,True,False,False
+16231_out,12,out,False,True,False,False
+16351_out,"[8, 10, 12, 14]",out,True,True,False,False
+16387_out,S = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55,out,False,True,False,False
+16434_out,4,out,False,True,False,False
+16435_out,2,out,False,True,False,False
+16480_out,100,out,False,True,False,False
+16501_out,4.82,out,False,True,False,False
+16562_out,2+2=4,out,True,True,False,False
+16564_out,"2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.",out,False,True,False,False
+16568_out,"1, 7",out,True,True,False,False
+16675_out,64,out,False,True,False,False
+16697_out,12,out,False,True,False,False
+16709_out,22,out,False,True,False,False
+16734_out,"1. 5 x 9 =
+2. 9 x 5 = 
+3. 5 x 9 x 1 = 
+4. 9 x 5 x 1 = 
+5. 5 x 9 x 1 x 1 =",out,False,True,False,False
+16778_out,"23, 29.",out,False,True,False,False
+16789_out,2,out,False,True,False,False
+16879_out,"2+3+4 = 9
+5+6+7 = 18",out,True,True,False,False
+17000_out,F,out,False,True,False,False
+17040_out,10,out,False,True,False,False
+17063_out,O(n),out,False,True,False,False
+17067_out,99,out,False,True,False,False
+17119_out,x = 5,out,True,True,False,False
+17143_out,x = 6,out,True,True,False,False
+17164_out,"[9, 8, 5, 3, 1]",out,True,True,False,False
+17242_out,15781,out,False,True,False,False
+17244_out,17,out,False,True,False,False
+17246_out,928,out,False,True,False,False
+17254_out,3 x 4 x 5 = 60.,out,False,True,False,False
+17276_out,3,out,False,True,False,False
+17333_out,"[0, 14, 15, 5]",out,True,True,False,False
+17334_out,18,out,False,True,False,False
+17335_out,27,out,False,True,False,False
+17336_out,"111111, 10110",out,True,True,False,False
+17338_out,"2, 2, 3, 5",out,True,True,False,False
+17481_out,17,out,False,True,False,False
+17511_out,"2 x 3 = 6
+5 x 4 = 20",out,False,True,False,False
+17556_out,7,out,False,True,False,False
+17858_out,13.83,out,False,True,False,False
+17906_out,"2, 4, 8, 16, 32, 64, 128, 256",out,True,True,False,False
+17917_out,8,out,False,True,False,False
+18040_out,"1,2,3,4,7",out,True,True,False,False
+18101_out,0.95,out,False,True,False,False
+18135_out,18,out,False,True,False,False
+18175_out,-2,out,False,True,False,False
+18291_out,14,out,False,True,False,False
+18337_out,"[1, 4, 9, 5]",out,True,True,False,False
+18339_out,y = 1.5x + 0.5,out,True,True,False,False
+18391_out,X = 4,out,True,True,False,False
+18392_out,14,out,False,True,False,False
+18454_out,50,out,False,True,False,False
+18514_out,136,out,False,True,False,False
+18646_out,4x + 8y - 16 = 0,out,True,True,False,False
+18695_out,D,out,False,True,False,False
+18697_out,C,out,False,True,False,False
+18702_out,64,out,False,True,False,False
+18706_out,4,out,False,True,False,False
+18729_out,1,out,False,True,False,False
+18987_out,175,out,False,True,False,False
+18995_out,f(x) = (4x + 1)(x + 1),out,True,True,False,False
+19020_out,"3, 5, 6, 9",out,True,True,False,False
+19036_out,4,out,False,True,False,False
+19069_out,0,out,False,True,False,False
+19111_out,19.25,out,False,True,False,False
+19188_out,"[1, 2, 4, 5]",out,True,True,False,False
+19381_out,"2, 4, 5, 9",out,True,True,False,False
+19412_out,2,out,False,True,False,False
+19536_out,"3, 5, 7, 9, 11, 13, 15, 17, 19, 21",out,True,True,False,False
+19629_out,6,out,False,True,False,False
+19658_out,900,out,False,True,False,False
+19662_out,"E, G, B",out,False,True,False,False
+19798_out,"[3, 5, 8, 9, 4]",out,True,True,False,False
+19839_out,14,out,False,True,False,False
+19890_out,"123.126.25.5, 192.168.255.0, 192.88.0.1",out,False,True,False,False
+19906_out,2,out,False,True,False,False
+19909_out,"[7, 3, 4, 6, 2]",out,True,True,False,False
+19912_out,12,out,False,True,False,False
+19976_out,2x + y,out,True,True,False,False
+20028_out,28.,out,False,True,False,False
+20089_out,"(1, 8), (2, 10), (3, 12)",out,False,True,False,False
+20120_out,"1,4,6,2,7,9",out,True,True,False,False
+20345_out,"2 x 2 = 4 
+2 x 3 = 6 
+2 x 4 = 8 
+2 x 5 = 10 
+2 x 6 = 12 
+2 x 7 = 14 
+2 x 8 = 16 
+2 x 9 = 18 
+2 x 10 = 20 
+3 x 2 = 6 
+3 x 3 = 9 
+3 x 4 = 12 
+3 x 5 = 15 
+3 x 6 = 18 
+3 x 7 = 21 
+3 x 8 = 24 
+3 x 9 = 27 
+3 x 10 = 30 
+4 x 2 = 8 
+4 x 3 = 12 
+4 x 4 = 16 
+4 x 5 = 20 
+4 x 6 = 24 
+4 x 7 = 28 
+4 x 8 = 32 
+4 x 9 = 36 
+4 x 10 = 40 
+5 x 2 = 10 
+5 x 3 = 15 
+5 x 4 = 20 
+5 x 5 = 25 
+5 x 6 = 30 
+5 x 7 = 35 
+5 x 8 = 40 
+5 x 9 = 45 
+5 x 10 = 50 
+6 x 2 = 12 
+6 x 3 = 18 
+6 x 4 = 24 
+6 x 5 = 30 
+6 x 6 = 36 
+6 x 7 = 42 
+6 x 8 = 48 
+6 x 9 = 54 
+6 x 10 = 60 
+7 x 2 = 14 
+7 x 3 = 21 
+7 x 4 = 28 
+7 x 5 = 35 
+7 x 6 = 42 
+7 x 7 = 49 
+7 x 8 = 56 
+7 x 9 = 63 
+7 x 10 = 70 
+8 x 2 = 16 
+8 x 3 = 24 
+8 x 4 = 32 
+8 x 5 = 40 
+8 x 6 = 48 
+8 x 7 = 56 
+8 x 8 = 64 
+8 x 9 = 72 
+8 x 10 = 80 
+9 x 2 = 18 
+9 x 3 = 27 
+9 x 4 = 36 
+9 x 5 = 45 
+9 x 6 = 54 
+9 x 7 = 63 
+9 x 8 = 72 
+9 x 9 = 81 
+9 x 10 = 90 
+10 x 2 = 20 
+10 x 3 = 30 
+10 x 4 = 40 
+10 x 5 = 50 
+10 x 6 = 60 
+10 x 7 = 70 
+10 x 8 = 80 
+10 x 9 = 90 
+10 x 10 = 100",out,False,True,False,False
+20389_out,2,out,False,True,False,False
+20568_out,"26, 37, 52, 69",out,True,True,False,False
+20574_out,17,out,False,True,False,False
+20618_out,101111100110101,out,False,True,False,False
+20637_out,9,out,False,True,False,False
+20651_out,3x2 + 7x + 2,out,True,True,False,False
+20697_out,"10, 11, 12, 13, 14, 15, 16, 17, 18",out,True,True,False,False
+20764_out,7,out,False,True,False,False
+20831_out,66,out,False,True,False,False
+20838_out,47,out,False,True,False,False
+20879_out,x=f(x)/2,out,False,True,False,False
+20989_out,10,out,False,True,False,False
+21007_out,8,out,False,True,False,False
+21051_out,502-294-8258,out,False,True,False,False
+21054_out,2 + 5 = 7.,out,False,True,False,False
+21101_out,"[95, 74, 15, 84, 6, 32, 80, 14, 28, 60]",out,True,True,False,False
+21141_out,x = 2.,out,True,True,False,False
+21145_out,5.0,out,False,True,False,False
+21152_out,29-02-2020,out,False,True,False,False
+21157_out,+12145558444,out,False,True,False,False
+21168_out,125,out,False,True,False,False
+21190_out,1,out,False,True,False,False
+21193_out,0.93,out,False,True,False,False
+21194_out,3,out,False,True,False,False
+21195_out,100.0,out,False,True,False,False
+21197_out,"[9, 6, 5, 4, 2]",out,True,True,False,False
+21212_out,7 + 4 = 11,out,False,True,False,False
+21275_out,8 x 4 = 32.,out,False,True,False,False
+21320_out,19,out,False,True,False,False
+21461_out,54,out,False,True,False,False
+21498_out,"1, 2, 4, 5, 8",out,True,True,False,False
+21545_out,28.274333882308138,out,False,True,False,False
+21562_out,4,out,False,True,False,False
+21609_out,4,out,False,True,False,False
+21678_out,127,out,False,True,False,False
+21680_out,216,out,False,True,False,False
+21729_out,"-2, -1, 0, 1, 2, 3",out,False,True,False,False
+21769_out,20,out,False,True,False,False
+21849_out,(123)-456-7890,out,False,True,False,False
+21937_out,"[2,6,12]",out,True,True,False,False
+21975_out,425,out,False,True,False,False
+22056_out,3,out,False,True,False,False
+22060_out,1,out,False,True,False,False
+22081_out,2 + 4 = 6,out,False,True,False,False
+22110_out,7x + 7y,out,True,True,False,False
+22141_out,2,out,False,True,False,False
+22227_out,8/10,out,False,True,False,False
+22276_out,21,out,False,True,False,False
+22453_out,"C, D, F, A",out,False,True,False,False
+22515_out,"25, 30",out,True,True,False,False
+22525_out,15,out,False,True,False,False
+22548_out,"[2,3,7,9]",out,True,True,False,False
+22609_out,"[7, 4, 3, 2, 1]",out,True,True,False,False
+22642_out,7,out,False,True,False,False
+22744_out,8731,out,False,True,False,False
+23032_out,"[3.14, 6, 8, 9]",out,True,True,False,False
+23035_out,45269,out,False,True,False,False
+23036_out,6,out,False,True,False,False
+23043_out,7/8 + (1/4 x 9) = 5 9/8.,out,False,True,False,False
+23070_out,4.6,out,False,True,False,False
+23082_out,x = 6,out,True,True,False,False
+23105_out,15,out,False,True,False,False
+23296_out,143,out,False,True,False,False
+23367_out,"3, 5, 7, 9",out,True,True,False,False
+23451_out,4 + x = 15,out,True,True,False,False
+23463_out,11,out,False,True,False,False
+23475_out,"0, 1, 1, 2, 3, 5, 8, 13, 21, 34.",out,False,True,False,False
+23508_out,A+,out,False,True,False,False
+23574_out,2 + 5 + 8 + 15 + 7 = 37,out,False,True,False,False
+23585_out,10 + 6 * 7 - 58 = 48,out,False,True,False,False
+23586_out,"[3, 10, 21, 33, 40, 68, 92]",out,True,True,False,False
+23590_out,"2x + 4y + 5z = 7
+
+2x + 4y + 5z = 7
+
+2(x + 2y + 2.5z) = 7
+
+2(x + 2y + 2.5z) = 14
+
+x + 2y + 2.5z = 7",out,True,True,False,False
+23593_out,0.101 + 0.217 = 0.318,out,False,True,False,False
+23598_out,1/2.,out,False,True,False,False
+23602_out,"3, 4, 7, 8, 9, 11",out,True,True,False,False
+23607_out,"11, 8, 5, 1.",out,False,True,False,False
+23658_out,14.72 m/s,out,False,True,False,False
+23668_out,5 + (4 x 10) = 45.,out,False,True,False,False
+23686_out,16,out,False,True,False,False
+23698_out,x+8=y,out,False,True,False,False
+23766_out,"1. 8 x 1 = 8
+2. 8 x 2 = 16
+3. 8 x 3 = 24
+4. 8 x 4 = 32
+5. 8 x 5 = 40
+6. 8 x 6 = 48
+7. 8 x 7 = 56
+8. 8 x 8 = 64
+9. 8 x 9 = 72
+10. 8 x 10 = 80",out,False,True,False,False
+23782_out,(x - 1)2 + (y + 2)2 = 25,out,False,True,False,False
+23785_out,"1, 2, 3, 4, 5, 6, 7, 8, 9",out,True,True,False,False
+23788_out,14,out,False,True,False,False
+23809_out,"4, 6, 3, 10, 0, 9, 2, 5, 7, 1",out,True,True,False,False
+23878_out,17 + 18 = 35,out,False,True,False,False
+23926_out,W3C,out,False,True,False,False
+23985_out,15,out,False,True,False,False
+24007_out,27,out,False,True,False,False
+24337_out,"x = -7/11, y = 8/11",out,True,True,False,False
+24409_out,16,out,False,True,False,False
+24422_out,9,out,False,True,False,False
+24486_out,12 + 4 = 16,out,False,True,False,False
+24497_out,A,out,False,True,False,False
+24500_out,28.27 m2,out,False,True,False,False
+24537_out,018,out,False,True,False,False
+24572_out,3 x 4 + 0 x (2+ 4) = 36,out,False,True,False,False
+24573_out,15,out,False,True,False,False
+24672_out,B,out,False,True,False,False
+24679_out,z = 5,out,False,True,False,False
+24754_out,"2x + 3y - z + w = 5
+3x + y - 2z - w = 7
+x + 4y + 3z -2w = -1",out,True,True,False,False
+24759_out,3.425,out,False,True,False,False
+24768_out,30,out,False,True,False,False
+24839_out,4523,out,False,True,False,False
+24876_out,1,out,False,True,False,False
+24880_out,14,out,False,True,False,False
+24965_out,U5a6m7Q2,out,False,True,False,False
+25077_out,B) 1998,out,False,True,False,False
+25078_out,D) 40,out,False,True,False,False
+25151_out,x + y = 6 + 3 = 9.,out,True,True,False,False
+25217_out,"[4, 9, 25, 64]",out,True,True,False,False
+25234_out,14,out,False,True,False,False
+25250_out,400m2,out,False,True,False,False
+25256_out,"-9, 3, 4, 7",out,False,True,False,False
+25305_out,23.5,out,False,True,False,False
+25318_out,"(0.707, 0.707)",out,False,True,False,False
+25332_out,"8, 9, 10, 11.",out,False,True,False,False
+25385_out,1,out,False,True,False,False
+25491_out,6 - 3 = 3,out,False,True,False,False
+25540_out,5 x 50 = 250,out,False,True,False,False
+25680_out,10001001.,out,False,True,False,False
+25682_out,(8x)(7y) + 3,out,True,True,False,False
+25752_out,37,out,False,True,False,False
+25806_out,3 + 8 x 10,out,False,True,False,False
+25857_out,"[0.5, 1.5, 1.7, 2.0, 3.9]",out,True,True,False,False
+25935_out,"[1, 2, 3, 4, 5, 6]",out,True,True,False,False
+26001_out,a b c + -,out,False,True,False,False
+26035_out,720,out,False,True,False,False
+26049_out,10/15/2021,out,False,True,False,False
+26061_out,"5, 7, 12, 18, 25",out,True,True,False,False
+26137_out,4x - y + 2 = 0,out,True,True,False,False
+26270_out,71593,out,False,True,False,False
+26323_out,6.,out,False,True,False,False
+26337_out,"0, 3, 6, 9, 12, 15, 18, 21, 24, 27",out,True,True,False,False
+26340_out,"1, 4, 6, 7, 11",out,True,True,False,False
+26342_out,2,out,False,True,False,False
+26344_out,40,out,False,True,False,False
+26587_out,6,out,False,True,False,False
+26603_out,3.169925001442312,out,False,True,False,False
+26770_out,23,out,False,True,False,False
+26833_out,1260,out,False,True,False,False
+26848_out,7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 = 9 x 7,out,False,True,False,False
+26895_out,"[-7, -3, -2, 4, 8]",out,False,True,False,False
+26955_out,3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679,out,False,True,False,False
+26965_out,"1 2 3 4 5 6 7 8 9 10
+2 4 6 8 10 12 14 16 18 20
+3 6 9 12 15 18 21 24 27 30
+4 8 12 16 20 24 28 32 36 40
+5 10 15 20 25 30 35 40 45 50
+6 12 18 24 30 36 42 48 54 60
+7 14 21 28 35 42 49 56 63 70
+8 16 24 32 40 48 56 64 72 80
+9 18 27 36 45 54 63 72 81 90
+10 20 30 40 50 60 70 80 90 100",out,False,True,False,False
+26966_out,3x - 3,out,True,True,False,False
+26997_out,3548.,out,False,True,False,False
+27004_out,5462,out,False,True,False,False
+27092_out,0.6,out,False,True,False,False
+27093_out,6,out,False,True,False,False
+27109_out,5678,out,False,True,False,False
+27117_out,23.,out,False,True,False,False
+27188_out,"32, 64, 128",out,True,True,False,False
+27213_out,52.,out,False,True,False,False
+27217_out,10.,out,False,True,False,False
+27235_out,7,out,False,True,False,False
+27319_out,"1, 3, 4, 6, 7, 8, 9, 10.",out,False,True,False,False
+27327_out,1,out,False,True,False,False
+27330_out,6x + 7,out,True,True,False,False
+27354_out,"2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+2 x 5 = 10
+2 x 6 = 12
+2 x 7 = 14
+2 x 8 = 16
+2 x 9 = 18
+2 x 10 = 20
+
+3 x 2 = 6
+3 x 3 = 9
+3 x 4 = 12
+3 x 5 = 15
+3 x 6 = 18
+3 x 7 = 21
+3 x 8 = 24
+3 x 9 = 27
+3 x 10 = 30
+
+4 x 2 = 8
+4 x 3 = 12
+4 x 4 = 16
+4 x 5 = 20
+4 x 6 = 24
+4 x 7 = 28
+4 x 8 = 32
+4 x 9 = 36
+4 x 10 = 40
+
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+
+6 x 2 = 12
+6 x 3 = 18
+6 x 4 = 24
+6 x 5 = 30
+6 x 6 = 36
+6 x 7 = 42
+6 x 8 = 48
+6 x 9 = 54
+6 x 10 = 60
+
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
+
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
+
+9 x 2 = 18
+9 x 3 = 27
+9 x 4 = 36
+9 x 5 = 45
+9 x 6 = 54
+9 x 7 = 63
+9 x 8 = 72
+9 x 9 = 81
+9 x 10 = 90
+
+10 x 2 = 20
+10 x 3 = 30
+10 x 4 = 40
+10 x 5 = 50
+10 x 6 = 60
+10 x 7 = 70
+10 x 8 = 80
+10 x 9 = 90
+10 x 10 = 100",out,False,True,False,False
+27407_out,"10, 20, 30, 40, 50, 60, 70, 80, 90, 100.",out,False,True,False,False
+27412_out,5,out,False,True,False,False
+27423_out,(800) 561-3524,out,False,True,False,False
+27427_out,12,out,False,True,False,False
+27442_out,6,out,False,True,False,False
+27445_out,F = (C * 9/5) + 32,out,False,True,False,False
+27562_out,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",out,True,True,False,False
+27710_out,"-5, 1, 12, 38, 59",out,False,True,False,False
+27769_out,32,out,False,True,False,False
+27839_out,"1. 4298 1132 3456 4582 
+2. 2345 4423 4489 1017 
+3. 3421 8978 4021 4010",out,False,True,False,False
+27902_out,0111111100101110101111000001010111110100110110011100100100100100100100100100100100100100100100100110100101010,out,False,True,False,False
+27987_out,77,out,False,True,False,False
+27997_out,"(-3, 4)",out,False,True,False,False
+28001_out,22.5,out,False,True,False,False
+28236_out,-4,out,False,True,False,False
+28309_out,"[1, 5, 6, 9]",out,True,True,False,False
+28337_out,7466503489,out,False,True,False,False
+28373_out,11,out,False,True,False,False
+28392_out,"[8, 4, 30]",out,True,True,False,False
+28491_out,"9, 23, 28, 71",out,True,True,False,False
+28570_out,99.00,out,False,True,False,False
+28679_out,16x2 - 12x + 9.,out,True,True,False,False
+28719_out,"-1, -2, -5, -9",out,False,True,False,False
+28722_out,"6, 4, 3, 2, -1",out,False,True,False,False
+28735_out,7,out,False,True,False,False
+28821_out,35,out,False,True,False,False
+28847_out,"1, 2, 3, 4, 5, 6, 7, 8, 9",out,True,True,False,False
+28850_out,4,out,False,True,False,False
+28904_out,x = 2,out,True,True,False,False
+28954_out,81,out,False,True,False,False
+29013_out,2,out,False,True,False,False
+29041_out,99236,out,False,True,False,False
+29043_out,45,out,False,True,False,False
+29050_out,1.0,out,False,True,False,False
+29055_out,5,out,False,True,False,False
+29074_out,10,out,False,True,False,False
+29103_out,.. / .- -- / .- .-. .. -. --. / - .... . / -- -.-- / -- . .- -. - / -- ..- -.-. .... .- -,out,False,True,False,False
+29239_out,27,out,False,True,False,False
+29241_out,10,out,False,True,False,False
+29242_out,"[3, 45, 99, 2, 8, 6, 72]",out,True,True,False,False
+29244_out,"[3, 4, 5, 9]",out,True,True,False,False
+29277_out,3,out,False,True,False,False
+29435_out,6x-3,out,True,True,False,False
+29438_out,16,out,False,True,False,False
+29650_out,f(x) = 3f(x - 1) + 2,out,False,True,False,False
+29699_out,21,out,False,True,False,False
+29771_out,C,out,False,True,False,False
+29774_out,L,out,False,True,False,False
+29791_out,3,out,False,True,False,False
+29792_out,3,out,False,True,False,False
+29793_out,2,out,False,True,False,False
+29808_out,5,out,False,True,False,False
+29846_out,"[1, 2, 4, 5, 6]",out,True,True,False,False
+29861_out,"x = 5, y = -1",out,True,True,False,False
+30091_out,64,out,False,True,False,False
+30202_out,16.,out,False,True,False,False
+30241_out,10000000.10110010.10100011.00110110,out,False,True,False,False
+30262_out,3/5,out,False,True,False,False
+30308_out,"5, 9, 12, 16",out,True,True,False,False
+30338_out,7.7,out,False,True,False,False
+30364_out,5,out,False,True,False,False
+30473_out,"[2, 5, 9, 23, 128]",out,True,True,False,False
+30479_out,60,out,False,True,False,False
+30483_out,x = 10,out,True,True,False,False
+30522_out,"225, 238, 440",out,True,True,False,False
+30524_out,3.67,out,False,True,False,False
+30555_out,-x - 3y = -11y.,out,True,True,False,False
+30563_out,1,out,False,True,False,False
+30678_out,4,out,False,True,False,False
+30711_out,"[3, 4]",out,True,True,False,False
+30714_out,F,out,False,True,False,False
+30755_out,"-45, -7, 1, 22, 64",out,False,True,False,False
+30757_out,"57, 65, 73",out,True,True,False,False
+30816_out,5x + 6z = 8 + 2y,out,True,True,False,False
+30830_out,"7x = 21 - 14
+7x = 7",out,True,True,False,False
+30863_out,"[14, 32, 50, 68]",out,True,True,False,False
+30865_out,-50,out,False,True,False,False
+30891_out,"1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 100",out,True,True,False,False
+30903_out,0.77777...,out,False,True,False,False
+30947_out,5/5,out,False,True,False,False
+31122_out,5.1429,out,False,True,False,False
+31198_out,51,out,False,True,False,False
+31211_out,5,out,False,True,False,False
+31316_out,1,out,False,True,False,False
+31342_out,"3, 5, 8, 9",out,True,True,False,False
+31351_out,2,out,False,True,False,False
+31365_out,"[2, 3, 4, 5, 7]",out,True,True,False,False
+31434_out,78125,out,False,True,False,False
+31493_out,0,out,False,True,False,False
+31532_out,58 52 40 26,out,False,True,False,False
+31575_out,"-4, 0, 5, 81",out,False,True,False,False
+31594_out,-1,out,False,True,False,False
+31705_out,f(-5) = 25,out,False,True,False,False
+31828_out,9.25,out,False,True,False,False
+31833_out,40320,out,False,True,False,False
+31834_out,-3,out,False,True,False,False
+31840_out,6.4,out,False,True,False,False
+31912_out,96,out,False,True,False,False
+31915_out,17,out,False,True,False,False
+31918_out,-1,out,False,True,False,False
+31920_out,1,out,False,True,False,False
+31948_out,10,out,False,True,False,False
+31949_out,"11,851,252,742",out,True,True,False,False
+31950_out,A,out,False,True,False,False
+31952_out,8,out,False,True,False,False
+31962_out,31.6227766016838,out,False,True,False,False
+31964_out,"[1, 4, 5]",out,True,True,False,False
+31966_out,18,out,False,True,False,False
+31999_out,48.667,out,False,True,False,False
+32160_out,24,out,False,True,False,False
+32274_out,21,out,False,True,False,False
+32353_out,33,out,False,True,False,False
+32357_out,5x+y=-2,out,True,True,False,False
+32362_out,"[1, 2, 3, 4, 5]",out,True,True,False,False
+32423_out,C D D D D D D D D D D E E C C C C C C C C C C D D D D D D D D D E E.,out,False,True,False,False
+32571_out,"9, 7, 3",out,True,True,False,False
+32642_out,D,out,False,True,False,False
+32663_out,844,out,False,True,False,False
+32729_out,6-3-10-5-16-8-4-2-1,out,False,True,False,False
+32747_out,12345,out,False,True,False,False
+32863_out,"5, 4, 3, 2, 1",out,True,True,False,False
+32892_out,42,out,False,True,False,False
+32945_out,x = 1.,out,True,True,False,False
+32952_out,5 x 3 = 15,out,False,True,False,False
+32968_out,"[1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]",out,True,True,False,False
+32999_out,n = 5,out,False,True,False,False
+33008_out,11,out,False,True,False,False
+33142_out,3x - 3 = 3 * 4 - 3 = 12.,out,True,True,False,False
+33146_out,x = 8.,out,True,True,False,False
+33234_out,8,out,False,True,False,False
+33308_out,a * b + (x - a) * b = 8,out,False,True,False,False
+33398_out,12,out,False,True,False,False
+33426_out,26.33,out,False,True,False,False
+33521_out,6.,out,False,True,False,False
+33529_out,"13, 21, 34",out,True,True,False,False
+33530_out,90,out,False,True,False,False
+33541_out,1,out,False,True,False,False
+33568_out,3*(7 + 4) = 35,out,False,True,False,False
+33605_out,"-3, 0, 7, 39, 100",out,False,True,False,False
+33655_out,2 x 2 x 2 x 2 x 2 x 3.,out,False,True,False,False
+33722_out,1,out,False,True,False,False
+33724_out,12,out,False,True,False,False
+33857_out,"8462735194
+5267357841
+1948571 236
+7 62594381
+3458129793
+6157839462
+6194382571
+8195486372
+2973146583",out,False,True,False,False
+33860_out,1/3,out,False,True,False,False
+33912_out,14,out,False,True,False,False
+33968_out,9,out,False,True,False,False
+34011_out,7,out,False,True,False,False
+34027_out,4.888 = 24444/500,out,False,True,False,False
+34115_out,17,out,False,True,False,False
+34231_out,x = (6-3y)/2,out,True,True,False,False
+34673_out,5321,out,False,True,False,False
+34687_out,1,out,False,True,False,False
+34689_out,(909) 456-1234,out,False,True,False,False
+34692_out,12,out,False,True,False,False
+34773_out,x = 4,out,True,True,False,False
+34809_out,C-E-G,out,False,True,False,False
+34908_out,5,out,False,True,False,False
+35037_out,2,out,False,True,False,False
+35040_out,1,out,False,True,False,False
+35101_out,6/5.,out,False,True,False,False
+35108_out,45.6,out,False,True,False,False
+35129_out,"[2, 3, 4, 5, 6, 7]",out,True,True,False,False
+35214_out,D + E = F,out,False,True,False,False
+35334_out,26.,out,False,True,False,False
+35417_out,M-e-s-m-e-r-i-z-i-n-g,out,False,True,False,False
+35418_out,"1, 1, 2, 3, 5, 8, 13, 21, 34...",out,False,True,False,False
+35436_out,181,out,False,True,False,False
+35445_out,1111101000,out,False,True,False,False
+35447_out,15,out,False,True,False,False
+35453_out,"8, 5, 2, 1",out,True,True,False,False
+35485_out,y = 3x + 7,out,True,True,False,False
+35587_out,"[27, 5, 3, 1, -3]",out,False,True,False,False
+35603_out,"3 * 4 * 5 * 6 * 7 * 8 * 9 = 5,040",out,False,True,False,False
+35606_out,"[3, 4, 5]",out,True,True,False,False
+35619_out,11,out,False,True,False,False
+35772_out,3628800,out,False,True,False,False
+35774_out,17,out,False,True,False,False
+35883_out,1345,out,False,True,False,False
+35893_out,3,out,False,True,False,False
+36009_out,0.222...,out,False,True,False,False
+36043_out,"4, 3, 5, 8, 9",out,True,True,False,False
+36059_out,"2, 3, 5, 7, 11, 13, 17",out,True,True,False,False
+36060_out,401,out,False,True,False,False
+36129_out,A-R-T-I-F-I-C-I-A-L I-N-T-E-L-L-I-G-E-N-C-E,out,False,True,False,False
+36139_out,8,out,False,True,False,False
+36167_out,810101,out,False,True,False,False
+36169_out,"[1, 2, 3, 4, 5, 6, 7, 8]",out,True,True,False,False
+36274_out,"6, 8, 10, 1.",out,False,True,False,False
+36302_out,14,out,False,True,False,False
+36459_out,"2, 3, 5, 7",out,True,True,False,False
+36462_out,x + 2 = 4,out,False,True,False,False
+36622_out,6,out,False,True,False,False
+36654_out,15*10 = 150,out,True,True,False,False
+36656_out,"2, 3, 5",out,True,True,False,False
+36675_out,0 3,out,False,True,False,False
+36702_out,30,out,False,True,False,False
+36703_out,1,out,False,True,False,False
+36705_out,2,out,False,True,False,False
+36709_out,4,out,False,True,False,False
+36728_out,15,out,False,True,False,False
+36780_out,105,out,False,True,False,False
+36882_out,0.86602540430,out,False,True,False,False
+36888_out,32,out,False,True,False,False
+36892_out,2,out,False,True,False,False
+36911_out,6,out,False,True,False,False
+36916_out,5,out,False,True,False,False
+36921_out,11,out,False,True,False,False
+36922_out,13,out,False,True,False,False
+36926_out,85,out,False,True,False,False
+37028_out,2,out,False,True,False,False
+37133_out,3,out,False,True,False,False
+37307_out,73,out,False,True,False,False
+37321_out,"6 5 2 
+0 7 4 
+3 8 9",out,False,True,False,False
+37371_out,"1. 3 x 7 = 21
+2. 7 x 10 = 70
+3. 3 x 10 = 30
+4. 7 x 3 = 21",out,False,True,False,False
+37417_out,0,out,False,True,False,False
+37457_out,x = 2,out,True,True,False,False
+37608_out,22,out,False,True,False,False
+37620_out,7,out,False,True,False,False
+37636_out,0,out,False,True,False,False
+37640_out,2,out,False,True,False,False
+37794_out,"[3, 6, 9, 12]",out,True,True,False,False
+37882_out,Y = 1.2,out,True,True,False,False
+37998_out,3 x 4 + 5 = 17,out,False,True,False,False
+38036_out,6,out,False,True,False,False
+38076_out,9,out,False,True,False,False
+38163_out,"16, 30, 38",out,True,True,False,False
+38277_out,2,out,False,True,False,False
+38409_out,"A, G, C, E.",out,False,True,False,False
+38424_out,15/4,out,False,True,False,False
+38447_out,6,out,False,True,False,False
+38783_out,21,out,False,True,False,False
+38868_out,10,out,False,True,False,False
+38870_out,2.5714285714285716,out,False,True,False,False
+38882_out,"047, 1558",out,True,True,False,False
+38896_out,10,out,False,True,False,False
+38900_out,"[-2, 30, 20, 10]",out,False,True,False,False
+39068_out,7,out,False,True,False,False
+39182_out,2,out,False,True,False,False
+39255_out,2,out,False,True,False,False
+39258_out,25,out,False,True,False,False
+39302_out,"4x1 = 4
+4x2 = 8
+4x3 = 12
+4x4 = 16
+4x5 = 20
+4x6 = 24
+4x7 = 28
+4x8 = 32
+4x9 = 36
+4x10 = 40",out,True,True,False,False
+39353_out,37546,out,False,True,False,False
+39411_out,98,out,False,True,False,False
+39543_out,a,out,False,True,False,False
+39544_out,8,out,False,True,False,False
+39715_out,"[3, 4, 6, 7, 8, 10]",out,True,True,False,False
+39742_out,x + y + z = 8,out,False,True,False,False
+39802_out,"13, 16, 19",out,True,True,False,False
+39908_out,"5, 11, 15, 22, 59",out,True,True,False,False
+39943_out,x = 3,out,True,True,False,False
+39977_out,"[0, 0, 0, 1, 2, 3]",out,True,True,False,False
+40001_out,22.3,out,False,True,False,False
+40002_out,0.5714285714285714,out,False,True,False,False
+40035_out,3x - 1 = 4,out,True,True,False,False
+40096_out,32,out,False,True,False,False
+40110_out,x = 5,out,True,True,False,False
+40224_out,"2, 4, 3, 5.",out,False,True,False,False
+40233_out,R-E-C-E-I-V-E,out,False,True,False,False
+40395_out,"9.6, 0, -13.4",out,False,True,False,False
+40452_out,Q,out,False,True,False,False
+40492_out,3,out,False,True,False,False
+40548_out,770,out,False,True,False,False
+40614_out,"A, G, M, X",out,False,True,False,False
+40635_out,H2O,out,False,True,False,False
+40639_out,"5x = 17 - 2
+x = 15/5
+x = 3",out,True,True,False,False
+40713_out,"-3999, -2e6",out,False,True,False,False
+40722_out,2 + 2 + 2 = 6,out,False,True,False,False
+40753_out,"[1, 3, 4, 5, 8]",out,True,True,False,False
+40880_out,x = 6,out,True,True,False,False
+40900_out,47,out,False,True,False,False
+40934_out,5,out,False,True,False,False
+40991_out,x = 2,out,True,True,False,False
+41015_out,"10, 8, 6, 2",out,True,True,False,False
+41157_out,120,out,False,True,False,False
+41187_out,Q-U-E-R-U-L-O-U-S.,out,False,True,False,False
+41336_out,"111, 229, 294, 373, 462, 591, 600, 721, 830, 985.",out,False,True,False,False
+41345_out,"11, 12, 64, 87, 95",out,True,True,False,False
+41410_out,3,out,False,True,False,False
+41411_out,4,out,False,True,False,False
+41412_out,1,out,False,True,False,False
+41488_out,"[12, 17, 23, 32, 45, 56, 87]",out,True,True,False,False
+41502_out,3 + 5 + (7 - 8) + 1 = 16,out,False,True,False,False
+41554_out,3.83,out,False,True,False,False
+41716_out,18,out,False,True,False,False
+41725_out,2 * 3 + 3,out,False,True,False,False
+41773_out,298.15K,out,False,True,False,False
+41814_out,"-z + 5y + 3x = 9
+3x - 4z + 5y = 9
+5y - 4z + 3x = 9",out,True,True,False,False
+41916_out,O(n),out,False,True,False,False
+42033_out,32,out,False,True,False,False
+42127_out,"3, 4, 5, 6, 7",out,True,True,False,False
+42225_out,97,out,False,True,False,False
+42304_out,"1, 4, 7, 9, 10",out,True,True,False,False
+42411_out,"-12,0.004,0.03,60",out,False,True,False,False
+42421_out,"9, 5, 2",out,True,True,False,False
+42492_out,49,out,False,True,False,False
+42665_out,0A0C0A0D0E0M0I00P0R00G0R0A00M,out,False,True,False,False
+42668_out,"[3, 4, 5, 6, 8, 9, 11, 12]",out,True,True,False,False
+42682_out,9.43,out,False,True,False,False
+42683_out,6,out,False,True,False,False
+42684_out,11100,out,False,True,False,False
+42702_out,4,out,False,True,False,False
+42888_out,4,out,False,True,False,False
+42980_out,6,out,False,True,False,False
+43066_out,216,out,False,True,False,False
+43102_out,5,out,False,True,False,False
+43198_out,2,out,False,True,False,False
+43205_out,g734t5,out,False,True,False,False
+43285_out,3,out,False,True,False,False
+43289_out,"2, 4, 6",out,True,True,False,False
+43297_out,3,out,False,True,False,False
+43299_out,s,out,False,True,False,False
+43334_out,(123) 456-7890,out,False,True,False,False
+43374_out,3,out,False,True,False,False
+43376_out,1/2,out,False,True,False,False
+43409_out,75,out,False,True,False,False
+43462_out,"67,054,000",out,True,True,False,False
+43543_out,S,out,False,True,False,False
+43547_out,5.06667,out,False,True,False,False
+43548_out,19,out,False,True,False,False
+43571_out,1788.,out,False,True,False,False
+43626_out,C  D  E  F  G  A  B  C,out,False,True,False,False
+43636_out,y = 2x + 1,out,True,True,False,False
+43661_out,5,out,False,True,False,False
+43662_out,x = 258,out,True,True,False,False
+43740_out,2 + 5 * 4 = 22,out,False,True,False,False
+43755_out,12975,out,False,True,False,False
+43829_out,.........................,out,False,True,False,True
+43849_out,"[7, 5, 1, 9]",out,True,True,False,False
+43934_out,37.4,out,False,True,False,False
+43956_out,17.,out,False,True,False,False
+43972_out,31,out,False,True,False,False
+43978_out,7.,out,False,True,False,False
+44114_out,1,out,False,True,False,False
+44124_out,(1 + 9) * (1 x 9) = 10.,out,False,True,False,False
+44140_out,2,out,False,True,False,False
+44158_out,H2O,out,False,True,False,False
+44214_out,8,out,False,True,False,False
+44226_out,"7, 5, 1, -4",out,False,True,False,False
+44386_out,6,out,False,True,False,False
+44443_out,"1, 3, 5, 6.",out,False,True,False,False
+44457_out,"7 + 8 = 15, 3 + 4 + 8 = 15, 9 x (1 + 2/3) = 15",out,False,True,False,False
+44576_out,1,out,False,True,False,False
+44623_out,"[5, 9, 11]",out,True,True,False,False
+44683_out,5,out,False,True,False,False
+44813_out,"15
+9
+8
+4
+0",out,False,True,False,False
+44814_out,"[4, 6, 7, 8, 12]",out,True,True,False,False
+44816_out,19.67,out,False,True,False,False
+45026_out,11111,out,False,True,False,False
+45044_out,X + Y / Z + W = 0.,out,False,True,False,False
+45123_out,"[10, 8, 5, 3, 1]",out,True,True,False,False
+45246_out,1111101000,out,False,True,False,False
+45302_out,12,out,False,True,False,False
+45338_out,2,out,False,True,False,False
+45501_out,"X = 1
+Y = 5
+Z = 10",out,True,True,False,False
+45502_out,17 / 4 = 4.25,out,False,True,False,False
+45574_out,5.4,out,False,True,False,False
+45584_out,0,out,False,True,False,False
+45665_out,6 + 7 = 13,out,False,True,False,False
+45683_out,6,out,False,True,False,False
+45775_out,x = 2 * y,out,True,True,False,False
+45776_out,y = 4x - 12,out,True,True,False,False
+45804_out,"[1, 2, 3, 5, 7]",out,True,True,False,False
+45819_out,11,out,False,True,False,False
+45820_out,a,out,False,True,False,False
+45824_out,2.5,out,False,True,False,False
+46105_out,5,out,False,True,False,False
+46136_out,18.,out,False,True,False,False
+46172_out,"[[19, 22], [43, 50]]",out,True,True,False,False
+46206_out,"[3, 7, 8, 6, 4]",out,True,True,False,False
+46207_out,9,out,False,True,False,False
+46212_out,29.5,out,False,True,False,False
+46257_out,25.,out,False,True,False,False
+46303_out,"4 + 5 = 9
+4 - 5 = -1
+4 x 5 = 20
+4 / 5 = 0.8",out,False,True,False,False
+46457_out,"[1, 4, 5, 6, 7]",out,True,True,False,False
+46460_out,"[4, 2, 0, 5, 1, 3]",out,True,True,False,False
+46461_out,147,out,False,True,False,False
+46506_out,7,out,False,True,False,False
+46544_out,"15, 7, 3",out,True,True,False,False
+46616_out,"2, 3, 5, 7",out,True,True,False,False
+46658_out,"[1, 3, 4, 5, 6, 7, 9]",out,True,True,False,False
+46675_out,"A=11, B=12, C=13, D=14, E=15, F=16, G=17, H=18, I=19, J=20, K=21, L=22, M=23, N=24, O=25, P=26, Q=27, R=28, S=29, T=30, U=31, V=32, W=33, X=34, Y=35, Z=36",out,True,True,False,False
+46683_out,x = 5 - 2y,out,True,True,False,False
+46703_out,448,out,False,True,False,False
+46769_out,45.46,out,False,True,False,False
+46813_out,0,out,False,True,False,False
+46876_out,e,out,False,True,False,False
+47020_out,"[-102, 10, 45, 3400]",out,False,True,False,False
+47053_out,0 / 0,out,False,True,False,False
+47176_out,"[1, 3, 5, 7, 11]",out,True,True,False,False
+47285_out,0.98,out,False,True,False,False
+47289_out,60,out,False,True,False,False
+47325_out,"[15, 42, 89, 93, 28, 64, 23, 81, 11, 52]",out,True,True,False,False
+47334_out,"1) 6 x 5 
+2) 4 x 12 
+3) 9 x 3 
+4) 7 x 8 
+5) 8 x 9",out,False,True,False,False
+47376_out,84,out,False,True,False,False
+47403_out,"2, 3, 10, 11",out,True,True,False,False
+47457_out,3a + 6b = 0,out,False,True,False,False
+47470_out,15,out,False,True,False,False
+47538_out,F = m * g,out,False,True,False,False
+47551_out,198,out,False,True,False,False
+47598_out,40,out,False,True,False,False
+47625_out,(244) 890-4578,out,False,True,False,False
+47674_out,"2, 4, 5, 8",out,True,True,False,False
+47713_out,"a = 3, b = 4, c = 5",out,False,True,False,False
+47814_out,9,out,False,True,False,False
+47903_out,8.4,out,False,True,False,False
+47912_out,"[10, 8, 7, 4]",out,True,True,False,False
+47919_out,0,out,False,True,False,False
+47989_out,"P L E A P P L
+A N A N A B A
+N G O O E A N
+A M G O A D R
+S A N A N A",out,False,True,False,False
+47993_out,1,out,False,True,False,False
+48046_out,x + (x + 1) + (x + 2) = 18,out,False,True,False,False
+48158_out,6561,out,False,True,False,False
+48183_out,"[6, 5, 8, 3, 1]",out,True,True,False,False
+48258_out,-12,out,False,True,False,False
+48316_out,"79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149",out,True,True,False,False
+48448_out,"T,h,i,s,i,s,a,s,t,r,i,n,g,t,o,r,e,f,o,r,m,a,t",out,False,True,False,False
+48503_out,"1 2  3  4  5  6  7  8  9  10
+2 4  6  8  10 12 14 16 18 20
+3 6  9  12 15 18 21 24 27 30
+4 8  12 16 20 24 28 32 36 40
+5 10 15 20 25 30 35 40 45 50
+6 12 18 24 30 36 42 48 54 60
+7 14 21 28 35 42 49 56 63 70
+8 16 24 32 40 48 56 64 72 80
+9 18 27 36 45 54 63 72 81 90
+10 20 30 40 50 60 70 80 90 100",out,False,True,False,False
+48645_out,6,out,False,True,False,False
+48807_out,2x(2x + 1) - 4,out,True,True,False,False
+48846_out,A = 2S2,out,False,True,False,False
+48929_out,"10
+9
+8
+7
+6
+5
+4
+3
+2
+1",out,False,True,False,False
+48930_out,0x96,out,True,True,False,False
+48958_out,x = 10 - 4 = 6,out,True,True,False,False
+48960_out,55,out,False,True,False,False
+48964_out,280,out,False,True,False,False
+49053_out,5,out,False,True,False,False
+49055_out,1 3 9,out,False,True,False,False
+49074_out,"1939, 1950, 1966, 1971",out,True,True,False,False
+49115_out,50 m/s,out,False,True,False,False
+49161_out,"3, 2, 1, 0",out,True,True,False,False
+49169_out,"1, 5, 9, 11, 17.",out,False,True,False,False
+49170_out,9.,out,False,True,False,False
+49180_out,x = 8,out,True,True,False,False
+49247_out,4,out,False,True,False,False
+49280_out,"0,1,2,5,7,8,9,10,11,13",out,True,True,False,False
+49374_out,"2, 12, 8, 6, a, 5, 9, 11",out,False,True,False,False
+49385_out,1,out,False,True,False,False
+49483_out,"1. 2x + 4 = 20 
+2. 4x + 6y = 18
+3. 2x + 3y = 15
+4. 4x + y = 16
+5. 5x - 3y = 7",out,True,True,False,False
+49560_out,"6, 8, 10, 12, 14, 16, 18, 20, 22, 24,...",out,False,True,False,False
+49575_out,16,out,False,True,False,False
+49580_out,5 + 5 = 10,out,False,True,False,False
+49658_out,3,out,False,True,False,False
+49734_out,51.,out,False,True,False,False
+49815_out,3.1415926535.,out,False,True,False,False
+49818_out,"4x + 6 = 10
+
+4x = 10 - 6
+
+4x = 4
+
+x = 1",out,True,True,False,False
+49957_out,15,out,False,True,False,False
+50067_out,25,out,False,True,False,False
+50069_out,4,out,False,True,False,False
+50070_out,"A, a",out,False,True,False,False
+50144_out,x = 5,out,True,True,False,False
+50153_out,"1, 3, 5, 8, 9",out,True,True,False,False
+50224_out,4/9,out,False,True,False,False
+50260_out,2.,out,False,True,False,False
+50294_out,6 - 4 = 2.,out,False,True,False,False
+50296_out,X = 2Y + 4,out,True,True,False,False
+50325_out,-1,out,False,True,False,False
+50366_out,16554,out,False,True,False,False
+50391_out,4,out,False,True,False,False
+50440_out,4,out,False,True,False,False
+50515_out,35,out,False,True,False,False
+50540_out,14.,out,False,True,False,False
+50548_out,16,out,False,True,False,False
+50557_out,2638.,out,False,True,False,False
+50655_out,5.,out,False,True,False,False
+50765_out,W8J8U.,out,False,True,False,False
+50883_out,11 * 21 + 84 = 233,out,False,True,False,False
+50903_out,1010111,out,False,True,False,False
+50933_out,D,out,False,True,False,False
+51030_out,"3, 2, 7, 6",out,True,True,False,False
+51033_out,21,out,False,True,False,False
+51034_out,60 m3,out,False,True,False,False
+51036_out,7,out,False,True,False,False
+51063_out,9,out,False,True,False,False
+51117_out,9,out,False,True,False,False
+51126_out,28,out,False,True,False,False
+51243_out,A4 B4 D4 E4 G4 A4 B4 D4 E4 G4 A4 D4 E4 F4 A4 B4 D4 E4 G4 A4 B4 D4 E4 G4 A4.,out,False,True,False,False
+51263_out,"1, 4, 9, 16, 25",out,True,True,False,False
+51268_out,2+2 = 4,out,True,True,False,False
+51272_out,-100 + 150 = 50,out,False,True,False,False
+51318_out,"386, 98",out,True,True,False,False
+51436_out,13,out,False,True,False,False
+51445_out,3.0,out,False,True,False,False
+51467_out,14,out,False,True,False,False
+51584_out,3/8,out,False,True,False,False
+51587_out,1,out,False,True,False,False
+51700_out,"1/9, 2/3, 7/12",out,False,True,False,False
+51705_out,"k, l, m, n, o",out,False,True,False,False

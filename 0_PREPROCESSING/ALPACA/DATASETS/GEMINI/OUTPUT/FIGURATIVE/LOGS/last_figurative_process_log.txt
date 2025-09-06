@@ -1,0 +1,587 @@
+2024-11-13 10:06:39,307 - INFO - Modelo instanciado.
+2024-11-13 10:06:39,311 - INFO - Iniciando processamento da instância 0
+2024-11-13 10:07:13,849 - INFO - Modelo instanciado.
+2024-11-13 10:07:13,869 - INFO - Iniciando processamento da instância 0
+2024-11-13 10:07:15,587 - ERROR - Ocorreu um erro ao processar a instância 0: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 173
+total_token_count: 173
+
+    }),
+)
+2024-11-13 10:07:15,588 - INFO - Iniciando processamento da instância 1
+2024-11-13 10:07:16,335 - ERROR - Ocorreu um erro ao processar a instância 1: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 172
+total_token_count: 172
+
+    }),
+)
+2024-11-13 10:07:16,337 - INFO - Iniciando processamento da instância 2
+2024-11-13 10:07:16,983 - ERROR - Ocorreu um erro ao processar a instância 2: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 179
+total_token_count: 179
+
+    }),
+)
+2024-11-13 10:07:16,985 - INFO - Iniciando processamento da instância 3
+2024-11-13 10:07:17,707 - ERROR - Ocorreu um erro ao processar a instância 3: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 190
+total_token_count: 190
+
+    }),
+)
+2024-11-13 10:07:17,708 - INFO - Iniciando processamento da instância 4
+2024-11-13 10:07:18,389 - ERROR - Ocorreu um erro ao processar a instância 4: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 177
+total_token_count: 177
+
+    }),
+)
+2024-11-13 10:07:18,390 - INFO - Iniciando processamento da instância 5
+2024-11-13 10:07:19,002 - ERROR - Ocorreu um erro ao processar a instância 5: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 174
+total_token_count: 174
+
+    }),
+)
+2024-11-13 10:07:19,004 - INFO - Iniciando processamento da instância 6
+2024-11-13 10:07:19,652 - ERROR - Ocorreu um erro ao processar a instância 6: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 177
+total_token_count: 177
+
+    }),
+)
+2024-11-13 10:07:19,654 - INFO - Iniciando processamento da instância 7
+2024-11-13 10:07:20,851 - ERROR - Ocorreu um erro ao processar a instância 7: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 175
+total_token_count: 175
+
+    }),
+)
+2024-11-13 10:07:20,853 - INFO - Iniciando processamento da instância 8
+2024-11-13 10:07:21,499 - ERROR - Ocorreu um erro ao processar a instância 8: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 176
+total_token_count: 176
+
+    }),
+)
+2024-11-13 10:07:21,501 - INFO - Iniciando processamento da instância 9
+2024-11-13 10:07:22,213 - ERROR - Ocorreu um erro ao processar a instância 9: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 174
+total_token_count: 174
+
+    }),
+)
+2024-11-13 10:07:22,214 - INFO - Iniciando processamento da instância 10
+2024-11-13 10:07:22,964 - ERROR - Ocorreu um erro ao processar a instância 10: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 181
+total_token_count: 181
+
+    }),
+)
+2024-11-13 10:07:22,965 - INFO - Iniciando processamento da instância 11
+2024-11-13 10:07:23,645 - ERROR - Ocorreu um erro ao processar a instância 11: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 174
+total_token_count: 174
+
+    }),
+)
+2024-11-13 10:07:23,647 - INFO - Iniciando processamento da instância 12
+2024-11-13 10:07:24,269 - ERROR - Ocorreu um erro ao processar a instância 12: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 176
+total_token_count: 176
+
+    }),
+)
+2024-11-13 10:07:24,271 - INFO - Iniciando processamento da instância 13
+2024-11-13 10:07:24,963 - ERROR - Ocorreu um erro ao processar a instância 13: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 181
+total_token_count: 181
+
+    }),
+)
+2024-11-13 10:07:24,965 - INFO - Iniciando processamento da instância 14
+2024-11-13 10:07:25,948 - ERROR - Ocorreu um erro ao processar a instância 14: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 179
+total_token_count: 179
+
+    }),
+)
+2024-11-13 10:07:25,950 - INFO - Iniciando processamento da instância 15
+2024-11-13 10:07:26,603 - ERROR - Ocorreu um erro ao processar a instância 15: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 178
+total_token_count: 178
+
+    }),
+)
+2024-11-13 10:07:26,604 - INFO - Iniciando processamento da instância 16
+2024-11-13 10:07:27,382 - ERROR - Ocorreu um erro ao processar a instância 16: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 174
+total_token_count: 174
+
+    }),
+)
+2024-11-13 10:07:27,384 - INFO - Iniciando processamento da instância 17
+2024-11-13 10:07:28,664 - ERROR - Ocorreu um erro ao processar a instância 17: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 250
+total_token_count: 250
+
+    }),
+)
+2024-11-13 10:07:28,666 - INFO - Iniciando processamento da instância 18
+2024-11-13 10:07:29,688 - ERROR - Ocorreu um erro ao processar a instância 18: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 246
+total_token_count: 246
+
+    }),
+)
+2024-11-13 10:07:29,690 - INFO - Iniciando processamento da instância 19
+2024-11-13 10:07:31,121 - ERROR - Ocorreu um erro ao processar a instância 19: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 249
+total_token_count: 249
+
+    }),
+)
+2024-11-13 10:07:31,123 - INFO - Iniciando processamento da instância 20
+2024-11-13 10:07:32,350 - ERROR - Ocorreu um erro ao processar a instância 20: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 252
+total_token_count: 252
+
+    }),
+)
+2024-11-13 10:07:32,352 - INFO - Iniciando processamento da instância 21
+2024-11-13 10:07:33,780 - ERROR - Ocorreu um erro ao processar a instância 21: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 270
+total_token_count: 270
+
+    }),
+)
+2024-11-13 10:07:33,781 - INFO - Iniciando processamento da instância 22
+2024-11-13 10:07:34,746 - ERROR - Ocorreu um erro ao processar a instância 22: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 273
+total_token_count: 273
+
+    }),
+)
+2024-11-13 10:07:34,747 - INFO - Iniciando processamento da instância 23
+2024-11-13 10:07:35,549 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-13 10:07:35,550 - INFO - Metadados do bucket 23 salvos com sucesso.
+2024-11-13 10:07:35,551 - INFO - Iniciando processamento da instância 24
+2024-11-13 10:07:36,368 - ERROR - Ocorreu um erro ao processar a instância 24: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 194
+total_token_count: 194
+
+    }),
+)
+2024-11-13 10:07:36,370 - INFO - Iniciando processamento da instância 25
+2024-11-13 10:07:37,231 - ERROR - Ocorreu um erro ao processar a instância 25: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 238
+total_token_count: 238
+
+    }),
+)
+2024-11-13 10:07:37,232 - INFO - Iniciando processamento da instância 26
+2024-11-13 10:07:38,025 - ERROR - Ocorreu um erro ao processar a instância 26: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 206
+total_token_count: 206
+
+    }),
+)
+2024-11-13 10:07:38,026 - INFO - Iniciando processamento da instância 27
+2024-11-13 10:07:38,905 - INFO - Resposta salva com sucesso no arquivo de texto.
+2024-11-13 10:07:38,906 - INFO - Metadados do bucket 27 salvos com sucesso.
+2024-11-13 10:07:38,907 - INFO - Iniciando processamento da instância 28
+2024-11-13 10:07:41,034 - ERROR - Ocorreu um erro ao processar a instância 28: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 297
+total_token_count: 297
+
+    }),
+)
+2024-11-13 10:07:41,034 - INFO - Iniciando processamento da instância 29
+2024-11-13 10:07:42,565 - ERROR - Ocorreu um erro ao processar a instância 29: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 272
+total_token_count: 272
+
+    }),
+)
+2024-11-13 10:07:42,567 - INFO - Iniciando processamento da instância 30
+2024-11-13 10:07:43,926 - ERROR - Ocorreu um erro ao processar a instância 30: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 259
+total_token_count: 259
+
+    }),
+)
+2024-11-13 10:07:43,927 - INFO - Iniciando processamento da instância 31
+2024-11-13 10:07:45,068 - ERROR - Ocorreu um erro ao processar a instância 31: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 234
+total_token_count: 234
+
+    }),
+)
+2024-11-13 10:07:45,069 - INFO - Iniciando processamento da instância 32
+2024-11-13 10:07:45,986 - ERROR - Ocorreu um erro ao processar a instância 32: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 228
+total_token_count: 228
+
+    }),
+)
+2024-11-13 10:07:45,988 - INFO - Iniciando processamento da instância 33
+2024-11-13 10:07:46,892 - ERROR - Ocorreu um erro ao processar a instância 33: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5.
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      'candidates': [
+        {
+          'finish_reason': 'Não disponível',
+          'index': 0
+        }
+      ],
+      'usage_metadata': prompt_token_count: 243
+total_token_count: 243
+
+    }),
+)
+2024-11-13 10:07:46,894 - INFO - Processamento das instâncias concluído.
+2024-11-13 10:07:46,894 - INFO - Tempo total de execução: 33.05 segundos.

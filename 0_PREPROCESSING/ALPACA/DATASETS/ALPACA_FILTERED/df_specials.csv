@@ -1,0 +1,12 @@
+id,instance,class_type,number_instance,all_number_instance,contains_code,only_special_characters
+18545_inp,+,inp,False,True,False,True
+38726_inp,>,inp,False,False,False,True
+51186_inp,★★★★★,inp,False,False,False,True
+51912_inp,🐥,inp,False,False,False,True
+7165_out,😆,out,False,False,False,True
+9894_out,😈,out,False,False,False,True
+14160_out,💃🏻🌃🕺🏼,out,False,False,False,True
+14550_out,:-),out,False,False,False,True
+43829_out,.........................,out,False,True,False,True
+49453_out,···––––···,out,False,False,False,True
+51186_out,★,out,False,False,False,True

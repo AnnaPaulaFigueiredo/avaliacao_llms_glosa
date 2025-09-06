@@ -1,0 +1,300 @@
+ID,INSTANCE,CLASS_TYPE,TOKENS_EST_INSTANCE,TOKENS_EST_ID
+2374ins,Descreva o que é um buraco negro,ins,10,4
+9378ins,O que é um evento Cisne Negro?,ins,11,4
+10160ins,Crie uma analogia para ilustrar o conceito de buraco negro.,ins,18,4
+16885ins,"Crie uma história de terror de três frases que incorpore ""corvos negros"" e ""medos supersticiosos"".",ins,35,4
+17764ins,"Como você descreveria o conceito de ""buraco negro""?",ins,17,4
+20439ins,Resuma as características de um buraco negro.,ins,14,3
+22650ins,Escreva uma breve descrição das características de um buraco negro.,ins,24,4
+31422ins,Crie uma analogia para o buraco negro,ins,11,4
+33737ins,Dê-me três fatos sobre buracos negros.,ins,17,4
+35712ins,Liste 5 tipos de buracos negros.,ins,12,4
+39228ins,Explique o que é um buraco negro em menos de 50 palavras,ins,17,4
+39563ins,Explique como um buraco negro se forma.,ins,12,4
+42297ins,Explique o conceito de buraco negro para uma criança.,ins,16,4
+45164ins,Descreva o impacto dos buracos negros na evolução das galáxias.,ins,25,4
+46489ins,Em que circunstâncias um cisne negro poderia ser uma metáfora,ins,22,4
+49559ins,"Escreva uma definição de ""buraco negro"" em duas frases.",ins,21,4
+51406ins,"Defina o termo ""buraco negro"".",ins,10,4
+11887inp,"O estudo investigou as propriedades de fadiga compressiva e de tensão da borracha de pneu de caminhão submetida a temperaturas de cura variando entre 25 e 120 °C. Foram consideradas temperaturas de cura de borracha à base de β-dicetona composta com negro de fumo, sílica e óxido de zinco.",inp,97,5
+11894inp,Bestas sem nação,inp,6,6
+12801inp,O artigo “O lado negro do consumo excessivo de mídias sociais” discute as consequências negativas do uso excessivo das mídias sociais.,inp,50,5
+13895inp,"""Não pare de tirar dinheiro do caixa eletrônico
+Olhando para o 'Gram, ficando bravo porque um negro tem mais bandas
+Não pare, empilhe, sim, eu estou dentro
+Meu dinheiro é longo, você não consegue encontrar o fim""",inp,88,5
+14036inp,"Stephen Hawking foi um cientista britânico, que nasceu em Oxford em 1942. Ele era um especialista em cosmologia e física teórica, e seu livro mais popular foi Uma Breve História do Tempo. Hawking também era conhecido por sua pesquisa pioneira sobre buracos negros e mecânica quântica.",inp,100,5
+28842inp,"Malcolm X foi um ministro muçulmano afro-americano, ativista dos direitos humanos e um proeminente líder nacionalista negro nas décadas de 1950 e 1960.",inp,53,5
+32725inp,"Matriz: [""verde"", ""céu azul"", ""montanha azul"", ""buraco negro"", ""maçã vermelha"", ""mar azul""]",inp,38,5
+32728inp,"""Aprendizado de máquina é uma área da inteligência artificial que se concentra no desenvolvimento de algoritmos e sistemas que podem aprender e fazer previsões a partir de dados. Ele tem o potencial de revolucionar uma ampla variedade de indústrias, de diagnósticos médicos a carros autônomos. Tecnologias como aprendizado profundo e redes neurais aumentaram drasticamente as capacidades do aprendizado de máquina, e o campo está se expandindo rapidamente. O aprendizado de máquina continuará na vanguarda da inovação tecnológica nos próximos anos.""",inp,195,5
+38928inp,Pessoa A: “Precisamos mostrar solidariedade aos nossos irmãos e irmãs negros.”,inp,37,5
+39727inp,O discurso do presidente foi repleto de calúnias contra a outra parte.,inp,24,5
+39756inp,"""Círculos"" de Mac Miller",inp,10,5
+39783inp,"""O serviço tem uma saída de A e B""",inp,17,5
+40298inp,,inp,1,5
+46840inp,"""A Noite Estrelada"" (Vincent van Gogh) e ""A Noite Antes do Circo"" (Vik Muniz)",inp,32,5
+47309inp,"""Foi um prazer trabalhar com você.""",inp,14,5
+48624inp,"Este artigo fornece informações detalhadas sobre buracos negros, um fenômeno na astronomia em que a gravidade é tão forte que nem mesmo a luz, a partícula mais rápida do universo, consegue escapar de seu alcance.",inp,83,5
+87out,"Recentemente assisti ao filme Parasita, dirigido por Bong Joon-Ho, e fiquei absolutamente impressionado. Este filme é uma mistura magistral de gêneros — é tanto uma comédia de humor negro quanto um comentário sobre o classismo, com um final surpreendente que ninguém poderia prever. A atuação é fantástica, particularmente Song Kang-ho como o chefe da família pobre, e a cinematografia é impressionante. O filme tem um equilíbrio perfeito entre humor e drama instigante, e vai deixar você falando sobre o final por dias depois. No geral, recomendo fortemente Parasita; é um filme excepcional e uma experiência que você não esquecerá tão cedo.",out,222,3
+2374out,"Um buraco negro é um objeto no espaço cuja atração gravitacional é tão forte que nada, nem mesmo a luz, pode escapar de seu interior. Ele é formado a partir do núcleo colapsado de uma estrela massiva e é considerado o objeto mais denso do universo. Um buraco negro normalmente tem uma massa muitas vezes maior que o nosso Sol, e sua massa pode ser determinada pela quantidade de radiação que ele libera.",out,138,4
+2781out,"""""""
+Encontre o palíndromo mais longo em uma sequência de caracteres fornecida
+""""""
+
+def find_longest_palindrome(s):
+# Inicializar resultado 
+max_length = 1 
+
+# Inicializar índice inicial e final
+start, end = 0, 0
+
+# Iterar sobre a sequência de caracteres de entrada
+for i in range(1, len(s)):
+
+# Encontre o palíndromo de comprimento par mais longo
+low, high = i-1, i 
+while low >= 0 and high < len(s) and s[low] == s[high]:
+if high - low + 1 > max_length:
+start = low 
+end = high 
+max_length = high - low + 1 
+low -= 1
+high += 1
+# Encontre o palíndromo de comprimento ímpar mais longo
+low, high = i-1, i+1 
+while low >= 0 and high < len(s) and s[low] == s[high]: 
+se alto - baixo + 1 > max_length:
+início = baixo
+fim = alto
+max_length = alto - baixo + 1
+baixo -= 1
+alto += 1
+
+# retornar resultado
+retornar s[início:fim+1]
+
+se __nome__ == '__main__':
+s = ""babad""
+print(""O palíndromo mais longo é: "", fim="""")
+print(find_longest_palindrome(s))",out,404,4
+3304out,"A teoria da relatividade de Albert Einstein é significativa porque revolucionou nossa compreensão do universo. Ela substituiu a noção secular de espaço e tempo absolutos pelo conceito de espaço-tempo, permitindo-nos entender fenômenos como ondas gravitacionais, buracos negros e a expansão do universo. Ela também abriu as portas para avanços na física que não eram possíveis antes, como foguetes mais poderosos e experimentos mais precisos em física de partículas.",out,164,4
+3818out,"A automação residencial é uma tecnologia em rápido crescimento que oferece conveniência e maior segurança em residências. Ela geralmente inclui automação de temperatura e iluminação, vigilância, sistemas de segurança e aparelhos. Muitos dos benefícios incluem economia de energia, maior segurança e conveniência, mas há um lado negro que deve ser considerado. Os riscos incluem vulnerabilidade a violações de dados e hacks, aumento de custos e um aumento da sensação de falta de privacidade.",out,184,4
+9378out,"Um evento Cisne Negro é um evento raro e imprevisível que tem uma grande escala, impacto duradouro e é frequentemente difícil de explicar depois que o evento já aconteceu. É um termo cunhado por Nassim Nicholas Taleb para descrever um evento inesperado que tem um impacto profundo no mundo. Exemplos de eventos Cisne Negro podem incluir crises econômicas, convulsões políticas e revoluções sociais.",out,138,4
+9392out,"Os sete mares do mundo são: Mar do Norte, Mar Báltico, Mar Mediterrâneo, Mar Negro, Mar Arábico, Mar da China Meridional e Mar do Caribe.",out,51,4
+9596out,"- Leopardo de Amur
+- Tartarugas marinhas
+- Elefante africano
+- Abutre de garupa branca
+- Rinoceronte negro",out,42,4
+10160out,"Um buraco negro pode ser comparado a uma pessoa com um apetite enorme. Não importa o que você coloque na frente dela, ela consumirá tudo, nunca se enchendo e ficando cada vez mais faminta. À medida que mais e mais massa é adicionada a um buraco negro, sua atração gravitacional fica mais forte, assim como quanto mais um glutão consome, mais faminto ele fica.",out,130,4
+10470out,"Havia dois irmãos, Mary e Richard, que tinham acabado de se mudar para uma nova cidade. Um dia, quando estavam explorando a floresta perto de sua casa, eles descobriram um objeto misterioso. Era uma pequena caixa, feita de metal e coberta de runas estranhas. Quando eles abriram a caixa, eles descobriram um colar dentro. Depois de olhar mais de perto, eles perceberam que era um colar mágico, com o poder de conceder desejos. Mas eles logo descobriram que o colar também tinha um lado negro - ele concederia qualquer desejo, a um grande custo.",out,195,4
+10728out,"O foguete espacial era um pilar branco e brilhante de poder e energia, apontando diretamente para o céu negro da noite. Ele estava cercado por um brilho dourado das chamas brilhantes que saíam de cada um de seus motores enquanto ele lentamente saía da plataforma de lançamento e subia para o céu. O chão tremia com um rugido estrondoso enquanto o foguete disparava, arqueando-se cada vez mais alto enquanto disparava para o espaço.",out,149,4
+11887out,"Este estudo analisou como o calor afeta a resistência da borracha usada em pneus de caminhão. Examinamos os efeitos das temperaturas de cura de 25°C a 120°C na borracha do pneu, que foi misturada com negro de fumo, sílica e óxido de zinco. Descobrimos que quanto maior a temperatura de cura, mais ""forte"" a borracha se tornava.",out,126,4
+12370out,"Malcolm X (19 de maio de 1925 – 21 de fevereiro de 1965), nascido Malcolm Little e mais tarde também conhecido como El-Hajj Malik El-Shabazz, foi um ministro muçulmano afro-americano e um ativista dos direitos humanos. Alguns de seus ideais e ensinamentos inspiraram muitos movimentos ao redor do mundo. Ele é mais conhecido por suas visões controversas sobre o nacionalismo negro e os direitos civis, que eram frequentemente aplicáveis ​​a outras questões raciais e socioeconômicas.",out,173,4
+12607out,Recentemente assisti ao filme The Day Shall Come. É uma comédia de humor negro hilária que acompanha um infeliz aspirante a revolucionário que é recrutado por um agente do FBI para encenar um ataque. É estrelado por Anna Kendrick e apresenta performances incríveis de alguns dos atores cômicos mais talentosos da atualidade.,out,102,4
+14036out,"Stephen Hawking (1942-2018) foi um cientista britânico e especialista em cosmologia e física teórica, mais conhecido por escrever o livro Uma Breve História do Tempo e sua pesquisa pioneira sobre buracos negros e mecânica quântica. Ele nasceu em Oxford em 1942.",out,95,4
+14133out,"Yoda e Darth Vader são personagens muito diferentes. Yoda é um pequeno, sábio e benevolente Mestre Jedi, enquanto Darth Vader é um poderoso Lorde Sith e um servo do lado negro da Força. Yoda é um mestre da diplomacia e da razão, enquanto os métodos de Darth Vader são limitados pelo medo, coerção e coerção. Yoda se concentra no autoaperfeiçoamento, enquanto Darth Vader se concentra apenas em cumprir a vontade de seu mestre das trevas. Além disso, os métodos de Yoda são compassivos e pacíficos, enquanto os de Darth Vader são implacáveis ​​e violentos.",out,195,4
+15647out,"Três espécies animais que estão ameaçadas devido à atividade humana são o rinoceronte negro, a baleia azul e o elefante africano.",out,48,4
+16885out,"Os moradores da cidade eram supersticiosos em relação aos corvos negros que circulavam suas casas. Conforme os dias passavam, seus medos só eram validados quando ocorrências estranhas começavam. Ninguém sabia o que os causava, mas alguns culpavam os pássaros misteriosos e rapidamente perceberam a horrível verdade de que os corvos tinham sido amaldiçoados com espíritos malignos.",out,139,4
+17379out,"A tendência identificada neste artigo é o número crescente de negros americanos buscando educação médica, especialmente à luz dos efeitos desproporcionais da pandemia de COVID-19 em suas comunidades.",out,73,4
+17764out,"Um buraco negro é uma região incrivelmente densa do espaço, criada quando uma estrela colapsa sobre si mesma devido à sua própria gravidade. Como a estrela é tão densa, nada pode escapar dela, nem mesmo a luz, e é por isso que ela cria um ""buraco negro"" no espaço. A gravidade dentro de um buraco negro é tão forte que qualquer coisa perto dele, incluindo estrelas, planetas e até galáxias inteiras, são puxadas para dentro e eventualmente consumidas.",out,167,4
+18308out,"Um quadro-negro, mesas, cadeiras, livros e um apontador de lápis.",out,28,4
+18403out,"""A tendência mais quente em tênis: eleve seu estilo!""",out,22,4
+19270out,"Cientistas fazem uso de várias observações para estudar o universo, como catalogar estrelas e outros objetos celestes, medir radiação e estudar a química do gás e poeira intergalácticos. Outras observações incluem procurar planetas ao redor de outras estrelas, procurar evidências de buracos negros e usar radiotelescópios para procurar sinais de possíveis civilizações extraterrestres.",out,146,4
+20439out,"Um buraco negro é uma região extremamente densa do espaço com uma atração gravitacional intensa. É formado por uma estrela colapsada que se tornou tão densamente compactada que nada, nem mesmo a luz, pode escapar de sua poderosa força gravitacional. É caracterizado por uma singularidade em seu núcleo, um limite invisível conhecido como horizonte de eventos e um disco de acreção ao redor do horizonte de eventos. Buracos negros são frequentemente associados aos monstros supermassivos que existem no centro de muitas galáxias.",out,175,3
+21160out,"""Tigres e Leões"" de Eminem com Juicy J.",out,17,4
+22939out,"- 1895: Teoria Especial da Relatividade
+- 1905: Efeito Fotoelétrico, Equivalência Massa-Energia
+- 1911: Explicação do Movimento Browniano
+- 1915: Teoria Geral da Relatividade
+- 1916: Explicação matemática dos buracos negros
+- 1920: Teoria do campo unificado
+- 1923: Estatística de Bose-Einstein",out,109,4
+23583out,"""""""
+Criar um modelo de aprendizado de máquina para prever o IMC (Índice de Massa Corporal) usando temperatura e altura de pessoas em uma determinada população
+""""""
+
+importar pandas como pd
+importar numpy como np
+de sklearn.model_selection importar train_test_split
+de sklearn.linear_model importar LinearRegression
+
+# Carregar os dados
+data = pd.read_csv('temperature_height_data.csv')
+
+# Dividir em recursos (temperatura e altura) e rótulo (IMC)
+X = data.iloc[:, :2]
+y = data.iloc[:, 2]
+
+# Dividir em conjuntos de treinamento e teste
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
+
+# Treinar o modelo
+regressor = LinearRegression()
+regressor.fit(X_train, y_train)
+
+# Fazer previsões
+y_pred = regressor.predict(X_test)
+
+# Avaliar previsões
+score = regressor.score(X_test, y_test)
+print('R-squared score:', score)",out,335,4
+24164out,"A Guerra Civil Americana começou em 1861 e terminou em 1865. Durante esse período, vários eventos moldaram a guerra e influenciaram seu resultado. Esses eventos podem ser classificados em várias categorias. Eventos políticos incluem os debates Lincoln-Douglas, a eleição de Abraham Lincoln e a secessão dos estados do Sul. Eventos militares incluem a Batalha de Antietam, a Batalha de Gettysburg e a Batalha de Vicksburg. Eventos sociais incluem a Proclamação da Emancipação, o alistamento de soldados negros no Exército da União e a adoção do recrutamento. Esforços diplomáticos incluem as negociações do presidente Lincoln com a Grã-Bretanha e a França, o apelo de Lincoln pela paz do Sul e o apelo do presidente confederado Jefferson Davis ao público pelo reconhecimento da Confederação.",out,266,4
+24266out,"O primeiro capítulo de To Kill a Mockingbird apresenta a protagonista, Scout Finch, e seu irmão, Jem. Ele se passa no Condado de Maycomb, Alabama, durante a Grande Depressão. O capítulo revela os relacionamentos de Scout com seu pai Atticus e sua governanta Calpurnia, bem como seu conhecimento geral sobre racismo na área. A narradora relembra sua infância e relembra a metáfora do mockingbird que foi usada para se referir a pessoas inocentes. O capítulo também aborda a criação peculiar de Scout e sua compreensão de sua comunidade. Aprendemos que Scout e Jem estão sendo cuidados por seu pai, que recentemente concordou em assumir o caso de Tom Robinson, um homem negro acusado. Também vemos a presença de Boo Radley, o vizinho estranho e misterioso que patrulha o bairro à noite.",out,271,4
+25789out,"A missão de resgate no espaço tinha um objetivo: encontrar e trazer de volta uma tripulação de astronautas que havia sido enviada em uma missão para explorar uma região misteriosa do espaço. Após semanas de busca, a tripulação finalmente conseguiu localizar os astronautas presos. 
+
+A missão de resgate não foi uma tarefa fácil. A tripulação teve que enfrentar campos de asteroides perigosos, buracos negros traiçoeiros e o frio implacável do espaço profundo. Até mesmo os pilotos mais experientes lutaram para controlar suas espaçonaves nessas condições hostis. 
+
+A missão foi um sucesso - a tripulação de resgate conseguiu localizar os astronautas presos e trazê-los de volta à Terra em segurança. Uma grande celebração aconteceu e os astronautas resgatados foram aclamados como heróis. Foi um momento triunfante e brilhante de vitória para a missão de resgate e uma recompensa por sua coragem diante do perigo.",out,330,4
+26506out,"Três espécies de animais ameaçadas de extinção são a salamandra gigante chinesa, o gorila da montanha e o rinoceronte negro.",out,46,4
+27695out,"Tudo começou com uma faísca. Começou pequena, nada mais que o sussurro de um fósforo aceso. Mas o vento estava forte naquele dia e essa faísca cresceu, viajando para longe e para longe. As pessoas começaram a notar a fumaça à distância, cobrindo o céu com um manto negro ameaçador. 
+
+Conforme o fogo se espalhava, as pessoas se espalhavam e os animais escapavam o mais rápido que podiam. Infelizmente, nem todos conseguiram escapar a tempo. Bombeiros, policiais e voluntários da comunidade se uniram em um esforço para conter o incêndio e proteger as vidas daqueles em seu caminho. Eles lutaram bravamente e, eventualmente, o fogo foi controlado. 
+
+Os danos, no entanto, foram muito maiores do que qualquer um havia previsto. Casas, empresas e memórias, tudo em fumaça. Mas em meio à destruição e ao desespero, uma coisa permaneceu constante: a resiliência do espírito humano. Pessoas de todas as origens e idades se uniram para reconstruir, começando das cinzas como a fênix de antigamente. Eles mostraram que nada, nem mesmo um fogo crepitante, pode extinguir a vontade do coração humano.",out,426,4
+28828out,"A teoria da relatividade de Einstein é uma das teorias mais importantes da física moderna. Ela revolucionou nossa compreensão do espaço e do tempo e introduziu uma nova visão do universo. Ela explica como a gravidade funciona, como o espaço e o tempo são interconectados e fornece a base para a compreensão de fenômenos como buracos negros e outros eventos exóticos. A relatividade também previu a expansão do universo e estabeleceu as bases para a cosmologia moderna.",out,159,4
+28842out,"Malcolm X foi um influente líder nacionalista negro que se dedicou a lutar por direitos civis e advogar por melhores oportunidades para afro-americanos. Ele ganhou destaque como ministro na Nação do Islã e adotou uma postura mais radical mais tarde em sua vida, altamente crítico do movimento mainstream de direitos civis.",out,111,4
+29575out,"Gorilas, tigres, elefantes africanos, rinocerontes negros, gorilas da montanha, tartarugas-de-couro, leopardos-das-neves, orangotangos, pangolins, rinocerontes brancos do norte e vaquitas.",out,82,4
+29591out,"Verso 1:
+Toda noite eu fico acordado
+E conto as estrelas no céu
+Esperando que um dia eu te encontre
+E descubra por que me sinto tão vivo
+
+Refrão:
+O tempo continua passando
+Mas meu desejo não morre
+Um amor tão forte, tão difícil de encontrar
+Estou procurando por você o tempo todo
+
+Verso 2:
+E quando estou perdido no escuro
+Meus pensamentos vão para o nosso passado
+Sua beleza como o sol da manhã
+Seu toque gentil, meu único
+
+Refrão:
+O tempo continua passando
+Mas meu desejo não morre
+Um amor tão forte, tão difícil de encontrar
+Estou procurando por você o tempo todo
+
+Ponte:
+E quando o sol se põe no oeste
+E as estrelas aparecem para ver
+Eu fecharei meus olhos, sonharei com você
+E o amor que parece tão verdadeiro
+
+Refrão:
+O tempo continua passando
+Mas meu desejo não morre
+Um amor tão forte, tão difícil de encontrar
+Estou procurando por você o tempo todo tempo",out,349,4
+30846out,"1. ""O Lado Negro das Mídias Sociais: O Impacto das Mídias Sociais na Saúde Mental"" pelo Professor Rami Yacoub.
+2. ""Impacto Negativo do Uso das Mídias Sociais: Uma Revisão da Literatura"" pelo Dr. Sanju Kanwar e Shveta Rajpal.
+3. ""Mídias Sociais e Seu Impacto na Vida das Pessoas"" pelo Dr. Priya Agrawal.",out,127,4
+30911out,"Cinco espécies ameaçadas de extinção são o rinoceronte negro, o gorila da montanha, o vombate-de-nariz-peludo-do-norte, o pau-rosa de Madagascar e a tartaruga-de-pente.",out,71,4
+31422out,"Um buraco negro é como um poço sem fundo, com uma força gravitacional tão forte que nem mesmo a luz consegue escapar de seu alcance.",out,48,4
+31475out,"""Precisamos descobrir uma maneira de resolver esse problema"", disse John.
+
+""Vai ser difícil"", respondeu Sarah. ""É uma questão complexa e teremos que olhar para ela de todos os ângulos para chegar a uma solução.""
+
+""Bem, vamos começar dividindo o problema em partes menores e analisando cada uma delas separadamente"", sugeriu John.
+
+""Boa ideia"", concordou Sarah. ""Podemos então olhar para os componentes individuais e encontrar soluções para cada um deles.""",out,167,4
+32339out,"Os personagens de To Kill a Mockingbird incluem Atticus Finch, um advogado e pai sábio e compassivo; Jem, filho de Atticus, que começa a entender as complexidades do mundo ao seu redor; Scout, a jovem filha de Atticus, que tem muitas aventuras; Boo Radley, um vizinho misterioso; e vários outros personagens da cidade de Maycomb. A história gira em torno da defesa de Atticus de um homem negro falsamente acusado e como seus filhos são afetados pelos eventos do julgamento.",out,162,4
+33137out,"""""""
+Criar um classificador Random Forest para prever o sentimento de uma determinada frase
+""""""
+
+from sklearn.ensemble import RandomForestClassifier
+import numpy as np 
+
+# criar a entrada para o classificador: 
+sentence = np.array([[1,0,0,0,1]]) # representar a frase como um vetor de uns e zeros, sendo 1 positivo e 0 negativo 
+
+# definir o rótulo 
+label = np.array([1]) # 1 positivo e 0 negativo 
+
+# criar e treinar o classificador Random Forest 
+clf = RandomForestClassifier() 
+clf.fit(sentence, label) 
+
+#testar o classificador 
+test_sentence = 'A comida aqui é realmente incrível.'
+test_sentence_vector = np.array([[1,0,0,0,1]]) 
+prediction = clf.predict(test_sentence_vector) 
+
+# saída da previsão de sentimento 
+print(prediction) # saída: 1 (sentimento positivo)",out,285,4
+33140out,"""""""
+Divida 887 por 3 usando Python
+""""""
+
+result = 887/3
+print(result) # Saída: 295.6666666666667",out,37,4
+33472out,"""Google e Apple se unem para revelar aplicativo revolucionário""",out,21,4
+33737out,"1. Buracos negros são regiões do espaço com uma atração gravitacional tão forte que nem a luz consegue escapar delas.
+2. Eles geralmente são formados quando uma grande estrela morre e colapsa sobre si mesma devido ao seu imenso campo gravitacional.
+3. Um único buraco negro pode conter a massa de milhões ou até bilhões de estrelas.",out,135,4
+34753out,"""Explore o mundo conosco - Aonde sua jornada o levará?""",out,21,4
+34917out,“Explorando o lado negro do consumo de álcool na adolescência – Um aviso terrível para os pais.”,out,36,4
+35712out,"- Buraco Negro Estelar
+- Buraco Negro Supermassivo
+- Buraco Negro de Massa Intermediária
+- Buraco Negro Recuante
+- Buraco Negro Primordial",out,41,4
+38336out,"Um antivírus é um tipo de software que verifica os arquivos e dados de um computador em busca de software malicioso (malware), como vírus de computador, worms, cavalos de Troia, spyware, ransomware e outros programas potencialmente prejudiciais. O antivírus então tenta colocar em quarentena ou excluir os arquivos infectados, bem como alertar o usuário sobre a ameaça.",out,121,4
+38344out,"Mesa, quadro-negro, livros.",out,12,4
+39470out,"""Sinta-se em casa onde quer que esteja com o nosso Sistema de Casa Inteligente""",out,29,4
+39563out,"Um buraco negro é criado quando uma estrela muito massiva fica sem combustível nuclear e seu núcleo não consegue mais resistir à gravidade estelar. O núcleo colapsa para dentro em uma reação em cadeia que ricocheteia para fora, empurrando as camadas externas da estrela para o espaço em uma explosão de supernova. Eventualmente, o núcleo para de colapsar, comprimindo-se em um único ponto de raio infinitamente pequeno e densidade infinitamente grande, conhecido como singularidade. Isso cria um campo gravitacional extremamente poderoso do qual nada, nem mesmo a luz, pode escapar, dando origem à sua distinta silhueta escura.",out,223,4
+40757out,"- Albert Einstein: Teoria da relatividade
+- Marie Curie: Radioatividade
+- Isaac Newton: Leis do movimento, gravitação universal
+- Charles Darwin: Teoria da evolução
+- Galileu Galilei: Astronomia telescópica, cinemática
+- Stephen Hawking: Teoria do buraco negro, singularidade do espaço-tempo
+- Alan Turing: Máquina de Turing, programação de computadores
+- Linus Pauling: Ligações químicas, estrutura molecular",out,134,4
+41733out,"""""""
+Crie uma Rede Neural Multicamadas Perceptron (MLP) com três entradas e uma saída.
+""""""
+
+import keras
+from keras.models import Sequential
+from keras.layers import Dense
+
+# defina o modelo
+model = Sequential()
+model.add(Dense(12, input_dim=3, activation='relu'))
+model.add(Dense(1, activation='sigmoid'))
+
+# compile o modelo
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+# resuma o modelo
+model.summary()",out,160,4
+41951out,"Astronauta, foguete, buraco negro, satélite, cratera.",out,20,4
+42297out,"Um buraco negro é uma área no espaço que é tão poderosa e densa que nem mesmo a luz consegue escapar de sua atração. Buracos negros são como o oposto de estrelas - em vez de emitir luz, eles absorvem tudo, até mesmo a luz. Os cientistas sabem que buracos negros existem porque podem ver a maneira como eles afetam estrelas e outras matérias ao redor deles. É como um vácuo gigante que suga e prende qualquer coisa próxima, como um poço gigante sem fundo no espaço.",out,179,4
+42883out,"Você pode encontrar um artigo que critica a impressão 3D, como ""O lado negro da impressão 3D: ar respirável, mudanças climáticas e poluição"", do The Guardian.",out,56,4
+42886out,Tivemos umas férias pequenas e exóticas.,out,19,4
+44175out,"A principal diferença entre ondas eletromagnéticas e gravitacionais é sua fonte. Ondas eletromagnéticas, como a luz, são geradas por campos elétricos e magnéticos. Ondas gravitacionais são geradas pela aceleração da massa, como quando dois buracos negros colidem. Ondas eletromagnéticas viajam na velocidade da luz, enquanto ondas gravitacionais viajam na velocidade da gravidade. Ondas eletromagnéticas podem ser refletidas, refratadas ou absorvidas, enquanto ondas gravitacionais podem apenas ser absorvidas.",out,186,4
+45164out,"Buracos negros têm um impacto significativo na evolução das galáxias. Eles engolem gás e poeira próximos, suprimindo assim a formação de estrelas em suas regiões circundantes. Isso pode levar ao desligamento da formação de estrelas em uma galáxia, alterando assim sua evolução e aparência. Além disso, buracos negros também ajudam a regular o crescimento de uma galáxia, limitando a quantidade de material disponível para formar estrelas.",out,169,4
+45718out,"Biscoitos são pequenos e saborosos lanches que vêm em todos os formatos, tamanhos e sabores. Giz é uma substância barata, parecida com pó, que é popularmente usada em quadros-negros e calçadas. Tinta é um tipo de mídia líquida composta de um pigmento, um aglutinante e um solvente que é usado para adicionar cores brilhantes e acabamentos interessantes a várias superfícies.",out,137,4
+45721out,A Monalisa de Leonardo da Vinci apresenta uma mulher serena com um sorriso misterioso e conhecedor que cativou gerações de amantes da arte.,out,49,4
+46489out,"O termo ""cisne negro"" é frequentemente usado como uma metáfora para descrever um evento ou ocorrência que é altamente improvável, mas tem um impacto massivo e inesperado. É usado para nos lembrar que tais eventos, embora raros, podem ocorrer e ocorrem e devem ser preparados, mesmo que essa probabilidade pareça pequena.",out,115,4
+47264out,Duas espécies de plantas ameaçadas de extinção incluem a flor-de-macaco-de-Santa-Bárbara e a margarida-de-árvore-de-Tongariro. Duas espécies de animais ameaçadas de extinção incluem o tigre-de-Sumatra e o rinoceronte-negro.,out,97,4
+47957out,"O Telescópio Espacial Hubble é um telescópio espacial lançado em 1990 e é a nave espacial observacional mais bem-sucedida e de maior vida útil já lançada. Ele permitiu algumas das observações mais detalhadas e precisas já feitas de objetos astronômicos distantes, como galáxias e quasares, desempenhando um papel crítico no estudo da matéria escura, buracos negros e na expansão do universo.",out,141,4
+49559out,"Um buraco negro é uma região no espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, pode escapar de sua atração. Eles são formados quando uma grande estrela morre e colapsa sobre si mesma, formando um objeto incrivelmente denso, muito menor do que seu tamanho original.",out,104,4
+49573out,"""A solidão expressa a dor de estar sozinho e a solitude expressa a glória de estar sozinho."" ― Paul Tillich",out,35,4
+49652out,"1. Leão
+2. Elefante africano
+3. Girafa
+4. Cão selvagem africano
+5. Rinoceronte negro",out,38,4
+50564out,"1. O Silêncio dos Inocentes 
+2. Ilha do Medo 
+3. Psicose 
+4. Cisne Negro 
+5. Amnésia",out,43,4
+51406out,"Um buraco negro é uma região do espaço-tempo onde a gravidade é tão forte que nada, nem mesmo a luz, pode escapar de sua atração. Ele é formado quando uma estrela massiva morre e colapsa sobre si mesma, criando uma área de densidade infinita e um horizonte de eventos que marca o ponto em que qualquer matéria ou luz que entra não pode escapar.",out,128,4

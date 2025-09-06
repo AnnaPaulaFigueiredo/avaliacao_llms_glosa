@@ -1,0 +1,11 @@
+torch==2.1.2
+transformers==4.38.2
+huggingface_hub==0.32.3
+peft==0.15.2
+accelerate==1.7.0
+bitsandbytes==0.42.0
+sentencepiece
+scipy
+pandas
+tqdm
+wandb

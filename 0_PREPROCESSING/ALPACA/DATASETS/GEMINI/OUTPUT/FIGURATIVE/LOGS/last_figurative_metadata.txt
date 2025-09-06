@@ -1,0 +1,10 @@
+bucket 23
+prompt_token_count: 256
+candidates_token_count: 128
+total_token_count: 384
+
+bucket 27
+prompt_token_count: 214
+candidates_token_count: 135
+total_token_count: 349
+

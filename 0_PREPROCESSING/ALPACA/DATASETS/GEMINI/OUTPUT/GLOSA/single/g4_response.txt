@@ -1,0 +1,1388 @@
+json
+[{'ID': '962ins', 'PT': 'Descreva uma tecnologia usada para medir as respostas emocionais das pessoas.', 'GLOSA': 'TECNOLOGIA DESCREVER MEDIR RESPOSTA EMOÇÃO PESSOA'}]
+
+json
+[{'ID': '963ins', 'PT': 'Cite cinco plantas medicinais amplamente utilizadas no Ayurveda.', 'GLOSA': 'VOCÊ CITAR CINCO PLANTA MEDICINAL AMPLO USAR AYURVEDA.'}]
+
+json
+[{'ID': '964ins', 'PT': 'gerar um algoritmo para encontrar o primeiro ancestral comum de dois nós em uma árvore binária.', 'GLOSA': 'ALGORITMO GERAR ENCONTRAR PRIMEIRO ANCESTRAL COMUM NÓS DOIS ÁRVORE BINÁRIO.'}]
+
+json
+[{'ID': '965ins', 'PT': 'Escreva uma história de amizade entre dois garotos de origens diferentes.', 'GLOSA': 'VOCÊ ESCREVER HISTÓRIA AMIZADE GAROTO ORIGEM DIFERENTE.'}]
+
+json
+[{'ID': '966ins', 'PT': 'Dê um exemplo de como usar um assistente de IA para automatizar um processo de atendimento ao cliente.', 'GLOSA': 'ASSISTENTE IA USAR EXEMPLO AUTOMATIZAR ATENDIMENTO CLIENTE'}]
+
+json
+[{'ID': '967ins', 'PT': 'Liste cinco fatores que influenciam o custo de produção de um bem.', 'GLOSA': 'VOCÊ LISTAR CINCO FATOR INFLUENCIAR CUSTO PRODUÇÃO BEM?'}]
+
+json
+[{'ID': '968ins', 'PT': 'Avaliar o impacto ambiental de uma fonte de energia renovável', 'GLOSA': 'IMPACTO AMBIENTAL FONTE ENERGIA RENOVÁVEL AVALIAR'}]
+
+json
+[{'ID': '969ins', 'PT': 'Explique o processo de obtenção de crédito para um empréstimo', 'GLOSA': 'VOCÊ EXPLICAR PROCESSO OBTENÇÃO CRÉDITO EMPRÉSTIMO'}]
+
+json
+[{'ID': '970ins', 'PT': 'Gere uma lista de dicas para melhorar o metabolismo.', 'GLOSA': 'LISTA DICA MELHORAR METABOLISMO GERAR'}]
+
+json
+[{'ID': '971ins', 'PT': 'Escolha a melhor senha para um determinado serviço.', 'GLOSA': 'SERVIÇO DETERMINADO SENHA MELHOR VOCÊ ESCOLHER'}]
+
+json
+[{'ID': '972ins', 'PT': 'Escreva uma história sobre um robô que precisa completar uma tarefa difícil.', 'GLOSA': 'ROBÔ HISTÓRIA ESCREVER ELE TAREFA DIFÍCIL COMPLETAR'}]
+
+json
+[{'ID': '973ins', 'PT': 'Escolha a palavra estranha em cada frase:', 'GLOSA': 'FRASE CADA PALAVRA ESTRANHO VOCÊ ESCOLHER'}]
+
+json
+[{'ID': '974ins', 'PT': 'Componha uma música em Dó Maior.', 'GLOSA': 'VOCÊ COMPOR MÚSICA DÓ MAIOR'}]
+
+json
+[{'ID': '975ins', 'PT': 'Classifique o texto a seguir como ficção ou não ficção.', 'GLOSA': 'TEXTO SEGUIR FICÇÃO OU NÃO-FICÇÃO CLASSIFICAR'}]
+
+json
+[{'ID': '976ins', 'PT': 'Identifique o tipo de triângulo a partir do seguinte conjunto de ângulos.', 'GLOSA': 'TRIÂNGULO TIPO IDENTIFICAR ÂNGULO CONJUNTO'}]
+
+json
+[{'ID': '977ins', 'PT': 'Calcule a área de um triângulo com lados medindo 8 cm, 5 cm e 6 cm.', 'GLOSA': 'TRIÂNGULO LADO 8 CENTÍMETRO 5 CENTÍMETRO 6 CENTÍMETRO ÁREA CALCULAR'}]
+
+json
+[{'ID': '978ins', 'PT': 'Descreva como as plantas se parecem no inverno.', 'GLOSA': 'INVERNO PLANTA COMO PARECER DESCR.?'}]
+
+json
+[{'ID': '979ins', 'PT': 'Que tipo de número é -625?', 'GLOSA': 'NÚMERO TIPO QUAL -625?'}]
+
+json
+[{'ID': '980ins', 'PT': 'Encontre a soma dos ângulos internos de um polígono com cinco lados.', 'GLOSA': 'POLÍGONO CINCO LADO ÂNGULO INTERNO SOMA ENCONTRAR'}]
+
+json
+[{'ID': '981ins', 'PT': 'Qual é a diferença entre um porco-espinho e um ouriço?', 'GLOSA': 'PORCO-ESPINHO OURIÇO DIFERENÇA QUAL?'}]
+
+json
+[{'ID': '982ins', 'PT': 'Atualize a passagem a seguir com a ortografia e gramática corretas.', 'GLOSA': 'VOCÊ ATUALIZAR PASSAGEM SEGUIR ORTOGRAFIA GRAMÁTICA CORRETO.'}]
+
+json
+[{'ID': '991ins', 'PT': 'Organize as seguintes palavras para formar uma frase significativa: vender fazer investidores aconselhar confiar.', 'GLOSA': 'ACONSELHAR INVESTIDOR FAZER CONFIAR VENDER'}]
+
+json
+[{'ID': '992ins', 'PT': 'Divida a frase a seguir em duas frases declarativas: \\"A comida estava deliciosa e o serviço foi excelente\\".', 'GLOSA': 'FRASE DIVIDIR DUAS FRASE DECLARATIVO: COMIDA DELICIOSO SERVIÇO EXCELENTE.'}]
+
+json
+[{'ID': '993ins', 'PT': 'Explique como redes neurais podem ser usadas para prever preços de ações.', 'GLOSA': 'REDE NEURAL USAR PREVER AÇÃO PREÇO COMO?'}]
+
+json
+[{'ID': '994ins', 'PT': 'Classifique o seguinte item alimentar saudável', 'GLOSA': 'ITEM ALIMENTAR SAUDÁVEL CLASSIFICAR'}]
+
+json
+[{'ID': '995ins', 'PT': 'Cite as 6 cidades mais populosas da China.', 'GLOSA': 'CHINA CIDADE 6 POPULOSO CITE'}]
+
+json
+[{'ID': '996ins', 'PT': 'Edite o texto a seguir para facilitar a leitura', 'GLOSA': 'TEXTO SEGUIR EDITAR FACILITAR LEITURA'}]
+
+json
+[{'ID': '997ins', 'PT': 'Determine a área da superfície da figura a seguir', 'GLOSA': 'FIGURA SUPERFÍCIE ÁREA DETERMINAR'}]
+
+json
+[{'ID': '998ins', 'PT': 'Encontre a definição do seguinte termo financeiro', 'GLOSA': 'TERMO FINANCEIRO DEFINIÇÃO ENCONTRAR'}]
+
+json
+[{'ID': '999ins', 'PT': 'Descreva o perfil de sabor do seguinte tipo de culinária', 'GLOSA': 'VOCÊ DESCRER PERFIL SABOR CULINÁRIA'}]
+
+json
+[{'ID': '1000ins', 'PT': 'Liste 3 eventos históricos relacionados ao seguinte país', 'GLOSA': 'PAÍS LISTAR 3 EVENTO HISTÓRICO RELACIONADO'}]
+
+json
+[{'ID': '1001ins', 'PT': 'Comparar e contrastar os efeitos do desempenho individual e social', 'GLOSA': 'DESEMPENHO INDIVIDUAL SOCIAL EFEITO COMPARAR CONTRASTAR'}]
+
+json
+[{'ID': '4661ins', 'PT': 'Descreva uma situação hipotética na qual a tecnologia de IA poderia ser usada para melhorar a segurança dos locais de trabalho.', 'GLOSA': 'IA TECNOLOGIA USAR MELHORAR SEGURANÇA TRABALHO SITUAÇÃO HIPOTÉTICA DESCREVER'}]
+
+json
+[{'ID': '4662ins', 'PT': 'Explique as diferenças entre um mecanismo de busca regular e um mecanismo de busca semântico.', 'GLOSA': 'DIFERENÇA EXPLICA MECANISMO BUSCA REGULAR MECANISMO BUSCA SEMÂNTICO'}]
+
+json
+[{'ID': '4663ins', 'PT': 'Resuma um artigo de notícias sobre as novas leis tributárias na cidade de Nova York.', 'GLOSA': 'ARTIGO NOTÍCIA NOVA LEI TRIBUTÁRIO NOVA YORK RESUMIR'}]
+
+json
+[{'ID': '4664ins', 'PT': 'Imprima um objeto 3D usando uma máquina de impressão 3D.', 'GLOSA': 'OBJETO 3D IMPRIMIR MÁQUINA 3D IMPRIMIR.'}]
+
+json
+[{'ID': '4665ins', 'PT': 'Classifique o tipo de roupa com base na seguinte descrição: Uma blusa sem mangas com gola em V.', 'GLOSA': 'ROUPA CLASSIFICAR TIPO DESCRICAO: BLUSA MANGA NADA GOLA V.'}]
+
+json
+[{'ID': '4666ins', 'PT': 'Crie um gráfico para mostrar os seguintes dados mensais:\n\nMês, Vendas\nJan, 5\nFev, 10\nMar, 15', 'GLOSA': 'GRÁFICO CRIAR DADOS MOSTRAR MÊS VENDA JAN 5 FEV 10 MAR 15'}]
+
+json
+[{'ID': '4667ins', 'PT': 'Componha um poema Haiku centrado no conceito de felicidade.', 'GLOSA': 'FELICIDADE SENTIMENTO BOM INTERIOR SER'}]
+
+json
+[{'ID': '4668ins', 'PT': 'Escreva uma postagem de blog sobre a transição energética de combustíveis fósseis para fontes de energia renováveis.', 'GLOSA': 'ESCREVER POSTAGEM BLOG TRANSIÇÃO ENERGIA COMBUSTÍVEL FÓSSIL FONTE ENERGIA RENOVÁVEL.'}]
+
+json
+[{'ID': '4669ins', 'PT': 'Compare e contraste os papéis de um educador e de um político.', 'GLOSA': 'EDUCADOR PAPEL POLÍTICO PAPEL COMPARAR CONTRASTAR'}]
+
+json
+[{'ID': '4670ins', 'PT': 'Crie um algoritmo para identificar se duas strings são anagramas.', 'GLOSA': 'ALGORITMO CRIAR IDENTIFICAR DUAS STRING ANAGRAMA'}]
+
+json
+[{'ID': '4671ins', 'PT': 'Crie um plano para reduzir as emissões de gases de efeito estufa na sua comunidade local.', 'GLOSA': 'VOCÊ CRIAR PLANO REDUZIR EMISSÃO GÁS EFEITO ESTUFA COMUNIDADE LOCAL'}]
+
+json
+[{'ID': '4672ins', 'PT': 'Preencha as lacunas na frase a seguir de forma apropriada e gramaticalmente correta:\n\nA cidade teve que ____ sua proposta devido à falta de ____ apoio.', 'GLOSA': 'FRASE PREENCHER LACUNA FORMA CORRETO CIDADE TER QUE REJEITAR PROPOSTA DEIXAR FALTA APOIO'}]
+
+json
+[{'ID': '4953ins', 'PT': 'Reescreva a frase na forma de uma frase interrogativa.', 'GLOSA': 'FRASE REESCREVER FRASE INTERROGATIVA?'}]
+
+json
+[{'ID': '4954ins', 'PT': 'Identifique a palavra da frase com a grafia errada.', 'GLOSA': 'FRASE PALAVRA IDENTIFICAR GRAFIA ERRADO'}]
+
+json
+[{'ID': '4955ins', 'PT': 'Sugira um sinônimo para a palavra \\"eliminar\\".', 'GLOSA': 'VOCÊ SUGERIR SINÔNIMO PALAVRA ELIMINAR?'}]
+
+json
+[{'ID': '4956ins', 'PT': 'Identifique as duas palavras que rimam com \\"chama\\".', 'GLOSA': 'VOCÊ IDENTIFICAR DUAS PALAVRA RIMAR COM CHAMA.'}]
+
+json
+[{'ID': '4957ins', 'PT': 'Cite a última frase do parágrafo fornecido.', 'GLOSA': 'PARÁGRAFO FORNECIDO FRASE ÚLTIMO CITAR'}]
+
+json
+[{'ID': '4958ins', 'PT': 'Escreva quatro frases sobre pandemias começando com a palavra "Pandemias".', 'GLOSA': 'VOCÊ ESCREVER QUATRO FRASE PANDEMIA COMEÇAR PALAVRA PANDEMIA.'}]
+
+json
+[{'ID': '4959ins', 'PT': 'Reescreva a frase na primeira pessoa.', 'GLOSA': 'EU REESCREVER FRASE PRIMEIRO PESSOA.'}]
+
+json
+[{'ID': '4960ins', 'PT': 'Crie uma frase com a palavra "Onipresente".', 'GLOSA': 'VOCÊ CRIAR FRASE COM PALAVRA ONIPRESENTE.'}]
+
+json
+[{'ID': '4961ins', 'PT': 'Reescreva a frase para que ela contenha uma metáfora apropriada.', 'GLOSA': 'FRASE REESCREVER METÁFORA ADEQUADO.'}]
+
+json
+[{'ID': '4962ins', 'PT': 'Gere uma história de 5 frases, dada a seguinte premissa:', 'GLOSA': 'GERAR HISTÓRIA 5 FRASE DADO PREMISSA'}]
+
+json
+[{'ID': '4963ins', 'PT': 'Resuma o texto em 50 palavras. A saída deve conter apenas uma frase.', 'GLOSA': 'TEXTO RESUMIR 50 PALAVRA FRASE UM.'}]
+
+json
+[{'ID': '4964ins', 'PT': 'Gere 3 perguntas exclusivas sobre um determinado tópico.', 'GLOSA': 'TÓPICO DETERMINADO PERGUNTA EXCLUSIVO TRÊS GERAR'}]
+
+json
+[{'ID': '4965ins', 'PT': 'Classifique as seguintes palavras em ordem alfabética e exiba a lista ordenada.', 'GLOSA': 'PALAVRA CLASSIFICAR ORDEM ALFABETO LISTA ORDENAR EXIBIR'}]
+
+json
+[{'ID': '4966ins', 'PT': 'Dada uma lista de palavras, remova palavras duplicadas e exiba a lista com palavras únicas.', 'GLOSA': 'LISTA PALAVRA REMOVER DUPLICADO EXIBIR LISTA PALAVRA ÚNICO.'}]
+
+json
+[{'ID': '4967ins', 'PT': 'Identifique se a seguinte frase é formal ou informal. Produza \\"formal\\" ou \\"informal\\".', 'GLOSA': 'FRASE FORMAL INFORMAL PRODUZIR VOCÊ IDENTIFICAR'}]
+
+json
+[{'ID': '4978ins', 'PT': 'Pegue esta frase e reformule-a de uma forma que tenha o mesmo significado, mas que aumente o poder de convencimento.', 'GLOSA': 'FRASE ESTA VOCÊ PEGAR REFORMULAR MESMO SIGNIFICADO AUMENTAR PODER CONVENCER'}]
+
+json
+[{'ID': '4989ins', 'PT': 'Crie uma lista de dicas para um estilo de vida saudável.', 'GLOSA': 'VOCÊ CRIAR LISTA DICA VIDA SAUDÁVEL'}]
+
+json
+[{'ID': '7374ins', 'PT': 'Crie uma consulta dinâmica para filtrar uma grande tabela de dados do usuário', 'GLOSA': 'DADOS USUÁRIO TABELA GRANDE CRIAR CONSULTA DINÂMICO FILTRAR'}]
+
+json
+[{'ID': '7378ins', 'PT': 'Gerar um relatório de campo com alguma descrição.', 'GLOSA': 'RELATÓRIO CAMPO DESCRICAO GERAR'}]
+
+json
+[{'ID': '7381ins', 'PT': 'Descreva um processo para implantar um aplicativo Web usando uma instância do Amazon EC2.', 'GLOSA': 'PROCESSO DESCREVER IMPLANTAR APLICATIVO WEB USAR INSTÂNCIA AMAZON EC2.'}]
+
+json
+[{'ID': '7382ins', 'PT': 'Identifique e defina a mudança de paradigma na citação a seguir.', 'GLOSA': 'CITAÇÃO MUDANÇA PARADIGMA IDENTIFICAR DEFINIR'}]
+
+json
+[{'ID': '7387ins', 'PT': 'Crie uma piada sobre um professor', 'GLOSA': 'PIADA PROFESSOR CRIAR'}]
+
+json
+[{'ID': '7388ins', 'PT': 'Identifique uma citação famosa do livro fornecido', 'GLOSA': 'LIVRO FORNECIDO CITAÇÃO FAMOSO IDENTIFICAR'}]
+
+json
+[{'ID': '7389ins', 'PT': 'Descreva o sentimento emocional da linha fornecida', 'GLOSA': 'SENTIMENTO EMOÇÃO LINHA DESCREVER'}]
+
+json
+[{'ID': '7390ins', 'PT': 'Gere uma nova receita com base em uma determinada lista de ingredientes.', 'GLOSA': 'LISTA INGREDIENTE BASE RECETA NOVA GERAR'}]
+
+json
+[{'ID': '7391ins', 'PT': 'Avalie este programa em relação aos seus pontos fortes e fracos.', 'GLOSA': 'PROGRAMA AVALIAR PONTO FORTE PONTO FRACO'}]
+
+json
+[{'ID': '7392ins', 'PT': 'Crie uma história dada a lista de personagens e o cenário.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA DADO PERSONAGEM LISTA CENÁRIO.'}]
+
+json
+[{'ID': '7393ins', 'PT': 'Dê conselhos a um colega sobre como demonstrar liderança.', 'GLOSA': 'VOCÊ DÁ CONSELHO COLEGA DEMONSTRAR LIDERANÇA'}]
+
+json
+[{'ID': '7394ins', 'PT': 'Fale sobre o tema discriminação no local de trabalho, dado o contexto da apresentação.', 'GLOSA': 'TEMA DISCRIMINAÇÃO TRABALHO LOCAL CONTEXTO APRESENTAÇÃO FALAR'}]
+
+json
+[{'ID': '7395ins', 'PT': 'Crie uma dica para ajudar alguém a aprender uma nova habilidade mais rápido.', 'GLOSA': 'DICA APRENDER HABILIDADE NOVO RÁPIDO AJUDA'}]
+
+json
+[{'ID': '7396ins', 'PT': 'Crie um algoritmo para determinar se um determinado número é primo.', 'GLOSA': 'NÚMERO DETERMINAR PRIMO ALGORITMO CRIAR'}]
+
+json
+[{'ID': '7397ins', 'PT': 'Explique o significado do provérbio "Pessoas inteligentes compreendem facilmente, com poucas explicações".', 'GLOSA': 'PROVÉRBIO "PESSOA INTELIGENTE ENTENDER FÁCIL POUCO EXPLICAÇÃO" SIGNIFICADO VOCÊ EXPLICA?'}]
+
+json
+[{'ID': '7398ins', 'PT': 'Componha uma melodia baseada na escala de Dó maior fornecida.', 'GLOSA': 'VOCÊ CRIAR MELODIA BASEAR ESCALA DÓ MAIOR'}]
+
+json
+[{'ID': '7399ins', 'PT': 'Crie um programa de computador para determinar a frequência de sequências de caracteres em um determinado texto.', 'GLOSA': 'COMPUTADOR PROGRAMA CRIAR SEQUÊNCIA CARACTER TEXTO DETERMINAR FREQUÊNCIA'}]
+
+json
+[{'ID': '7400ins', 'PT': 'Reformule a frase dada usando sinônimos.', 'GLOSA': 'FRASE DADO REFORMULAR SINÔNIMO USAR'}]
+
+json
+[{'ID': '7401ins', 'PT': 'Gere uma receita contendo os ingredientes fornecidos.', 'GLOSA': 'INGREDIENTES FORNECER RECEITA GERAR'}]
+
+json
+[{'ID': '16388ins', 'PT': 'Leia esta curta passagem e identifique a ideia principal.', 'GLOSA': 'PASSAGEM CURTO LER VOCÊ IDENTIFICAR IDEIA PRINCIPAL.'}]
+
+json
+[{'ID': '16389ins', 'PT': 'Cite o nome de um artista musical popular de um determinado país.', 'GLOSA': 'PAÍS DETERMINADO ARTISTA MÚSICA POPULAR NOME CITE'}]
+
+json
+[{'ID': '16390ins', 'PT': 'Ilustre a frase \\"uma situação ou lugar do qual é impossível escapar\\".', 'GLOSA': 'FRASE ILUSTRAR SITUAÇÃO OU LUGAR IMPOSSÍVEL ESCAPAR.'}]
+
+json
+[{'ID': '16391ins', 'PT': 'O que é probabilidade condicional?', 'GLOSA': 'PROBABILIDADE CONDICIONAL O QUE?'}]
+
+json
+[{'ID': '16392ins', 'PT': 'Qual figura de linguagem é usada na frase \\"O peixe estava fazendo um som que se assemelhava ao canto na banheira\\"?', 'GLOSA': 'FRASE FIGURA LINGUAGEM QUAL USAR PEIXE FAZER SOM PARECER CANTO BANHEIRA?'}]
+
+json
+[{'ID': '16393ins', 'PT': 'Qual é o coeficiente de expansão térmica?', 'GLOSA': 'QUAL COEFICIENTE EXPANSÃO TÉRMICA?'}]
+
+json
+[{'ID': '16394ins', 'PT': 'Classifique esses animais de acordo com sua expectativa de vida.', 'GLOSA': 'VOCÊ CLASSIFICAR ANIMAL EXPECTATIVA VIDA'}]
+
+json
+[{'ID': '16395ins', 'PT': 'Qual é a idade média de todos os estados dos EUA?', 'GLOSA': 'ESTADO EUA TODOS IDADE MÉDIA QUAL?'}]
+
+json
+[{'ID': '16396ins', 'PT': 'Qual é o significado cultural por trás da expressão \\"uma chuva muito forte\\"?', 'GLOSA': 'EXPRESSÃO "CHUVA MUITO FORTE" SIGNIFICADO CULTURAL QUAL?'}]
+
+json
+[{'ID': '16397ins', 'PT': 'Qual é o número médio de dias que uma pessoa passa no hospital após uma cirurgia cardíaca?', 'GLOSA': 'QUAL NÚMERO MÉDIO DIA PESSOA FICAR HOSPITAL CIRURGIA CORAÇÃO?'}]
+
+json
+[{'ID': '16398ins', 'PT': 'Crie um logotipo de acordo com as diretrizes da marca fornecidas abaixo.', 'GLOSA': 'VOCÊ CRIAR LOGO MARCA DIRETRIZ FORNECER ABAIXO'}]
+
+json
+[{'ID': '16411ins', 'PT': 'Que evento causou a Primeira Guerra Mundial?', 'GLOSA': 'QUAL EVENTO CAUSAR PRIMEIRA GUERRA MUNDIAL?'}]
+
+json
+[{'ID': '16412ins', 'PT': 'Da mesma forma que a pergunta anterior, pergunte sobre outras regras da escola', 'GLOSA': 'MESMO PERGUNTA ANTERIOR PERGUNTAR OUTRO REGRA ESCOLA'}]
+
+json
+[{'ID': '16413ins', 'PT': 'Explique quem tem direito a votar nos EUA', 'GLOSA': 'EUA QUEM TER DIREITO VOTAR VOCÊ EXPLICAR'}]
+
+json
+[{'ID': '16414ins', 'PT': 'Gere uma lista de cinco razões válidas para se tornar vegano', 'GLOSA': 'VOCÊ GERAR LISTA CINCO RAZÃO VÁLIDO PARA VIRAR VEGANO'}]
+
+json
+[{'ID': '16415ins', 'PT': 'Encontre cinco receitas para preparar chili vegano', 'GLOSA': 'VOCÊ ENCONTRAR CINCO RECEITA PREPARAR CHILI VEGANO'}]
+
+json
+[{'ID': '16416ins', 'PT': 'O que afirmava a Declaração de Independência?', 'GLOSA': 'DECLARAÇÃO INDEPENDÊNCIA AFIRMAR O QUE?'}]
+
+json
+[{'ID': '16417ins', 'PT': 'Recupere os detalhes relevantes do artigo de notícias.', 'GLOSA': 'ARTIGO NOTÍCIA DETALHE RELEVANTE RECUPERAR.'}]
+
+json
+[{'ID': '16418ins', 'PT': "Classifique o tweet com base no sentimento. Saída 'positivo', 'negativo' ou 'neutro'.", 'GLOSA': 'TWEET CLASSIFICAR SENTIMENTO SAÍDA POSITIVO NEGATIVO NEUTRO'}]
+
+json
+[{'ID': '16419ins', 'PT': 'Exclua o tweet se ele violar as regras.', 'GLOSA': 'TWEET VOCÊ EXCLUIR SE ELE REGRA VIOLAR.'}]
+
+json
+[{'ID': '16420ins', 'PT': 'Insira palavras para dar sentido à frase.', 'GLOSA': 'VOCÊ INSERIR PALAVRA SENTIDO FRASE.'}]
+
+json
+[{'ID': '16421ins', 'PT': 'Altere a segunda frase para tornar as duas frases seguintes compatíveis.', 'GLOSA': 'SEGUNDO FRASE ALTERAR DUAS FRASE SEGUIR COMPATÍVEL.'}]
+
+json
+[{'ID': '16422ins', 'PT': 'Cite três sinais de depressão.', 'GLOSA': 'VOCÊ CITE TRÊS SINAL DEPRESSÃO.'}]
+
+json
+[{'ID': '16423ins', 'PT': 'Crie um guia de viagem para Tóquio.', 'GLOSA': 'TÓQUIO GUIA VIAGEM CRIAR'}]
+
+json
+[{'ID': '16424ins', 'PT': 'Sugira três atividades divertidas para um passeio de um dia na praia.', 'GLOSA': 'VOCÊ SUGERIR TRÊS ATIVIDADE DIVERTIDO DIA PRAIA PASSEIO?'}]
+
+json
+[{'ID': '16425ins', 'PT': 'Edite o texto fornecido para que ele siga o estilo de formatação APA.', 'GLOSA': 'TEXTO FORNECER EDITAR APA FORMATAR ESTILO.'}]
+
+json
+[{'ID': '16426ins', 'PT': 'Qual é o escore z mínimo para aceitar uma hipótese com nível de confiança de 95%?', 'GLOSA': 'ESCORE Z MÍNIMO ACEITAR HIPÓTESE NÍVEL CONFIANÇA 95%?'}]
+
+json
+[{'ID': '16427ins', 'PT': 'Descreva os cinco W\'s do jornalismo.', 'GLOSA': 'JORNALISMO CINCO W DESCREVER'}]
+
+json
+[{'ID': '16428ins', 'PT': 'Crie uma consulta para selecionar todos os dados de vendas de 2019.', 'GLOSA': 'CONSULTA CRIAR SELECIONAR DADOS VENDA 2019'}]
+
+json
+[{'ID': '16429ins', 'PT': 'Explique como depurar um programa C', 'GLOSA': 'VOCÊ EXPLICAR COMO DEPURAR PROGRAMA C'}]
+
+json
+[{'ID': '16430ins', 'PT': 'Sugira uma técnica de visualização de dados para visualizar o conjunto de dados fornecido.', 'GLOSA': 'VOCÊ SUGERIR TÉCNICA VISUALIZAR DADOS CONJUNTO DADOS FORNECER?'}]
+
+json
+[{'ID': '16431ins', 'PT': 'Construa uma consulta SQL para consultar a idade média de todos os clientes', 'GLOSA': 'IDADE MÉDIA CLIENTE CONSULTAR SQL'}]
+
+json
+[{'ID': '16432ins', 'PT': 'De que forma você acha que a tecnologia está mudando a maneira como aprendemos?', 'GLOSA': 'VOCÊ ACHAR TECNOLOGIA MUDAR MODO APRENDER?'}]
+
+json
+[{'ID': '16433ins', 'PT': 'Descreva como funciona a computação em nuvem', 'GLOSA': 'COMPUTAÇÃO NUVEM COMO FUNCIONAR DESCREVER'}]
+
+json
+[{'ID': '16434ins', 'PT': 'Forneça uma saída para a seguinte função', 'GLOSA': 'FUNÇÃO SAÍDA FORNECER'}]
+
+json
+[{'ID': '16435ins', 'PT': 'Encontre a frequência da palavra ‘the’ em um determinado texto', 'GLOSA': 'TEXTO DETERMINADO PALAVRA "THE" FREQUÊNCIA ENCONTRAR'}]
+
+json
+[{'ID': '16436ins', 'PT': 'Crie uma consulta SQL para selecionar todos os registros de clientes que compraram mais de 5 itens', 'GLOSA': 'CLIENTE SELECIONAR TODOS REGISTRO COMPRAR MAIS 5 ITENS'}]
+
+json
+[{'ID': '16437ins', 'PT': 'Descreva os 4 fundamentos da Programação Orientada a Objetos', 'GLOSA': 'PROGRAMAÇÃO ORIENTADA OBJETO FUNDAMENTO 4 DESCREVER'}]
+
+json
+[{'ID': '16438ins', 'PT': 'Como você monitoraria e avaliaria o desempenho de um modelo GPT?', 'GLOSA': 'VOCÊ MONITORAR AVALIAR DESEMPENHO MODELO GPT COMO?'}]
+
+json
+[{'ID': '16439ins', 'PT': 'Crie uma história sobre uma viagem no espaço.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA SOBRE VIAGEM ESPAÇO'}]
+
+json
+[{'ID': '16440ins', 'PT': 'Qual é a temperatura máxima que o plutônio pode suportar antes de derreter?', 'GLOSA': 'PLUTÔNIO TEMPERATURA MÁXIMO SUPORTAR DERRETER QUAL?'}]
+
+json
+[{'ID': '16441ins', 'PT': 'Quando e por que a Guerra do Vietnã começou?', 'GLOSA': 'GUERRA VIETNÃ QUANDO COMEÇAR POR QUE?'}]
+
+json
+[{'ID': '16442ins', 'PT': 'Resuma esta frase em uma palavra: Ela amava o jeito como ele sempre a fazia rir.', 'GLOSA': 'AMOR'}]
+
+json
+[{'ID': '16443ins', 'PT': "Identifique o homófono nesta frase: The bee bee's in the tree.", 'GLOSA': 'FRASE IDENTIFICAR HOMÓFONO BEE BEE'}]
+
+json
+[{'ID': '16444ins', 'PT': 'Escreva uma redação de classificação sobre animais de estimação.', 'GLOSA': 'ESCREVER REDAÇÃO CLASSIFICAR ANIMAL ESTIMAÇÃO.'}]
+
+json
+[{'ID': '16445ins', 'PT': 'Encontre um exemplo de metáfora nesta frase: Minha vida é comparada a um rio que flui inexoravelmente.', 'GLOSA': 'FRASE METÁFORA EXEMPLO VOCÊ ENCONTRAR: VIDA RIO FLUIR INEXORAVELMENTE COMPARAR.'}]
+
+json
+[{'ID': '16560ins', 'PT': 'Descreva as diferenças entre comunicação formal e informal', 'GLOSA': 'COMUNICAÇÃO FORMAL INFORMAL DIFERENÇA DESCRER'}]
+
+json
+[{'ID': '16732ins', 'PT': 'Qual é o sinônimo da palavra “realização”?', 'GLOSA': 'PALAVRA REALIZAÇÃO SINÔNIMO QUAL?'}]
+
+json
+[{'ID': '20703ins', 'PT': 'Automatize a seguinte tarefa: toda vez que alguém enviar um e-mail para a caixa de correio de atendimento ao cliente, envie uma resposta agradecendo ao cliente pela mensagem.', 'GLOSA': 'AUTOMATIZAR  TAREFA:  TODO  VEZ  ALGUÉM  ENVIAR  EMAIL  CAIXA  CLIENTE  ATENDIMENTO  RESPONDER  AGRADECER  CLIENTE  MENSAGEM.'}]
+
+json
+[
+  {
+    "ID": "24673ins",
+    "PT": "Crie cinco perguntas a partir da seguinte afirmação:",
+    "GLOSA": "AFIRMAÇÃO SEGUIR VOCÊ CRIAR CINCO PERGUNTA?"
+  }
+]
+
+json
+[{'ID': '24674ins', 'PT': 'Categorize a seguinte frase: "A professora escreveu no quadro".', 'GLOSA': 'PROFESSORA ESCREVER QUADRO'}]
+
+json
+[{'ID': '24675ins', 'PT': 'Crie um verso de rap de 10 palavras sobre liberdade.', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR, SENTIDO FIGURATIVO RAP VERSO PALAVRA 10 LIBERDADE.'}]
+
+json
+[{'ID': '24676ins', 'PT': 'Explique o termo \\"atenção plena\\" em 4 frases.', 'GLOSA': 'VOCÊ EXPLICAR TERMO ATENÇÃO PLENA 4 FRASE'}]
+
+json
+[{'ID': '24677ins', 'PT': 'Crie uma piada original sobre o tópico fornecido.', 'GLOSA': 'VOCÊ CRIAR PIADA ORIGINAL SOBRE TÓPICO FORNECER.'}]
+
+json
+[{'ID': '24678ins', 'PT': 'Reescreva o poema fornecido em um estilo mais moderno.', 'GLOSA': 'POEMA FORNECER REESCREVER MODERNO ESTILO'}]
+
+json
+[{'ID': '24679ins', 'PT': 'Dê a saída para o seguinte código:', 'GLOSA': 'CÓDIGO SAÍDA VOCÊ DIZER'}]
+
+json
+[{'ID': '24680ins', 'PT': 'Você consegue colocar essa frase no futuro?', 'GLOSA': 'VOCÊ CONSEGUIR COLOCAR FRASE FUTURO?'}]
+
+json
+[{'ID': '24681ins', 'PT': 'Cite duas técnicas de mineração de dados.', 'GLOSA': 'VOCÊ CITE DUAS TÉCNICA MINERAÇÃO DADOS.'}]
+
+json
+[{'ID': '24682ins', 'PT': 'Gere uma frase aleatória em francês.', 'GLOSA': 'FRANÇÊS FRASE ALEATÓRIO GERAR'}]
+
+json
+[{'ID': '24683ins', 'PT': 'Como o sistema endocanabinoide afeta o sistema imunológico?', 'GLOSA': 'SISTEMA ENDOCANABINOIDE AFETAR SISTEMA IMUNOLÓGICO COMO?'}]
+
+json
+[{'ID': '24684ins', 'PT': 'Escolha um animal e explique por que é importante preservá-lo.', 'GLOSA': 'VOCÊ ESCOLHER ANIMAL EXPLIQUE PORQUE IMPORTANTE PRESERVAR'}]
+
+json
+[{'ID': '24685ins', 'PT': 'Liste cinco países da Europa.', 'GLOSA': 'EUROPA PAÍS CINCO LISTAR'}]
+
+json
+[{'ID': '24686ins', 'PT': 'Reescreva a frase a seguir com palavras diferentes, mas preserve o mesmo significado básico: \\"A árvore era alta\\".', 'GLOSA': 'ÁRVORE ALTO'}]
+
+json
+[{'ID': '24687ins', 'PT': 'Considerando um jogo popular para dispositivos móveis, crie uma história ambientada no mundo do jogo.', 'GLOSA': 'JOGO POPULAR DISPOSITIVO MÓVEL CRIAR HISTÓRIA MUNDO JOGO'}]
+
+json
+[{'ID': '24688ins', 'PT': 'Avalie a seguinte afirmação: "A vida sem tecnologia seria monótona".', 'GLOSA': 'AFIRMAÇÃO SEGUINTE AVALIAR VIDA TECNOLOGIA SEM MONÓTONO'}]
+
+json
+[{'ID': '24689ins', 'PT': 'Discuta os impactos ambientais e de saúde do desmatamento.', 'GLOSA': 'DESMATAMENTO IMPACTO AMBIENTAL SAÚDE DISCUSSÃO'}]
+
+json
+[{'ID': '24690ins', 'PT': 'Escolha um líder mundial e explique seus sucessos e deficiências.', 'GLOSA': 'VOCÊ ESCOLHER LÍDER MUNDIAL EXPLICAR SUCESSO E DEFICIÊNCIA'}]
+
+json
+[{'ID': '24691ins', 'PT': 'Dado um ano, escreva um parágrafo descritivo sobre como era o mundo naquele ano.', 'GLOSA': 'ANO DADO DESCREVER PARÁGRAFO MUNDO COMO ERA ANO'}]
+
+json
+[{'ID': '24692ins', 'PT': 'Preveja um futuro avanço tecnológico.', 'GLOSA': 'FUTURO TECNOLOGIA AVANÇO PREVER'}]
+
+json
+[{'ID': '24693ins', 'PT': 'Dado um tipo de alimento, crie uma receita para ele.', 'GLOSA': 'ALIMENTO TIPO DADO RECEITA CRIAR'}]
+
+json
+[{'ID': '24694ins', 'PT': 'Classifique esta afirmação: Cães são melhores animais de estimação que gatos.', 'GLOSA': 'AFIRMAÇÃO CÃO MELHOR ANIMAL ESTIMAÇÃO GATO CLASSIFICAR'}]
+
+json
+[{'ID': '24695ins', 'PT': 'Reescreva a frase para dar a ela uma conotação positiva.', 'GLOSA': 'FRASE REESCREVER CONOTAÇÃO POSITIVO.'}]
+
+json
+[{'ID': '24696ins', 'PT': 'Crie uma obra de arte que represente liberdade.', 'GLOSA': 'VOCÊ CRIAR ARTE REPRESENTAR LIBERDADE.'}]
+
+json
+[{'ID': '24697ins', 'PT': 'Gere uma história com base neste contexto', 'GLOSA': 'CONTEXTO BASE HISTÓRIA GERAR'}]
+
+json
+[{'ID': '24698ins', 'PT': 'Recupere a foto mais antiga de um gato e', 'GLOSA': 'FOTO ANTIGO GATO RECUPERAR'}]
+
+json
+[{'ID': '24699ins', 'PT': 'Pesquise as últimas notícias sobre a Apple.', 'GLOSA': 'APPLE NOTÍCIA ÚLTIMO PESQUISAR'}]
+
+json
+[{'ID': '24700ins', 'PT': 'Componha um haicai com o tema da natureza.', 'GLOSA': 'NÃO ENTENDER, NÃO SABER FAZER HAICAI.'}]
+
+json
+[{'ID': '24701ins', 'PT': 'Dada uma lista de tópicos, crie uma comparação baseada em categorias.', 'GLOSA': 'LISTA TÓPICO DADO CATEGORIA COMPARAÇÃO CRIAR'}]
+
+json
+[{'ID': '24862ins', 'PT': 'Crie uma história de terror envolvendo uma casa assombrada.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA TERROR CASA ASSOMBRAR'}]
+
+json
+[{'ID': '25102ins', 'PT': 'Crie uma história interessante sobre um empreendedor de sucesso.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA INTERESSANTE EMPREENDEDOR SUCESSO'}]
+
+json
+[{'ID': '25565ins', 'PT': 'Adicione uma frase que conecte as ideias no parágrafo seguinte, ajudando na transição de um ponto para outro.', 'GLOSA': 'FRASE ADICIONAR CONECTAR IDEIA PARÁGRAFO SEGUINTE AJUDAR TRANSIÇÃO PONTO OUTRO.'}]
+
+json
+[{'ID': '25566ins', 'PT': 'Ao fazer um discurso, edite-o para torná-lo mais forte e convincente.', 'GLOSA': 'DISCURSO FAZER EDITAR FORTE CONVENCER'}]
+
+json
+[{'ID': '25567ins', 'PT': 'Dada uma situação, sugira uma ação ou decisão que possa potencialmente melhorá-la.', 'GLOSA': 'SITUAÇÃO DADO SUGERIR AÇÃO DECISÃO MELHORAR POSSÍVEL.'}]
+
+json
+[{'ID': '25568ins', 'PT': 'Dado um conjunto de fatos, crie uma declaração de tese que resuma o ponto principal.', 'GLOSA': 'FATO CONJUNTO DADO TESE DECLARAÇÃO CRIAR PONTO PRINCIPAL RESUMIR'}]
+
+json
+[{'ID': '25569ins', 'PT': 'Descreva uma maneira de se apresentar em uma entrevista de emprego.', 'GLOSA': 'ENTREVISTA EMPREGO VOCÊ APRESENTAR COMO? '}]
+
+json
+[{'ID': '25570ins', 'PT': 'Expanda esta frase adicionando mais detalhes:', 'GLOSA': 'FRASE EXPANDIR DETALHE AUMENTAR'}]
+
+json
+[{'ID': '25571ins', 'PT': 'Você pode listar pelo menos três razões pelas quais a reciclagem é importante?', 'GLOSA': 'VOCÊ PODER LISTAR PELO MENOS TRÊS RAZÃO RECICLAGEM IMPORTANTE?'}]
+
+json
+[{'ID': '25572ins', 'PT': 'Crie uma estratégia para ensinar a tabuada de multiplicação a uma criança de 11 anos.', 'GLOSA': 'CRIANÇA 11 ANOS TABUADA MULTIPLICAR ENSINAR ESTRATÉGIA CRIAR'}]
+
+json
+[{'ID': '25573ins', 'PT': 'Por que lavar as mãos é importante para prevenir a propagação de doenças?', 'GLOSA': 'MÃO LAVAR IMPORTANTE DOENÇA PROPAGAR PREVENIR POR QUÊ?'}]
+
+json
+[{'ID': '25574ins', 'PT': 'Descreva um cenário em que a tecnologia de IA pode ajudar a diagnosticar uma condição médica.', 'GLOSA': 'IA TECNOLOGIA AJUDAR DIAGNOSTICAR CONDIÇÃO MÉDICA CENÁRIO DESCREVER'}]
+
+json
+[{'ID': '25575ins', 'PT': 'Crie uma estratégia para gerenciar o estresse.', 'GLOSA': 'VOCÊ CRIAR ESTRATÉGIA GERENCIAR ESTRESSE.'}]
+
+json
+[{'ID': '25576ins', 'PT': 'Quais são as características de uma história de ficção realista?', 'GLOSA': 'HISTÓRIA FICÇÃO REALISTA CARACTERÍSTICA QUAL?'}]
+
+json
+[{'ID': '25577ins', 'PT': 'Relacione cada cidade com seu estado.', 'GLOSA': 'CIDADES RELACIONAR ESTADO'}]
+
+json
+[{'ID': '25578ins', 'PT': 'Cite três vantagens de usar o transporte público.', 'GLOSA': 'VOCÊ CITE TRÊS VANTAGEM TRANSPORTE PÚBLICO USAR.'}]
+
+json
+[{'ID': '25579ins', 'PT': 'Classifique as frases a seguir em "pretérito" e "presente".', 'GLOSA': 'FRASE SEGUIDO CLASSIFICAR PRETÉRITO PRESENTE'}]
+
+json
+[{'ID': '26228ins', 'PT': 'Escreva um algoritmo de classificação para detectar e-mails de spam.', 'GLOSA': 'VOCÊ ESCREVER ALGORITMO CLASSIFICAR DETECTAR EMAIL SPAM.'}]
+
+json
+[{'ID': '26230ins', 'PT': 'Crie um e-mail para um amigo, pedindo que ele participe de um curso on-line com você.', 'GLOSA': 'VOCÊ CRIAR E-MAIL AMIGO PEDIR ELE PARTICIPAR CURSO ONLINE VOCÊ?'}]
+
+json
+[{'ID': '26231ins', 'PT': 'Suponha que você seja um web designer e crie um layout HTML usando classes CSS.', 'GLOSA': 'VOCÊ SUPOR WEB DESIGNER CRIAR LAYOUT HTML USAR CLASSE CSS.'}]
+
+json
+[{'ID': '26232ins', 'PT': 'Descreva as tarefas de processamento de linguagem natural que você pode realizar com o GPT-3.', 'GLOSA': 'GPT-3 PROCESSAMENTO LINGUAGEM NATURAL DESCREVER TAREFA VOCÊ PODER FAZER?'}]
+
+json
+[{'ID': '26233ins', 'PT': 'Com base na categoria fornecida, recomende três livros.', 'GLOSA': 'CATEGORIA FORNECER RECOMENDE TRÊS LIVRO'}]
+
+json
+[{'ID': '26234ins', 'PT': 'Dado um número, gere um poema com o mesmo número de sílabas em cada linha.', 'GLOSA': 'NÚMERO DADO GERAR POEMA LINHA SÍLABA IGUAL'}]
+
+json
+[{'ID': '26235ins', 'PT': 'Crie uma postagem de blog que explique a criptografia de chave pública.', 'GLOSA': 'BLOG POSTAGEM CRIA EXPLICAR CRIPTOGRAFIA CHAVE PÚBLICA.'}]
+
+json
+[{'ID': '26236ins', 'PT': 'Crie um gráfico para descrever o processo de conversão de uma frase em um vetor.', 'GLOSA': 'GRÁFICO CRIAR DESCRITIVO PROCESSO FRASE VETOR CONVERTÊ.'}]
+
+json
+[{'ID': '26237ins', 'PT': 'Melhore a frase dada em termos gramaticais.', 'GLOSA': 'FRASE DADO MELHORAR GRAMÁTICA'}]
+
+json
+[{'ID': '26238ins', 'PT': 'Gere uma lista das 10 empresas com maior valor de mercado do mundo.', 'GLOSA': 'GERAR LISTA 10 EMPRESA VALOR MERCADO MUNDO'}]
+
+json
+[{'ID': '26239ins', 'PT': 'Escreva uma consulta estruturada em SQL para obter todos os pedidos criados na última semana.', 'GLOSA': 'SQL CONSULTA ESTRUTURAR PEDIDO CRIAR ÚLTIMO SEMANA OBTER.'}]
+
+json
+[{'ID': '26240ins', 'PT': 'Reorganize a frase para transmitir o seguinte significado: \\"Não sou fã de dever de casa\\".', 'GLOSA': 'EU NÃO GOSTAR DEVER CASA.'}]
+
+json
+[{'ID': '26241ins', 'PT': 'O que faz alguém ser um grande líder?', 'GLOSA': 'PESSOA FAZER GRANDE LÍDER?'}]
+
+json
+[{'ID': '26242ins', 'PT': 'Compare e contraste esses dois valores: 8 e 12', 'GLOSA': '8 12 COMPARAR CONTRASTE'}]
+
+json
+[{'ID': '26243ins', 'PT': 'Não estou satisfeito com a decisão.', 'GLOSA': 'EU SATISFAÇÃO NADA DECISÃO.'}]
+
+json
+[{'ID': '26244ins', 'PT': 'Conte-me uma história curta sobre uma corrida entre um coelho e uma raposa.', 'GLOSA': 'COELHO RAPOSA CORRIDA HISTÓRIA CURTO CONTAR'}]
+
+json
+[{'ID': '26245ins', 'PT': 'Dê três exemplos de serviços de streaming populares.', 'GLOSA': 'VOCÊ DAR TRÊS EXEMPLO SERVIÇO STREAMING POPULAR'}]
+
+json
+[{'ID': '26246ins', 'PT': 'Crie uma lista de cinco ingredientes para uma sopa de brócolis.', 'GLOSA': 'VOCÊ CRIAR LISTA CINCO INGREDIENTE SOPA BRÓCOLIS'}]
+
+json
+[{'ID': '26247ins', 'PT': 'Reescreva a frase na voz ativa: O estudo foi escrito pela Dra. Susan Smith.', 'GLOSA': 'DRA SUSAN SMITH ESCREVER ESTUDO.'}]
+
+json
+[{'ID': '26248ins', 'PT': 'Liste três efeitos negativos da poluição do ar.', 'GLOSA': 'POLUIÇÃO AR EFEITO NEGATIVO TRÊS LISTAR'}]
+
+json
+[{'ID': '26249ins', 'PT': 'Altere esta frase para torná-la mais concisa: Ela sempre foi uma menina obediente e nunca se atrasava.', 'GLOSA': 'ELA SEMPRE MENINA OBEDIENTE ATRASAR NUNCA.'}]
+
+json
+[{'ID': '26250ins', 'PT': 'Descreva um personagem chamado "John" em 3 frases.', 'GLOSA': 'JOHN PERSONAGEM DESCREVER TRÊS FRASE.'}]
+
+json
+[{'ID': '26251ins', 'PT': 'Encurte a frase sem alterar o significado: Embora Jennifer tenha estudado muito, seu desempenho foi muito ruim na prova.', 'GLOSA': 'JENNIFER ESTUDAR MUITO DESEMPENHO ELA RUIM PROVA'}]
+
+json
+[{'ID': '26252ins', 'PT': 'Categorize esses quatro itens como mamífero, pássaro, réptil ou peixe: elefante, golfinho, cobra, papagaio', 'GLOSA': 'ELEFANTE GOLFINHO COBRA PAPAGAIO CATEGORIZAR MAMÍFERO PÁSSARO RÉPTIL PEIXE'}]
+
+json
+[{'ID': '26253ins', 'PT': 'Forneça uma tradução desta frase: \\"El tren llegó a la estación.\\"', 'GLOSA': 'TRÊS CHEGAR ESTAÇÃO.'}]
+
+json
+[{'ID': '26254ins', 'PT': 'Crie um esboço para uma postagem de blog sobre saúde mental.', 'GLOSA': 'BLOG POSTAGEM SAÚDE MENTAL ESBOÇO CRIAR'}]
+
+json
+[{'ID': '26255ins', 'PT': 'Crie uma letra de música relacionada à natureza.', 'GLOSA': 'NÃO-ENTENDER'}]
+
+json
+[{'ID': '26256ins', 'PT': 'Cite pelo menos 3 benefícios de usar transporte público.', 'GLOSA': 'VOCÊ CITE PELO MENOS 3 BENEFÍCIO USAR TRANSPORTE PÚBLICO.'}]
+
+json
+[{'ID': '26257ins', 'PT': 'Escreva uma história centrada em uma competição de snowboard.', 'GLOSA': 'HISTÓRIA ESCREVER COMPETIÇÃO SNOWBOARD CÉNTRICO'}]
+
+json
+[{'ID': '26258ins', 'PT': 'Escreva uma carta a um amigo sobre uma experiência ruim que você teve.', 'GLOSA': 'VOCÊ ESCREVER CARTA AMIGO EXPERIÊNCIA RUIM VOCÊ TER'}]
+
+json
+[{'ID': '26259ins', 'PT': 'Reescreva esta frase para usar adjetivos e advérbios.', 'GLOSA': 'FRASE REESCREVER USAR ADJETIVO ADVÉRBIO'}]
+
+json
+[{'ID': '26260ins', 'PT': 'Gere uma comparação relacionada a uma flor.', 'GLOSA': 'GERAR COMPARAÇÃO RELACIONADO FLOR'}]
+
+json
+[{'ID': '26261ins', 'PT': 'Explique a diferença entre um endereço IP público e um privado.', 'GLOSA': 'IP PÚBLICO IP PRIVADO DIFERENÇA EXPLICAR'}]
+
+json
+[{'ID': '26262ins', 'PT': 'Liste 3 elementos comuns de uma senha forte.', 'GLOSA': 'SENHA FORTE ELEMENTO COMUM TRÊS LISTAR'}]
+
+json
+[{'ID': '26263ins', 'PT': 'Defina o termo "linguagem assembly".', 'GLOSA': 'LINGUAGEM ASSEMBLY DEFINIR'}]
+
+json
+[{'ID': '26264ins', 'PT': 'Descreva os princípios de design de um banco de dados relacional.', 'GLOSA': 'VOCÊ DESCREVER PRINCÍPIO DESIGN BANCO DADOS RELACIONAL'}]
+
+json
+[{'ID': '26265ins', 'PT': 'Liste 3 razões pelas quais a visualização de dados é importante.', 'GLOSA': 'DADOS VISUALIZAÇÃO IMPORTANTE RAZÃO TRÊS LISTAR'}]
+
+json
+[{'ID': '26266ins', 'PT': 'O que é análise de dependência?', 'GLOSA': 'ANÁLISE DEPENDÊNCIA O QUE?'}]
+
+json
+[{'ID': '26267ins', 'PT': 'Crie uma expressão regular para corresponder strings que contenham a palavra "hello" e terminem em "abc".', 'GLOSA': 'EXPRESSÃO REGULAR CRIAR STRING "HELLO" CONTER TERMINAR "ABC" '}]
+
+json
+[{'ID': '26278ins', 'PT': 'coloque uma vírgula depois do modificador.', 'GLOSA': 'MODIFICADOR DEPOIS VÍRGULA COLOCAR.'}]
+
+json
+[{'ID': '26279ins', 'PT': 'Discuta uma diferença fundamental entre abstração e encapsulamento.', 'GLOSA': 'ABSTRAÇÃO ENCAPSULAMENTO DIFERENÇA FUNDAMENTAL DISCUTIR'}]
+
+json
+[{'ID': '26280ins', 'PT': 'Crie um pseudocódigo para um programa que receba dois números do usuário e imprima a soma deles.', 'GLOSA': 'PROGRAMA INICIAR\n  NUMERO1 RECEBER\n  NUMERO2 RECEBER\n  SOMA NUMERO1 + NUMERO2\n  IMPRIMIR SOMA\nPROGRAMA TERMINAR'}]
+
+json
+[{'ID': '26281ins', 'PT': 'Troque a palavra \\"irritante\\" por \\"chato\\".', 'GLOSA': 'VOCÊ TROCAR PALAVRA IRRITAR POR CHATEAR.'}]
+
+json
+[{'ID': '26282ins', 'PT': 'Recomendar uma ação de acompanhamento apropriada.', 'GLOSA': 'AÇÃO ACOMPANHAMENTO APROPRIADO VOCÊ RECOMENDAR'}]
+
+json
+[{'ID': '26283ins', 'PT': 'Gere um trecho de código que imprimirá uma mensagem de boas-vindas.', 'GLOSA': 'CÓDIGO GERAR MENSAGEM IMPRIMIR BOAS-VINDAS'}]
+
+json
+[{'ID': '26284ins', 'PT': 'Analise o texto a seguir e forneça três conclusões principais.', 'GLOSA': 'TEXTO ANALISAR TRÊS CONCLUSÃO PRINCIPAL FORNECER'}]
+
+json
+[{'ID': '26285ins', 'PT': 'Gere um poema anacróstico criativo para a palavra "outono"', 'GLOSA': 'O vento sopra, folhas caem,
+Umas douradas, outras avermelhadas,
+Tonalidades que encantam os olhos,
+O ar fresco, a natureza em repouso,
+Noite chega, o frio aumenta,
+O tempo passa, a vida segue.'}]
+
+json
+[{'ID': '26286ins', 'PT': 'Quais são os benefícios do uso da Realidade Aumentada na educação?', 'GLOSA': 'REALIDADE AUMENTADA USAR EDUCAÇÃO BENEFÍCIO QUAL?'}]
+
+json
+[{'ID': '26287ins', 'PT': 'Reescreva a frase a seguir para refletir o outro ponto de vista', 'GLOSA': 'FRASE REESCREVER OUTRO PONTO DE VISTA REFLETIR'}]
+
+json
+[{'ID': '26288ins', 'PT': 'Crie uma frase ofensiva que comece com a mesma consoante.', 'GLOSA': 'EU DESCULPAR NÃO ENTENDER FRASE OFENSIVA COMEÇAR MESMO CONSOANTE. '}]
+
+json
+[{'ID': '26289ins', 'PT': 'Liste os planetas do Sistema Solar em ordem, do mais próximo ao mais distante do Sol.', 'GLOSA': 'PLANETA SISTEMA-SOLAR LISTAR ORDEM PRÓXIMO DISTANTE SOL'}]
+
+json
+[{'ID': '26290ins', 'PT': 'Diferencie um imbróglio de um atoleiro.', 'GLOSA': 'IMBROGLIO ATOLEIRO DIFERENCIAR'}]
+
+json
+[{'ID': '27215ins', 'PT': 'Descreva uma maneira construtiva de passar o tempo durante o autoisolamento.', 'GLOSA': 'TEMPO PASSAR CONSTRUTIVO MANEIRA DESCREVER AUTO-ISOLAMENTO DURANTE'}]
+
+json
+[{'ID': '27216ins', 'PT': 'Edite a seguinte frase: \\"Ela não gosta deste filme\\".', 'GLOSA': 'FRASE ELA NÃO GOSTAR ESTE FILME EDITAR'}]
+
+json
+[{'ID': '27217ins', 'PT': 'Você é solicitado a avaliar o seguinte restaurante com base em uma escala de 1 a 10, sendo 10 a nota mais alta.\n\n"O restaurante tem uma ótima atmosfera, equipe simpática e comida deliciosa."', 'GLOSA': 'VOCÊ SOLICITAR AVALIAR RESTAURANTE ESCALA 1 10 10 NOTA ALTO RESTAURANTE TER ATMOSFERA ÓTIMO EQUIPE SIMPÁTICO COMIDA DELICIOSO'}]
+
+json
+[{'ID': '27218ins', 'PT': 'Identifique 4 sites que podem ser usados para encontrar um emprego.', 'GLOSA': 'VOCÊ IDENTIFICAR 4 SITE PODER USAR ENCONTRAR EMPREGO.'}]
+
+json
+[{'ID': '27219ins', 'PT': 'Reescreva esta passagem em 15 palavras ou menos.', 'GLOSA': 'PASSAGEM REESCREVER PALAVRA MENOS 15'}]
+
+json
+[{'ID': '27220ins', 'PT': 'Liste 5 tecnologias emergentes no campo da ciência da computação.', 'GLOSA': 'CIÊNCIA COMPUTAÇÃO TECNOLOGIA EMERGENTE LISTAR 5'}]
+
+json
+[{'ID': '27221ins', 'PT': 'Explique o que significa "resolução criativa de problemas".', 'GLOSA': 'VOCÊ EXPLICAR O QUE SIGNIFICAR "RESOLUÇÃO CRIATIVO PROBLEMA"'}]
+
+json
+[{'ID': '27502ins', 'PT': 'Dada esta pintura, descreva a emoção que ela transmite.', 'GLOSA': 'PINTURA ESTA DESCREVER EMOÇÃO TRANSMITIR'}]
+
+json
+[{'ID': '27503ins', 'PT': 'Qual é a altura do Monte Everest?', 'GLOSA': 'MONTE EVEREST ALTURA QUAL?'}]
+
+json
+[{'ID': '27504ins', 'PT': 'Formule uma declaração que expresse uma relação de causa e efeito.', 'GLOSA': 'CAUSA EFEITO DECLARAÇÃO FORMULAR'}]
+
+json
+[{'ID': '27505ins', 'PT': 'Cite três vegetais que apresentam uma tonalidade avermelhada quando crus.', 'GLOSA': 'VOCÊ CITE TRÊS VEGETAL COR AVERMELHADO CRU'}]
+
+json
+[{'ID': '27506ins', 'PT': 'Construa uma frase simples usando as seguintes palavras: rapidamente, alguns', 'GLOSA': 'ALGUM RAPIDAMENTE'}]
+
+json
+[{'ID': '27507ins', 'PT': 'Adicione mais palavras descritivas para tornar esta frase mais interessante.', 'GLOSA': 'VOCÊ ADICIONAR PALAVRA DESCRITIVO MAIS FRASE INTERESSANTE FAZER.'}]
+
+json
+[{'ID': '27508ins', 'PT': 'Dado o nome de uma pessoa, crie uma história fictícia com essa pessoa como protagonista.', 'GLOSA': 'NOME PESSOA DADO CRIAR HISTÓRIA FICÇÃO PESSOA PROTAGONISTA'}]
+
+json
+[{'ID': '27509ins', 'PT': 'Escolha dois pintores famosos e explique o que torna suas obras diferentes umas das outras.', 'GLOSA': 'VOCÊ ESCOLHER DOIS PINTOR FAMOSO EXPLICA DIFERENTE OBRA UM OUTRO'}]
+
+json
+[{'ID': '27510ins', 'PT': 'Dado o nome de um político, forneça uma descrição detalhada dos objetivos políticos do político.', 'GLOSA': 'POLÍTICO NOME DADO DESCRIÇÃO DETALHADO OBJETIVO POLÍTICO FORNECER'}]
+
+json
+[{'ID': '27511ins', 'PT': 'Crie um título apropriado para expressar ironia relacionada a um determinado tópico.', 'GLOSA': 'TÍTULO CRIAR IRONIA RELACIONADO TÓPICO'}]
+
+json
+[{'ID': '27512ins', 'PT': 'Crie uma metáfora para descrever algo que é difícil de entender.', 'GLOSA': 'ALGO DIFÍCIL ENTENDER METÁFORA CRIAR'}]
+
+json
+[{'ID': '27513ins', 'PT': 'Encontre dois artigos de notícias relacionados ao tópico fornecido.', 'GLOSA': 'VOCÊ ENCONTRAR DOIS ARTIGO NOTÍCIA RELACIONADO TÓPICO FORNECER.'}]
+
+json
+[{'ID': '27514ins', 'PT': 'Dê três dicas para reduzir a ansiedade.', 'GLOSA': 'VOCÊ DAR TRÊS DICA REDUZIR ANSIEDADE.'}]
+
+json
+[{'ID': '27515ins', 'PT': 'Identifique a raiz da palavra fornecida.', 'GLOSA': 'PALAVRA FORNECER RAIZ IDENTIFICAR'}]
+
+json
+[{'ID': '27516ins', 'PT': 'Participe de uma discussão sobre o tópico fornecido.', 'GLOSA': 'VOCÊ PARTICIPAR DISCUSSÃO TÓPICO FORNECER.'}]
+
+json
+[{'ID': '27517ins', 'PT': 'Gere um programa que imprima a lista de números fornecida na ordem inversa.', 'GLOSA': 'PROGRAMA GERAR IMPRIMIR LISTA NÚMERO FORNECER ORDEM INVERTIDO.'}]
+
+json
+[{'ID': '27518ins', 'PT': 'Explique por que o noroeste do Pacífico é propenso a terremotos?', 'GLOSA': 'PACÍFICO NOROESTE TERREMOTO PROPENSÃO EXPLICA PORQUÊ?'}]
+
+json
+[{'ID': '27519ins', 'PT': 'Analise este texto quanto ao seu significado e gere uma lista de palavras-chave', 'GLOSA': 'TEXTO ANALISAR SIGNIFICADO PALAVRA-CHAVE LISTA GERAR'}]
+
+json
+[{'ID': '27601ins', 'PT': 'Que tipo de árvore George Washington cortou?', 'GLOSA': 'ÁRVORE TIPO WASHINGTON GEORGE CORTAR QUAL?'}]
+
+json
+[{'ID': '27602ins', 'PT': 'Um amigo seu está pensando em tirar um ano sabático antes da faculdade. Escreva um pequeno parágrafo no qual você o incentiva a tirar o ano sabático.', 'GLOSA': 'AMIGO VOCÊ PENSAR TIRAR UM ANO SABÁTICO ANTES FACULDADE ESCREVER PARÁGRAFO VOCÊ INCENTIVAR ELE TIRAR ANO SABÁTICO.'}]
+
+json
+[{'ID': '27603ins', 'PT': 'Escreva um e-mail para um cliente pedindo desculpas.', 'GLOSA': 'CLIENTE EMAIL ESCREVER DESCULPA PEDIR.'}]
+
+json
+[{'ID': '27604ins', 'PT': 'Crie uma história sobre um personagem que está frustrado com seu trabalho.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA PERSONAGEM TRABALHO FRUSTRAR'}]
+
+json
+[{'ID': '27605ins', 'PT': 'Crie um programa de exercícios em casa para iniciantes.', 'GLOSA': 'EXERCÍCIO PROGRAMA CASA INICIAR CRIAR'}]
+
+json
+[{'ID': '27606ins', 'PT': 'Forneça uma lista de benefícios de uma dieta baseada em vegetais.', 'GLOSA': 'LISTA BENEFÍCIO VEGETAL DIETA FORNECER'}]
+
+json
+[{'ID': '27607ins', 'PT': 'Construa uma conversa entre um representante de atendimento ao cliente e um cliente que gostaria de comprar um produto.', 'GLOSA': 'CONVERSA CRIAR REPRESENTANTE ATENDIMENTO CLIENTE CLIENTE COMPRAR PRODUTO.'}]
+
+json
+[{'ID': '27608ins', 'PT': 'Crie uma história sobre uma pessoa que descobre um talento que não sabia que tinha.', 'GLOSA': 'PESSOA DESCOBRIR TALENTO NÃO SABER TER'}]
+
+json
+[{'ID': '27609ins', 'PT': 'Compile uma lista de etapas para hospedar um evento online.', 'GLOSA': 'LISTA ETAPA COMPILE EVENTO ONLINE HOSPEDAR'}]
+
+json
+[{'ID': '27610ins', 'PT': 'Classifique a lista de palavras em ordem alfabética e separe-as por vírgulas.', 'GLOSA': 'PALAVRA LISTA CLASSIFICAR ORDEM ALFABETO SEPARAR VÍRGULA'}]
+
+json
+[{'ID': '27611ins', 'PT': 'Como você classificaria o seguinte animal como mamífero, réptil ou peixe?', 'GLOSA': 'VOCÊ CLASSIFICAR ANIMAL SEGUINTE MAMÍFERO RÉPTIL OU PEIXE?'}]
+
+json
+[{'ID': '27612ins', 'PT': 'Some dois números e escreva a resposta em palavras.', 'GLOSA': 'DOIS NÚMERO SOMAR RESPOSTA ESCREVER PALAVRA'}]
+
+json
+[{'ID': '27613ins', 'PT': 'Crie um banco de dados para armazenar os registros dos alunos da escola XYZ.', 'GLOSA': 'VOCÊ CRIAR BANCO-DADOS REGISTRO ALUNO ESCOLA XYZ'}]
+
+json
+[{'ID': '27614ins', 'PT': 'Identifique cinco valores potenciais para a Apple Inc.', 'GLOSA': 'APPLE INC. VALOR POTENCIAL CINCO IDENTIFICAR'}]
+
+json
+[{'ID': '27615ins', 'PT': 'Analise os pontos fortes e fracos do atual sistema de saúde nos Estados Unidos.', 'GLOSA': 'ESTADOS UNIDOS SISTEMA SAÚDE ATUAL PONTO FORTE PONTO FRACO ANALISAR'}]
+
+json
+[{'ID': '27616ins', 'PT': 'Dê-me uma lista de cinco problemas comuns no local de trabalho.', 'GLOSA': 'VOCÊ DAR LISTA CINCO PROBLEMA COMUM TRABALHO?'}]
+
+json
+[{'ID': '27617ins', 'PT': 'Como funciona o sistema digestivo?', 'GLOSA': 'SISTEMA DIGESTIVO FUNCIONAR COMO?'}]
+
+json
+[{'ID': '27618ins', 'PT': 'Recupere o significado do termo saliência.', 'GLOSA': 'VOCÊ RECUPERAR SIGNIFICADO TERMO SALIÊNCIA.'}]
+
+json
+[{'ID': '27619ins', 'PT': 'Reescreva a frase a seguir omitindo a palavra "confortável".', 'GLOSA': 'FRASE OMITIR PALAVRA "CONFORTÁVEL" REESCREVER'}]
+
+json
+[{'ID': '27620ins', 'PT': 'Verdadeiro ou falso, carros autônomos são viáveis para rodovias.', 'GLOSA': 'VERDADEIRO OU FALSO CARRO AUTÔNOMO VIÁVEL RODOVIA?'}]
+
+json
+[{'ID': '27621ins', 'PT': 'Crie uma frase sobre o futuro do transporte.', 'GLOSA': 'FUTURO TRANSPORTE FRASE CRIAR'}]
+
+json
+[{'ID': '27622ins', 'PT': 'Existe algum continente maior que a África?', 'GLOSA': 'CONTINENTE EXISTIR ALGUM MAIOR ÁFRICA?'}]
+
+json
+[{'ID': '27623ins', 'PT': 'Componha duas ou três frases para elaborar a seguinte afirmação.', 'GLOSA': 'VOCÊ FAZER DUAS TRÊS FRASE PARA ELABORAR AFIRMAÇÃO.'}]
+
+json
+[{'ID': '27624ins', 'PT': 'Crie uma história original ambientada em uma paisagem urbana.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA ORIGINAL PAISAGEM URBANO'}]
+
+json
+[{'ID': '27625ins', 'PT': 'Analise este texto e determine seu gênero.', 'GLOSA': 'TEXTO ESTE ANALISAR GÊNERO DETERMINAR'}]
+
+json
+[{'ID': '27626ins', 'PT': 'Quais são as vantagens e desvantagens de usar uma rede neural para tarefas de classificação?', 'GLOSA': 'VANTAGEM DESVANTAGEM USAR REDE NEURAL CLASSIFICAÇÃO QUAL?'}]
+
+json
+[{'ID': '27627ins', 'PT': 'Liste os processos ou etapas necessárias para tingir tecidos usando corantes naturais', 'GLOSA': 'TÉCNICA TINGIR TECIDO CORANTE NATURAL LISTAR ETAPA'}]
+
+json
+[{'ID': '27628ins', 'PT': 'Gerar uma lista de palavras-chave para o tópico "Engenharia Aeronáutica"', 'GLOSA': 'GERAR LISTA PALAVRA-CHAVE TÓPICO "ENGENHARIA AERONÁUTICA" '}]
+
+json
+[{'ID': '27629ins', 'PT': 'Escreva um esboço de personagem para um velho rabugento', 'GLOSA': 'PERSONAGEM VELHO RABUGENTO ESCREVER ESBOÇO'}]
+
+json
+[{'ID': '27630ins', 'PT': 'Categorize o seguinte item como uma função primária ou secundária de um smartphone', 'GLOSA': 'ITEM CATEGORIZAR FUNÇÃO PRIMÁRIO OU SECUNDÁRIO SMARTPHONE'}]
+
+json
+[{'ID': '27631ins', 'PT': 'Cite dois pares de cores complementares', 'GLOSA': 'VOCÊ CITE DOIS PAR COR COMPLEMENTO'}]
+
+json
+[{'ID': '27632ins', 'PT': 'Liste as etapas necessárias para usar uma calculadora gráfica', 'GLOSA': 'CALCULADORA GRÁFICA USAR ETAPA LISTAR'}]
+
+json
+[{'ID': '27633ins', 'PT': 'Gere um apelido exclusivo para o nome "John".', 'GLOSA': 'JOHN APELIDO EXCLUSIVO GERAR'}]
+
+json
+[{'ID': '27634ins', 'PT': 'Determine a base e a altura de um triângulo dada sua área.', 'GLOSA': 'TRIÂNGULO ÁREA DADO BASE ALTURA DETERMINAR'}]
+
+json
+[{'ID': '27635ins', 'PT': 'Dada a seguinte lista de animais, determine a população média de cada espécie.', 'GLOSA': 'ANIMAL LISTA DADO DETERMINAR MÉDIA POPULAÇÃO ESPÉCIE'}]
+
+json
+[{'ID': '27636ins', 'PT': 'Crie uma função que exiba todos os números primos de 1 a n.', 'GLOSA': 'FUNÇÃO CRIAR NÚMERO PRIMO 1 N EXIBIR'}]
+
+json
+[{'ID': '27637ins', 'PT': 'Dada uma palavra, determine o número de vogais na palavra.', 'GLOSA': 'PALAVRA DADO CONTAR QUANTIDADE VOGAL'}]
+
+json
+[{'ID': '27638ins', 'PT': 'Dado um número, encontre os dois números primos que somados formam esse número.', 'GLOSA': 'NÚMERO DADO ENCONTRAR DOIS NÚMERO PRIMO SOMAR IGUAL NÚMERO.'}]
+
+json
+[{'ID': '27639ins', 'PT': 'Crie um programa Python que imprima todos os números primos no intervalo fornecido.', 'GLOSA': 'PROGRAMA PYTHON CRIAR IMPRIMIR NÚMERO PRIMO INTERVALO FORNECER'}]
+
+json
+[{'ID': '27640ins', 'PT': 'Crie um itinerário de férias que visite as três cidades a seguir.', 'GLOSA': 'VOCÊ CRIAR ITINERÁRIO FÉRIAS VISITAR TRÊS CIDADE SEGUIR.'}]
+
+json
+[{'ID': '27641ins', 'PT': 'Liste 5 maneiras de reduzir o número de acidentes de carro.', 'GLOSA': 'VOCÊ LISTAR 5 MANEIRA REDUZIR NÚMERO ACIDENTE CARRO.'}]
+
+json
+[{'ID': '27642ins', 'PT': 'Forneça uma lista de componentes para um sistema de computador.', 'GLOSA': 'VOCÊ FORNECER LISTA COMPONENTE SISTEMA COMPUTADOR.'}]
+
+json
+[{'ID': '27643ins', 'PT': 'Crie uma tabela de valor nutricional para o seguinte item alimentar.', 'GLOSA': 'CRIAR TABELA VALOR NUTRICIONAL ITEM ALIMENTAR.'}]
+
+json
+[{'ID': '27644ins', 'PT': 'Desenvolva um plano para corrigir o bug com a mensagem de erro fornecida.', 'GLOSA': 'BUG MENSAGEM ERRO CORRIGIR PLANO DESENVOLVER'}]
+
+json
+[{'ID': '27645ins', 'PT': 'Calcule a área e o perímetro da figura dada.', 'GLOSA': 'FIGURA DADO ÁREA PERÍMETRO CALCULAR'}]
+
+json
+[{'ID': '27646ins', 'PT': 'Crie um loop for para a lista de itens fornecida', 'GLOSA': 'FOR LISTA ITEM CRIAR'}]
+
+json
+[{'ID': '27647ins', 'PT': 'Gere uma senha com pelo menos 15 caracteres e que contenha números e caracteres especiais.', 'GLOSA': 'SENHA GERAR 15 CARACTERE NÚMERO CARACTERE ESPECIAL TER.'}]
+
+json
+[{'ID': '35316ins', 'PT': 'Descreva uma situação em que entender o significado do contexto pode ser necessário para concluir a tarefa.', 'GLOSA': 'CONTEXTO SIGNIFICADO ENTENDER NECESSÁRIO CONCLUIR TAREFA DESCREVER SITUAÇÃO'}]
+
+json
+[{'ID': '39065ins', 'PT': 'Gere uma lista de 10 plantas que são fáceis de cuidar', 'GLOSA': 'VOCÊ GERAR LISTA 10 PLANTA FÁCIL CUIDAR'}]
+
+json
+[{'ID': '39076ins', 'PT': 'Reescreva esta frase usando a grafia correta: Este queijo é realmente saboroso', 'GLOSA': 'QUEIJO ESTE REALMENTE SABOROSO'}]
+
+json
+[{'ID': '39105ins', 'PT': 'Liste cinco dicas para melhorar sua dieta.', 'GLOSA': 'VOCÊ LISTAR CINCO DICA MELHORAR DIETA'}]
+
+json
+[
+  {
+    "ID": "40951ins",
+    "PT": "Gere uma lista de cinco países com mais usuários de internet",
+    "GLOSA": "PAÍS CINCO LISTA INTERNET USUÁRIO MAIS GERAR"
+  }
+]
+
+json
+[{'ID': '41350ins', 'PT': 'erro', 'GLOSA': 'ERRO'}]
+
+json
+[{'ID': '45331ins', 'PT': 'Sugira o próximo movimento neste jogo de xadrez.', 'GLOSA': 'JOGO XADREZ MOVIMENTO PRÓXIMO VOCÊ SUGERIR'}]
+
+json
+[{'ID': '45776ins', 'PT': 'Converta a expressão 4(x-3) para sua forma equivalente de declive-interceptação.', 'GLOSA': 'EXPRESSÃO 4(X-3) CONVERTIDO FORMA EQUIVALENTE DECLIVE-INTERCEPTAÇÃO.'}]
+
+json
+[{'ID': '45777ins', 'PT': 'Reescreva a frase para inserir uma palavra de transição em seu lugar.', 'GLOSA': 'FRASE REESCREVER PALAVRA TRANSITIVA INSERIR LUGAR.'}]
+
+json
+[{'ID': '45778ins', 'PT': 'Parafraseie as frases a seguir usando sinônimos.', 'GLOSA': 'FRASE SEGUIR USAR SINÔNIMO PARAFRASEAR'}]
+
+json
+[{'ID': '45779ins', 'PT': 'Liste dois métodos que podem ser usados para aumentar a satisfação do cliente.', 'GLOSA': 'CLIENTE SATISFAÇÃO AUMENTAR MÉTODO DOIS LISTAR'}]
+
+json
+[{'ID': '45780ins', 'PT': 'Com a ajuda de dois exemplos, explique o que é inteligência artificial.', 'GLOSA': 'INTELIGÊNCIA ARTIFICIAL EXPLICAR DOIS EXEMPLO.'}]
+
+json
+[{'ID': '45782ins', 'PT': 'Encontre o valor atual de uma ação dado o preço de fechamento diário da ação da semana passada.', 'GLOSA': 'AÇÃO VALOR ATUAL ENCONTRAR PREÇO FECHAMENTO DIÁRIO AÇÃO SEMANA PASSADA'}]
+
+json
+[{'ID': '49656ins', 'PT': 'Converta a taxa de conversão de moeda de USD para CAD.', 'GLOSA': 'USD CAD TAXA CONVERSÃO CONVERTER'}]
+
+json
+[{'ID': '49657ins', 'PT': 'Produza uma descrição de uma camiseta na frase.', 'GLOSA': 'FRASE DESCRICAO CAMISETA PRODUZIR'}]
+
+json
+[{'ID': '49658ins', 'PT': 'Encontre a frase que contém mais palavras. Produza o índice da frase.', 'GLOSA': 'FRASE PALAVRA MAIS CONTÉM ENCONTRAR PRODUZIR ÍNDICE FRASE'}]
+
+json
+[{'ID': '49659ins', 'PT': 'Determine se a sequência numérica fornecida é uma sequência aritmética.', 'GLOSA': 'SEQUÊNCIA NÚMERO FORNECIDO ARITMÉTICA SER?'}]
+
+json
+[{'ID': '49660ins', 'PT': 'Explique o significado da frase "agravar uma situação ruim com palavras ou ações ofensivas".', 'GLOSA': 'FRASE "AGRAVAR SITUAÇÃO RUIM PALAVRA OU AÇÃO OFENSIVO" SIGNIFICADO EXPLICAR'}]
+
+json
+[{'ID': '49661ins', 'PT': 'Gere um exemplo de uma carta de arrecadação de fundos eficaz', 'GLOSA': 'GERAR EXEMPLO CARTA RECOLHER FUNDO EFICAZ'}]
+
+json
+[{'ID': '49662ins', 'PT': 'Crie um exemplo de anúncio classificado para um emprego', 'GLOSA': 'VOCÊ CRIAR EXEMPLO ANÚNCIO CLASSIFICADO EMPREGO'}]
+
+json
+[{'ID': '49663ins', 'PT': 'Crie um plano para gerenciar dados do cliente', 'GLOSA': 'VOCÊ CRIAR PLANO GERENCIAR DADOS CLIENTE'}]
+
+json
+[{'ID': '51376ins', 'PT': 'Crie uma redação de 500 palavras sobre o papel da tecnologia na educação física.', 'GLOSA': 'VOCÊ CRIAR REDAÇÃO 500 PALAVRA SOBRE PAPEL TECNOLOGIA EDUCAÇÃO FÍSICA.'}]
+
+json
+[{'ID': '51377ins', 'PT': 'Componha uma melodia que expresse tristeza.', 'GLOSA': 'MELODIA TRISTEZA EXPRESSAR VOCÊ COMPOR'}]
+
+json
+[{'ID': '51378ins', 'PT': 'Explique a diferença entre um gráfico de barras e um gráfico de linhas.', 'GLOSA': 'GRÁFICO BARRAS GRÁFICO LINHA DIFERENÇA EXPLICAR'}]
+
+json
+[{'ID': '51379ins', 'PT': 'Crie uma função que receba três parâmetros e retorne o maior deles.', 'GLOSA': 'FUNÇÃO CRIAR TRÊS PARÂMETRO RECEBER RETORNAR MAIOR'}]
+
+json
+[{'ID': '51380ins', 'PT': 'Classifique os seguintes tipos de nuvens: cirros, cúmulos e estratos.', 'GLOSA': 'CIRRO CÚMULO ESTRATO NUVEM CLASSIFICAR'}]
+
+json
+[{'ID': '51381ins', 'PT': 'Sugira o melhor sistema de rastreamento de problemas para uma equipe de desenvolvimento de software de 10 membros.', 'GLOSA': 'EQUIPE 10 MEMBRO DESENVOLVIMENTO SOFTWARE SISTEMA RASTREAMENTO PROBLEMA SUGERIR QUAL?'}]
+
+json
+[{'ID': '51382ins', 'PT': 'Explique o que é o Caminho Óctuplo no Budismo.', 'GLOSA': 'VOCÊ EXPLICAR O QUE CAMINHO ÓCTUPLO BUDISMO?'}]
+
+json
+[{'ID': '51383ins', 'PT': 'Gere um programa em Python para encontrar a mediana de uma lista.', 'GLOSA': 'PROGRAMA PYTHON GERAR LISTA MEDIANA ENCONTRAR'}]
+
+json
+[{'ID': '51384ins', 'PT': 'Gere uma lista de fatores potencialmente influentes relacionados à criminalidade em uma cidade.', 'GLOSA': 'CIDADE CRIMINALIDADE FATOR INFLUENCIAR LISTA GERAR'}]
+
+json
+[{'ID': '51385ins', 'PT': 'Identifique os dois passos mais importantes para planejar uma viagem.', 'GLOSA': 'VOCÊ IDENTIFICAR DOIS PASSO IMPORTANTE PLANEJAR VIAGEM'}]
+
+json
+[{'ID': '51386ins', 'PT': 'Cite três usos para o aprendizado de máquina.', 'GLOSA': 'VOCÊ CITE TRÊS USO APRENDIZADO MÁQUINA.'}]
+
+json
+[{'ID': '51499ins', 'PT': 'Descreva como o mundo seria transformado se todos seguissem uma determinada ideologia.', 'GLOSA': 'MUNDO COMO TRANSFORMAR TODOS SEGUIR IDEOLOGIA DETERMINADO?'}]
+
+json
+[{'ID': '51500ins', 'PT': 'Dê-me um cenário para o seguinte personagem fictício: uma jovem empreendedora de Nova York.', 'GLOSA': 'PERSONAGEM FICÇÃO JOVEM EMPREENDEDOR NOVA IORQUE CENÁRIO DAR'}]
+
+json
+[{'ID': '51502ins', 'PT': 'Crie uma história de fantasia sobre uma aventura em uma caverna.', 'GLOSA': 'VOCÊ CRIAR HISTÓRIA FANTASIA SOBRE AVENTURA CAVERNA'}]
+
+json
+[{'ID': '51503ins', 'PT': 'Limpe o texto fornecido para torná-lo mais conciso.', 'GLOSA': 'TEXTO FORNECIDO LIMPAR CONCISÃO.'}]
+
+json
+[{'ID': '51504ins', 'PT': 'Escreva uma série de instruções para um programa de computador concluir uma tarefa.', 'GLOSA': 'VOCÊ ESCREVER INSTRUÇÃO SÉRIE PROGRAMA COMPUTADOR CONCLUIR  TAREFA.'}]
+
+json
+[{'ID': '51505ins', 'PT': 'Edite a seguinte frase: “Não quero nenhum erro”.', 'GLOSA': 'FRASE "NÃO QUERER NENHUM ERRO" VOCÊ EDITAR'}]
+
+json
+[{'ID': '51506ins', 'PT': 'Gere um novo nome para um produto de tecnologia a partir da descrição fornecida.', 'GLOSA': 'VOCÊ GERAR NOME NOVO PRODUTO TECNOLOGIA DESCRIÇÃO FORNECER?'}]
+
+json
+[{'ID': '51507ins', 'PT': 'Adicione dois adjetivos ao substantivo fornecido para dar um tom mais formal e profissional.', 'GLOSA': 'SUBSTANTIVO ADJETIVO ADJETIVO DOIS FORNECER TOM FORMAL PROFISSIONAL ADICIONAR'}]
+
+json
+[{'ID': '51508ins', 'PT': 'Classifique os livros a seguir em ordem de impacto do autor na literatura.', 'GLOSA': 'LIVRO CADA UM ORDEM IMPACTO AUTOR LITERATURA CLASSIFICAR'}]
+
+json
+[{'ID': '51509ins', 'PT': 'Decida qual afirmação é a mais forte.', 'GLOSA': 'AFIRMAÇÃO QUAL FORTE DECIDIR'}]
+
+json
+[{'ID': '51510ins', 'PT': 'Desenvolver uma estratégia de marketing para um novo produto que incorpore dois canais: e-mail e mídia social', 'GLOSA': 'PRODUTO NOVO ESTRATÉGIA MARKETING DESENVOLVER E-MAIL MÍDIA SOCIAL CANAL INCLUIR DOIS'}]
+
+json
+[{'ID': '51511ins', 'PT': 'Crie um algoritmo que possa prever os preços das ações de uma determinada empresa.', 'GLOSA': 'ALGORITMO CRIAR PREVER AÇÃO PREÇO EMPRESA'}]
+
+json
+[{'ID': '51512ins', 'PT': 'Qual é o processo para redefinir o Microsoft Word?', 'GLOSA': 'MICROSOFT WORD PROCESSO REDEFINIR QUAL?'}]
+
+json
+[{'ID': '51513ins', 'PT': 'Resuma os detalhes da troca de moeda.', 'GLOSA': 'DETALHE TROCA MOEDA RESUMIR'}]
+
+json
+[{'ID': '51514ins', 'PT': 'Crie uma estratégia de enfrentamento de saúde mental.', 'GLOSA': 'VOCÊ CRIAR ESTRATÉGIA SAÚDE MENTAL ENFRENTAMENTO'}]
+
+json
+[{'ID': '51515ins', 'PT': 'Por favor, indique os ingredientes principais de uma salada italiana.', 'GLOSA': 'SALADA ITALIANO INGREDIENTE PRINCIPAL VOCÊ INDICAR'}]
+
+json
+[{'ID': '51654ins', 'PT': 'Com base na receita a seguir, quais são os ingredientes necessários para o prato?', 'GLOSA': 'RECEITA SEGUIR INGREDIENTE NECESSÁRIO PRATO QUAL?'}]
+
+json
+[{'ID': '51655ins', 'PT': 'Dada a declaração de entrada, forneça o sentimento da declaração em termos de pontuações de sentimento.', 'GLOSA': 'DECLARAÇÃO ENTRADA DADO FORNECER SENTIMENTO DECLARAÇÃO PONTUAÇÃO SENTIMENTO'}]
+
+json
+[{'ID': '51656ins', 'PT': 'Dada a declaração de entrada, forneça a declaração mais semelhante a ela.', 'GLOSA': 'DECLARAÇÃO ENTRADA FORNECER DECLARAÇÃO SEMELHANTE'}]
+
+json
+[{'ID': '51657ins', 'PT': 'Combine as afirmações em uma frase, mantendo o significado original.', 'GLOSA': 'AFIRMAÇÃO COMBINAR FRASE SIGNIFICADO ORIGINAL MANTER'}]
+
+json
+[{'ID': '51658ins', 'PT': 'Elimine palavras desnecessárias das frases sem alterar o significado.', 'GLOSA': 'FRASE PALAVRA DESNECESSÁRIO ELIMINAR SIGNIFICADO ALTERAR NÃO.'}]
+
+json
+[{'ID': '51659ins', 'PT': 'Reescreva a frase como uma pergunta de sim ou não.', 'GLOSA': 'FRASE REESCREVER PERGUNTA SIM OU NÃO?'}]
+
+json
+[{'ID': '51660ins', 'PT': 'Crie uma nova frase que tenha um significado semelhante à frase abaixo.', 'GLOSA': 'FRASE NOVA CRIAR SIGNIFICADO SEMELHANTE FRASE ABAIXO.'}]
+
+json
+[{'ID': '51661ins', 'PT': 'Crie uma frase original com base na palavra-chave fornecida.', 'GLOSA': 'VOCÊ CRIAR FRASE ORIGINAL PALAVRA-CHAVE FORNECER.'}]
+
+json
+[{'ID': '51662ins', 'PT': 'Adicione uma frase que siga logicamente esta.', 'GLOSA': 'FRASE ADICIONAR SEGUIDO LÓGICO.'}]
+
+json
+[{'ID': '51664ins', 'PT': 'Descreva a receita do seguinte prato.', 'GLOSA': 'RECEITA PRATO DESCRITIVO'}]
+
+json
+[{'ID': '51665ins', 'PT': 'Conte-me sobre um caso de uso de inteligência artificial.', 'GLOSA': 'VOCÊ CONTAR CASO USO INTELIGÊNCIA ARTIFICIAL'}]
+
+json
+[{'ID': '51666ins', 'PT': 'Conte-me um filme popular dos anos 80.', 'GLOSA': 'VOCÊ CONTAR FILME POPULAR ANOS 80'}]
+
+json
+[{'ID': '51667ins', 'PT': 'Determine se esta frase é gramatical', 'GLOSA': 'FRASE ESTA GRAMATICAL DETERMINAR'}]
+
+json
+[{'ID': '51668ins', 'PT': 'Gere um exemplo de uma obra literária com dois personagens', 'GLOSA': 'VOCÊ GERAR EXEMPLO OBRA LITERÁRIO DOIS PERSONAGEM'}]
+
+json
+[{'ID': '51669ins', 'PT': 'Qual evento está associado ao conto “O Colar”', 'GLOSA': 'CONTO "O COLAR" QUAL EVENTO ASSOCIAR?'}]
+
+json
+[{'ID': '51670ins', 'PT': 'Reescreva esta frase para maior clareza', 'GLOSA': 'FRASE VOCÊ REESCREVER CLARO'}]
+
+json
+[{'ID': '51671ins', 'PT': 'Gere uma frase bem conhecida', 'GLOSA': 'FRASE CONHECIDO GERAR'}]
+
+json
+[{'ID': '51672ins', 'PT': 'Escreva uma história criativa começando com a frase “Eu nunca esperei que isso acontecesse”', 'GLOSA': 'EU NUNCA ESPERAR ISSO ACONTECER'}]
+
+json
+[{'ID': '51673ins', 'PT': 'Imagine que você está em um supermercado. Escreva uma lista de cinco itens que você compraria', 'GLOSA': 'IMAGINAR VOCÊ ESTAR MERCADO ESCREVER LISTA CINCO ITEM COMPRAR'}]
+
+json
+[{'ID': '51674ins', 'PT': 'Gerar uma nova ideia que poderia ser usada para reduzir as emissões globais de carbono', 'GLOSA': 'IDEIA NOVA GERAR REDUZIR EMISSÃO CARBONO GLOBAL USAR'}]
+
+json
+[{'ID': '51675ins', 'PT': 'Identifique o tipo de frase: “Ele já tinha comido café da manhã”', 'GLOSA': 'FRASE TIPO IDENTIFICAR "ELE JÁ COMER CAFÉ MANHÃ"'}]
+
+json
+[{'ID': '51676ins', 'PT': 'Cite cinco tipos de espécies que vivem no deserto', 'GLOSA': 'VOCÊ CITAR CINCO ESPÉCIE DESERTO VIVER'}]
+
+json
+[{'ID': '51677ins', 'PT': 'Crie um novo slogan para uma marca de automóveis com base na frase “Pense no futuro”', 'GLOSA': 'FUTURO PENSAR AUTOMÓVEL MARCA SLOGAN CRIAR'}]
+
+json
+[{'ID': '51678ins', 'PT': 'Adicione palavras ao dístico rimado', 'GLOSA': 'VOCÊ ADICIONAR PALAVRA DISTICO RIMAR'}]
+
+json
+[{'ID': '51679ins', 'PT': 'Para criar um palíndromo, complete esta frase', 'GLOSA': 'FRASE COMPLETAR PALÍNDROMO CRIAR'}]
+
+json
+[{'ID': '51681ins', 'PT': 'Explique o conceito de comércio eletrônico.', 'GLOSA': 'COMÉRCIO ELETRÔNICO VOCÊ EXPLICAR CONCEITO?'}]
+
+json
+[{'ID': '51682ins', 'PT': 'Pense em uma palavra-valise que combine as palavras “porco” e “cachorro”', 'GLOSA': 'VOCÊ PENSAR PALAVRA-VALISE COMBINAR PORCO CACHORRO'}]
+
+json
+[{'ID': '51683ins', 'PT': 'Expanda a frase a seguir.', 'GLOSA': 'FRASE SEGUIR EXPANDIR'}]
+
+json
+[{'ID': '51684ins', 'PT': 'Crie uma história curta sobre uma jovem bruxa lutando com sua identidade', 'GLOSA': 'CRIAR HISTÓRIA CURTO JOVEM BRUXA LUTAR IDENTIDADE'}]
+
+json
+[{'ID': '15381inp', 'PT': '<imagem: https://images.unsplash.com/photo-1514943473584-375a27f73301?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80>', 'GLOSA': '<IMAGEM>'}]
+
+json
+[{'ID': '15409inp', 'PT': '![texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg/220px-Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg)', 'GLOSA': 'IMAGEM TEXTO ALTERNATIVO URL'}]
+
+json
+[{'ID': '15444inp', 'PT': 'https://www.theatlantic.com/magazine/archive/2018/09/the-case-for-reparations/565718/', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR URL.'}]
+
+json
+[{'ID': '15505inp', 'PT': 'https://upload.wikimedia.org/wikipedia/commons/f/fa/No_ID_by_Charles_Banks_Wilson.jpg', 'GLOSA': 'NÃO TER GLOSA'}]
+
+json
+[{'ID': '15513inp', 'PT': 'https://www.youtube.com/watch?v=hFc_T9ic1fU', 'GLOSA': 'NÃO ENTENDER. VOCÊ PODE REPETIR? '}]
+
+json
+[{'ID': '15516inp', 'PT': 'https://www.nature.com/articles/s41598-019-47932-3', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR URL.'}]
+
+json
+[{'ID': '15517inp', 'PT': 'https://www.youtube.com/watch?v=q3rocGGTfmE', 'GLOSA': 'YOUTUBE VÍDEO URL '}]
+
+json
+[{'ID': '22770inp', 'PT': '<nenhuma entrada>', 'GLOSA': '<nenhuma entrada>'}]
+
+json
+[{'ID': '29473inp', 'PT': '<noinput>\n\n![texto alternativo](https://www.researchgate.net/profile/Trend_Sx/publication/325598918/figure/fig1/AS:614401945489408@1527320926943/Plot-of-x-and-y.jpg)', 'GLOSA': 'NÃO-ENTENDER'}]
+
+json
+[{'ID': '29505inp', 'PT': '<Imagem de um pássaro>', 'GLOSA': 'PÁSSARO IMAGEM'}]
+
+json
+[{'ID': '29530inp', 'PT': 'var x=10; para(var i=1;i<x;++i){console.log(i);} ', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR'}]
+
+json
+[{'ID': '29610inp', 'PT': 'isto_é_uma_string', 'GLOSA': 'ISTO STRING'}]
+
+json
+[{'ID': '40510inp', 'PT': '<?senha', 'GLOSA': 'SENHA?'}]
+
+json
+[{'ID': '41959inp', 'PT': '![imagem](https://images.unsplash.com/photo-1572014261463-a9bb9eff4dff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)', 'GLOSA': 'IMAGEM'}]
+
+json
+[{'ID': '42214inp', 'PT': 'função helloWorld() {\\nreturn \'Olá, Mundo!\';\\n}', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR - FUNÇÃO DE COMPUTADOR'}]
+
+json
+[{'ID': '6335out', 'PT': 'Um equívoco comum sobre dinheiro é que ter muito dinheiro fará você feliz. Embora ter mais dinheiro possa ajudar a tornar a vida mais fácil, isso não traz felicidade verdadeira e duradoura.', 'GLOSA': 'DINHEIRO EQUÍVOCO COMUM MUITO DINHEIRO VOCÊ FELIZ. MAIS DINHEIRO TER PODER AJUDAR VIDA FÁCIL, MAS FELICIDADE VERDADEIRO DURADOURO NÃO TRAZER.'}]
+
+json
+[{'ID': '6621out', 'PT': 'Apreciação', 'GLOSA': 'APRECIAR'}]
+
+json
+[{'ID': '14018out', 'PT': 'bluGriffin22', 'GLOSA': 'BLU GRIFFIN 22'}]
+
+json
+[{'ID': '16580out', 'PT': 'John estava em um jantar de negócios quando anunciaram que ele havia ganhado um prêmio inesperado. Ele estava em choque e não sabia o que dizer. Ao se aproximar para receber o prêmio, ele ficou impressionado com os aplausos em pé que recebeu do público. Após aceitar o prêmio, John agradeceu às pessoas que o apoiaram e nunca esperaram tal reconhecimento. Ele credita esse momento como o ponto de virada em sua carreira e é grato pela honra.', 'GLOSA': 'JOHN JANTAR NEGÓCIO ESTAR QUANDO ANUNCIAR ELE GANHAR PRÊMIO ESPERAR NÃO. ELE CHOCAR SABER NADA DIZER. PRÓXIMO RECEBER PRÊMIO ELE IMPRESSIONAR APLAUSO PÚBLICO. PRÊMIO ACEITAR JOHN AGRADECER PESSOA APOIAR ELE ESPERAR NUNCA RECONHECIMENTO. MOMENTO ELE CREDITO PONTO VIRAR CARREIRA ELE AGRADECER HONRA.'}]
+
+json
+[{'ID': '19235out', 'PT': '![texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjXGJNJxgxovB1GJZ-z-KEYamo50gbfeJFoyMS_dikopPQ9ykF&usqp=CAU)', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR IMAGEM.'}]
+
+json
+[{'ID': '20065out', 'PT': '![texto alternativo](https://i.pinimg.com/originals/a7/fe/90/a7fe9088a96adc95e57e9fe5161f7e59.jpg)', 'GLOSA': 'IMAGEM TEXTO-ALTERNATIVO LINK'}]
+
+json
+[{"ID": "20165out", "PT": "<span style=\\"font-style: italic; font-size: larger;", "GLOSA": ""}]
+
+json
+[{'ID': '23617out', 'PT': '\\\\b(?=[aeiou]{3})([a-zA-Z]+)\\\\b', 'GLOSA': 'NÃO ENTENDER! '}]
+
+json
+[{'ID': '24143out', 'PT': '(Um e!B) || (!Um e!B)', 'GLOSA': 'UM E!B UM E!B'}]
+
+json
+[{'ID': '24377out', 'PT': '^([0-9]{2})/([0-9]{2})/([0-9]{4})$', 'GLOSA': 'NÃO-ENTENDER'}]
+
+json
+[{'ID': '25959out', 'PT': '<!DOCTYPE html>\n<html>\n<head>\n<title>Fatura</title>\n</head>\n<body>\n<h1>Fatura</h1>\n<h2>Informações do cliente</h2>\n<ul>\n<li>Nome: ___________________</li>\n<li>Endereço: _______________</li>\n<li>Telefone: _________________</li>\n</ul>\n<h2>Detalhes da fatura</h2>\n<ul>\n<li>Número da fatura: _________</li>\n<li>Data da fatura: ___________</li>\n<li>Valor da fatura: _________</li>\n</ul>\n</body>\n</html>', 'GLOSA': 'NÃO POSSÍVEL TRADUZIR. GLOSA NÃO É ADEQUADO PARA HTML.'}]
+
+json
+[{'ID': '26081out', 'PT': 'A8#hP7#v', 'GLOSA': 'A8#hP7#v'}]
+
+json
+[{'ID': '26236out', 'PT': '![Gráfico do processo de conversão vetorial](https://lh3.googleusercontent.com/euhjc1gijSw2DjFzahC7RLp8hGxbC7VuYaKWDf7VFx1lmhQ7yEI_CmVov8uLSP-Lm7mIb9ZKVmKnfELroIFIvV5dCHbseUbGo3qVPu-Lk-91ezRZ1X_jNXLsu6PcsjKBOgRJzRw)', 'GLOSA': '![GRÁFICO PROCESSO CONVERSÃO VETORIAL](https://lh3.googleusercontent.com/euhjc1gijSw2DjFzahC7RLp8hGxbC7VuYaKWDf7VFx1lmhQ7yEI_CmVov8uLSP-Lm7mIb9ZKVmKnfELroIFIvV5dCHbseUbGo3qVPu-Lk-91ezRZ1X_jNXLsu6PcsjKBOgRJzRw)'}]
+
+json
+[{'ID': '34289out', 'PT': '<!-- Terça-feira, 10 de março de 2020 - 11:24 AM -->', 'GLOSA': 'TERÇA-FEIRA DIA 10 MARÇO 2020 11:24 AM'}]
+
+json
+[{'ID': '34295out', 'PT': '<selecionar>\n<opção valor="valor1">valor1</opção>\n<opção valor="valor2">valor2</opção>\n<opção valor="valor3">valor3</opção>\n</selecionar>', 'GLOSA': 'SELECIONAR VALOR1 VALOR2 VALOR3'}]
+
+json
+[{'ID': '35052out', 'PT': 'A principal diferença em funções e responsabilidades entre Desenvolvedores Sênior e Júnior é o nível de experiência e autonomia. Espera-se que os Desenvolvedores Sênior tenham mais conhecimento técnico, sejam capazes de liderar projetos e atuem como mentores para desenvolvedores júnior. Os Desenvolvedores Sênior coordenam seu trabalho com outros departamentos e gerenciam suas próprias tarefas, também lidando com mudanças de última hora, se necessário. Os Desenvolvedores Júnior são funcionários iniciantes com menos experiência que devem assumir tarefas mais simples conforme as instruções dos desenvolvedores sênior. Eles também se envolvem em projetos de desenvolvimento para construir sua experiência, mas são supervisionados de perto pelos Desenvolvedores Sênior.', 'GLOSA': 'DIFERENÇA PRINCIPAL FUNÇÃO RESPONSABILIDADE DESENVOLVEDOR SÊNIOR JÚNIOR NÍVEL EXPERIÊNCIA AUTONOMIA DESENVOLVEDOR SÊNIOR ESPERAR CONHECIMENTO TÉCNICO MAIS LIDERAR PROJETO ATUAR MENTOR DESENVOLVEDOR JÚNIOR DESENVOLVEDOR SÊNIOR COORDENAR TRABALHO DEPARTAMENTO OUTRO GERENCIAR TAREFA PRÓPRIO TAMBÉM LIDAR MUDANÇA ÚLTIMA HORA NECESSÁRIO DESENVOLVEDOR JÚNIOR FUNCIONÁRIO INICIAR MENOS EXPERIÊNCIA ASSUMIR TAREFA SIMPLES INSTRUÇÃO DESENVOLVEDOR SÊNIOR TAMBÉM ENVOLVER PROJETO DESENVOLVIMENTO CONSTRUIR EXPERIÊNCIA MAS SUPERVISIONAR PERTO DESENVOLVEDOR SÊNIOR'}]
+
+json
+[{'ID': '35053out', 'PT': 'O maior risco de segurança da informação são violações de dados e ataques cibernéticos. Sem medidas de segurança adequadas, agentes mal-intencionados podem acessar dados confidenciais ou sensíveis armazenados em redes, levando a danos financeiros e de reputação. O acesso não autorizado e o uso indevido de dados também podem ter um impacto devastador nas operações de uma organização e na confiança do cliente. Portanto, as organizações devem ter uma política de segurança abrangente para proteger seus dados de ameaças potenciais.', 'GLOSA': 'SEGURANÇA INFORMAÇÃO RISCO GRANDE DADOS VIOLAÇÃO ATAQUE CIBERNÉTICO. SEGURANÇA MEDIDA ADEQUADO NÃO TER AGENTE MAL-INTENCIONADO PODER ACESSAR DADOS CONFIDENCIAL SENSÍVEL REDE ARMAZENAR, DANOS FINANCEIRO REPUTAÇÃO. ACESSO NÃO AUTORIZADO USO-INDEBITO DADOS TAMBÉM IMPACTO DEVASTADOR ORGANIZAÇÃO OPERAÇÃO CONFIANÇA CLIENTE. ENTÃO ORGANIZAÇÃO TER POLÍTICA SEGURANÇA ABRANGENTE PROTEGER DADOS AMEAÇA POTENCIAL.'}]
+
+json
+[{'ID': '35054out', 'PT': 'A vida é cheia de imprevistos e desafios, e podemos ser assombrados por lembranças do passado. Alguns permanecerão no caminho e enfrentarão seus medos, enquanto outros voltarão e nunca saberão o quão longe poderiam ter ido. No final, cada pessoa deve encontrar uma maneira de enfrentar o desconhecido e sair vivo.', 'GLOSA': 'VIDA CHEIO IMPREVISTO DESAFIO PODE ASSOMBRAR LEMBRANÇA PASSADO. ALGUNS FICAR CAMINHO ENFRENTAR MEDO. OUTROS VOLTAR NUNCA SABER LONGE PODER IR. FINAL CADA PESSOA DEVER ENCONTRAR MANEIRA ENFRENTAR DESCONHECIDO SAIR VIVO.'}]
+
+json
+[{'ID': '35055out', 'PT': 'Ele era um explorador corajoso e valente.', 'GLOSA': 'ELE EXPLORADOR CORAJOSO VALENTE.'}]
+
+json
+[{'ID': '35056out', 'PT': 'O narrador pode estar se sentindo contemplativo e em paz.', 'GLOSA': 'NARRADOR PODER SENTIR-SE CONTEMPLATIVO PAZ.'}]
+
+json
+[{'ID': '35057out', 'PT': 'O personagem ficou bravo e gritou com o colega de trabalho porque se sentiu menosprezado e desrespeitado.', 'GLOSA': 'PERSONAGEM BRAVO GRITAR COLEGA TRABALHO PORQUE MENOSPREZAR DESRESPEITAR'}]
+
+json
+[{'ID': '35058out', 'PT': 'Este carro é classificado como um carro econômico.', 'GLOSA': 'CARRO ESTE CLASSIFICAR CARRO ECONÔMICO.'}]
+
+json
+[{'ID': '35060out', 'PT': 'Um novo recurso que poderia ser implementado no Gmail é a capacidade de definir lembretes personalizados. Isso permitiria que os usuários definissem lembretes sobre certos e-mails ou tarefas que precisam ser feitas no futuro e recebessem notificações quando chegasse a hora.', 'GLOSA': 'GMAIL RECURSO NOVO PODER IMPLEMENTAR CAPACIDADE DEFINIR LEMBRETES PERSONALIZADO. ISSO PERMITIR USUÁRIO DEFINIR LEMBRETES SOBRE EMAIL OU TAREFAS FUTURO PRECISAR FAZER E RECEBER NOTIFICAÇÃO CHEGAR HORA.'}]
+
+json
+[
+  {
+    "ID": "35061out",
+    "PT": "Across:\n1. Forma de inteligência __RTIFICIAL__\n4. Tabela para dados __BLE__\n7. Tarefas automatizadas __ROBOTS__\n10. Comportamento aprendido __HABIT__\n\nDown:\n2. Representação visual de __DATA__\n3. Técnicas de resolução de problemas __LGOIRTHMS__\n5. Informação não estruturada __ETXRACT__\n6. Conhecimento computável __LEDGE__\n8. Saída de uma máquina __EPUT__\n9. Sistemas especialistas __XEPERT__",
+    "GLOSA": "ACROSS: 1. FORMA INTELIGÊNCIA ARTIFICIAL 4. TABELA DADOS TABELA 7. TAREFAS AUTOMATIZAR ROBÔ 10. COMPORTAMENTO APRENDER HÁBITO DOWN: 2. REPRESENTAÇÃO VISUAL DADOS 3. TÉCNICA RESOLVER PROBLEMA ALGORITMO 5. INFORMAÇÃO NÃO ESTRUTURAR EXTRATO 6. CONHECIMENTO COMPUTAR CONHECIMENTO 8. SAÍDA MÁQUINA SAÍDA 9. SISTEMA ESPECIALISTA ESPECIALISTA"
+  }
+]
+
+json
+[{'ID': '35062out', 'PT': 'A crise ambiental é uma das questões mais urgentes do nosso tempo e deve ser enfrentada por meio de ações coletivas e mudanças individuais.', 'GLOSA': 'CRISE AMBIENTAL QUESTÃO URGENTE TEMPO NOSSO DEVER AÇÃO COLETIVO MUDANÇA INDIVIDUAL ENFRENTAR.'}]
+
+json
+[{'ID': '35063out', 'PT': 'Duas medidas que uma pessoa pode tomar para reduzir o aquecimento global são reduzir o consumo de energia e fazer um esforço para mudar para fontes de energia renováveis. Além disso, tornar-se um consumidor informado, reduzir o consumo de água, dirigir menos e plantar árvores são todas ações que podem ajudar a reduzir o aquecimento global.', 'GLOSA': 'PESSOA PODER TOMAR DUAS MEDIDAS REDUZIR AQUECIMENTO GLOBAL REDUZIR CONSUMO ENERGIA E FAZER ESFORÇO MUDAR FONTE ENERGIA RENOVÁVEL. ALÉM DISSO CONSUMIDOR INFORMAR REDUZIR CONSUMO ÁGUA DIRIGIR MENOS PLANTAR ÁRVORE AÇÃO AJUDAR REDUZIR AQUECIMENTO GLOBAL.'}]
+
+json
+[{'ID': '35064out', 'PT': 'Três grandes invenções da China do século VIII incluem a pólvora primitiva, o ábaco e o papel-moeda/dinheiro. A pólvora foi criada pela combinação de vários ingredientes combustíveis e o papel-moeda foi usado por comerciantes como um sistema de troca. O ábaco, que é uma forma de matemática chinesa, é o dispositivo de cálculo mais antigo do mundo.', 'GLOSA': 'CHINA SÉCULO OITO INVENÇÃO GRANDE TRÊS INCLUIR PÓLVORA PRIMITIVO ÁBACO PAPEL-MOEDA/DINHEIRO. PÓLVORA CRIAR COMBINAÇÃO INGREDIENTE COMBUSTÍVEL VÁRIOS PAPEL-MOEDA USAR COMERCIANTE SISTEMA TROCA. ÁBACO FORMA MATEMÁTICA CHINÊS DISPOSITIVO CÁLCULO ANTIGO MUNDO.'}]
+
+json
+[{'ID': '35065out', 'PT': 'De acordo com o site Worldometer, a população da Tailândia em 2019 foi estimada em 69.425.998 pessoas.', 'GLOSA': 'WORLDOMETER SITE TAILÂNDIA POPULAÇÃO 2019 ESTIMAR 69.425.998 PESSOA.'}]
+
+json
+[{'ID': '35066out', 'PT': 'Lembrete definido! Você será lembrado de verificar seus e-mails toda quarta-feira às 15h.', 'GLOSA': 'Lembrete DEFINIR VOCÊ LEMBRAR VERIFICAR E-MAIL TODO QUARTA-FEIRA 15H.'}]
+
+json
+[{'ID': '35068out', 'PT': 'Criar um esboço eficaz para um artigo de pesquisa é uma etapa importante no processo de escrita. Ele ajuda você a planejar e organizar as ideias e evidências que darão suporte ao seu argumento. Primeiro, pense nos pontos-chave e organize-os em uma estrutura hierárquica. Para criar o esboço, comece escrevendo o tópico central no topo de uma folha de papel. Em seguida, liste os subtópicos e as ideias de apoio na ordem em que você planeja discuti-los no artigo. Por fim, organize os subtópicos em uma ordem lógica e preencha os detalhes abaixo de cada ponto principal.', 'GLOSA': 'ARTIGO PESQUISA ESBOÇO EFETIVO IMPORTANTE ESCREVER PROCESSO AJUDAR VOCÊ PLANEJAR ORGANIZAR IDEIA EVIDÊNCIA APOIO ARGUMENTO PRIMEIRO VOCÊ PENSAR PONTOS-CHAVE ORGANIZAR HIERARQUIA ESTRUTURA CRIAR ESBOÇO COMEÇAR ESCREVER TÓPICO CENTRAL FOLHA PAPEL TOPO DEPOIS VOCÊ LISTAR SUBTÓPICO IDEIA APOIO ORDEM VOCÊ PLANEJAR DISCUTIR ARTIGO POR FIM ORGANIZAR SUBTÓPICO ORDEM LÓGICA PREENCHER DETALHE CADA PONTO PRINCIPAL.'}]
+
+json
+[{'ID': '41206out', 'PT': 'Os partidos Democrata e Republicano nos Estados Unidos diferem significativamente em suas ideologias e posições políticas. Em termos gerais, os democratas apoiam um maior envolvimento do governo em questões econômicas e sociais, enquanto os republicanos geralmente defendem uma interferência governamental limitada. Os democratas tendem a favorecer posições progressistas em questões como assistência médica, impostos e imigração, enquanto os republicanos geralmente apoiam abordagens conservadoras para essas questões.', 'GLOSA': 'ESTADOS-UNIDOS PARTIDO DEMOCRATA REPUBLICANO DIFERENTE IDEOLOGIA POSIÇÃO POLÍTICA. GERAL DEMOCRATA APOIAR MAIS GOVERNO ENVOLVER QUESTÃO ECONÔMICO SOCIAL, REPUBLICANO GERAL DEFENDER POUCO GOVERNO INTERFERIR. DEMOCRATA TENDÊNCIA FAVOR POSIÇÃO PROGRESSISTA QUESTÃO SAÚDE IMPOSTO IMIGRAÇÃO, REPUBLICANO GERAL APOIAR ABORDAGEM CONSERVADOR QUESTÃO.'}]
+
+json
+[{'ID': '41207out', 'PT': 'A frase “ver os sinais de alerta de um evento ou resultado que está por vir.” é usada para significar que alguém pode ver os sinais de alerta de um evento ou resultado que está por vir. Pode ser usada literal para descrever uma situação em que a escrita real parece estar alertando sobre um resultado, ou figurativamente para descrever quando alguém pode sentir que um certo resultado está por vir.', 'GLOSA': 'FRASE "VER SINAL ALERTA EVENTO RESULTADO VIR" USAR SIGNIFICAR ALGUÉM PODE VER SINAL ALERTA EVENTO RESULTADO VIR. PODE USAR LITERAL DESCRITIVO SITUAÇÃO ESCRITA REAL PARECER ALERTAR RESULTADO OU FIGURATIVO DESCRITIVO ALGUÉM PODE SENTIR RESULTADO VIR.'}]
+
+json
+[{'ID': '41208out', 'PT': 'A maior montanha da América do Sul é o Aconcágua, localizado na Argentina e que atinge uma altura de 6.962 metros (22.841 pés).', 'GLOSA': 'AMÉRICA DO SUL MONTANHA GRANDE ACONCAGUA ARGENTINA LOCALIZAR ALTURA 6.962 METRO (22.841 PÉ) ELE ATINGIR'}]
+
+json
+[{'ID': '41209out', 'PT': 'Os gatos dormiram.', 'GLOSA': 'GATO DORMIR.'}]
+
+json
+[{'ID': '41211out', 'PT': 'A World Wide Web foi inventada pelo cientista da computação inglês Tim Berners-Lee em 1989.', 'GLOSA': 'TIM BERNERS-LEE INVENTAR WEB INGLÊS CIENTISTA COMPUTADOR 1989.'}]
+
+json
+[{'ID': '41212out', 'PT': 'Os Estados Unidos são uma democracia representativa com um governo federal de três poderes e um processo eleitoral para a seleção de seus líderes.', 'GLOSA': 'ESTADOS UNIDOS SER DEMOCRACIA REPRESENTATIVO TER GOVERNO FEDERAL PODER TRÊS PROCESSO ELEITORAL SELEÇÃO LÍDER'}]
+
+json
+[{'ID': '41213out', 'PT': 'John Doe é preso por suspeita de assassinato em Nova York.', 'GLOSA': 'JOHN DOE PRESO SUSPEITA ASSASSINAR NOVA YORK.'}]
+
+json
+[{'ID': '41214out', 'PT': 'A sobrevivência dos animais em seus habitats está se tornando cada vez mais dependente de esforços colaborativos entre diferentes organizações, governos e indivíduos, destacando a importância de divulgar iniciativas de conservação para proteger espécies específicas.', 'GLOSA': 'ANIMAL SOBREVIVER HABITAT DEPENDER CADA VEZ MAIS ESFORÇO COLABORATIVO ORGANIZAÇÃO GOVERNAMENTO INDIVÍDUO DESTACAR IMPORTANTE DIVULGAR INICIATIVA CONSERVAR PROTEGER ESPÉCIE'}]
+
+json
+[{'ID': '41215out', 'PT': 'A lua emite uma luz fraca no céu noturno, enquanto o sol emite uma luz forte que ilumina o dia.', 'GLOSA': 'LUA LUZ FRACO CÉU NOITE SOL LUZ FORTE DIA ILUMINAR'}]
+
+json
+[{'ID': '41217out', 'PT': '1. Macacos são animais altamente inteligentes e capazes de resolver problemas complexos.\\n2. Existem mais de 250 espécies de macacos, que incluem símios, gibões e macacos.\\n3. Macacos vivem em climas tropicais e comem uma variedade de frutas, vegetais, insetos e pequenos animais.', 'GLOSA': 'MACACO ANIMAL INTELIGENTE CAPAZ RESOLVER PROBLEMA COMPLEXO. EXISTIR MAIS DE 250 ESPÉCIE MACACO INCLUIR SÍMIO GIBÃO MACACO. MACACO VIVER CLIMA TROPICAL COMER FRUTA VEGETAL INSETO ANIMAL PEQUENO.'}]
+
+json
+[{'ID': '41219out', 'PT': 'Este infográfico resume os procedimentos legais em torno do processo antitruste da Microsoft. Em 1998, o Departamento de Justiça dos EUA entrou com um processo contra a Microsoft alegando que a empresa havia abusado de seu monopólio no mercado de sistemas operacionais de computador. O caso incluiu vários recursos a vários tribunais, resultando na Microsoft sendo considerada culpada e ordenada a ser dividida em duas empresas separadas até 2000. Em 2001, a Microsoft e o Departamento de Justiça chegaram a um acordo, com a Microsoft sendo ordenada a fazer algumas mudanças significativas em suas práticas comerciais. Também foi ordenada a pagar US$ 750 milhões em multas e outros custos. Este processo antitruste teve implicações significativas para a indústria de software, levando a um maior escrutínio de grandes empresas de tecnologia e suas práticas comerciais. \\n![Processos legais em torno do processo antitruste da Microsoft](https://infogram-thumb-', 'GLOSA': 'ESTE INFOGRÁFICO RESUMIR PROCEDIMENTO LEGAL PROCESSO ANTITRUSTE MICROSOFT. 1998 JUSTIÇA DEPARTAMENTO EUA ENTRAR PROCESSO CONTRA MICROSOFT DIZER EMPRESA ABUSAR MONOPÓLIO MERCADO SISTEMA OPERACIONAL COMPUTADOR. CASO INCLUIR VÁRIOS RECURSO TRIBUNAL RESULTAR MICROSOFT CONSIDERAR CULPADO ORDENAR DIVIDIR DUAS EMPRESA SEPARADO 2000. 2001 MICROSOFT JUSTIÇA DEPARTAMENTO ACORDAR MICROSOFT ORDENAR FAZER ALGUM MUDANÇA SIGNIFICATIVO PRÁTICA COMERCIAL. TAMBÉM ORDENAR PAGAR 750 MILHÃO DÓLAR MULTA CUSTO. PROCESSO ANTITRUSTE TER IMPLICAÇÃO SIGNIFICATIVO INDÚSTRIA SOFTWARE LEVAR MAIOR ESCRUTÍNIO GRANDE EMPRESA TECNOLOGIA PRÁTICA COMERCIAL.'}]
+
+json
+[{'ID': '41221out', 'PT': '1. Crise climática: o tempo está se esgotando\n2. A realidade inevitável das mudanças climáticas\n3. Aquecimento global: o que podemos fazer para pará-lo?\n4. A necessidade urgente de abordar as mudanças climáticas\n5. O impacto das mudanças climáticas em nosso futuro', 'GLOSA': 'CRISE CLIMA TEMPO ESGOTAR\nREALIDADE MUDANÇA CLIMA INEVITÁVEL\nAQUECIMENTO GLOBAL PODER FAZER PARAR?\nNECESSIDADE URGENTE MUDANÇA CLIMA ABORDAR\nIMPACTO MUDANÇA CLIMA FUTURO'}]
+
+json
+[{'ID': '41222out', 'PT': 'Eu gosto de comer laranjas.', 'GLOSA': 'EU GOSTAR COMER LARANJA.'}]
+
+json
+[{'ID': '41223out', 'PT': 'GPT-2 E modelo de linguagem', 'GLOSA': 'GPT-2 E MODELO LINGUAGEM'}]
+
+json
+[{'ID': '41224out', 'PT': 'A longitude e latitude de Pequim, China, é 39,9042° N, 116,4074° E.', 'GLOSA': 'PEQUIM CHINA LONGITUDE LATITUDE 39.9042 NORTE 116.4074 LESTE'}]
+
+json
+[{'ID': '41226out', 'PT': 'Faça o movimento de pular repetidamente.', 'GLOSA': 'VOCÊ FAZER MOVIMENTO PULAR REPETIR.'}]
+
+json
+[{'ID': '41227out', 'PT': 'Em agosto de 2020, o patrimônio líquido de Mark Zuckerberg foi estimado em US$ 83,8 bilhões.', 'GLOSA': 'AGOSTO 2020 PATRIMÔNIO LÍQUIDO MARK ZUCKERBERG ESTIMAR US$ 83,8 BILHÃO'}]
+
+json
+[{'ID': '41228out', 'PT': 'O gerente está decidindo como iniciar o projeto.', 'GLOSA': 'GERENTE DECIDIR COMO INICIAR PROJETO.'}]
+
+json
+[{'ID': '41229out', 'PT': 'CS significa Ciência da Computação.', 'GLOSA': 'CS SIGNIFICAR CIÊNCIA COMPUTAÇÃO.'}]
+
+json
+[{'ID': '41230out', 'PT': 'Ele disse que faria qualquer coisa para impulsionar sua carreira, mesmo que isso significasse agir de forma inapropriada.', 'GLOSA': 'ELE DIZER ELE FAZER QUALQUER COISA CARREIRA IMPLULSAR AINDA QUE ISSO SIGNIFICAR ELE AGIR FORMA INAPROPRIADO.'}]
+
+json
+[{'ID': '41231out', 'PT': 'Direito empresarial é o conjunto de leis que se relaciona aos direitos, relações e conduta de pessoas e empresas envolvidas em comércio, comercialização, negócios e vendas.', 'GLOSA': 'DIREITO EMPRESARIAL CONJUNTO LEI RELACIONAR DIREITO RELAÇÃO CONDUTA PESSOA EMPRESA COMERCIO COMERCIALIZAÇÃO NEGÓCIO VENDA'}]
+
+json
+[{'ID': '41232out', 'PT': '1. Reconheça as necessidades e preocupações do cliente e se esforce para atendê-las.\\n2. Demonstre confiabilidade por meio do cumprimento consistente dos compromissos.', 'GLOSA': 'CLIENTE NECESSIDADE PREOCUPAÇÃO RECONHECER ESFORÇAR ATENDER. CONFIANÇA DEMONSTRAR CUMPRIMENTO CONSISTENTE COMPROMISSO.'}]
+
+json
+[{'ID': '45976out', 'PT': '<div estilo=\\"display: flex;\\">\\n<div estilo=\\"largura: 200px; margem direita: 0px;\\">\\n</div>\\n<div estilo=\\"largura: 830px;\\">\\n</div>\\n</div>', 'GLOSA': 'NÃO-ENTENDER'}]
+
+json
+[{'ID': '49278out', 'PT': 'Inteligência artificial.', 'GLOSA': 'INTELIGÊNCIA ARTIFICIAL.'}]
+
+json
+[{'ID': '49279out', 'PT': 'Os trajes tradicionais das tribos africanas variam muito de acordo com a cultura e a região da tribo. Muitas culturas diferentes apresentam roupas elaboradas e coloridas, geralmente feitas de tecidos locais e incorporando elementos tradicionais de design africano, como miçangas e bordados intrincados. Muitas tribos africanas também são conhecidas por suas joias e chapéus, que geralmente têm desenhos complexos com significados especiais.', 'GLOSA': 'AFRICA TRIBO TRAJE TRADICIONAL VARIAR MUITO CULTURA REGIÃO TRIBO. CULTURA DIFERENTE APRESENTAR ROUPA ELABORADO COLORIDO GERALMENTE TECIDO LOCAL INCORPORAR ELEMENTO TRADICIONAL DESIGN AFRICANO COMO MIÇANGA BORDADO INTRINCADO. TRIBO AFRICANA MUITO CONHECER JÓIA CHAPÉU GERALMENTE TER DESENHO COMPLEXO SIGNIFICADO ESPECIAL.'}]
+
+json
+[{'ID': '49281out', 'PT': 'Enorme.', 'GLOSA': 'ENORME.'}]
+
+json
+[{'ID': '49283out', 'PT': 'The Tell-Tale Heart é um conto de Edgar Allen Poe que conta a história de um narrador sem nome que é levado à beira da loucura pelo olhar penetrante de um velho. O narrador acha que o velho é uma pessoa assustadora e decide matá-lo para se livrar do medo e da paranoia que o olhar do velho lhe traz. O narrador pensa que cometeu o crime perfeito e esconde o corpo sob as tábuas do assoalho, mas é consumido pela culpa e é levado a confessar quando as batidas do coração sem vida do velho ultrapassam as suas.', 'GLOSA': 'CONTO TELL-TALE HEART EDGAR ALLEN POE NARRADOR SEM NOME LOUCURA OLHAR VELHO PENETRAR NARRADOR ACHAR VELHO ASSUSTADOR DECIDIR MATAR MEDO PARANOIA OLHAR VELHO TRAZER NARRADOR PENSAR CRIME PERFEITO ESCONDER CORPO ASSOALHO TÁBUA CONSUMIR CULPA LEVADO CONFESSAR BATIDA CORAÇÃO VELHO SEM VIDA ULTRA-PASSAR'}]
+
+json
+[{'ID': '49284out', 'PT': '1. Prepare as refeições em casa em vez de comer fora. \\n2. Compre produtos em lojas mais baratas ou online.\\n3. Evite compras por impulso e compre apenas itens necessários.', 'GLOSA': '1 CASA PREPARAR REFEIÇÃO SUBSTITUIR COMER FORA. 2 COMPRAR PRODUTO LOJA BARATO OU ONLINE. 3 EVITAR COMPRA IMPULSO COMPRAR APENAS ITEM NECESSÁRIO.'}]
+
+json
+[{'ID': '49285out', 'PT': 'O aprendizado de máquina está tendo um grande impacto na sociedade moderna, afetando quase todos os aspectos da vida. Seus usos estão se tornando cada vez mais visíveis, desde a saúde, finanças e inteligência empresarial até o varejo, transporte e comunicação. Na saúde, o aprendizado de máquina pode ser usado para detectar e diagnosticar doenças com maior precisão e prever riscos potenciais com antecedência. Em finanças, algoritmos de IA podem ser usados para automatizar decisões de investimento e análise de traders. Em inteligência empresarial, o aprendizado de máquina pode ajudar a coletar e processar dados para melhor tomada de decisão. No varejo, o aprendizado de máquina pode fornecer recomendações personalizadas para clientes com base em seus hábitos e preferências de compra. No transporte, o aprendizado de máquina pode ser usado para melhorar as capacidades do piloto automático e do veículo autônomo. E na comunicação, o aprendizado de máquina pode ajudar a otimizar conexões entre dispositivos, filtrar spam e personalizar melhor as interações entre representantes de atendimento ao cliente. \\n As aplicações do aprendizado de máquina só continuarão a crescer, com o potencial de continuar a revolucionar a maneira como trabalhamos e vivemos em nossa sociedade.', 'GLOSA': 'APRENDIZADO MÁQUINA TER IMPACTO GRANDE SOCIEDADE MODERNO AFETAR QUASE TODOS ASPECTO VIDA. USAR APRENDIZADO MÁQUINA CADA VEZ MAIS VISÍVEL DESDE SAÚDE FINANÇAS INTELIGÊNCIA EMPRESA ATÉ VAREJO TRANSPORTE COMUNICAÇÃO. SAÚDE APRENDIZADO MÁQUINA USAR DETECTAR DIAGNOSTICAR DOENÇA PRECISÃO GRANDE RISCO POTENCIAL ANTECEDÊNCIA. FINANÇAS ALGORITMO IA USAR AUTOMATIZAR DECISÃO INVESTIMENTO ANÁLISE TRADER. INTELIGÊNCIA EMPRESA APRENDIZADO MÁQUINA COLETAR PROCESSAR DADO MELHOR TOMAR DECISÃO. VAREJO APRENDIZADO MÁQUINA FORNECER RECOMENDAÇÃO PERSONALIZAR CLIENTE COM BASE HÁBITO PREFERÊNCIA COMPRA. TRANSPORTE APRENDIZADO MÁQUINA USAR MELHORAR CAPACIDADE PILOTO AUTOMÁTICO VEÍCULO AUTÔNOMO. COMUNICAÇÃO APRENDIZADO MÁQUINA USAR OTIMIZAR CONEXÃO ENTRE DISPOSITIVO FILTRAR SPAM PERSONALIZAR INTERAÇÃO REPRESENTANTE ATENDIMENTO CLIENTE. APRENDIZADO MÁQUINA APLICAR CONTINUAR CRESCER POTENCIAL REVOLUCIONAR MANEIRA TRABALHAR VIVER SOCIEDADE.'}]
+
+json
+[{'ID': '49286out', 'PT': 'Palavras-chave:\n- IA\n- Mudança\n- Mundo\n- Aplicações', 'GLOSA': 'PALAVRA-CHAVE IA MUDANÇA MUNDO APLICAÇÃO'}]
+
+json
+[{'ID': '49288out', 'PT': 'Python é uma excelente linguagem de programação para começar a aprender. É fácil de aprender, tem uma ampla gama de aplicações e é suportada por uma grande comunidade de bibliotecas de código aberto. Python também é popular com aprendizado de máquina e ciência de dados, então é uma ótima linguagem para ganhar conhecimento nessas áreas.', 'GLOSA': 'PYTHON LINGUAGEM PROGRAMAÇÃO EXCELENTE COMEÇAR APRENDER FÁCIL APRENDER AMPLAR GAMA APLICAÇÃO SUPORTE COMUNIDADE GRANDE BIBLIOTECA CÓDIGO ABERTO PYTHON TAMBÉM POPULAR APRENDIZAGEM MÁQUINA CIÊNCIA DADO ENTÃO ÓTIMO LINGUAGEM GANHAR CONHECIMENTO ÁREA.'}]
+
+json
+[{'ID': '49289out', 'PT': 'Um aluno deve se preparar para o próximo exame revisando suas aulas e anotações anteriores e, em seguida, certificando-se de praticar os conceitos que aprendeu. Eles também podem reservar um tempo para praticar o material que aprenderam, seja resolvendo questões de exames anteriores ou tentando testes práticos. Eles também devem descansar bastante e planejar refeições saudáveis  durante esse período.', 'GLOSA': 'ALUNO DEVER PREPARAR EXAME PRÓXIMO REVISAR AULA ANOTAÇÃO ANTES DEPOIS CERTIFICAR-SE PRATICAR CONCEITO APRENDER. ELE TAMBÉM PODE RESERVAR TEMPO PRATICAR MATERIAL APRENDER RESOLVER QUESTÃO EXAME ANTERIOR OU TENTAR TESTE PRÁTICO. ELE TAMBÉM DEVER DESCANSAR BASTANTE PLANEJAR REFEIÇÃO SAUDÁVEL DURANTE TEMPO.'}]
+
+json
+[{'ID': '28095ins', 'PT': 'Imagine um lugar na natureza que seria um bom local de férias', 'GLOSA': 'IMAGINAR LUGAR NATUREZA BOM LOCAL FÉRIAS'}]
+
+json
+[{'ID': '12092inp', 'PT': '<nenhuma entrada>', 'GLOSA': '<nenhuma entrada>'}]
+

@@ -1,0 +1,35 @@
+bucket 4
+prompt_token_count: 2937
+candidates_token_count: 8192
+total_token_count: 11129
+
+bucket 11
+prompt_token_count: 2889
+candidates_token_count: 8192
+total_token_count: 11081
+
+bucket 15
+prompt_token_count: 2770
+candidates_token_count: 8192
+total_token_count: 10962
+
+bucket 16
+prompt_token_count: 2826
+candidates_token_count: 828
+total_token_count: 3654
+
+bucket 22
+prompt_token_count: 2816
+candidates_token_count: 8192
+total_token_count: 11008
+
+bucket 72
+prompt_token_count: 2307
+candidates_token_count: 5601
+total_token_count: 7908
+
+bucket 78
+prompt_token_count: 623
+candidates_token_count: 1107
+total_token_count: 1730
+

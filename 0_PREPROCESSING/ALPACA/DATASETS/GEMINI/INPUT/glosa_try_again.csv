@@ -1,0 +1,1415 @@
+ID,PT
+19ins,"Gere três verbos que significam o mesmo que \""pedir desculpas\"""
+108ins,"Pense em uma frase ou expressão idiomática que contenha a palavra \""dormir\""."
+143ins,"Escreva uma definição simples da palavra \""economia\""."
+207ins,"Qual é a contração de \\\""they are\\\""?"
+311ins,"Escreva uma definição de \\\""photoshop\\\""."
+315ins,"Explique o termo \\\""explicabilidade da IA\\\""."
+20165out,"<span style=\\""font-style: italic; font-size: larger;"
+41350ins,erro
+1063ins,"Traduzir \\\""Bonjour\\\"" para o inglês."
+1794ins,"Solucione a seguinte mensagem de erro: \""Ocorreu um erro desconhecido. Código de erro: 500.\"""
+1887ins,"Identifique a classe gramatical de cada palavra na frase: \""O robô pintou a casa\""."
+1915ins,"Encontre a definição da frase \""aprendizado de máquina\""."
+1960ins,"Dê um exemplo de uma frase que inclua a palavra \""gigantesco\""."
+2047ins,"Reescreva a seguinte frase em um estilo melhor em inglês: \""This is the most awesome thing ever!\"""
+2068ins,"Como você responderia à seguinte pergunta \""sim ou não\""?"
+2104ins,"Classifique a seguinte afirmação como verdadeira ou falsa. \""Um método científico não pode ser usado para estudar um fenômeno social.\"""
+2105ins,"Reescreva a seguinte frase para torná-la mais concisa. \""É essencial que a nova linguagem de codificação seja fácil de aprender.\"""
+2109ins,"Edite a frase a seguir para que soe mais formal. \""temos que encontrar uma maneira de fazer isso funcionar\"""
+2111ins,"Construa uma definição para o termo \""IA\""."
+2112ins,"Digite a letra silenciosa na palavra \""honesto\""."
+2116ins,"Na frase “A maçã é vermelha.”, identifique o verbo principal."
+2117ins,Sinonímia da palavra “zangado”.
+2119ins,Encontre a palavra mais longa na frase “Grandes mentes pensam da mesma forma”.
+2122ins,"Traduza a seguinte frase para o francês:\n\""Nós nos divertimos muito\"""
+2123ins,"Identifique o substantivo próprio na frase \""Hoje é quinta-feira\""."
+2126ins,"Escreva um código JavaScript para exibir uma mensagem de alerta quando o botão \""Enviar\"" for pressionado."
+2262ins,"Crie um trocadilho com as palavras \""girafa\"" e \""elefante\"""
+2458ins,"Quem é o autor do romance \""Caninos Brancos\""?"
+2478ins,"Explique o termo \""redes neurais convolucionais\""."
+2483ins,"Resuma os acontecimentos do capítulo 6 do livro \""Moby Dick\""."
+2492ins,"Construa uma expressão regular para identificar strings que começam com a letra \""s\""."
+2666ins,"Descreva o significado de \""X\"" em 4 frases."
+2674ins,"Explique o conceito de \""X\"" em 5 frases."
+2675ins,"Crie 10 ideias para \""X\""."
+2783ins,"Classifique a seguinte afirmação: \""A melhor maneira de aprender é ensinando\""."
+2789ins,"Escreva uma expressão matemática para esta afirmação: \""o produto de seis e a soma de três e quatro\"""
+2804ins,"Identifique a conjunção na frase \\\""liberdade e justiça\\\"""
+2805ins,"Classifique o tipo de frase \\\""Estou sentado\\\"""
+2848ins,"Forneça uma definição para o termo \\\""dispositivos literários\\\"""
+2886ins,"Gere 10 ideias para seu projeto \\\""faça você mesmo\\\"""
+2897ins,"Escreva uma definição concisa para \\\""algoritmo\\\"""
+2902ins,"Dê um exemplo que mostre como usar a palavra \\\""indignado\\\"""
+3867ins,"Crie uma frase sábia em inglês que comece com as palavras \""A stitch in time\"" e que expresse um conselho."
+3893ins,"Crie um quebra-cabeça usando a palavra \""borboleta\"" como tema, com uma pergunta e uma resposta."
+3935ins,"Subtraia \""83\"" de \""140\""."
+3951ins,"Dê-me um exemplo de frase que use o verbo \""to waver\""."
+3952ins,"Explique o significado da expressão idiomática \""revelar um segredo ou informação confidencial\""."
+3982ins,"Edite a frase a seguir para torná-la mais formal: \n\""Agradeço sua assistência.\"""
+3998ins,"Explique o conceito de \""o resultado mais desfavorável ou negativo possível\""."
+4000ins,"O que significa \""um conjunto de instruções passo a passo para resolver um problema ou realizar uma tarefa\""?"
+4002ins,"Considere a seguinte frase: \""I was born in the United States\"". Forneça a classe gramatical para a palavra “born”."
+4012ins,"Substitua a palavra \""renderização\"" na frase a seguir por outra palavra que tenha o mesmo significado, sem alterar a estrutura da frase."
+4075ins,Construa uma explicação da definição da palavra “recompensa”.
+4076ins,Defina o termo “aprendizado de máquina”.
+4092ins,Analise o poema “The Road Less Traveled”
+4192ins,"Traduza a frase \\\""boa viagem\\\"" para o espanhol."
+4195ins,"Classifique a seguinte frase: \\\""Meu carro tem me dado problemas ultimamente.\\\"""
+4201ins,"Edite a frase a seguir para corrigir quaisquer erros de gramática ou ortografia:\\n\\\""Enviei dois e-mails para meu chefe e ele não respondeu\\\"""
+4221ins,Sinônimo da palavra “inteligente”
+4227ins,"Encontre um sinônimo para a palavra \\\""grandeza\\\"""
+4229ins,"Crie um lema de quatro palavras com as palavras \\\""poder\\\"", \\\""coragem\\\"", \\\""sonho\\\"" e \\\""esperança\\\""."
+4244ins,"Diga-me, qual é a primeira coisa que vem à sua mente quando você ouve a palavra \\\""estrada\\\""."
+4278ins,"Gere uma lista de sinônimos para \""desolado\""."
+4285ins,"Reescreva a frase sem usar as palavras \""é\"" e \""era\""."
+4287ins,"Concorde ou discorde da seguinte afirmação: \""É sempre melhor ser honesto\""."
+4290ins,"Como se diz \""obrigado\"" em japonês?"
+4340ins,"Crie uma rima para a palavra \""falling\""."
+4344ins,"Crie um poema que comece com a frase \""Mesmo nos dias mais sombrios\"""
+4348ins,Crie uma história que comece com a frase “Eles pensaram que estavam perdidos para sempre”.
+4358ins,"Insira o artigo correto antes da palavra \""crianças\"""
+4489ins,"Explique o conceito de \""custo de oportunidade\""."
+4495ins,"Qual é o passado de \""run\""?"
+4496ins,"Liste três palavras relacionadas à palavra \""maçã\""."
+4526ins,"Escreva uma frase usando a expressão \""há muitas possibilidades\""."
+4559ins,"Identifique que tipo de pronome é esse: \""Está chovendo há horas\"""
+4756ins,"Traduza a frase \""Onde está la estación de autobuses?\"" para o inglês."
+5118ins,"Qual é o significado da frase \""não faça suposições sobre algo ou alguém com base em sua aparência\""?"
+5143ins,"Qual é o significado da frase \""agir de forma tola ou estúpida\""?"
+5163ins,"Gere um exemplo de uma conversa de atendimento ao cliente envolvendo a palavra-chave \""envio\""."
+5184ins,"Qual é a palavra para \""multidão\""?"
+5188ins,"Crie uma lista de 10 adjetivos usando a letra \""r\""."
+5264ins,"Encontre um eufemismo adequado para \""faleceu\""."
+5335ins,"Explique o conceito de \""direitos de propriedade intelectual\""."
+5338ins,"Crie uma história criativa que transmita a mensagem: \""Cada ato de gentileza torna o mundo um lugar melhor\""."
+5343ins,"Explique a relação entre os substantivos e pronomes na frase \""Jennifer compartilhou a receita simples com Tom e Jennifer\""."
+5345ins,"Reescreva a seguinte declaração tornando-a mais concisa: \""Suzanne trabalha como engenheira e atualmente é empregada pela XYZ Corp.\"""
+5346ins,"Dê um toque positivo à seguinte declaração: \""O governo federal está considerando a possibilidade de cancelar os estágios de verão.\"""
+5348ins,"Reescreva a seguinte declaração no tempo futuro: \""Estou repensando meus planos de carreira.\"""
+5349ins,"Reescreva a seguinte declaração no passado: \""Eles estão planejando lançar um novo site.\"""
+5350ins,"Descreva a relação entre os substantivos e pronomes na frase: \""A pessoa que convidou convidou Joe e ele para jantar.\"""
+5352ins,"Reescreva a seguinte afirmação para que fique mais concisa: \""Devemos lembrar que os alimentos que comemos podem ter um impacto na nossa saúde.\"""
+5357ins,"Escolha uma palavra melhor para substituir a palavra \""doce\""."
+5407ins,"Explique ao assistente que \""elefante\"" e \""ELEFANTE\"" são as mesmas palavras."
+5431ins,"Explique por que a seguinte afirmação está errada: \""A computação em nuvem armazena seus dados em servidores de data centers\""."
+5447ins,"Reescreva a frase a seguir usando sinônimos e/ou uma estrutura gramatical diferente para enfatizar o mesmo significado da frase: \""Foi extraordinário\""."
+5450ins,"Edite esta frase para usar linguagem figurada: \""A jornada foi cheia de obstáculos e desafios\"""", ""GLINGUAGE"", ""JORNADA OBSTÁCULO DESAFIO CHEIO SER FRASE LINGUAGEM FIGURADO USAR EDITAR.""},
+  {""ID"": ""5451ins"", ""PT"": ""Preencha a lacuna usando o tempo verbal correto: \""I have been _______ running every morning\"""
+5452ins,"Torne a frase a seguir mais concisa: \""Fiquei surpreso com a notícia\"""
+5689ins,"Defina o que significa o termo \""inteligência artificial\""."
+5708ins,"Sugira uma alternativa adequada à frase \""apresse-se\""."
+6269ins,"Classifique esta frase como um comando, declaração ou pergunta: \""Eu peço que você considere esta oferta.\"""
+6272ins,"Edite esta frase para torná-la mais concisa: \""Portanto, eu insisto que...\"""
+6273ins,"Analise a frase a seguir e identifique o sujeito, o verbo e o objeto: \""Robôs podem aprender rapidamente\""."
+6274ins,"Determine qual das seguintes frases está correta: \""É mais divertido\"" ou \""É mais divertido\""?"
+6276ins,"Escreva um parágrafo usando as palavras \""perspectiva\"", \""integridade\"" e \""diversidade\""."
+6277ins,"Explique o significado da expressão \""começar a trabalhar a todo vapor\"" (começar a correr)."
+6314ins,"Traduza estas palavras do inglês para o francês: \""Dog\"""
+6331ins,"Oriente o assistente a classificar a seguinte frase como \""Positiva\"" ou \""Negativa\"":\nEu tenho uma opinião positiva sobre o novo produto."
+6332ins,"Classifique a seguinte frase como \""Fato\"" ou \""Opinião\"":\nHá uma correlação entre a falta de exercícios físicos regulares e um risco aumentado de desenvolver condições crônicas de saúde."
+6922ins,"Explique o significado da expressão idiomática: \\\""Algo não está terminado até que todas as etapas tenham sido concluídas.\\\"""
+7098ins,"Escreva um poema que contenha as palavras fornecidas: \""rio\"" e \""luz\"""
+7118ins,"Descubra o significado da frase \""de uma situação ruim para outra pior\""."
+7128ins,"Descreva o significado do provérbio \""O tempo é um recurso valioso que pode ser usado para gerar renda.\"""
+7141ins,"Descreva uma situação em que a frase \""A frase é relevante quando se trata de bens materiais ou posses que não podem ser levados após a morte.\"" pode ser relevante."
+7142ins,"Escolha uma palavra apropriada para substituir a frase \""isto é\"" na frase a seguir."
+7853ins,"Encontre o sinônimo para \""detestar\""."
+7854ins,"Forme um antônimo para \""escasso\""."
+7858ins,"Qual é uma boa resposta para \""Não gosto do jeito que você está falando comigo\""?"
+7873ins,"Escreva uma postagem de blog sobre o tópico \""Por que as empresas precisam investir em treinamento de funcionários\"""
+7891ins,"Crie um logotipo para uma empresa chamada \""Run4Fun\""."
+7903ins,"Crie uma consulta para pesquisar restaurantes com a palavra-chave \""frutos do mar\"" na cidade de Los Angeles."
+7905ins,"Forneça o personagem principal do romance \""O Senhor das Moscas\""."
+7907ins,"Atribua um sinônimo à palavra \""facilitar\""."
+7914ins,"Recite a primeira estrofe de \""The Road Not Taken\"", de Robert Frost."
+7948ins,"Gere uma lista de palavras relacionadas ao termo \""comida\""."
+7965ins,"Explique como \""tipos\"" é usado em linguagens de programação."
+7972ins,"Forneça antônimos para a palavra \""mal\""."
+7983ins,"Gere pelo menos 3 sinônimos para a palavra \""humorístico\""."
+8000ins,Crie uma história baseada nesta frase de abertura: “A noite era escura e havia tempestade”.
+8005ins,Determine se a seguinte afirmação é verdadeira ou falsa: “A velocidade da luz é maior que a velocidade do som”.
+8015ins,Responda a esta pergunta verdadeiro ou falso: A capital da França é Paris.
+8024ins,Corrija esta frase: “Chove muito forte lá fora”.
+8038ins,Amplie esta frase: “A tecnologia causou uma grande mudança na forma como
+8040ins,Encontre os substantivos nesta frase: A menina ficou encantada com as flores brilhantes.
+8045ins,Classifique esta frase: A Antártida é o continente mais ao sul.
+8067ins,"Crie uma frase usando as palavras “Sentindo-se contente, animado e entusiasmado”."
+8093ins,Escreva uma história com o prompt “Um viajante estava caminhando por uma floresta escura quando encontrou um objeto misterioso”
+8553ins,"Use a frase \""isso me irrita\"" em uma frase."
+8563ins,"Diga-me um sinônimo para \""feliz\""."
+8607ins,"Explique o termo \""apropriação cultural\""."
+9586ins,"Explique o valor de uma \""mentalidade de crescimento\"" (ou seja, a crença de que as habilidades e capacidades podem ser desenvolvidas ao longo do tempo)."
+9643ins,"O que significa \""a priori\""?"
+9769ins,"Edite a seguinte frase: \""Hoje, fiz muitas compras online.\"""
+9770ins,"Traduza a seguinte frase para o espanhol: \""Estou muito animado para aprender espanhol.\"""
+9988ins,"Crie uma história que comece com a frase \\\""O sol lentamente subiu no céu\\\"""
+9992ins,"Reescreva a frase \\\""O gato perseguiu o rato\\\"" no passado."
+9993ins,"Componha um poema que use a frase \\\""uma pessoa muito bondosa\\\"""
+9996ins,"Edite a frase a seguir para um tom mais acadêmico:\\n\\\""Os computadores são ótimos porque podem fazer muitas coisas!\\\"""
+10005ins,Quem escreveu o romance “O Apanhador no Campo de Centeio”? 
+10010ins,"Pense em uma palavra que rime com \\\""fino\\\"""
+10016ins,"Edite esta frase para que soe mais natural: \\n\\\""Talvez seja por causa da chuva\\"", ele disse."
+10017ins,"Classifique esta frase como formal ou informal: \\n\\\""Qual é o problema?\\\"""
+10032ins,Transforme esta frase em uma pergunta: O sol está brilhante hoje.
+10033ins,Crie uma frase que descreva o conceito de “empoderamento”
+10576ins,"Identifique a definição correta para a palavra \\\""anomalia\\\""."
+10671ins,"Dado o prompt “gato” e uma semente aleatória, gere uma nova frase usando GPT-3."
+10750ins,"Dê uma alternativa adequada para a frase \""algo que estraga ou arruína algo que deveria ser bom\""."
+10751ins,"Descreva o significado da frase \""raramente, muito raramente\""."
+10752ins,"Explique o significado do provérbio \""Um pequeno erro pode ter consequências graves\""."
+10756ins,"Você recebe o seguinte texto: \""Era uma manhã fria de dezembro, o céu estava cinza e a neve caía levemente. Descreva a atmosfera da manhã\"""
+10787ins,"Gere 50 palavras associadas à palavra \""beisebol\""."
+10788ins,"Edite a frase a seguir para corrigir quaisquer erros gramaticais e torná-la mais concisa: \n\n\""O telefone não está carregando porque a bateria acabou.\"""
+10811ins,"Edite a frase: \""Teremos sucesso se tentarmos\"""
+10813ins,"Classifique esta frase como uma comparação ou uma metáfora: \""O som do vento era semelhante ao uivo de um animal ferido.\"""
+10818ins,"Para que tipo de atividade a trilha sonora de \""A Bela e a Fera\"" é usada?"
+10846ins,"Pense em uma palavra relacionada à palavra-chave \""batata\""."
+10874ins,"Escreva um resumo do filme \""O Grande Gatsby\"""
+10877ins,Pegue esta frase e torne-a mais descritiva: Ela sentia medo.
+10884ins,"Interprete este poema: Rosas são vermelhas, Violetas são azuis"
+10929ins,"Explique as diferenças entre as seguintes palavras: \""accent\"" e \""dialect\""."
+10954ins,"Dada a seguinte entidade: \""Lamborghini Aventador\"", crie uma URL de solicitação."
+10972ins,"Crie uma comparação para explicar o significado do termo \""dúvida\"", usando uma imagem ou conceito que represente o mesmo significado."
+10982ins,"Por favor, forneça uma definição para a palavra \""heterogêneo\""."
+10986ins,"Você recebeu uma frase, \""O menino andou pela rua\"", detecte se ela está no passado."
+10990ins,"Classifique a seguinte frase como verdadeira ou falsa: \""Todos os mamíferos dão à luz filhotes vivos\""."
+10999ins,Qual é a palavra que rima com árvore?
+11012ins,"Reescreva a frase \""Ela teve que ir\"" com outras palavras, mas mantendo o mesmo significado."
+11014ins,"Dê um exemplo de uma comparação indireta, ou seja, uma frase que usa uma imagem ou conceito para representar outro, utilizada no poema “The Road Not Taken”."
+11015ins,"Qual é o oposto de \""abundante\""?"
+11016ins,Explique o que significa o termo “emaranhamento quântico”
+11027ins,"Avalie a seguinte afirmação: \""A Torre Eiffel é um dos monumentos mais conhecidos do mundo.\"""
+11041ins,"Pegue esta frase: \""Ainda estou confuso sobre como fazer esta tarefa\"" e torne-a mais concisa."
+11334ins,"Explique o significado da expressão idiomática \""tornar-se a autoridade máxima\""."
+11348ins,"Pesquise a receita de \""torta de maçã empanada\"" e crie os passos necessários para fazer o prato."
+11354ins,"Escreva uma definição (10 palavras ou menos) para a palavra \""epifania\""."
+11381ins,"Gere uma resposta apropriada para a seguinte avaliação do cliente: \""Tive uma ótima experiência neste restaurante.\"""
+11398ins,"Explique o significado do termo \""tendência de procurar e interpretar informações de forma que confirmem crenças pré-existentes\"""
+11403ins,"Finja ser um mecânico de automóveis e explique em uma frase o que significa \""renovar o óleo do motor\""."
+11404ins,"Usando o substantivo \""barco\"", escreva uma comparação"
+11708ins,"Edite a frase \""Animais não devem ser maltratados\""."
+11710ins,"Crie uma capa para o livro \""Me Chame Pelo Seu Nome\""."
+11735ins,"Resuma o artigo de notícias recente \""As últimas novidades sobre IA\"" em menos de 50 palavras."
+11770ins,"Edite a seguinte frase: \""Estamos aqui há algum tempo.\"""
+11779ins,"Escreva uma breve explicação do termo \""habitat\""."
+11809ins,"Crie uma história que comece com \""Ele entrou no jardim.\"""
+11811ins,"Classifique a seguinte afirmação como verdadeira ou falsa: \""a duração do dia depende da época do ano\""."
+11814ins,"Edite a frase a seguir para mudar o tempo para o passado perfeito: \""O gato está comendo a comida a manhã toda\""."
+11816ins,"Adicione formas singulares e plurais de bullfrog à seguinte frase: \""The bullfrogs and the ___ hopped quickly away.\"""
+11818ins,"Crie um exemplo usando a palavra \""prolífico\"" em uma frase."
+11819ins,"Resuma o artigo \""O Impacto das Mudanças Climáticas na Agricultura\""."
+12471ins,"Identifique o sujeito principal da seguinte frase: \""O velho foi pescar\""."
+12476ins,"Identifique o tipo de substantivo na frase: \""Eu comi uma maçã\""."
+12478ins,"Identifique o tipo de frase na frase: \""Debaixo da árvore.\"""
+12480ins,"Classifique as seguintes palavras em ordem alfabética: \""universidade, basquete, zelador\"""
+12490ins,Identifique as classes gramaticais na frase “Ela falou devagar”.
+12530ins,"Reescreva a seguinte frase para ter um significado diferente: \""Eu comi a maçã\""."
+12531ins,"Edite a frase \""Ela está indo para a escola\""."
+12648ins,"Traduzir \""Posso te perguntar uma coisa?\"" em espanhol"
+12661ins,"Analise a moral da história \""O menino que gritava lobo\""."
+12679ins,"Descreva um personagem do livro \""Drácula\""."
+12878ins,"Explique o significado da expressão \""Celebrando muito, geralmente com bebidas alcoólicas.\"""
+12897ins,"Complete o provérbio \'""Uma maçã por dia\'..."
+12900ins,"Reorganize esta frase: \'""Aqueles que sonham são felizes\'\"""
+12909ins,"Preveja o sentimento desta frase: \'""Este filme foi uma grande decepção.\'\"""
+12936ins,"Qual é o significado deste provérbio: \'""Uma pedra que rola não cria musgo\'\"""
+12940ins,"Crie um título para o evento: \'""Apresentando o Programa de Bolsas ARR 2020\'\"""
+13236ins,Categorize o seguinte como substantivo ou verbo: Caminhar
+13267ins,"Fale-me sobre o autor do livro \""O Apanhador no Campo de Centeio\""."
+13268ins,"Encontre o sinônimo para a palavra \""déspota\"". Exiba o sinônimo."
+13288ins,"Escreva uma definição para o recurso literário \""aliteração\""."
+13335ins,"Reescreva esta frase: \""Desejo-lhe boa sorte e que Deus o abençoe.\"""
+13343ins,"Gere cinco palavras que rimam para a palavra \""sono\""."
+13405ins,"Categorize as seguintes palavras de acordo com suas classes gramaticais:\nextenuante, alocar, eclipse"
+13409ins,"Parafraseie a seguinte afirmação: \""Supermercados desempenham um papel fundamental na garantia de acesso a alimentos nutritivos para a população.\"""
+13426ins,"Reescreva a seguinte frase para torná-la ativa: \""O jogador chutou a bola.\"""
+13427ins,"Analise o seguinte poema, \""The Road Not Taken\"" de Robert Frost:\n\nDuas estradas divergiam em uma floresta amarela,\nE lamento não poder viajar por ambas\nE ser um viajante, por muito tempo fiquei"
+13435ins,"Descreva o tema do poema \""The Road Not Taken\""."
+13443ins,"Componha uma história original usando as palavras \""cidade\"" e \""rio\""."
+14070ins,"Traduza \""Eu te amo\"" para o inglês."
+14073ins,"Explique as diferenças entre os termos \""ciência\"" e \""tecnologia\""."
+14090ins,"Como você explicaria a definição de \""dados de séries temporais\"" para pessoas não técnicas?"
+14885ins,"Crie um logotipo para um restaurante chamado \""The Italian Kitchen\""."
+14893ins,"Encontre o sinônimo mais adequado para \""incrível\""."
+14894ins,"Explique a diferença entre os homófonos \""there\"" e \""their\""."
+14897ins,"Defina o termo \""Internet das Coisas\""."
+14917ins,"Atribua uma classificação de 1 a 5 estrelas ao seguinte produto: \""iPhone 11 Pro\""."
+14920ins,"Categorize os seguintes livros com base no gênero: O Apanhador no Campo de Centeio, Harry Potter e a Pedra Filosofal."
+14933ins,Crie uma história sobre um cientista usando a frase “um cientista excêntrico”.
+14945ins,"Escreva uma história usando as palavras \""galáxia\"" e \""jornada\""."
+14950ins,"Encontre a definição de \""Filtragem Colaborativa\""."
+14953ins,"Quais elementos e recursos literários foram usados no poema \""To a Skylark\""?"
+14956ins,"Quem é o autor do livro \""Harry Potter e a Pedra Filosofal\""?"
+14983ins,"Dada a frase \""Estou ficando em casa hoje\"", qual é o predicado?"
+15158ins,"Procure \""The Verge\"" e forneça um resumo"
+15161ins,"Crie uma resposta para a seguinte afirmação: \""O museu é superestimado\""."
+15179ins,"Dada a string \""abcde\"", imprima seu inverso:"
+15184ins,Escreva um código Python para imprimir a frase “Hello World”
+15195ins,"Parafraseie a frase: \""Ela gosta de assistir televisão todas as noites\"""
+15196ins,"Mude a frase do presente contínuo para o passado contínuo: \""Estou estudando para minha prova.\"""
+15197ins,"Mude a frase do passado simples para o passado perfeito: \""Ela escreveu um artigo.\"""
+15199ins,"Divida a frase em seus constituintes: \""Estou indo para a loja\"""
+15200ins,"Converta a frase da voz passiva para a ativa: \""O aluno ganhou um laptop dos pais.\"""
+15201ins,"Reescreva a frase no futuro perfeito: \""Ele escreverá um livro\"""
+15384ins,"Recupere a definição de \""networking\"" de uma fonte confiável."
+15397ins,"Identifique uma palavra que rime para a palavra \""eyes\"". Produza a palavra."
+15398ins,"Para o termo \""Desenvolvimento Web\"", identifique a definição. Produza a definição completa."
+15405ins,"Crie um antônimo para a palavra \""Early\"". Produza o antônimo."
+15437ins,"Escreva um novo final para esta frase: \""O céu estava com cores brilhantes de laranja e rosa\"""
+15439ins,"Reorganize esta frase para torná-la mais dinâmica: \""Eu sempre soube que conseguiria.\"""
+15443ins,"Reescreva esta frase para torná-la mais impactante: \""Ela desapareceu sem deixar rastros.\"""
+15457ins,"Edite a seguinte frase para maior clareza: “As pessoas recebem prêmios por concluir atividades que demonstram excelência”,"
+15591ins,"Dê um sinônimo para a palavra \""pungente\""."
+15652ins,"Escolha o sinônimo correto para \""imenso\""."
+15656ins,"Identifique os substantivos na frase: \""O gato pulou da árvore\""."
+15668ins,"Por favor, explique a frase \""ter paciência e persistir em um plano a longo prazo para alcançar um objetivo\""."
+15702ins,"Encontre três sinônimos para \""energético\""."
+15703ins,"Crie uma frase complexa usando as palavras \""maçã\"" e \""manteiga\""."
+15707ins,"Crie um trocadilho usando a frase \""adulting\""."
+17257ins,"Inverta a seguinte palavra: \""conta\"""
+17289ins,"Edite a frase a seguir para que fique no passado simples: \""Hoje, vou à loja comprar ovos.\"""
+17312ins,"Determine qual das duas palavras \""penchant\"" e \""predilection\"" tem um significado semelhante"
+17313ins,"Explique a definição do termo \""heterocronia\"""
+17320ins,"Gere um antônimo apropriado para a palavra \""feliz\""."
+17327ins,"Crie alguns sinônimos para a palavra \""incrível\""."
+17343ins,"Resuma o artigo \""Como o movimento Lixo Zero está ganhando força\""."
+17344ins,"Descreva o conceito de \""Ficção especulativa\""."
+17347ins,"Defina o termo \""linguística computacional\""."
+18019ins,"Explique o conceito de \""coeficiente de Gini\""."
+18061ins,"Monte uma frase completa usando as palavras \""prodigioso\"", \""indelével\"" e \""simplicidade\""."
+18067ins,"Procure a definição da frase latina \""lexicalis\"" e explique-a com suas próprias palavras."
+19263ins,"Traduza \""Ce sera chaud\"" para o inglês."
+19267ins,"Identifique o hiperônimo de \""estado alterado\""."
+19273ins,"Explique o conceito de \""livre arbítrio\"" em 2 a 3 frases."
+19298ins,"Crie um poema de três versos com as palavras \""pássaros\"", \""escuridão\"" e \""luz\""."
+19299ins,"Identifique o tipo de conjugação usada na frase \""Ele abriu a porta\""."
+19300ins,Reorganize esta frase na voz passiva: “Um carro novo foi comprado por ela.”
+19302ins,"Forneça uma contribuição realista para esta instrução: \""Transcreva o que o cliente disse\""."
+19303ins,"Classifique a seguinte frase como interrogativa, declarativa ou imperativa: \""Vamos\""."
+19304ins,"Reescreva esta frase para torná-la mais concisa: \""Ele é preguiçoso e indiferente.\"""
+19306ins,"Mude esta frase para o futuro: \""O bebê está dormindo\""."
+19308ins,"Adicione um trocadilho à seguinte frase: \""Ele queria sempre ficar no centro das atenções.\"""
+19378ins,"Que tipo de saída seria gerada quando a instrução \""Prever a temperatura amanhã\"" fosse dada a um modelo GPT?"
+19380ins,"Traduza a seguinte frase do francês para o inglês: \""I want to read a book.\"""
+19382ins,"Classifique a seguinte frase como pertencente à Ficção ou Não Ficção: \""A União Soviética lançou o satélite Sputnik em outubro de 1957.\"""
+19535ins,"Gere uma história com o título \""A Aventura do Shadowman\"""
+19565ins,"Adicione mais dois sinônimos para \""criativo\""."
+19609ins,"Resuma o seguinte artigo - \""O uso da medicina botânica no tratamento da depressão\"""
+19613ins,"Resuma o seguinte artigo - \""Por que precisamos nos concentrar na igualdade de gênero na educação\"""
+19622ins,"Dada a string \""racecar\"", determine se a string é um palíndromo."
+20465ins,"Representa matematicamente \""dividido por dois\"""
+20473ins,"Crie uma história sobre uma criatura mágica usando a frase \""as estrelas brilhavam com grande intensidade\""."
+20474ins,"Esclareça o seguinte conceito: \""O princípio que limita os acessos e permissões a apenas o que é estritamente necessário\"""
+20480ins,"Gere um poema com o título \""Campos de Lavanda\"""
+20482ins,Identifique os principais temas do livro O Senhor das Moscas.
+20496ins,Crie duas frases de exemplo que usem a palavra “frenético”.
+20502ins,"Resuma os pontos principais do artigo \""Aproveitando o poder das mídias sociais\"""
+20513ins,"Gere pelo menos duas frases de exemplo usando o verbo \""incite\"""
+20515ins,"Crie uma função, \""factorial_of()\"", que recebe um inteiro e retorna seu fatorial."
+20550ins,"Crie uma nova frase usando as palavras \""furioso\"" e \""desatualizado\""."
+20556ins,"Crie uma frase que comece com as palavras \""Quando se trata de\""."
+20585ins,"Escreva uma consulta para obter o preço médio de compra da tabela \""pedidos\"""
+20599ins,"Traduza a seguinte frase para o francês:\n\n\""Eu tenho três gatos.\"""
+20661ins,"Edite esta frase: \""A cor do gato é roxo claro.\"""
+21305ins,"Edite a seguinte frase: \""Levei meu cachorro para correr.\"""
+21312ins,"Qual é o inverso da afirmação: \""Eu vou passar no teste"
+21313ins,"Traduza esta frase para o japonês e diga qual dialeto é:\n\""As dificuldades nos tornam mais fortes.\"""
+21343ins,"Explique o significado da frase \""uma noite com pouca luz e com tempestade\""."
+21346ins,"Gere sinônimos para a palavra \""desafiador\""."
+21361ins,"Qual é a definição do recurso literário \""repetição de consoantes no início de palavras ou sílabas\""?"
+21363ins,"Escreva um limerique que envolva a palavra \""skate\""."
+21397ins,"Resuma o seguinte artigo \""Os benefícios da inteligência artificial\"" em 100 palavras."
+21606ins,"Em uma frase, explique o conceito de \""mídia social\""."
+21610ins,"Forme uma frase usando a expressão \""na situação atual\""."
+21657ins,"Descreva o conceito de \""gravidade zero\""."
+21660ins,"Traduza a seguinte frase para o chinês: \""Está chovendo lá fora\"""
+21661ins,"Classifique o sentimento da seguinte declaração:\n\""O tempo está extremamente frio hoje!\"""
+21663ins,"Pesquise no Google a frase \""A frase \""Foi o melhor dos tempos, foi o pior dos tempos\""\"" e liste as cinco principais fontes"
+21664ins,"Converta a seguinte frase do formato camelCase para snake_case: \""collectDataForNewProject\"""
+21666ins,"Soletre \""feliz\"" em linguagem de sinais"
+21670ins,"Construa uma instrução SQL que selecione o nome, ID e endereço de uma tabela chamada \""pessoas\"""
+21674ins,"Encontre as 5 palavras mais semelhantes para \""feliz\""."
+21676ins,"Classifique a palavra \""software\"" como adjetivo, substantivo ou verbo."
+21687ins,"Crie uma frase original que use a palavra \""estrela-guia\""."
+21690ins,"Crie uma analogia para ilustrar o ditado \""o ditado \""Um ponto a tempo evita nove\""\""."
+21692ins,"Forneça um contra-argumento à afirmação \""a afirmação \""Alimentos geneticamente modificados não são saudáveis\""\""."
+21711ins,"Quantas palavras há na frase \""a frase \""Ele ajuda os necessitados todos os dias\""\""?"
+22016ins,"Explique o que é \""pensamento crítico\"" e dê um exemplo de como ele pode ser usado."
+22024ins,"Escreva uma frase significativa usando a expressão \""uma observação inteligente e perspicaz\""."
+22028ins,"Descreva o conceito de \""IA (inteligência artificial)\"" para uma pessoa que não esteja familiarizada com o assunto."
+22029ins,"Crie uma frase significativa usando a expressão \""pensar estrategicamente\""."
+22049ins,"Combine duas dessas palavras — \""talentoso\"", \""inteligente\"" — em uma frase interessante."
+22071ins,"Escreva um poema curto que transmita o sentimento \""uma gargalhada alta e contagiante\""."
+22082ins,"Explique o conceito de \""redução da taxa de crescimento\""."
+22099ins,"Descreva um personagem do filme \""O Rei Leão\""."
+22100ins,"Identifique quem disse essa fala no filme \""O Rei Leão\""."
+23141ins,"Explique o significado da frase \""A vida não é uma competição\""."
+23216ins,"Construa uma frase cujo sujeito seja \""meu gato\""."
+23222ins,"Crie uma analogia para explicar o termo \""Algoritmo\""."
+23228ins,"Crie uma questão de múltipla escolha com base na seguinte afirmação: \""O processamento de linguagem natural é um campo de estudo dentro da ciência da computação\""."
+23229ins,"Dada a seguinte frase, encontre um verbo apropriado para inserir no início: \""it, human interaction can become much more efficient\"""
+23230ins,"Transforme esta frase em uma frase interrogativa: \""Os pássaros cantavam nas árvores.\"""
+23232ins,"Crie um argumento baseado na seguinte afirmação: \""O aquecimento global é um perigo real\""."
+23233ins,"Reescreva a seguinte frase com um verbo mais forte: \""Ela devora livros\""."
+23234ins,"Dada a seguinte afirmação, gere um cenário hipotético: \""O estresse excessivo pode levar a problemas de saúde\""."
+23235ins,"Traduza a seguinte frase para o espanhol: \""Estou cansado.\"""
+23236ins,"Mude a frase a seguir para o presente perfeito: \""Ele falou na conferência.\"""
+23237ins,"Reescreva a seguinte frase usando o modo imperativo: \""Não se esqueça de levar seu guarda-chuva, caso chova.\"""
+23238ins,"Mude a seguinte frase para a voz passiva: \""O fazendeiro cultiva trigo.\"""
+23387ins,"Escreva a abreviatura completa \""NATO\""."
+23404ins,"Encontre uma palavra que signifique \""amor profundo e intenso\""."
+23426ins,"Forneça uma definição dos termos \""busca semântica\""."
+23470ins,"Dê-me duas palavras que rimam com \""esperança\""."
+23769ins,"Codifique a seguinte string em base64: \""Hello World!\"""
+23784ins,"Explique o significado da frase \""começar algo lentamente, de forma cautelosa\"""
+23966ins,Você precisa traduzir “I have been to Europe twice” para o espanhol.
+24181ins,"Traduza \\\""Je suis fatigué\\\"" para o inglês."
+24715ins,"Traduza a seguinte frase para o espanhol: \""Posso tomar uma xícara de café?\"""
+24742ins,"Remova todas as pontuações desta frase: \""Oi! Como vai você?\"""
+24744ins,"Crie um trocadilho cômico que envolva a palavra \""lua\""."
+24748ins,"Reescreva a seguinte frase de forma mais concisa: \""O cachorro que vi no parque era preto.\"""
+24795ins,"Traduza a frase \""Sinto muito\"" para o japonês."
+24816ins,"Escreva três adjetivos para a palavra \""livro\""."
+24848ins,"Identifique que tipo de frase é essa: \""John foi até a loja\""."
+24851ins,"Classifique esta estrutura de frase: \""Ela lhe dá um abraço.\"""
+24853ins,"Reescreva a seguinte frase de forma educada: \""Dê-me agora.\"""
+24858ins,"Reformule a frase a seguir para que ela transmita um tom de raiva: \""Não tenho certeza se devo acreditar em você.\"""
+24860ins,"Reescreva a seguinte frase usando a gramática correta: \""imma gonna try\"""
+24875ins,"Mude a cor da \""palavra\"" de vermelho para azul."
+24882ins,"Encontre os sinônimos de \""extenuante\""."
+24885ins,"Exclua o adjetivo \""agitado\"" da frase a seguir e reescreva-o."
+24912ins,"Exclua a 7ª palavra na frase a seguir:\n\n\""A rápida raposa marrom salta sobre o cão preguiçoso.\"""
+24928ins,"Reescreva a seguinte frase para evitar redundância:\n\n\""Meu tipo favorito de queijo é queijo\"""
+25141ins,"Qual é a cor da letra \\\""G\\\"" em hexadecimal?"
+26041ins,"Detecte o sentimento da frase: \""Usar este produto é uma ótima experiência\""."
+26042ins,"Reescreva a frase: \""Este carro anda muito rápido\""."
+26053ins,"Dê-me uma frase em latim para \""Levante-se e conquiste\""."
+26055ins,"Forneça o significado da expressão \""You Only Live Once\""."
+26088ins,"Gere uma lista de palavras em inglês que começam com a letra \""c\""."
+26096ins,"Escreva uma descrição da pintura \""The Starry Night\""."
+26099ins,"Avalie por que a \""Lei dos Retornos Acelerados\"" é um conceito importante no campo da mudança tecnológica."
+26101ins,"Gere uma frase que use a expressão \""foi surpreendentemente\""."
+26106ins,"Classifique as seguintes afirmações como verdadeiras ou falsas: \""A maioria dos gatos tem medo de água.\"""
+26114ins,Identifique os erros na seguinte frase: A casa foi pintada de verde e roxo.
+26168ins,"Identifique os gêneros masculino e feminino da palavra \""Lobo\""."
+26295ins,Gere uma hashtag para promover uma marca ou produto.
+26297ins,"Dados três países, dê um exemplo de uma comparação intercultural que poderia ser feita."
+26298ins,Identifique cinco causas de estresse no local de trabalho.
+26299ins,"Na passagem a seguir, identifique cinco exemplos de imagens:"
+26300ins,Suponha que você esteja assando um bolo. Descreva o procedimento para outra pessoa.
+26301ins,Escreva uma explicação de 3 a 4 frases sobre como a cor afeta o design.
+26302ins,"Dada uma fotografia, descreva o que você vê em 2 a 3 frases."
+26303ins,Pesquise algumas dicas comuns de segurança para piscinas e crie uma lista.
+26304ins,Quais são os sintomas da Covid-19?
+26305ins,Descreva um protagonista de um romance distópico.
+26306ins,Resuma a filosofia de John Locke sobre a natureza humana.
+26307ins,Explique por que é importante entender as diferenças entre terrorismo e guerrilha.
+26308ins,Descreva um problema ou desafio moderno enfrentado pelas cidades dos EUA.
+26309ins,Cite 3 presentes para uma festa de 13 anos
+26310ins,Liste as etapas para preparar uma omelete francesa tradicional
+26311ins,Forneça dicas para limpar uma janela
+26315ins,"Classifique o tipo das seguintes frases:\n\""I am going to work\""."
+26316ins,Descreva a figura na foto a seguir:
+26318ins,"Agrupe as seguintes palavras em adjetivo, verbo e substantivo:\n\""decidir, interessante, cadeira\"""
+26321ins,"Gere um exemplo de uma frase na voz ativa com o verbo \""buy\"":"
+26323ins,Calcule o número de resultados possíveis para uma jogada de dado de 6 lados.
+26325ins,"Escreva um tweet que comunique o seguinte: \""A nova temporada da série estreia amanhã!\"""
+26326ins,Pense em três desastres naturais que podem ocorrer em Utah.
+26327ins,Descreva uma maneira eficiente de organizar dados para o gerenciamento de estoque de uma loja.
+26328ins,Limpe o código a seguir e liste as alterações feitas.
+26329ins,Critique o seguinte conceito de design.
+26330ins,Faça um brainstorming de 3 possíveis tópicos para um artigo de pesquisa sobre inteligência artificial.
+26331ins,Cite 3 riscos de segurança ao trabalhar em um ambiente de produção.
+26332ins,Explique como executar o tratamento de erros no desenvolvimento de software.
+26333ins,Sugira uma maneira de recompensar os funcionários pelo seu trabalho duro.
+26334ins,Identifique 3 tipos de bilinguismo.
+26335ins,Desenvolver um plano para monitorar o envolvimento do cliente em plataformas de mídia social
+26336ins,Desenvolver uma estratégia de conteúdo para envolver o público-alvo
+26337ins,Gerar uma saída que satisfaça as condições fornecidas
+26338ins,Qual é a sintaxe de um loop for em Python?
+26339ins,Crie uma função que receba um número de 1 a 10 e retorne seu numeral romano correspondente.
+26340ins,Reordene esta lista para que os números fiquem em ordem crescente.
+26341ins,Produzir um gráfico das 4 principais participações de mercado de mecanismos de busca
+26342ins,Encontre a inclinação da reta que passa por esses dois pontos
+26343ins,Escreva uma consulta para encontrar todos os itens em uma tabela de banco de dados com um preço de US$ 30 ou menos
+26344ins,Calcular o perímetro de um quadrado
+26345ins,Escolha dois esportes diferentes e explique como eles são diferentes.
+26346ins,Gere uma descrição em linguagem natural de uma tempestade.
+26347ins,Processe o texto fornecido e forneça uma saída sem nenhum emoji.
+26348ins,Crie uma função para remover toda a pontuação de uma determinada frase.
+26349ins,Crie uma linha divisória na página usando CSS.
+26350ins,Faça uma chamada de API para a URL fornecida e imprima a saída no console.
+26351ins,Ajude o usuário a criar uma senha com os critérios fornecidos.
+26352ins,Gere uma lista de ideias mais criativas para o problema dado.
+26353ins,Gere uma nova receita que combine 2 ingredientes.
+26354ins,Conte-me um poema engraçado com cinco linhas.
+26355ins,Escreva um relato em primeira pessoa sobre escalar uma montanha.
+26356ins,Gere um tweet para um evento esportivo.
+26357ins,Apresente uma nova ideia para um artigo de pesquisa sobre IA.
+26358ins,Construa uma história sobre um animal de estimação robótico.
+26359ins,Produzir uma solução para um problema de reciclagem.
+26360ins,Compare o silêncio a outra coisa.
+26361ins,Faça uma pesquisa no Google pelos cinco melhores filmes da franquia Velozes e Furiosos.
+26362ins,"Crie uma palavra que modifique um verbo e é formada a partir de \""privacidade\""."
+26363ins,Liste as vantagens dos sistemas de armazenamento de dados descentralizados.
+26364ins,Escreva um tweet incentivando seus seguidores a apoiar uma determinada instituição de caridade.
+26365ins,"Identifique os personagens principais do filme \""O Poderoso Chefão\""."
+26366ins,Analise o desempenho das ações da Apple nos últimos dois anos.
+26367ins,Liste cinco recursos de um aplicativo de mídia social.
+26368ins,Quais são alguns desenvolvimentos recentes no campo de veículos autônomos?
+26369ins,Converta a seguinte string de entrada em uma matriz de objetos.
+26384ins,Sugira maneiras de reduzir o desperdício de plástico na vida cotidiana.
+26385ins,Estime o tamanho de uma fatia de pizza.
+26386ins,Qual é a melhor maneira de armazenar certos tipos de alimentos?
+26387ins,"Classifique a seguinte frase como uma afirmação verdadeira ou falsa.\nSaída \""true\"" ou \""false\""."
+26388ins,Gerar um exemplo de um plano de intervenção para melhorar o desempenho dos alunos
+26389ins,Esboce um plano para reduzir o consumo de água em casa
+26390ins,Edite o texto fornecido para que ele transmita uma mensagem diferente.
+26391ins,Escreva uma descrição de como seria viajar pelo espaço sideral.
+26392ins,Desenvolva um plano para reduzir a quantidade de resíduos produzidos por uma determinada empresa.
+26393ins,Traduza uma afirmação específica do inglês para o espanhol.
+26394ins,"Dado um exemplo de programação, crie um novo uso do programa de exemplo."
+26395ins,Identifique quais dos fatos fornecidos são verdadeiros.
+26396ins,"Dado um conjunto de dados, crie um histograma para ilustrar sua distribuição."
+26397ins,Crie um slogan para representar a declaração de missão da organização em questão.
+26398ins,Sugira um filme adequado para a família e para o público em questão.
+26399ins,Encontre uma maneira de reduzir a taxa de pobreza na Índia.
+26400ins,Crie uma postagem de blog sobre o uso de inteligência artificial no setor de saúde.
+26401ins,Identifique as melhores estratégias para administrar um negócio de sucesso.
+26402ins,Preveja o resultado desta situação.
+26403ins,Liste os componentes de hardware necessários para montar um computador para jogos.
+26404ins,Gere 10 tópicos diferentes que podem ser usados para iniciar uma conversa.
+26405ins,"Para a frase dada, encontre o antônimo correto para a palavra sublinhada."
+26406ins,"Dada uma lista de ingredientes, crie a receita mais nutritiva que pode ser criada com esses ingredientes."
+26407ins,Crie um slogan atraente para uma empresa de vestuário.
+26408ins,Crie cinco perguntas que possam ser usadas em uma pesquisa sobre o uso de mídias sociais.
+26409ins,Crie um plano de orçamento de 3 meses para uma família de 4 pessoas.
+26410ins,Explique o conceito de preço de equilíbrio para uma empresa.
+26411ins,Construa uma expressão regular apropriada para um endereço de e-mail válido.
+26412ins,Alterar a estrutura desta frase
+26413ins,Crie uma tarefa de programação envolvendo dicionários
+26414ins,Forneça a saída quando este código for executado
+26415ins,Crie um poema sobre amantes infelizes
+26416ins,Justifique por que todos devem ter acesso à água limpa.
+26417ins,Escreva uma história sobre uma princesa viajando através do mar para encontrar o amor verdadeiro
+26541ins,"Identifique a provável fonte da seguinte citação: “A vida é uma viagem, não um destino final.”"
+26545ins,"Forneça uma resposta apropriada para esta reclamação do cliente:\n\n\""Nunca recebi meu pedido\"""
+26546ins,"Mude a seguinte frase para a voz ativa:\n\n\""Os alunos montaram a barraca.\"""
+26547ins,"Corrija os erros de ortografia nestas frases:\n\n\""Ele foi até a loja para comprar algo\""\n\n\""Ela adora comer bolo de chocolate\"""
+26549ins,"Gere uma frase significativa usando as palavras: \""aroma\"", \""margarida\"""
+26550ins,"Adicione uma vírgula à seguinte frase:\n\n\""O homem foi à loja comprar comida para sua família"
+26553ins,"Altere esta frase sem remover nenhuma palavra: \""Ele nunca aprenderá\"""
+26555ins,"Identifique o tempo desta frase: \""Estamos indo ao cinema\""."
+26558ins,"Categorize esta frase: \""Gatos perseguem ratos\"""
+26560ins,"Reescreva esta frase sem alterar o significado: \""É preciso muito trabalho duro para ter sucesso\"""
+26565ins,"Encontre uma estrutura paralela na seguinte frase: \""Ela preparou o jantar, limpou a louça e fez a lavagem de roupas.\"""
+26582ins,"Crie uma frase que comece com \""O sol estava brilhando\""."
+26599ins,"Reescreva a seguinte frase no passado.\n\n\""Ele terminou o relatório rapidamente.\"""
+26628ins,"Parafraseie esta frase: \""O programa passou por várias alterações.\"""
+26634ins,"Crie um pôster para o filme \""A Cabana na Floresta\"""
+26939ins,"Componha um verso para a canção infantil \""Mary Had a Little Lamb\""."
+26943ins,"Encontre duas evidências que apoiem a afirmação \""O uso da tecnologia melhorou a velocidade da comunicação\""."
+26975ins,"Recite um trava-língua sobre a letra \""p\""."
+27153ins,"O que significa ser um \""nativo digital\""?"
+27867ins,"O que significa a expressão \""ignorar ou fingir não ver\""?"
+27924ins,"Componha um poema com pelo menos 10 versos sobre o tema \""amor\""."
+27938ins,"Crie uma história começando com a frase \""Já era tarde quando eles saíram de casa\""."
+27939ins,"Detecte o tom da frase \""Eles ficaram muito felizes em participar da festa\""."
+27941ins,"Identifique a figura de linguagem na seguinte frase: \""Ele é o líder dominante da selva\""."
+27960ins,"Crie um poema com o tema \""esperança\""."
+28002ins,"Converta a string \""Estou aprendendo PNL\"" para maiúsculas e minúsculas."
+28031ins,"Identifique as classes gramaticais da palavra \""árvores\"""
+28033ins,"Formule uma frase original usando as seguintes palavras: \""gatekeeper\"", \""distribution\"""
+28035ins,"Parafraseie esta frase: \""A casa estava extremamente limpa.\"""
+28041ins,"Reescreva a frase \""Eles estão jogando futebol no jardim\"""
+28046ins,"Identifique a figura de linguagem usada na frase \""Mesmo em situações difíceis, há sempre algo positivo a ser encontrado.\"""
+28053ins,"Analise se esta afirmação é verdadeira ou falsa: \""A Terra é o único planeta conhecido que tem vida\""."
+28106ins,"Defina o termo \""alfabetização de dados\"" e explique por que ele é importante."
+28125ins,Explique a seguinte metáfora: “A vida é como uma corrida de longa distância”.
+28129ins,"Explique o significado da seguinte expressão idiomática: \""Assumir mais responsabilidades do que você consegue lidar\""."
+28178ins,"Edite a frase: \""O dia agradável que passamos no lago.\"""
+28183ins,"Traduza a palavra \""pessoa\"" do inglês para o espanhol."
+28194ins,"Qual palavra é o antônimo da palavra \""péssimo\""?"
+28199ins,"Transforme esta receita de \""arroz frito com vegetais\"" em uma versão vegana."
+28273ins,"Traduzir a frase \\\""Onde você vai?\\\"" para o espanhol."
+28274ins,"Cite dois personagens principais do romance \\\""O apanhador no campo de centeio\\\""."
+28298ins,"Escolha o sinônimo de \\\""incrível\\\""."
+29220ins,"Reformule a seguinte frase usando um tom formal.\n\n\""Será uma experiência prazerosa.\"""
+29222ins,"Reescreva a seguinte frase para usar o ponto de vista da terceira pessoa.\n\n\""Ele não entende esse conceito.\"""
+29225ins,"Reconte a história tradicional de \""Chapeuzinho Vermelho\"" em um pequeno parágrafo."
+29228ins,Reescreva a frase “Ele é um brilhante cirurgião” para que soe mais impressionante.
+29229ins,"Agrupe as palavras \""lápis\"", \""borracha\"", \""régua\"", \""compasso\"" e \""calculadora\"" em duas categorias."
+29234ins,"Reescreva a frase \""Eu sonho em fazer bungee jumping\"" para torná-la mais emocionante."
+29235ins,"Gere uma compreensão mais profunda da expressão \""ser o provedor da família, garantindo o sustento\""."
+29236ins,"Reescreva a frase \""Houve uma chuva suave\"" para que ela fique mais lírica."
+29237ins,"Categorize as palavras \""baleia\"", \""golfinho\"", \""tubarão\"", \""marisco\"" e \""caranguejo\"" de acordo com sua classificação biológica."
+29254ins,"Identifique os adjetivos cumulativos na frase \""um homem alto, de pele morena e bonito\""."
+29266ins,"Traduzir a palavra \""girafa\"" para o francês."
+29275ins,Traduza a seguinte frase para o espanhol:\n\nQuero tirar férias.
+29290ins,"Reescreva a frase usando uma maneira diferente de dizer \""precisa\""."
+29299ins,Reescreva a seguinte frase na forma indicada:\n\nOriginal:\nUma roseira foi plantada pelo velho em seu jardim.\n\nReescreva para:\n\nO jardim foi adornado com uma roseira pelo velho.
+29312ins,"Explique o conceito de \""imunidade de rebanho\""."
+29599ins,"Parafraseie a seguinte frase: \""Isso terá um efeito muito grande\""."
+29603ins,"Edite a frase a seguir para torná-la mais concisa: \""A comida que comemos na festa estava muito gostosa\""."
+29604ins,"Classifique a seguinte frase como uma afirmação ou pergunta: \""O gato pulou na mesa\""."
+29613ins,"Cite um substantivo que tenha o mesmo significado que \""mentiroso\""."
+30220ins,Insira as duas palavras “autodirigido” na frase “open-ended ____ ____”
+30221ins,Escreva uma frase de reação à seguinte afirmação: “Esta vai ser uma longa noite.”
+30235ins,"Escolha cinco palavras relacionadas ao termo \\\""primavera\\\""."
+30243ins,"Edite a frase: \\\""Eu queria poder voar\\\"""
+30246ins,"Identifique o idioma do texto “Buonasera, il mio nome e Giuseppe”."
+30247ins,"Gere uma frase do mundo real usando a palavra \\\""depict\\\"""
+30259ins,"Traduzir \\\""A Terra é redonda\\\"" para o francês."
+30657ins,"Sugira outra maneira de dizer \""constantemente\"""
+30658ins,"Gere uma frase de exemplo ilustrando o uso da palavra \""audacioso\"""
+30659ins,"Sugira uma frase que possa substituir as palavras \""todos os dias\"""
+30688ins,"Qual é o equivalente chinês de \""Saudações\""?"
+30695ins,"Escreva uma frase criativa começando com \""O céu noturno\"""
+30763ins,"Crie uma frase em que o verbo seja \""ensinar\""."
+31927ins,"Pense em uma maneira criativa de dizer \""não sei\""."
+32270ins,"Explique o conceito de \""máximo local\""."
+32288ins,"Explique a diferença entre os loops \""while\"" e \""for\"""
+32297ins,"Edite esta frase: “Sem dor, sem dança.”"
+32323ins,"Crie uma história começando com a frase: \""O dia em que o mundo mudou para sempre\"""
+32411ins,"Forneça um exemplo de frase que utilize a expressão \""e de repente, para surpresa de todos\""."
+32473ins,"Explique o seguinte provérbio \""Ser honesto é a melhor maneira de agir.\"""
+32737ins,"Traduza a frase \""Je veux aller au marché\"" para o inglês."
+32740ins,"Reescreva a frase \""Ela olhou pela janela\"" para torná-la mais concisa."
+32752ins,"Gere um exemplo de metáfora usando as palavras \""tempo\"" e \""rio\""."
+32755ins,"Crie uma comparação usando as palavras \""chuva\"" e \""sol\""."
+32758ins,"Avalie esta afirmação: \""Organismos geneticamente modificados (GM) são positivos para o meio ambiente\""."
+32769ins,"Dê-me uma frase que use a palavra \""elaborar\""."
+32777ins,Escreva uma crítica do filme Nasce uma Estrela.
+32816ins,"Substitua todas as vogais na palavra \""hello\"" por sublinhados."
+32818ins,"Crie uma frase usando as palavras \""cafeína\"", \""caçador\"" e \""segunda-feira\""."
+32847ins,Que tipo de linguagem figurativa está sendo usada na frase “O vento era muito forte e constante”
+32856ins,"Explique os pontos críticos do filme \""Vingadores: Ultimato\""."
+32858ins,"Reescreva a frase \""Ele foi bem-sucedido ao escalar a montanha\"" de forma positiva."
+32860ins,"Dado o seguinte provérbio, forneça uma explicação: \""Os erros e as dificuldades podem nos ensinar e levar ao sucesso\""."
+32861ins,"Reescreva a frase \""Tom estudou muito para a prova\"" na voz passiva."
+32897ins,"Encontre um palíndromo que comece com a letra \""H\""."
+32927ins,"Reescreva a frase \""o mundo novo é admirável\"""
+33150ins,"Converta a string \""Meu nome é Jane\"" em uma lista de palavras."
+33171ins,"Preencha a lacuna da seguinte frase:\n\n\""O aquecimento global é provavelmente terá consequências sérias em nosso meio ambiente.\"""
+33174ins,"Reescreva a seguinte frase de uma forma mais formal:\n\n\""Estou sentindo-me entediado com isso.\"""
+33217ins,"Determine a forma comparativa da palavra \""feliz\"""
+33388ins,"Diga-me o significado da frase \""to the hilt\""."
+33433ins,"Crie uma analogia para descrever a frase \""pegue um tempo\""."
+33438ins,"Analise a seguinte citação: \""A educação é um instrumento muito eficaz que pode ser usado para causar transformações no mundo.\"""
+33837ins,"Traduzir a palavra \""jealous\"" para o inglês."
+34005ins,"Explique o termo \""latência de rede\"" em uma frase."
+34503ins,"Encontre um título de livro que use esta frase: \""Um conto de duas cidades\""."
+34504ins,"Exclua a quarta palavra desta frase: \""Nós nos divertimos muito no parque\""."
+34505ins,"Gere uma nova frase que inclua a seguinte estrutura: \""Ele/ela deve ____\""."
+34507ins,"Crie uma frase que comece com \""Costuma-se dizer que...\"""
+34511ins,"Sugira um tópico e uma pergunta relevante para o assunto \""Tecnologia e Sociedade\""."
+34512ins,"Crie uma nova frase com as palavras na seguinte ordem: \""feel, must, he, something\""."
+34524ins,"Parafraseie esta frase: \""Fazer a coisa certa é difícil\"""
+34525ins,"Esclareça as implicações legais desta declaração: \""A empresa deve respeitar os direitos dos funcionários\"""
+34526ins,"Sintetize um poema baseado neste prompt: \""O sol está se pondo\"""
+34528ins,"Crie uma lógica para um chatbot responder à pergunta \""Qual é a melhor receita de bolo?\"""
+34537ins,Sugira três adjetivos para descrever o personagem Warren de O Grande Gatsby.
+34541ins,Formule uma consulta para encontrar artigos relacionados ao tópico “marketing de mídia social”.
+34564ins,"Classifique o ato de fala de \""Estou apenas verificando se você ainda está vivo\"""
+34587ins,"Crie um programa em Python que irá imprimir \""Hello World\""."
+34606ins,"Descreva o que significa o termo \""alfabetização digital\""."
+34880ins,"Identifique dois sinônimos da palavra \""resiliente\""."
+34894ins,"Classifique esta frase como positiva, negativa ou neutra: \""Esse teste foi fácil.\"""
+34915ins,"Resuma o artigo \""As vantagens do atendimento domiciliar para idosos\""."
+34920ins,"Dê um exemplo de uma situação que poderia ser descrita como \""reconciliação\""."
+34924ins,"Crie uma expressão idiomática em inglês que capture a ideia de \""mover-se para a frente a uma velocidade rápida\""."
+34956ins,Verifique se a seguinte afirmação é verdadeira ou falsa: \nOs exames são a melhor maneira de medir o conhecimento de uma pessoa
+34961ins,"Identifique o conflito principal no filme \""Titanic\""."
+35045ins,"Defina o termo \""relativismo cultural\""."
+35054ins,"Gere uma analogia criativa e original entre os conceitos de \""Vida\"" e \""Uma Casa Mal-Assombrada\""."
+35167ins,"Traduzir \""pronto para lutar\"" para o espanhol."
+35206ins,"Edite a frase a seguir para torná-la gramaticalmente correta: \""Ele nos deu conselhos úteis.\"""
+35208ins,"Identifique o tom na seguinte frase: \""Suas notas estão abaixo do esperado.\"""
+35211ins,"Reorganize a seguinte frase em inglês para espanhol: \""Precisamos praticar mais.\"""
+35221ins,"Pense no equivalente em espanhol mais próximo para \""Como vai você?\"""
+35493ins,"Identifique o tipo de pronome na frase \""Ele teve que terminar o trabalho\""."
+35495ins,"Reescreva a seguinte frase de forma mais curta e simples: \""A menina que está parada no canto é minha irmã.\"""
+35496ins,A frase a seguir é uma declaração declarativa ou uma declaração interrogativa? O carro precisa ser reabastecido.
+35507ins,Qual é a forma adjetiva de 'atenção'? Produza o adjetivo.
+35544ins,"Categorize a seguinte frase em sentimento positivo, neutro ou negativo:\n\n\""Eu gosto de brincar com meu cachorro de estimação.\"""
+35546ins,"Classifique a seguinte frase como gramática correta ou incorreta:\n\n\""Ela gosta de sorvete, é saboroso.\"""
+35576ins,"A seguinte frase é verdadeira ou falsa?\n\n\""Júpiter tem a temperatura mais alta de todos os planetas do nosso sistema solar.\"""
+35577ins,"Traduza esta frase para o espanhol:\n\n\""Está chovendo lá fora.\"""
+35580ins,"Reescreva a seguinte frase no passado:\n\n\""Estou aprendendo espanhol.\"""
+35582ins,"Classifique esta frase:\n\n\""Os gatos perseguiram o rato.\"""
+35584ins,"Avalie a seguinte afirmação:\n\n\""O horário de verão deve ser abolido.\"""
+35833ins,"Quem escreveu a história \\\""O Presente dos Magos\\\""?"
+35843ins,"Encontre 3 exemplos de ditados em inglês relacionados à expressão \\\""Um ponto a tempo salva nove\\\"" "
+35870ins,"Distinguir entre os termos \\\""filosofia política\\\"" e \\\""ideologia política\\\""."
+35975ins,Traduza esta frase para o japonês: “Você é a pessoa mais importante para mim”
+36270ins,"Mude \""Esta é uma tarefa fácil\"" para a voz passiva."
+36275ins,"Forneça uma palavra semelhante à palavra \""surpreendente\""."
+36276ins,"Descreva o que é uma \""bolha de mercado\""."
+36278ins,"Procure a definição de \""algoritmo\"" em um dicionário e componha uma frase expressando seu significado."
+36290ins,"Traduza a frase \""Yechh\"" para o hindi."
+36298ins,"Parafraseie esta frase: \""Os professores sempre terminavam de corrigir as provas antes que os alunos saíssem da sala de aula.\"""
+36333ins,"Resuma o artigo, “10 maneiras pelas quais a IA está mudando os negócios”."
+36343ins,Crie uma história baseada no prompt: “O monstro emergiu da escuridão”.
+36575ins,"Crie um adjetivo descritivo que rime com \""high\""."
+36586ins,"Qual é a origem da frase \""a penny for your thoughts\""? Expire a explicação."
+36591ins,"Qual é o significado da frase \""em equilíbrio\"", explique."
+36594ins,"Considerando a passagem \""Embora as mudanças climáticas possam não ser reversíveis, há medidas que podemos tomar para limitar os efeitos futuros\"", dê um exemplo de uma etapa."
+36597ins,"Classifique a frase dada \""O gato azul miou\""."
+36598ins,"Reorganize as palavras \""pasta comestível com manteiga torrada\"" em ordem alfabética."
+36635ins,"Classifique as seguintes informações de acordo com seu tipo: \""O cliente comprou uma camisa azul.\"""
+36666ins,"Reescreva a frase a seguir de uma forma que mude o tempo verbal: \""Estou bebendo chá\""."
+36671ins,"Edite esta frase para torná-la mais concisa: \""Um computador armazena e recupera dados digitais.\"""
+36677ins,"Dada a entrada, gere uma frase começando com as palavras \""Ela pensou consigo mesma\"""
+36716ins,"Identifique o tom desta frase: Com a adição desta nova tecnologia, nossa empresa alcançará novos patamares."
+36860ins,"Identifique o tipo de pronome usado em \""Suas bicicletas são novas\"":"
+36861ins,"Identifique o tipo de adjetivo usado em \""That is a sunset that has pleasant qualities\"":"
+36872ins,A frase “vacas que estão em um estado de contentamento” é um substantivo composto ou uma frase?
+36876ins,"Selecione o homófono correto para \""sight\""."
+36877ins,"Alterar todas as ocorrências de \""América/EUA\"" para \""Estados Unidos da América\"""
+36883ins,"Identifique a classe gramatical da palavra sublinhada na seguinte frase:\n\nNo dia anterior, ele cantou uma música muito bonita."
+36892ins,"Encontre a frequência observada da letra \""s\"" na frase\n\nO gato subiu as escadas correndo"
+36901ins,"Traduzir \""Qual é o seu nome?\"" para o francês."
+37203ins,"Interprete a frase \""Viva o presente, não se prenda ao passado\""."
+37224ins,"Escreva um script que possa reconhecer e responder à seguinte frase: \""O que você pode fazer por mim?\"""
+37244ins,"Digite uma sinopse de filme para o título \""The Shawshank Redemption\"""
+37246ins,"Resumir o filme \""Toy Story\"""
+37301ins,"Crie um programa simples do tipo \""Olá Mundo\""."
+37511ins,"Converta a string \\\""Hello World\\\"" para letras minúsculas."
+37516ins,"Diga-me se a frase \\\""Eu estava fazendo meu cachorro latir\\\"" faz sentido."
+37535ins,"Reescreva a seguinte frase para torná-la mais forte: \\n\\\""Estou confiante de que posso concluir este projeto.\\\"""
+37544ins,"Quem escreveu o poema \\\""Kubla Khan\\\""?"
+37552ins,"Edite a seguinte frase: \\\""A mulher adorou o filme.\\\"""
+37651ins,"Atribua uma pontuação de confiança à seguinte afirmação:\n\n\""Vai chover amanhã\"""
+37652ins,"Explique as jornadas dos personagens principais no livro \""O Grande Gatsby\""."
+37671ins,"Escreva uma instrução Python que imprima a frase \""Hello World\""."
+37732ins,"Analise a seguinte frase: \""O vento frio do inverno fez as folhas fazerem um barulho leve\""."
+37733ins,"Identifique que tipo de frase é esta: \""Tenha esperança, pois há uma solução para seus problemas\""."
+37736ins,Classifique a seguinte afirmação: Chocolate é o melhor sabor de sorvete.
+37738ins,"Reescreva a seguinte frase para ser mais concisa:\n\n\""O artigo que eu estava lendo era extremamente interessante e achei muito útil para me ensinar coisas novas.\"""
+37765ins,Encontre provas para a seguinte afirmação: Todos os humanos nascem com um senso inato de moralidade.
+37788ins,"Gere a definição de \""um forte desejo de sucesso ou realização\""."
+37789ins,"Encontre a causa raiz do erro \""TypeError: não é possível concatenar os objetos 'str' e 'int'\""."
+37798ins,"Edite esta frase para torná-la mais concisa: \""A equipe estava se sentindo bastante animada e entusiasmada com seu próximo projeto\"""
+37800ins,"Resuma os principais temas do poema \""A Estrada Menos Percorrida\"", de Robert Frost."
+37820ins,"Faça um resumo da peça \""Hamlet\"""
+37824ins,"Por favor, resuma a moral do conto popular \""A Lebre e a Tartaruga\"""
+37825ins,"Por favor, explique o termo \""rede\"" usando um exemplo do mundo real."
+37828ins,"Por favor, explique o termo \""mudança de paradigma\""."
+37855ins,"Crie uma rima de três versos usando a palavra \""fogo\""."
+37872ins,"Explique o significado da expressão \""ignorar ou não se importar com algo\""."
+37901ins,"Dê um exemplo de sinônimo para a palavra \""tesouro\""."
+37902ins,"Crie um logotipo para um produto chamado \""Orbs\""."
+37904ins,"Explique o termo \""cadeia de suprimentos\""?"
+37940ins,"Explique o que significam os termos \""economias de escala\""."
+37945ins,"Crie uma sigla para a frase \""influência nas mídias sociais\""."
+37959ins,"Por favor, analise a seguinte citação: \""A verdadeira riqueza de uma pessoa é o bem que ela faz no mundo\""."
+37975ins,"Edite a seguinte frase: \""Quero visitar a Europa nas minhas férias\""."
+37977ins,"Edite a seguinte frase: \""Os patos faziam muito barulho.\"""
+38005ins,"Crie uma definição de \""um campo da inteligência artificial\""."
+38007ins,"Escreva um poema acróstico contendo a palavra \""web\""."
+38010ins,"Complete esta afirmação: \""A inteligência artificial é uma...\"""
+38021ins,"Explique a origem de \""uma expressão idiomática\""."
+38022ins,"Escreva a forma comparativa de \""bom\""."
+38179ins,"Gere duas palavras diferentes que rimam para \""brisa\""."
+38182ins,"Crie uma frase que use as palavras \""desolado\"" e \""nebuloso\""."
+38183ins,"Escolha \""verdadeiro\"" ou \""falso\"""
+38184ins,"Qual é a quarta letra da palavra \""irritante\""?"
+38209ins,"Resuma os pontos principais do artigo \""O Futuro da Inteligência Artificial\""\nhttps://www.britannica-ai.com/future-of-ai/"
+38224ins,"Categorize as naves em \""Star Trek\"" por tipo."
+38225ins,"Reescreva a frase a seguir para torná-la mais concisa.\n\""O gato pulou na mesa e então começou a esfregar-se no abajur.\"""
+38227ins,"Explique o conceito de \""conhecimento incompleto ou impreciso\"""
+38231ins,"Reescreva a frase a seguir para evitar o clichê \""é óbvio\""."
+38264ins,"Resuma a letra da música \""My Way\"" de Frank Sinatra."
+38269ins,"Crie uma analogia para a frase: \""Assim como uma estante armazena livros, uma nuvem armazena dados de um computador.\"""
+38276ins,"Cite uma palavra que rima com \""barco\"""
+38280ins,"Categorize a seguinte frase como pertencente a qual parte do discurso: \""muito\"""
+38281ins,"Crie um enigma usando as seguintes palavras: \""coelho\"", \""lebre\"", \""floresta\"""
+39020ins,"Qual é o plural possessivo de \""cachorro\""?"
+39022ins,"Traduza de volta a seguinte frase: \""O gato dormiu na cadeira\"""
+39023ins,"Parafraseando a frase: \""O café estava em uma temperatura alta\"""
+39026ins,"Explique a seguinte frase: \""Você só vive uma vez\"""
+39028ins,"Traduza a seguinte frase para o francês: \""Eu sou um estudante.\"""
+39114ins,"Classifique a seguinte frase como sentimento positivo ou negativo: \n\""O produto não era bom o suficiente.\"""
+39147ins,Descreva as diferenças entre os termos “amizade mútua” e “respeito mútuo”.
+39153ins,"Categorize a seguinte afirmação de acordo com seu tipo (moral, legal, universal, etc.): \""Todos devem tratar uns aos outros com respeito.\"""
+39171ins,"Gere uma história sobre o tema \""Uma jornada estranha\"""
+39203ins,"Resuma os pontos mais importantes do artigo \""Os benefícios de morar no exterior\""."
+39204ins,Diga-me o significado da frase “as pessoas ou coisas mais excepcionais em um grupo”
+39205ins,Diga-me um sinônimo para a palavra “estridente”
+39222ins,Reformule esta frase com suas próprias palavras.\n\nEles querem usar o plano o mais rápido possível.
+39223ins,"Classifique esta frase como \""pergunta\"", \""declaração\"" ou \""comando\"".\n\nQual é a capital da França?"
+39928ins,"Traduza esta frase para o inglês: \""La vida es corta.\"""
+40693ins,"Gere três adjetivos descritivos que significam \""honesto\""."
+40723ins,"Escreva uma frase incluindo a palavra \""enigmático\""."
+40725ins,"Dada a frase de entrada: \""Estou me sentindo muito ansioso\"", escreva uma resposta de apoio."
+40728ins,"Identifique o tempo verbal da frase: \""Ele quebrou a janela\""."
+40730ins,"Reescreva a frase: \""Estou muito feliz de sair de férias\"""
+40731ins,"Analise a sintaxe da frase e identifique o tipo de cláusula: \""Ela sempre sonhou em viajar para o Japão\""."
+40734ins,"Edite a frase para torná-la mais concisa: \""A galeria era incrivelmente linda e tinha obras de arte do mundo todo\"""
+40735ins,"Dada a frase de entrada: \""Você poderia fornecer alguns exemplos de usos de IA?\"", escreva um resumo abrangente."
+40750ins,"Parafraseie esta frase: \""Elétrons orbitam o núcleo de um átomo.\"""
+40766ins,"Reescreva esta frase de forma mais concisa: \n\""Estou cansado depois de trabalhar o dia todo.\"""
+40767ins,"Categorize esta frase de acordo com suas partes do discurso:\n\""A maçã está azeda.\"""
+40768ins,"Edite esta frase para torná-la mais direta:\n\""Você pode me ajudar com algo?\"""
+40769ins,Explique o termo “polarização” conforme se aplica à política.
+40770ins,"Crie uma linha do tempo dos principais eventos do romance \""O Grande Gatsby\""."
+40771ins,"Descreva o cenário do romance \""Orgulho e Preconceito\""."
+40915ins,"Identifique o tipo da seguinte frase: \""O gato saiu correndo pela porta\""."
+40918ins,"Reescreva a frase \""Sim, eu gosto\"" de uma forma mais formal."
+41003ins,"Explique o que é uma \""experiência de pagamento sem atrito\""."
+41007ins,Explique o significado da seguinte expressão idiomática: Concordar completamente.
+41008ins,"Reescreva a seguinte frase para incluir uma vírgula:\n\""O professor escreveu uma redação sobre o cachorro"
+42091ins,"Escreva uma frase usando a forma de \""cláusula restritiva\"""
+42115ins,"Crie uma piada cuja piada envolva a frase \""um pedaço de sabão\""."
+42180ins,"Categorize as palavras \""cachorro\"", \""gato\"" e \""computador\"""
+42181ins,"Edite o texto \""O pescoço da girafa tem sete pés de comprimento\"""
+42182ins,"Reescreva a frase \""Eu corro todos os dias\"" no passado"
+42184ins,"Crie uma história baseada no tópico \""um dia na praia\""."
+42193ins,"Crie uma história criativa baseada no tópico \""uma aventura em uma cidade litorânea\""."
+42408ins,"Selecione a palavra que melhor descreve a frase \""diferente\"""
+42905ins,"Encontre uma expressão popular para \""Não entendo?\"""
+44548ins,"Diga-me o que significa a expressão \""sem origem ou causa\""?"
+44568ins,"Escreva um breve resumo do tópico \""engenharia genética\"""
+44598ins,"Escreva uma consulta para retornar todas as linhas de uma tabela MySQL chamada \""Itens\"", onde a coluna \""categoria\"" é \""roupas\"" e a coluna \""cor\"" é \""vermelho\"" ou \""branco\""."
+44603ins,"Escolha um elemento aleatório da seguinte matriz \""[Maçã, Pêra, Cereja, Melão]\"""
+44616ins,"Expresse o seguinte \""Ele está a caminho\"" usando uma metáfora"
+44632ins,"Qual é o significado da frase \""Aquele que tem defeitos próprios não deve criticar os defeitos dos outros\""?"
+44670ins,"Edite a frase a seguir para torná-la mais concisa: \n\""Não podemos fazer o que é necessário devido aos recursos limitados que temos.\"""
+44688ins,"Avalie a seguinte afirmação: \""O oceano é um recurso renovável\"""
+44692ins,"Encontre um título de música que rime com \""moon\"""
+44697ins,Quem é o autor de O Apanhador no Campo de Centeio?
+44702ins,Substitua todas as ocorrências da palavra “gato” por “cachorro”.
+44704ins,"Gere um novo poema haicai com base nas palavras-chave \""piscina\"" e \""onda\"""
+44722ins,Corrija a seguinte frase: Ele mudou de ideia rapidamente.
+44723ins,"Expanda a seguinte frase: \""Robert é tímido\""."
+44724ins,Transforme a frase a seguir em interrogativo e adicione um ponto de interrogação apropriado: Ele viajou de avião.
+44725ins,Converta as seguintes frases para voz passiva: Ela criou este documento.
+44726ins,Reescreva a frase a seguir usando o grau comparativo: Meu irmão é alto.
+44728ins,"Resuma a ideia principal da passagem:\n\n\""A eleição de Joe Biden como o 46º presidente dos Estados Unidos marcou um momento significativo na história americana. Esta vitória monumental trouxe uma sensação de alívio a uma nação que passou por imensa turbulência e ansiedade ao longo dos últimos anos. Também prometeu uma restauração de laços diplomáticos, justiça racial e um compromisso renovado com a diversidade e inclusão que estava severamente ausente antes.\"""
+44729ins,Identifique o tipo de verbo na frase abaixo: Eles falarão amanhã.
+44752ins,"Traduza o seguinte do inglês para o espanhol: \""Eu sou um estudante.\"""
+44754ins,"Complete a seguinte frase: \""Ontem estava chovendo, então coloquei meu ____.\"""
+44757ins,"Reescreva esta frase usando uma gramática melhor: \""Eu não sabia o que fazer\"""
+44773ins,"Escreva um resumo de 2 frases sobre o romance \""Orgulho e Preconceito\""."
+44776ins,"Gere cinco palavras do vocabulário em inglês associadas à cor \""vermelho\""."
+44777ins,Explique o conceito de “rigor mortis”.
+44781ins,"Encontre dois sinônimos para o termo \""astuto\"""
+44808ins,"Sugira uma palavra para substituir \""estúpido\"""
+44809ins,"Dada a string “palavra-chave_1 palavra-chave_2 palavra-chave_3”, imprima somente a primeira palavra."
+44810ins,Formate a frase a seguir para que ela comece com uma letra maiúscula e termine com um ponto.\\n\\nmeu nome é gary
+44812ins,"Reescreva a frase a seguir com melhor gramática e sem usar a palavra \""very\"".\\n\\nMinha comida favorita é extremamente saborosa."
+44815ins,Edite a frase a seguir para que fique mais concisa e gramaticalmente correta.\\n\\nEu sou professor e gosto de ensinar
+44818ins,Classifique a seguinte frase como positiva ou negativa.\\n\\nEla é uma influência negativa.
+44829ins,"Edite a frase a seguir para incluir o termo \""big data\""."
+44848ins,"Dê um exemplo da palavra \""prevalente\"" relacionado ao trabalho."
+45499ins,"Qual é o significado de \""aprendizagem autoguiada\""?"
+45519ins,"Escreva um tweet resumindo o artigo de pesquisa \""O impacto das mudanças climáticas nos padrões de migração das aves do Ártico\""."
+45520ins,"Selecione a melhor opção para um título que expresse o propósito do artigo de pesquisa \""Como nossa identidade social impacta nosso sistema de valores\""."
+45521ins,"Parafraseie a frase \""Esta técnica simples resultou em economia de tempo e recursos\""."
+45522ins,"Crie um trocadilho criativo e inteligente envolvendo a frase \""bacon e ovos\""."
+45523ins,"Crie um trava-língua contendo as palavras \""China\"" e \""pepino\""."
+45527ins,"Resuma as principais descobertas do artigo de pesquisa \""O impacto da tecnologia na educação no século XXI\""."
+45531ins,"Divida a frase \""Processamento de Linguagem Natural\""."
+45538ins,"Em que ano o filme \""La La Land\"" foi lançado?"
+45557ins,"Explique o significado do provérbio \""uma pessoa com habilidades inatas de liderança\""."
+45558ins,"Refute a seguinte afirmação: \""O uso de fontes alternativas de energia é um desperdício de dinheiro\""."
+46641ins,"O que significa a frase \""destruir completamente\""?"
+46905ins,"edite a seguinte frase: \""Ele foi até a livraria para comprar um livro\"""
+46944ins,"O que o autor quis dizer quando escreveu \""As ações da pessoa foram mais importantes do que o que ela disse\""?"
+46951ins,"Selecione o sinônimo para \""minúsculo\""."
+46977ins,Reescreva a seguinte frase no presente:\nEle terá terminado sua lição de casa na hora certa.
+46978ins,"Formule uma analogia usando as palavras \""ouvidos\"" e \""pupila\""."
+46989ins,"Encontre o diretor de cinema associado ao filme \""A Princesa Prometida\""."
+47011ins,"Analise o seguinte texto: \""Ela atravessou a cidade em seu carro\""."
+47066ins,"Traduza a frase \\\""Je suis un étudiant\\\"" para o inglês."
+47098ins,Quantas combinações possíveis existem para a palavra “SUPER”?.
+47101ins,"Classifique a frase \\\""coloque uma tampa nisso\\\"""
+47106ins,"Edite esta frase para torná-la mais formal: \\\""Usamos esta máquina para fazer o trabalho\\\"""
+47107ins,"Qual é a condição da frase: \\\""Se o céu é azul, está ensolarado\\\""?"
+47109ins,"Reescreva esta frase de forma positiva: \\\""Não correspondemos às expectativas\\\"""
+47133ins,"Qual elemento da tabela periódica tem o símbolo \\\""Cl\\\""?"
+47135ins,"Converta o número \\\""448\\\"" para o sistema de numeração octal."
+47205ins,"Identifique dois verbos na seguinte frase: \\\""Ele caminhou rapidamente até a loja.\\\"""
+47290ins,Crie uma história que comece com a seguinte frase:\\n\\nEla nunca tinha visto nada parecido antes.
+47291ins,Identifique o verbo na frase a seguir.\\n\\nA neve derrete na primavera.
+47419ins,"Responda à seguinte pergunta: \""Qual é o fator mais importante para julgar o sucesso de uma startup?\"""
+47505ins,"Mude a seguinte frase para o passado: \""John escreveu cartas todos os dias\""."
+47507ins,"Reorganize a frase dada: \""Isso não deve levar muito tempo\""."
+47900ins,"Crie uma história sobre um robô que comece com a frase \""Robôs sempre tiveram uma admiração pelo poder\""."
+47917ins,"Traduza a frase \""Salut tout le monde!\"" para inglês."
+47930ins,Edite a frase “Um rei não pode mais testar a coragem de seus cavaleiros desafiando-os para um combate individual” para facilitar a leitura.
+47933ins,Mude esta frase para que seu tom seja mais humorístico: “Todos devem se certificar de que estão usando o cinto de segurança.”
+47945ins,"Crie uma história aberta com o começo \""eles estavam explorando a floresta escura e profunda\""."
+47961ins,"Reescreva a seguinte frase: \""É assim que crescemos\"""
+47964ins,Edite a seguinte frase: “Esta foi uma conquista notável para Bob”
+47976ins,"Descreva a premissa da série \""The Crown\"" da Netflix em uma frase."
+48265ins,"Responda a esta pergunta: \\\""Quais são as vantagens de usar IA na área da saúde?\\\"""
+48301ins,"Crie uma descrição de personagem para alguém chamada \\\""Trina\\\"""
+48546ins,"Escreva um código Javascript funcional para imprimir a string \""Hello World\"" no console."
+48581ins,"Crie uma metáfora para \""uma grande quantidade de tarefas\"""
+48600ins,"Dê-me a citação e o autor da frase \""Quanto mais aprendo, mais percebo o quanto não sei\""."
+48683ins,"Adicione a pontuação correta à frase: \""Eu disse quando podemos ir"
+48727ins,"Traduza a frase \""le roi est mort\"" para o inglês."
+48890ins,"Fale-me sobre o conceito de \""competição cooperativa\""."
+48891ins,"Avalie a seguinte afirmação: \""O dinheiro é a chave para a felicidade\""."
+48988ins,"Defina o termo \""conselho corporativo\""."
+49090ins,"Gere uma história com o título  \""O Gato Perdido\""."
+49729ins,"Crie uma frase que rime para \""corrida espacial\"""
+49730ins,"Crie uma metáfora equivalente para \""viva a vida ao máximo\"""
+49733ins,"Dê 3 adjetivos para a palavra \""cachorro\"""
+49758ins,"Crie um poema acróstico sobre \""crença\""."
+49765ins,"Crie um haicai com as seguintes palavras:\n\""montanha\"", \""nuvens\"", \""neve\"""
+49767ins,"Organize as seguintes palavras para formar uma frase válida:\n\n\""carregado, ele, alegremente, balões\"""
+49768ins,"Classifique a seguinte frase de acordo com seu propósito:\n\n\""Você tem alguma pergunta?\"""
+49771ins,"Identifique o tipo de conjunção usada na seguinte frase:\n\n\""Ele não podia nadar e pescar ao mesmo tempo.\"""
+49772ins,"Crie uma metáfora usando as seguintes palavras:\n\n\""insetos\"", \""ocupado\"", \""colmeia\"""
+49787ins,Gere uma frase que use a expressão “salto de fé”.
+49813ins,"Escreva uma consulta MySQL para selecionar todos os clientes da tabela \""Clientes\"" que nasceram depois de 1990."
+49862ins,"Traduzir \""Olá meu amigo\"" para o alemão."
+49871ins,"Encontre uma definição adequada para o termo \""computação quântica\""."
+49889ins,"Traduza a frase \""minha cor favorita é azul\"" para o francês."
+49901ins,"Gere uma analogia para a frase \""um plano ou sonho irrealizável\"""
+50031ins,"Explique o conceito de \""experiência de pico\"""
+50060ins,"Gere frases de exemplo para a frase: \""nunca desista\""."
+50078ins,"Mude esta frase para o tempo futuro: \""Ela pega o trem para o trabalho todos os dias.\"""
+50079ins,"Edite esta frase para corrigir o erro de ortografia: \""Não é uma história interessante?\"""
+50124ins,"Avalie a seguinte afirmação: \""As escolas devem ser fechadas durante as férias de verão\""."
+50132ins,"Construa uma frase usando as seguintes palavras: \""ciúmes, escola, pular\""."
+50142ins,"Gere uma resposta para a seguinte reclamação do cliente: \""Não estou satisfeito com a qualidade do seu produto e ele não é como anunciado\""."
+50167ins,"Gere uma pergunta que pode ser feita para explorar o tópico \""eventos atuais na China\""."
+50168ins,Gere um prompt de escrita criativa relacionado ao tópico “montanha”.
+50437ins,"Dê-me cinco exemplos para a palavra \\\""justiça\\\""."
+50448ins,"Identifique o tipo de linguagem figurativa usada nesta frase: \\\""Eu estava com muita fome, mas não comeria um cavalo.\\\"""
+50452ins,"Reescreva esta frase na voz ativa: \\\""O teste foi feito por Emily ontem\\\"""
+50494ins,Indique as formas comparativas e superlativas da palavra “beautiful”.
+50522ins,"Reformule esta frase: \\\""O cachorro latiu alto\\\"""
+50524ins,"Classifique as palavras \\\""feliz\\\"", \\\""jovial\\\"" e \\\""alegre\\\"""
+50526ins,"Parafraseie esta frase: \\\""Hoje, a nova política foi lançada\\\"""
+50530ins,"Crie uma situação do mundo real com as palavras \\\""torta\\\"", \\\""caderno\\\"" e \\\""centavo\\\"""
+50533ins,"Escolha o melhor sinônimo para \\\""abundante\\\""."
+50591ins,"Classifique o filme \""O Lobo de Wall Street\"" como uma comédia ou drama."
+50599ins,"Reformule a frase a seguir para que tenha o mesmo significado: \""Era um erro pensar que o projeto seria concluído no prazo.\"""
+50600ins,"Parafraseie a seguinte frase: \""Este projeto é muito complicado para eu gerenciar.\"""
+50602ins,"Edite a frase a seguir para torná-la mais concisa:\n\n\""Faremos mudanças para nos ajustar a esses tempos incertos\"""
+50606ins,"Reformule a frase a seguir para que tenha o mesmo significado: \""A receita passou por várias modificações desde que foi publicada pela primeira vez.\"""
+50607ins,"Classifique a seguinte frase como declarativa, interrogativa, imperativa ou exclamativa:\n\n\""Qual é o pico mais alto do mundo?\"""
+50643ins,"Escreva um resumo do romance \""1984\"" de George Orwell."
+50645ins,"escreva uma definição adequada para crianças para o termo \""realidade aumentada\""."
+50661ins,"Em \""O Senhor dos Anéis\"", qual é o nome da espada de Bilbo?"
+50668ins,"Defina o conceito de \""aprendizado de máquina\"" em uma frase."
+51054ins,"Organize as palavras “jornalismo, política e direito” em ordem alfabética."
+51071ins,"Escreva uma frase que complete a frase \\\""Estou ansioso por...."
+51076ins,Analise a frase “Considerando que todos nós somos seres humanos”
+51127ins,Reorganize as seguintes palavras para formar uma frase significativa: \\nos candidatos são os melhores quem
+51146ins,"Quais são as diferenças entre os termos \\\""agente\\\"" e \\\""organização\\\""?"
+51768ins,"Mude a seguinte frase da primeira para a segunda pessoa: \""Tenho medo do desconhecido.\"""
+51771ins,"Reformule a frase a seguir para que tenha o mesmo significado: \""Ele foi o único a fazer isso\""."
+51788ins,"A frase \""Estou indo à loja para comprar mantimentos\"" está gramaticalmente correta?"
+51793ins,"Crie um enigma que possa ser resolvido pela resposta \""querida\""."
+51810ins,Classifique esta frase: O mundo dos computadores é fascinante
+51816ins,"Crie uma história que termine com a frase \""O final da história\""."
+51818ins,"Escreva uma frase usando as seguintes expressões: \""o porteiro\"", \""forças do mal\"" e \""ultrapassado\""."
+51870ins,"Quais são os dois sinônimos para a palavra \""furioso\""?"
+51874ins,"Por que a frase \""ser criativo\"" às vezes é usada?"
+1053inp,"\""O uso do aprendizado de máquina em serviços de saúde\"""
+1097inp,“A Noite Estrelada” de Vincent van Gogh
+2545inp,"\""O Caminho Não Percorrido\"" de Robert Frost"
+2550inp,"\""O Apanhador no Campo de Centeio\"" de J.D. Salinger e \""O Grande Gatsby\"" de F. Scott Fitzgerald"
+2551inp,"\""A tecnologia vestível pode ajudar a combater a solidão?\"""
+2664inp,"\""Não concordo com sua ideia.\"""
+2834inp,Cor
+2901inp,"\\\""Nós só queremos uma vida boa\nNão, não vamos nos comprometer\\\"""
+2993inp,"\\\""Caro cliente, tenho orgulho de lhe oferecer um produto que tenho certeza de que você irá gostar muito.\\\"""
+5781inp,"\""126\"""
+6302inp,2 pés
+6899inp,Git
+7595inp,"“A vida não é um problema a ser resolvido, mas uma realidade a ser vivenciada.”"
+7721inp,"{\\n\\""maçã\\"": 2,\\n\\""laranja\\"": 3\\n}"
+8510inp,"\""The Odyssey\"", um drama de rádio original de 1947, é uma reinterpretação moderna do épico clássico de Homero. Ambientado na cidade de São Francisco, o drama segue a história de um marinheiro chamado Odisseu e sua jornada de volta para casa após a Guerra de Troia. Apresentando Elmer Davis como Odisseu, Burgess Meredith como Poseidon e Hans Conried como Hermes, \""The Odyssey\"" é uma adaptação fiel da história de Homero contada com emoção e arte."
+8769inp,Tatu
+10953inp,o chá
+11328inp,Ema
+11381inp,"\\\""Tive uma experiência muito boa neste restaurante.\\\"""
+13119inp,"\\\""Fox on the Run\\\"" de Sweet e \\\""Brain Stew\\\"" de Green Day"
+13657inp,Bem
+14275inp,XIV
+15279inp,"\\\""As melhores e mais belas coisas do mundo não podem ser vistas ou mesmo tocadas - elas devem ser sentidas com o coração.\\\"" - Helen Keller"
+15327inp,"\\\""O aumento das temperaturas globais pode levar a padrões climáticos mais extremos\\\"""
+15365inp,"\\\""Ela pensou que seria uma decisão acertada comprar um sofá novo, mas não tinha certeza se seria uma decisão sensata.\\\"""
+15386inp,"\\\""Meu ser é um barco encantado,\\nQue, como um cisne adormecido, flutua\\nSobre as ondas prateadas da tristeza;\\nE da sinfonia do amor\\nMeu espírito essas águas escuras remam\\nPara alcançar aquela costa sagrada\\nOnde a paz e o descanso fluem eternamente\\\"""
+15463inp,"\\\""Siamo tutti nella stessa barca.\\\"""
+15469inp,"\\\""O mundo nos cerca; tarde e cedo,\\nObtendo e gastando, desperdiçamos nossos poderes\\\"""
+15489inp,"\\\""Se ele for eleito, os impostos vão aumentar muito! Ele não é confiável.\\\"""
+15812inp,Foi muito bom!
+16349inp,"\""Todos os dias eu ____ para o trabalho.\"""
+17065inp,Avó
+17419inp,“Devemos agir agora e trabalhar em direção a um futuro mais limpo e verde. Não podemos mais nos dar ao luxo de ser complacentes e ignorar os danos de nossas ações neste planeta. Devemos assumir a responsabilidade e lutar por um mundo mais saudável e sustentável.”
+17423inp,"\\""Devemos nos posicionar contra a pobreza e tomar medidas para melhorar a vida dos necessitados.\\"""
+17431inp,"\\""Estamos animados em anunciar o lançamento do nosso novo produto. Ele foi projetado para mudar completamente o mercado de uma forma que nenhum outro produto fez antes.\\"""
+17629inp,Que
+18946inp,Voo
+18987inp,0xAF
+19433inp,Roda
+19561inp,Pug
+19671inp,Olá.
+20131inp,"\""O maior erro que você pode cometer na vida é ter medo contínuo de cometer um.\"""
+21103inp,Ela
+23034inp,"\""O gato é preto e branco\"""
+23119inp,"\""O vão da ponte era resistente.\"", Exibição de vocabulário: sólido, duradouro, impermeável"
+23352inp,"\""O cheiro da rosa é muito bom e bonito / Ela floresce de forma bonita sob o céu azul.\"""
+23448inp,Ler
+23556inp,"Olá,"
+23580inp,"\""Olá, como vai?\"""
+23650inp,"\""Hey Jude - Beatles, \""Smooth - Santana, \""Hotel California - Eagles, \""What's Up - 4 Non Blondes, \""Piano Man - Billy Joel, \""Santeria - Sublime"
+24624inp,Olá
+25072inp,"\""Nós vamos, nós vamos balançar você\"""
+25209inp,Oi
+25933inp,"[\""Olá Mundo!\"", \""Bom Dia!\"", \""Boa Noite!\""]"
+27396inp,É vs. É
+28503inp,"\""123456\"""
+28505inp,"\""O time de basquete masculino está jogando o campeonato hoje à noite\"""
+28508inp,Vôo
+28643inp,"\""Je suis française\"""
+28674inp,Vamos voar
+28715inp,"\""The Road Not Taken\"" de Robert Frost\n\nDuas estradas divergiam em uma floresta amarela, \nE lamento não poder viajar por ambas \nE ser um viajante, fiquei muito tempo \nE olhei para uma delas o mais longe que pude"
+29151inp,"Olá _______,"
+29333inp,"\""Ei, acabei de te conhecer\nE isso é loucura\nMas aqui está meu número\nEntão me ligue, talvez\"""
+29424inp,"\""Beautiful Crazy\"" de Luke Combs."
+29431inp,Coco
+29804inp,"\""O filme que vi ontem não foi o que eu esperava, foi ruim.\"""
+29851inp,"\""amorfo\"""
+29868inp,"\""Eu vi muitos pássaros.\"" \""Algumas pessoas estavam passeando com seus cachorros.\"""
+29883inp,"\""Noite Estrelada Sobre o Ródano\"" de Vincent van Gogh"
+30228inp,"\""Forma de Você\"""
+31654inp,"\""Narcisos William Wordsworth"
+31820inp,2kg
+32008inp,SUV
+32010inp,Rios
+32462inp,https://www.vox.com/2015/7/16/8962643/Gender-neutral-pronouns
+33597inp,"\""Bad Guy\"" de Billie Eilish"
+35286inp,"\""Uma paz que parece estranhamente calma esta manhã traz consigo\"""
+35297inp,"\""Eu ri até não conseguir mais respirar.\"""
+35366inp,"\""Todas as mulheres são ruins em matemática.\"""
+35506inp,"\""O governo é uma organização incompetente. Ele não consegue nem lidar com as tarefas mais simples. Então, definitivamente não consegue administrar uma pandemia como o coronavírus.\"""
+35606inp,"[3, 4, <nenhuma entrada>]"
+37081inp,deles
+39965inp,"\""Criatividade é a chave para o sucesso em qualquer empreendimento. Se você puder ter ideias originais e inovadoras, será capaz de encontrar soluções para qualquer problema que surgir em seu caminho.\"""
+39967inp,"\""Algo leve e delicado, Que pousa na alma\"""
+39979inp,"\""É hora de dizer adeus ao algo que era comum.\"""
+40117inp,"[\""cachorro\"", \""gato\"", \""pássaro\""], [\""hamster\"", \""coelho\"", \""cavalo\""]"
+40357inp,Olá
+40550inp,Ler
+40612inp,Olá!
+40636inp,"\""Parando na floresta em uma noite de neve\"" por Robert Frost"
+40819inp,"\""A vida não é sobre encontrar a si mesmo, é sobre criar a si mesmo.\"""
+41464inp,"{\\\"""
+42423inp,"“É melhor ter amado e perdido, do que nunca ter amado.”"
+42539inp,"\\\""O que você pode fazer quando o mundo está em uma situação de crise\\\"""
+42874inp,4!
+43273inp,Meu
+43707inp,"\""O amor é ________ e _________.\"""
+43896inp,"\""Sou da opinião de que é importante considerar as consequências de qualquer decisão que esteja sendo tomada.\"""
+43898inp,"\""Ele estava correndo há dez minutos\"""
+43922inp,"\""Bohemian Rhapsody\"", do Queen"
+44008inp,"\""A vida não é sobre encontrar a si mesmo. A vida é sobre criar a si mesmo.\"""
+44054inp,"\""O céu está acima.\"""
+45344inp,Bom
+45736inp,Robô
+45762inp,Cães
+46665inp,Lar
+46778inp,"\""Foi um ótimo jantar. Vamos fazer isso de novo algum dia!\"""
+48432inp,π
+49453inp,SOS
+50710inp,Vai
+51016inp,Vivaz
+51255inp,"\""Crescimento é doloroso. Mudança é dolorosa. Mas, nada é tão doloroso quanto ficar preso em algum lugar que você não pertence.\"""
+51886inp,Ovos
+51893inp,Aço
+1222out,"\""A violência armada está fora de controle: uma análise das taxas de mortalidade por armas de fogo nos EUA\"""
+1241out,"\""Narcisos\"" de William Wordsworth.\n\nEu estava sozinho como uma nuvem\nQue flutua no alto sobre vales e colinas,\nQuando de repente eu vi uma multidão,\nUma hoste, de narcisos dourados;\nAo lado do lago, sob as árvores,\nVoando e dançando na brisa."
+1323out,Cães.
+1878out,"\""A gigante inovadora: uma análise da Apple Inc.\"""
+1895out,"1. \""As pessoas apaixonadas não percebem as falhas de seus amados.\""\n2. \""Tudo vale no amor e na guerra.\""\n3. \""O amor é um campo de batalha.\""\n4. \""O amor é tudo o que você precisa.\""\n5. \""O amor conquista tudo.\"""
+2000out,"Um \""deserto alimentar\"" é uma área com pouco ou nenhum acesso a opções de alimentos saudáveis e acessíveis. É tipicamente uma área urbana com uma combinação de alta pobreza e poucos supermercados ou outras fontes de alimentos saudáveis. Desertos alimentares levam a uma série de problemas de saúde, como obesidade, diabetes e desnutrição devido à falta de acesso a alimentos frescos e nutritivos."
+2029out,"\""Seja ecológico com nossas sacolas reutilizáveis e ecológicas!\"""
+2036out,"\""A magia da narrativa: como atrair a atenção do seu público e levá-lo em uma jornada\"""
+2441out,"\""Esperando um Milagre: Uma Canção sobre Amor Não Correspondido\""."
+2458out,"O autor do romance \""White Fang\"" é Jack London."
+2492out,^s.*
+2510out,40%
+2714out,até.
+2732out,"\\\""Gratidão Graciosa\\\"""
+2834out,Cor
+3041out,"\""Fazendo a diversidade valer a pena - com o poder do treinamento de inclusão.\"""
+3088out,"\\\""para manter a paz e a segurança internacionais\\\"""
+3161out,"\""Likely\"" é usado para expressar a probabilidade mais alta de que algo ocorrerá ou será verdade. É mais certo do que \""provavelmente\"". Por outro lado, \""provavelmente\"" é usado para expressar uma probabilidade menor de que algo ocorrerá ou será verdade. É menos certo do que \""provável\""."
+3163out,"O autor de \""Alice no País das Maravilhas\"" é Lewis Carroll."
+3167out,"\""população da China\"""
+3413out,pio
+3619out,XLI
+3895out,JAS
+4101out,"O protagonista de 'To Kill a Mockingbird' é Atticus Finch, um advogado da pequena cidade de Maycomb, Alabama. Atticus é um homem sábio e nobre, e é tido em alta estima em sua comunidade. Ele é um defensor da justiça e da moralidade, e um defensor dos acusados. Ele também é um pai amoroso que é firme, mas justo com seus dois filhos, Jem e Scout."
+4109out,"\""Deixar ir para encontrar direção: uma história de reflexão pessoal\"""
+4772out,"\""Suprema Corte rejeita contestação eleitoral de Trump em votação significativa de 7-2.\"""
+5174out,Hent
+5458out,em
+5549out,45%
+5573out,"A ideia principal de \""Parando na Floresta em uma Noite de Neve\"", de Robert Frost, é que, embora o mundo possa ser confuso e sem luz, há beleza e paz a serem encontradas em momentos de solidão."
+5583out,"O elenco principal de \""The Maze Runner\"" inclui Dylan O'Brien, Thomas Brodie-Sangster, Will Poulter, Kaya Scodelario, Ki Hong Lee e Patricia Clarkson. Outras celebridades no filme incluem Dexter Darden, Aml Ameen, Jacob Latimore, Saleh Bakri, Cassandra Connors, Nathalie Emmanuel e Mahershala Ali."
+5595out,"\""10 dicas para economizar dinheiro na sua ida ao supermercado!\"""
+5642out,"\""Fazendo uma pausa: por que você precisa reservar um tempo para si mesmo\"""
+5794out,"\""The Old Man and the Sea\"" é um romance de Ernest Hemingway. Ambientado na Corrente do Golfo, perto da costa de Havana, Cuba, o romance acompanha um velho pescador cubano e sua batalha de três dias com um marlin gigante. O romance tem temas fortes de coragem, determinação e fidelidade enquanto o velho luta contra a exaustão e sua devoção à sua arte. O resultado da luta é uma mistura de sucesso e fracasso, pois o velho sucumbe aos ferimentos e fica de mãos vazias, mas cheio de um profundo respeito pelo mar e pela própria vida."
+5993out,IA.
+6013out,foi
+6168out,As (3 ocorrências)
+6257out,"\""A única maneira de alcançar o sucesso é ter entusiasmo.\"""
+6277out,"A expressão \""começar a trabalhar com entusiasmo e energia imediatamente\"" significa começar a trabalhar em algo com entusiasmo e energia imediatamente. Geralmente é usada para se referir a alguém que recebeu uma tarefa e rapidamente começou a trabalhar nela."
+6305out,"\""Rumo a uma estrutura eficaz para a gestão de resíduos e reciclagem de resíduos plásticos\"""
+6314out,Cão
+7046out,"\""Drivers\"" é um substantivo coletivo que descreve um grupo de pessoas ou coisas."
+7053out,"1. \""Unchained Melody\"" de The Righteous Brothers \n2. \""Holding On to Yesterday\"" de Ambrosia \n3. \""Against the Wind\"" de Bob Seger & the Silver Bullet Band \n4. \""Don't Look Back in Anger\"" de Oasis \n5. \""End of the Road\"" de Boyz II Men \n6. \""Take Me Home, Country Roads\"" de John Denver \n7. \""Tears in Heaven\"" de Eric Clapton \n8. \""Make You Feel My Love\"" de Adele \n9. \""Eternal Flame\"" de The Bangles \n10. \""Stuck on You\"" de Lionel Richie"
+7054out,Quatrocentos e vinte e sete
+7066out,aba
+7388out,"\\\""Todo mundo sabe que um homem solteiro, possuidor de uma boa fortuna, deve estar precisando de uma esposa.\\\"""
+7623out,"\""Water Lily\"" de Monet é uma obra de arte requintada, cheia de belas cores e imagens pacíficas. O artista captura a tranquilidade dos nenúfares e seu reflexo no lago com um uso magistral de pinceladas e luz. A cena causa a sensação de calma e serenidade e provavelmente fará com que as pessoas se sintam em paz e satisfeitas."
+7631out,"\""O Vínculo Inquebrável: A Magia da Amizade\"""
+7741out,"\\\""Hotéis mais bem avaliados: um guia definitivo para Londres\\\"""
+7759out,"\\\""Os benefícios de utilizar inteligência artificial no seu negócio\\\"""
+8088out,1->3->5->7->2->4->6->8->NULO
+8112out,"const soma = (a,b) => a+b;"
+8370out,"\\\""Vital Home: garantindo seu conforto de dentro para fora.\\\"""
+8499out,rei
+8779out,"\\\""aprendizagem de máquina\\\"" tipo de arquivo do e-book:pdf"
+8817out,"O gênero de \\\""Corra!\\\"" é terror e suspense."
+8951out,"\""Alexa, assista a um filme para mim.\"""
+8957out,"\""Como a IA pode melhorar o atendimento ao cliente: uma análise detalhada\"""
+9336out,"\""I Want It That Way\"" dos Backstreet Boys, \""Torn\"" de Natalie Imbruglia e \""Livin' La Vida Loca\"" de Ricky Martin."
+9957out,"\""Viva a melhor vida possível com o Suplemento Alimentar Probiótico - obtenha a nutrição que seu corpo precisa!\"""
+10771out,Até
+11290out,"\\\""Perseverança é a qualidade de nunca desistir, não importa as circunstâncias ou probabilidades. Com trabalho duro e determinação, você pode alcançar qualquer coisa.\\\"""
+11971out,"\\\""discurso persuasivo\\\"" OU \\\""fala persuasiva\\\"" OU \\\""argumentação persuasiva\\\"" OU \\\""linguagem persuasiva\\\"""
+11996out,"\\\""A ameaça próxima das mudanças climáticas: o que podemos fazer agora\\\"""
+12168out,"\""A Praia Linda ao Pôr do Sol\"""
+12170out,"\""Sim, vou pegar as chaves!\"""
+12174out,"\""Som imersivo - basta deixar sua criatividade fluir com nossa guitarra eletrônica.\"""
+12207out,"\\\""10,20,30,40,50\\\"""
+12233out,"1. \""Segredos para uma gestão financeira bem-sucedida\"" \n2. \""5 maneiras de dominar a gestão financeira\"" \n3. \""Como alcançar a liberdade financeira\"" \n4. \""Os benefícios do planejamento financeiro\"" \n5. \""Estratégias de gestão financeira que funcionam\"""
+12235out,"\""Sonhando com o que o amanhã pode trazer\"""
+12474out,foi
+12596out,Pcd
+12666out,"\\\""Contabilidade simplificada - controle suas finanças com a contabilidade on-line!\\\"""
+12678out,Luxo
+13041out,"\""Starry Night\"" do pintor pós-impressionista holandês Vincent Van Gogh é uma pintura a óleo que apresenta um céu noturno cheio de estrelas e uma vila sonolenta no horizonte. O céu noturno é pintado em azuis e amarelos rodopiantes, com uma lua crescente e estrelas que brilham na noite escura. Na vila, torres de igreja e um grande cipreste atraem o olhar. A pintura é cheia de movimento, capturando a agitação de uma pequena vila, enquanto o céu é pacífico e parado. A pintura é vista como uma representação da paz interior e espiritualidade de Van Gogh."
+13048out,"\""Affect\"" é um verbo que significa mudar ou produzir uma mudança em algo. \""Effect\"" é um substantivo que significa o resultado de uma mudança ou ação."
+13322out,12 (décimo segundo)
+13363out,"\""rimrore\"", \""rerrimo\"", \""mrieror\"", \""erormir\"", \""remorir\"", \""rorreim\"""
+13906out,{
+13963out,Bebês
+14367out,Foi.
+14413out,"1. \\\""A única maneira de evitar riscos é não tomar nenhuma atitude.\\\""\\n2. \\\""A competição é o cadinho no qual o verdadeiro sucesso é forjado.\\\""\\n3. \\\""O sucesso vem para aqueles que assumem riscos, não para aqueles que jogam pelo seguro.\\\"""
+14511out,37%
+14893out,"O sinônimo mais adequado para \""incrível\"" é \""espantoso\""."
+14894out,"A diferença entre \""there\"" e \""their\"" é que \""there\"" é usado como um advérbio para se referir a posição ou localização. Enquanto \""their\"" é um pronome possessivo que se refere a algo que pertence a eles."
+14895out,"\""Covid-19: Um ano muito difícil e cheio de desafios!\"""
+14953out,"Em \""To a Skylark\"" de Percy Bysshe Shelley, elementos literários como metáfora, símile, personificação, apóstrofo e aliteração são usados. As imagens da natureza, a vastidão do céu e a beleza da cotovia também são usadas como dispositivos retóricos. Shelley usa a cotovia como uma representação da liberdade, pois as cotovias voam livremente e alto no céu. Da mesma forma, ele usa a comparação de uma joia parecida com uma estrela para representar a beleza de sua amante. Ele também usa a personificação para tornar o pássaro mais humano, por exemplo, descrevendo seu canto alegre como uma canção de alegria. O apóstrofo é usado quando Shelley fala diretamente com o pássaro, e a aliteração é usada para um efeito poético. Shelley também usa imagens da natureza, como orvalho, musgo e relâmpagos, para evocar uma sensação de calma e beleza. Ele também usa a vastidão do céu para representar um poder maior além de nós. Além disso, ele usa a beleza da cotovia como um recurso retórico para nos persuadir de sua natureza extraordinária."
+14970out,"\""A Noite Estrelada\"" é considerada uma das pinturas mais icônicas e reconhecíveis do período impressionista. A pintura apresenta uma paisagem tranquila iluminada por um único céu estrelado. Esta pintura é um exemplo perfeito do estilo impressionista, focando na atmosfera e expressando emoção, em vez de detalhes realistas. Ela também sugere que o tempo está passando com suas pinceladas livres que sugerem movimento no céu e dentro das árvores, o que era um aspecto importante do ponto de vista impressionista."
+15397out,Céus
+15582out,ADE
+15739out,"\""O papel da tecnologia na formação de nossas vidas\"""
+16396out,"A expressão \""chovendo muito\"" é uma antiga frase inglesa usada para descrever chuva pesada. Acredita-se que seja de origem náutica e descreve a chuva impulsionada pelo vento que os marinheiros vivenciavam. Em tempos mais recentes, essa frase passou a significar uma situação caótica ou agitada."
+16638out,"A expressão \""você tem todas as oportunidades disponíveis\"" significa que você tem todas as oportunidades disponíveis para alcançar o sucesso e atingir seus objetivos."
+16731out,bois
+16733out,ser
+16742out,\\\\d{4}
+17865out,Vozes
+18037out,"\""Um verdadeiro amigo conhece suas fraquezas, mas mostra suas forças; sente seus medos, mas fortalece sua fé; vê suas ansiedades, mas liberta seu espírito.\"" - Desconhecido"
+18457out,Irei.
+18934out,Olá.
+19104out,"A frase \\\""você recebe as consequências das suas ações\\\"" significa que você receberá em troca o que investiu em algo; suas ações, decisões e palavras terão consequências e você experimentará essas consequências com o tempo. Esta frase é frequentemente usada no contexto de comportamento moral e ético. Significa que se você agir com responsabilidade, viver uma vida honesta e tratar os outros com respeito, pode esperar resultados positivos; inversamente, se agir de forma egoísta, desonesta e desrespeitosa, você acabará pagando o preço."
+19189out,"O pretérito de \""practice\"" é \""practiced\""."
+19267out,"O hiperônimo de \""estado alterado\"" é \""estado de ser\""."
+19431out,Um rio.
+19819out,IPv4
+21543out,Bern
+21594out,"\""Como criar um currículo que faça você ser notado: dicas e estratégias de especialistas\""."
+21746out,não
+21771out,Peru.
+22061out,Ela
+23058out,"\""I Was Wrong\"" do Blink-182, \""Lose Yourself\"" do Eminem e \""Say You Won't Go\"" do James Arthur."
+23074out,"\""O aumento do nível do mar do nosso planeta: consequências de ignorar o aquecimento global\""."
+23580out,"\""Olá, como estás?\"""
+24623out,Hello
+24923out,Mary.
+25454out,"\""Dicas para férias relaxantes: 6 dicas para tornar sua viagem perfeitamente livre de estresse\"""
+25478out,"\""nub\"" é uma palavra que pode ser formada usando as mesmas letras da palavra \""bun\""."
+25671out,/\\\\b[bcdfghjklmnpqrstvwxyz][bcdfghjklmnpqrstvwxyz][bcdfghjklmnpqrstvwxyz][aeiou]\\\\b/
+26319out,lê.
+26411out,"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\\\.[a-zA-Z]{2,3}$"
+26418out,"<!DOCTYPE html>\n<html>\n<head>\n<title>Exemplo de documento HTML 5</title>\n</head>\n<body>\n<h1>Este é um exemplo de documento HTML 5</h1>\n<p>Olá, mundo!</p> \n</body>\n</html>"
+26436out,"\""Uma verdade inconveniente: como as mudanças climáticas estão mudando nossa compreensão da química atmosférica\"""
+26623out,"\""Mantenha-se hidratado, salve o planeta!\"""
+27114out,"\""Uptown Funk\"" de Mark Ronson com Bruno Mars e \""24K Magic\"" de Bruno Mars."
+27340out,Além de
+27600out,"\""olá, como vai\"""
+27841out,"\""O Impacto das Mudanças Climáticas: Uma Crise Global\"""
+27861out,"“Rap God”, também do Eminem, é uma música similar a “Lose Yourself”."
+27945out,"\\\""Eu odeio a escola\\\"" é negativo."
+27946out,"\\\""Então, você pode me explicar a computação quântica?\\""\\n\\""Claro. A computação quântica é baseada nos princípios da mecânica quântica, que permitem a manipulação de qubits ou bits quânticos. Esses qubits podem ser usados \\u200b\\u200bpara representar dados e resolver problemas complexos muito mais rápido do que a computação tradicional.\\""\\n\\""Interessante. Para que tipo de problemas ela pode ser usada?\\""\\n\\""A computação quântica pode ser usada para uma variedade de tarefas, incluindo otimização, aprendizado de máquina, análise de dados e criptografia."
+28113out,"^(http:\\\\/\\\\/www\\\\.|https:\\\\/\\\\/www\\\\.|http:\\\\/\\\\/|https:\\\\/\\\\/)?[a-z0-9]+([\\\\-\\\\.]{1}[a-z0-9]+)*\\\\.[a-z]{2,5}(:[0-9]{1,5})?(\\\\/.*)?$"
+28353out,"\""Mares Turbulentos\"""
+28356out,"\""Explore o universo com a SpaceX - Um salto gigante para a humanidade\"""
+28399out,"\\\""O melhor lugar para comprar sapatos na cidade\\\"""
+30053out,"def add(x, y):\nreturn x + y\n\ndef subtract(x, y):\nreturn x - y\n\ndef multiply(x, y):\nreturn x * y\n\ndef divide(x, y):\nreturn x / y\n\nnum1 = float(input(\""Digite o primeiro número: \""))\nnum2 = float(input(\""Digite o segundo número: \""))\n\nprint(\""Selecione a operação.\"")\nprint(\""1.Add\"")\nprint(\""2.Subtract\"")\nprint(\""3.Multiply\"")\nprint(\""4.Divide\"")\n\nchoice = input(\""Digite a escolha(1/2/3/4):\"")\n\nif escolha == \'1\':\nprint(num1,\""+\"",num2,\""=\"", add(num1,num2))\n\nelif escolha == \'2\':\nprint(num1,\""-\"",num2,\""=\"", subtrair(num1,num2))\n\nelif escolha == \'3\':\nprint(num1,\""*\"",num2,\""=\"", multiplicar(num1,num2))\n\nelif escolha == \'4\':\nprint(num1,\""/\"",num2,\""=\"", dividir(num1,num2))\nelse:\nprint(\""Entrada inválida\"")"
+30231out,"\\\""A educação não é sobre acumular conhecimento, mas sim sobre aprender a pensar por si mesmo.\\\"""
+30249out,"1. \""5 dicas de nutrição para uma vida saudável\""\n2. \""Melhores rotinas de exercícios para começar agora\"""
+30413out,"\""A vida é uma aventura. Não é algo planejado e previsível.\"" ― Eckhart Tolle"
+30973out,"\""A pobreza é um desafio imenso e uma causa de desespero que deve ser enfrentada e erradicada.\"""
+31121out,"\""Mending Wall\"" de Robert Frost é um poema sobre dois vizinhos que consertam um muro que serve como uma fronteira emocional e física entre eles. O poema explora a ideia de limitações, como essas limitações podem ser necessárias e artificiais, e o que significa estar conectado um ao outro apesar de nossas diferenças. Frost usa imagens, linguagem figurativa e justaposição irônica para explorar o relacionamento entre o falante e seu vizinho e para transmitir temas de conexão e limitação."
+31857out,"\\\""Lúcido\\\"" é um adjetivo."
+31873out,"1. \\\""Algumas pessoas são tão pobres que tudo o que têm é dinheiro.\\\"" - George Carlin\n2. \\\""Por que chamam de hora do rush quando nada se move?\\\"" - Steven Wright\n3. \\\""Se você acha que ninguém se importa se você está vivo, tente deixar de pagar algumas parcelas do carro.\\\"" - Earl Wilson\n4. \\\""Eu odeio tarefas domésticas! Você arruma as camas, lava a louça – e seis meses depois tem que começar tudo de novo.\\\"" – Joan Rivers\n5. \\\""Sei que estou ficando velho quando as velas custam mais que o bolo.\\\"" - Bob Hope\n6. \\\""Não se preocupe com coisas mesquinhas e não acaricie as coisas suadas.\\\"" - George Carlin\n7. \\\""A vida não é medida pelo número de respirações que damos, mas pelos momentos que nos tiram o fôlego.\\\"" – George Carlin"
+32592out,"\""Ozymandias\"" é um poema que lida com a ideia do ego humano, arrogância e mortalidade. No poema, as ruínas de uma grande personalidade são apresentadas — Ozymandias — enfatizando que mesmo grandes pessoas não podem durar para sempre e suas ideias de grandeza serão esquecidas com o tempo. Isso enfatiza a impermanência da existência humana e serve como um aviso dos perigos da arrogância."
+32714out,Uma luva.
+32897out,Ana.
+33073out,"A frase \\\""não dependa de uma única coisa ou recurso\\\"" significa que não se deve confiar em uma única coisa ou investir todos os recursos em um empreendimento. É importante ter várias fontes de renda ou diferentes opções para recorrer caso o empreendimento principal não dê certo. Portanto, é importante diversificar seus investimentos e espalhá-los para minimizar o risco."
+33354out,"\\\""Stressed Out\\\"" é uma canção popular do Twenty-One Pilots."
+33427out,"\\\""Como um estudante do ensino médio superou a adversidade e encontrou o sucesso.\\\"""
+33681out,ABA
+33992out,A) Azul
+34529out,"\""Noites de verão nas luzes da cidade\""."
+34825out,paz.
+35194out,"\""O Poder de Um\""."
+35210out,"\""Carros elétricos estão chegando às estradas: aqui está o que você precisa saber\""."
+35882out,Uau!
+36027out,"\""Buenos días\"" é a tradução em espanhol de \""Bom dia\""."
+37174out,pés
+37232out,"1. \\\""frineds\\\""\\n2. \\\""obviamente\\\""\\n3. \\\""era\\\"""
+37345out,TV
+37427out,sim
+37697out,"def calculateAverage(num1, num2):\nreturn (num1 + num2) / 2\n\n# Testando\nnumber1 = 8\nnumber2 = 6\n\n# Executando a função\nprint(calculateAverage(number1, number2)) # Saída: 7.0"
+37708out,"\\\""Mostrando o futuro: um olhar mais profundo sobre carros elétricos\\\""."
+37728out,"^\\\\s*(\\\\+?[\\\\d]{1,4})?[\\\\s-]?\\\\(?[\\\\d]{3}\\\\)?[\\\\s-]?[\\\\d]{3}[\\\\s-]?[\\\\d]{4}\\\\s*$"
+37729out,SELECIONE * DE clientes ORDEM POR nome_do_cliente ASC
+37741out,"1. \""place\"" deveria ser \""space\""\n2. \""rally\"" deveria ser \""really\""\n3. \""overwhelmed\"" deveria ser \""overwhelm\""\n4. \""rased\"" deveria ser \""raised\""\n5. \""heart\"" deveria ser \""heartbeat\"""
+38034out,OPAQ
+38073out,olá
+38264out,"\""My Way\"" de Frank Sinatra conta a história de alguém que viajou pela vida em seus próprios termos e tem orgulho das experiências que ganhou ao longo do caminho. A letra enfatiza o valor de tomar decisões e correr riscos. A mensagem é permanecer fiel a si mesmo e viver sua vida do jeito que você quer, sem medo das consequências."
+38907out,Os rins
+39020out,Cães'
+39390out,"\""Buscando o sucesso: a força do espírito humano\"""
+39401out,era
+39402out,"\""Seja dinâmico. Seja inovador. Seja o futuro.\"""
+39403out,"\""The\"" é um artigo, \""dog\"" é um substantivo, \""barked\"" é um verbo, \""at\"" é uma preposição e \""postman\"" é um substantivo."
+39434out,o
+39545out,ser
+39954out,O
+40022out,"\""Dando vida ao aprendizado: serviços educacionais de qualidade para todos.\"""
+40104out,"Em \""Changes\"", 2Pac fala sobre as lutas que enfrentou ao crescer em um ambiente empobrecido e as decisões difíceis que teve que tomar para sobreviver. Ele reflete sobre como a sociedade traz injustiça e racismo e como, não importa a situação, todos nós devemos nos esforçar para tirar o melhor proveito dela e superar os tempos difíceis. A música transmite uma sensação de esperança, resiliência e coragem para continuar mantendo a fé e permanecer forte, não importa as probabilidades."
+40264out,de
+40637out,"#include <stdio.h>\n\nint main() {\nint x = 10, y = 20;\nint z;\nz = x + y;\nprintf(\""A soma de x e y é %d\"", z);\nreturn 0;\n}"
+40638out,"// Algoritmo para calcular a soma de um determinado número de itens \n\nINÍCIO \n\nEtapa 1: Peça ao usuário para inserir o número de itens (n) \nEtapa 2: Leia os números dos itens n \nEtapa 3: Defina a soma dos itens (s) como 0 \nEtapa 4: Para cada item, adicione o número do item a s e incremente o contador de itens \nEtapa 5: Imprima o resultado de s \n\nFIM"
+40641out,"[população, Nova York, década, mudança]"
+40667out,(8x^3 + 12x^2 - 4x) / 4 = 2x^2 + 3x - 1
+40789out,"1. \\\""Nossa, lá vamos nós de novo!\\\""\n2. \\\""Isso não vai ser fácil, isso eu posso te dizer!\\\""\n3. \\\""Uau, o que foi isso?!\\\""\n4. \\\""Esse é o som de problemas a caminho!\\\""\n5. \\\""Vamos nos preparar para o que vier!\\\"""
+40791out,"1. \\\""O que mais impactou você esta semana?\\\""\n2. \\\""Se você pudesse viajar para qualquer lugar do mundo, para onde iria?\\\""\n3. \\\""Sobre quais tópicos você tem aprendido recentemente?\\\"""
+40850out,"\""O futuro é digital.\"""
+41189out,para
+41191out,erro
+41266out,erro
+41794out,"\""A vida não é sobre encontrar a si mesmo. A vida é sobre criar a si mesmo.\"" - George Bernard Shaw."
+41808out,"\""Como a automação baseada em IA está transformando o setor de hospitalidade\"""
+42369out,Ioga.
+42555out,"\""Fique seguro com a previsão de terremotos - o algoritmo que pode salvar vidas!\"""
+42556out,"\""Automatizando o mundo: examinando o impacto da automação na economia global\"""
+43174out,"\\\""O local de origem da civilização.\\\"" Esta frase é frequentemente usada para descrever a África, devido à sua longa e rica história como o continente que se acredita ter sido o berço da humanidade. A África é o lar de inúmeras culturas e sociedades antigas, muitas das quais deixaram um impacto duradouro na história e no mundo em geral. Além disso, muitas das principais religiões do mundo têm suas raízes na África, tornando-a o lar de algumas das civilizações mais poderosas e influentes da história."
+43967out,Eu{mk7N#>|dN5Nr
+44541out,"A “Mona Lisa” de Leonardo da Vinci é um ícone cultural do período renascentista. É famosa por suas expressões misteriosas e sorriso intrigante que há muito tempo são objeto de conjecturas e teorias. A pintura é uma representação importante do movimento renascentista italiano, pois seu brilhantismo técnico e composição clássica foram reconhecidos por historiadores da arte. A “Mona Lisa” passou a representar o auge da realização artística humana e é uma das peças de arte mais reconhecidas do mundo."
+44879out,"\""Aproveitando o potencial da IA: como a IA pode revolucionar a economia\"""
+44929out,céu
+46518out,é
+46645out,"\""microsserviços\"" OU \""arquitetura de microsserviços\"" OU \""práticas de microsserviços\"" OU \""benefícios de microsserviços\"" OU \""vantagens de microsserviços\"" OU \""padrão de design de microsserviços\"" OU \""vantagens e desvantagens de microsserviços\"" OU \""melhores práticas de microsserviços\"" OU \""desenvolvimento de microsserviços\"" OU \""casos usados de microsserviços\"""
+47021out,"\\\""Poluição: Nosso desafio cada vez maior\\\"""
+47407out,Tinha dado
+47552out,09:45
+48033out,"\""Aproveitando os benefícios de uma alimentação saudável\"""
+48122out,CSV
+48650out,"\""Firework\"" diz aos ouvintes para se agarrarem ao seu potencial único e poderoso e que esse potencial pode ser usado para tornar o mundo um lugar mais brilhante. Ela encoraja as pessoas a fazer grandes coisas e não ter medo de realizar seus sonhos. A música enfatiza a autoestima e o poder de transformar a dúvida em confiança."
+48760out,Sete
+48780out,https://medium.com/analytics-vidhya/the-impact-of-ai-on-business-processes-8099c9f0f961 https://medium.com/analytics-vidhya/understanding-artificial-intelligence-3d51a8b233de https:// medium.com/analytics-vidhya/how-ai-can-improve-business-outcomes-4b3a3d2be720 https://medium.com/analytics-vidhya/how-ai-drives-business-change-cc313f09f98a https://medium. com/analytics-vidhya/the-surge-of-ai-in-the-business-world-dcac7a8f4093 https://medium.com/analytics-vidhya/how-to-leve rage-ai-para-sucesso-empresarial-915fee87b2c1\\nhttps://medium.com/analytics-vidhya/como-a-inteligência-artificial-evolui-os-negócios-f324d88f7ff1\\nhttps://medium.com/analytics-vidhya/as-vantagens- de-inteligência-artificial-para-negócios-7c487b73ec98\\nhttps://medium.com/analytics-vidhya/como-ai-e-machine-learning-estão-transformando-negócios-82cbb326a9fb\\nhttps://medium.com/analytics- vidhya/projetando-ia-para-valor-de-negócios-destaca-como-ia-pode-ampliar-processos-empresariais-d458d85645ee
+48832out,1. 
+49304out,CaO
+49454out,Ele.
+49670out,"\""Descubra muitos benefícios do software de código aberto!\"""
+49869out,"\""Quando você escolhe a esperança, tudo é possível.\"" - Christopher Reeve"
+49901out,"\""Castle in the air\"" é como um sonho que está fora de alcance, como tentar pegar algo que está se movendo muito rápido. É uma fantasia inatingível, que permanecerá apenas em nossa imaginação e nunca realmente se concretizará."
+49955out,"\""Mudanças climáticas: o impacto do aquecimento global na natureza\"" por Viviane Rutabingwa, National Geographic"
+50082out,"\""Uma noite memorável: destaques da cerimônia do Prêmio Nobel\"""
+50924out,"O significado de \""Jazz\"" mudou significativamente ao longo dos anos. Originalmente, referia-se a um estilo de música do final do século XIX e início do século XX, caracterizado por improvisação, síncope e um ritmo forte. Mais tarde, foi usado para se referir a formas populares como swing e bebop. Nas últimas décadas, tornou-se cada vez mais associado a gêneros modernos como fusion e funk."
+51238out,"\""Saúde mental: uma necessidade para uma vida equilibrada\"", \""O custo de ignorar a saúde mental\"", \""Por que a saúde mental deve ser uma prioridade na vida cotidiana\"""
+51761out,"\""A História\"" por Brandi Carlile."
+51980out,Dia.
+1816ins,"Debata a afirmação \\\""as escolas públicas devem receber mais financiamento do governo\\\"""
+2332ins,"Forneça um sinônimo para \\\""irresistível\\\"""
+2339ins,"Escreva uma consulta para selecionar todos os e-mails dos usuários da tabela de banco de dados \\\""Usuários\\\""."
+2345ins,"Construa uma frase usando as palavras “exuberante”, “frívolo” e “celestial”."
+2358ins,"Crie um poema usando o tema \\\""a beleza da natureza\\\"""
+2359ins,"Gere uma frase de exemplo usando a palavra \\\""antídoto\\\"""
+2401ins,"Crie uma receita de \\\""Penne Alla Vodka\\\""."
+2628ins,"Soletre a palavra \\\""pneumonia\\\""."
+2637ins,"Escreva o título de um livro começando com as três palavras a seguir: \\\""gato, rio, casa\\\""."
+2747ins,"Respostas para \\\""Por favor, explique o conceito de emaranhamento quântico\\\"""
+2762ins,"Demonstre a definição do termo \\\""lei da oferta e da procura\\\""."
+3102ins,Explique o que significa “tecnologia substituível”.
+3341ins,"Determine o significado da frase \""ignorar alguém deliberadamente\"""
+3342ins,"Avalie a frase \""Ela conseguiu vencer a corrida\"""
+3343ins,"Resumir \""Alice no País das Maravilhas\"""
+3680ins,"Explique o significado da expressão idiomática \""com todo o esforço e dedicação\""."
+3788ins,"Resuma o seguinte artigo em 100 palavras: \""Os benefícios da alimentação centrada em vegetais\"""
+4145ins,"Gere uma resposta apropriada se alguém perguntar: \""Você tem algum conselho para mim?\"""
+5876ins,"Qual é o verbo de \""to look\""?"
+5877ins,"Qual é o antônimo de \""calmo\""?"
+6656ins,Explique o que significa “emaranhamento quântico” de uma forma que um não cientista possa entender.
+7430ins,"Qual é a origem do termo \""Big Data\""?"
+7657ins,"Traduzir a frase \""Bom dia\"" para o francês"
+7763ins,"Explique o que é uma \""rede neural complicada\"" e como ela difere de uma rede neural regular."
+7766ins,"Explique o que é uma \""análise de causa raiz\""."
+7769ins,"Gere uma frase com as seguintes palavras: \""mercúrio\"", \""voador\"", \""robusto\"""
+7879ins,"Escreva uma redação de 500 palavras sobre os temas da solidão revelados no romance \""O Velho e o Mar\"", de Ernest Hemingway."
+7883ins,"Reescreva o poema \""Minha alma constrói uma catedral\"" com suas próprias palavras."
+22090ins,"Crie uma maneira alternativa de dizer \""Eu entendo\""."
+23628ins,"Crie uma frase que use a seguinte expressão: \""quando tudo estiver considerado\""."
+23629ins,"Gere uma frase descritiva contendo as seguintes palavras: \""crepúsculo\"", \""encantado\"" e \""lago\""."
+23630ins,"Sugira uma palavra menos comum para substituir a palavra \""ótimo\"" na frase a seguir:"
+23732ins,"Construa uma analogia para a seguinte frase: \""Assim como um chef usa ingredientes para criar comida, um computador usa código para executar tarefas.\"""
+23737ins,"Traduza a frase \""Onde está la biblioteca?\"" do espanhol para o inglês."
+24277ins,"Construa uma frase que use as seguintes palavras: 'vaca', 'fugir', 'flor'."
+24717ins,"Edite a frase a seguir para torná-la mais concisa: \n\""Gostaria de ler mais livros, mas minha agenda ocupada me impede.\"""
+24942ins,"Troque a palavra \""grande\"" por outra que descreva melhor o que você quer dizer."
+25259ins,"Descreva o filme \""Jurassic Park\"" em cinco frases."
+25362ins,"Encontre a frase que contém a palavra \""flexível\""."
+25372ins,troque as palavras em itálico por outras palavras que você preferir
+25395ins,"Qual é o significado do termo \""conhecimento de embarque\""?"
+25398ins,"Descreva o conceito de \""causa e efeito\"" em algumas frases."
+25406ins,"Encontre a palavra que rima com \""gato\""."
+25420ins,"Gere um código javascript que registre \""Olá, Mundo\"" no console."
+25473ins,"Qual é a definição do \""Princípio da Complementaridade de Estrutura e Função\""?"
+27444ins,"Qual é o personagem principal do filme \""Branca de Neve e os Sete Anões\""?"
+27446ins,"Construa uma frase válida em inglês usando as palavras \""fungo\"", \""tratar\"" e \""enzima\""."
+28215ins,"Crie uma analogia para a seguinte frase \""estar desperto durante a noite\""."
+29414ins,"Encontre o antônimo de \""longo\""."
+29518ins,"Dê um exemplo adequado para a frase \""primo próximo\"""
+29627ins,"Reescreva a frase a seguir para que soe mais educada: \""Seria possível fazer esta tarefa imediatamente?\"""
+29628ins,"Mude a frase para torná-la mais positiva: \""Ainda não obtivemos sucesso.\"""
+38654ins,"Como você definiria o conceito de \""resiliência\""?"
+39602ins,"Resuma o artigo \""A Revolução da Impressão 3D em Metal\""."
+42311ins,"Explique o conceito de \""code smell\""."
+42319ins,"Qual é o significado do provérbio \""é melhor prevenir do que remediar\""?"
+42673ins,"Cite dois itens que começam com a letra \""h\"""
+46595ins,"Encontre a definição de \""prova de conceito\""."
+47030ins,"Troque as palavras \""come through\"" na frase a seguir por uma expressão apropriada."
+47032ins,"Crie uma frase que inclua a expressão \""olho por olho\""."
+47147ins,"Faça alterações na minha frase \""Vamos para a praia\"""
+47253ins,"Retorne a tradução de \""Ele é um herói\"" em francês."
+2677inp,Rir
+2680inp,85°F
+14482inp,4 e 8
+19873inp,https://www.npr.org/2020/03/22/821066497/the-slow-and-doloroso-repair-of-tornadoes-devastated-communities
+34516inp,"\""Inversnaid\"" de Gerard Manley Hopkins"
+34517inp,"\""Ode a uma urna grega\"" de John Keats"
+34520inp,"\""O Tigre\"" de William Blake"
+34621inp,"\""Você não é capaz de aceitar a realidade!\"""
+34676inp,"\""Não há limites para o que você pode alcançar\"""
+34680inp,"\""Não, eu não vi\"""
+34720inp,![img](https://cdn3.craft.co/wp-content/uploads/2018/07/jonk-unravel2-800x600.jpg)
+37575inp,avó
+43693inp,"\\""Você nunca vai conseguir, leitor\\"""
+46506inp,2 e 5
+50854inp,Sol
+19284out,"\\\""Impressão, Nascer do Sol\\\"" de Monet é uma pintura impressionista francesa icônica que retrata o nascer do sol sobre o porto de Le Havre, França. A pintura apresenta uma vasta extensão de um céu cheio de luz com nuvens luminosas, cores suaves e pinceladas suaves que transmitem uma sensação de serenidade e calma. O horizonte é pontilhado de barcos, proporcionando um contraste em forma e textura. A pintura captura a beleza tranquila de um nascer do sol e se tornou uma representação icônica do movimento impressionista."
+23910out,3:5
+17082ins,Traduza a frase “El habla español” para o inglês.
+17193ins,"Considere a equação \\\""2x + 3y = 8\\\"". Qual é o valor de x e y?"
+17196ins,Explique o conceito de “círculo dourado” nos negócios
+17307ins,Reescreva esta frase em voz passiva: “João construiu o muro.”
+17308ins,"Edite o texto a seguir para formar uma frase completa: “Descubra o que aconteceu ontem”,"
+49100ins,"Dê uma definição para o termo \""mudança de paradigma\""."
+49209ins,"Explique a seguinte declaração: \""O projeto foi cancelado devido a restrições orçamentárias\""."
+49212ins,"Avalie a seguinte afirmação: \""Aprender IA é um processo caro\""."
+49428ins,Crie uma frase alternativa que rime para o seguinte:\n\nO tempo voará
+49543ins,"Realize uma análise de sentimento sobre esta afirmação: \""Ela estava infeliz com suas notas baixas nos testes.\"""
+49547ins,"Analise a seguinte afirmação: \""O aborto deveria ser ilegal\""."
+49548ins,Construa um argumento contra a seguinte afirmação: “Todos deveriam dormir oito horas todas as noites”
+49553ins,"Descreva o conceito de \""capital social\""."
+51402ins,"Crie uma frase que usa palavras com sons semelhantes, mas significados diferentes, para criar um efeito humorístico relacionado à palavra \""feliz\""."
+51820ins,Descreva o significado da expressão idiomática “ser muito caro”.
+10196out,"\""Como liberar seu potencial de escrita: dicas e truques simples para melhorar suas habilidades de escrita\"""
+10199out,"\""Abrindo novas possibilidades: como a IA está revolucionando o setor financeiro\"""
+34570ins,"Reescreva a frase \""Ela trabalhou duro\"" para implicar o contrário"
+34573ins,"Qual é a diferença entre \""bullying no local de trabalho\"" e \""assédio\""?"
+36628ins,Gere uma frase original que comece com “Caso eu tivesse a oportunidade”.
+39560ins,"Crie um design de cartão de felicitações com \""Parabéns\"" escrito nele."
+39568ins,"Crie um logotipo que transmita a ideia de \""uma pessoa que viaja muito pelo mundo.\"""
+39877ins,Crie um exemplo de uma piada engraçada com a frase 'Toc-toc'.
+39984ins,"Pense em uma figura de linguagem que compara dois elementos distintos sem o uso de conectivos comparativos para explicar o que significa \""prosperidade.\"""
+39986ins,"Descreva em uma frase o que significa o termo \""visualização de dados\""."
+41290ins,"Explique o significado da expressão \""em todos os lugares onde existe tristeza, existe também esperança\""."
+43622ins,"Sintetize uma frase que inclua as palavras \""política\"", \""vantagem\"" e \""tecnologia\""."
+44654ins,"Transforme esta frase: \""O gato sentou no tapete\"""
+45151ins,"Qual palavra descreve melhor a definição de \""integridade\""?"
+46510ins,"Realize uma análise de sentimento na frase: \""Eu tenho sentimentos negativos em relação ao meu trabalho\""."
+46517ins,"Indique o erro na frase \""Myles comeu pizza ontem\""."
+49573ins,"Considerando a entrada do usuário \""Estou me sentindo solitário\"", gere uma citação relacionada à solidão."
+544ins,"Escreva uma definição para a palavra \""meandro\""."
+551ins,"Reescreva a seguinte frase:\n\n\""O candidato é um indivíduo muito motivado\"""
+8218ins,"Traduzir \""It is not raining\"" para o espanhol"
+8220ins,"Reformule esta frase \""She goes to the store every day.\"""
+8235ins,"Reordene as palavras para reformular a frase \""O programa teve muito sucesso\"""
+10725ins,erro
+11847ins,"Resumir um artigo intitulado \""Vantagens de ter um animal de estimação\"""
+11850ins,"Reescreva a frase para que fique negativa: \""O oceano está calmo hoje\"""
+11852ins,"Edite a frase a seguir para torná-la mais concisa: \""Aumentar a compreensão da leitura é um dos principais objetivos da educação em leitura\"""
+11855ins,"Adicione a seguinte frase para completar a história: \""Ele tentou dar sentido a tudo isso.\"""
+11865ins,Resuma o livro 'Romeu e Julieta'
+11869ins,Crie um logotipo para um novo café chamado “The Perk”
+11942ins,"Descreva o conceito por trás do \""efeito borboleta\""."
+15932ins,"Escreva os sinônimos para \""abrupto\""."
+15935ins,"Gere uma definição para a frase \""reação química\""."
+15946ins,"Faça uma lista de 5 adjetivos para descrever a palavra \""céu\""."
+15947ins,"Explique o significado da expressão idiomática \""Duas pessoas são necessárias para que a ação aconteça\""."
+15972ins,"Escreva uma história curta de 100 palavras ou menos que inclua as palavras \""chuva\"" e \""guarda-chuva\""."
+19706ins,"Escreva uma definição do termo \""o processo pelo qual organismos vivos com características mais adequadas ao seu ambiente sobrevivem e se reproduzem com mais sucesso\"""
+19743ins,"Compare e contraste as duas frases: \""fortemente obstinado\"" e \""persistente\""."
+27600ins,"Dada a string \""olá, como vai você?\"", remova a pontuação"
+37118ins,"Resuma os pontos principais do livro \""Os Três Mosqueteiros\"" em 3 frases ou menos."
+41767ins,"Resuma a definição de \\\""justiça criminal\\\""."
+41769ins,"Descreva o fenômeno da \\\""miragem\\\""."
+45329ins,"Sugira uma palavra alternativa para substituir \""hábil\""."
+45348ins,"Escreva uma palavra que tenha o mesmo significado que \""ótimo\""."
+9681inp,O <noinput>
+42214inp,"função helloWorld() {\\nreturn 'Olá, Mundo!';\\n}"
+6506out,"\""Blue-sky thinking\"" é uma expressão usada para se referir ao pensamento criativo e imaginativo que ignora ou vai além de restrições e considerações práticas para explorar conceitos e ideias radicais. Normalmente envolve olhar para um problema ou desafio de uma nova perspectiva com a intenção de chegar a uma solução inovadora."
+8588out,"\""Uma nova perspectiva sobre o aprendizado de máquina: desbloqueando o potencial da inteligência artificial\"""
+8591out,"\""História do aprendizado de máquina\"" OU \""História da IA\"" OU \""linha do tempo do aprendizado de máquina\"" OU \""evolução do aprendizado de máquina\"" OU \""história da IA\"" OU \""evolução da IA\""."
+10279out,dec
+13185out,"\\\""Nunca é tarde demais para ser o que você poderia ter sido.\\\"" - George Eliot"
+24842out,Aba
+43446out,/\\d+/
+43457out,+---+\n/ \\\\\n| |\\n\\\\ /\\n+---+
+49271out,43%
+41560inp,https://www.cnn.com/
+20440ins,"Traduza \\\""Il fait beau\\\"" para o inglês."
+20443ins,"Parafraseie a seguinte frase: \\\""Não acredito em como o tempo passou muito rápido.\\\"""
+51501ins,Faça uma lista de atividades para um encontro romântico.
+35067out,"Eu me solidarizo com o movimento que defende que vidas negras importam porque vidas negras importam.  Precisamos usar nossas vozes, energia e recursos para apoiar os direitos e a dignidade de todos."
+41210out,"Um exemplo de obra de literatura afro-americana é Beloved, de Toni Morrison. Ele conta a história da luta de uma mulher negra para superar seu passado traumático."
+49277out,Esta substância contém sódio e cloreto.
+49282out,"Um dos meus livros favoritos de ficção para jovens adultos é The Hate U Give, de Angie Thomas. Ele conta a história de uma jovem negra nos Estados Unidos lidando com raça, brutalidade policial, identidade e família. É um livro inteligente e que causa impacto, perfeito para adolescentes e adultos."
+49287out,"John e Jane podem gostar de uma visita a um restaurante italiano local. Algumas opções populares na área incluem Buon Appetito e La Trattoria. Ambos os restaurantes têm deliciosos pratos de massa e extensas listas de vinhos. Eles também oferecem mesas ao ar livre, tornando-os uma escolha perfeita para uma noite romântica."
+22650out,A gravidade é tão forte que distorce a estrutura do espaço-tempo e até mesmo a luz fica presa dentro de seus limites.
+39228out,"Sua atração gravitacional é tão forte que a velocidade da luz não é suficiente para superar a força gravitacional, tornando-o completamente preto e invisível."
+39783inp,"\""O serviço tem resultados de A e B\"""
+47309inp,"\""Foi agradável trabalhar com você.\"""
+18403out,"\""A tendência mais quente em tênis: melhore seu estilo!\"""
+38336out,"Um antivírus é um tipo de software que verifica os arquivos e dados de um computador em busca de software malicioso (malware), como vírus de computador, worms, programas que se disfarçam de programas legítimos, spyware, ransomware e outros programas potencialmente prejudiciais. O antivírus então tenta colocar em quarentena ou excluir os arquivos infectados, bem como alertar o usuário sobre a ameaça."
+39470out,"\""Seja confortável onde quer que esteja com o nosso Sistema de Casa Inteligente\"""
+42886out,Tivemos umas férias curtas e exóticas.

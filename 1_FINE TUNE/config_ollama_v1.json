@@ -1,0 +1,26 @@
+{
+    "wandb_api_key": "seu_wandb_key",
+    "project_name": "chatbot_finetune_v1",
+    "output_base_dir": "./finetuned_models_v1",
+    "epochs": 3,
+    "batch_size": 16,
+    "learning_rate": 2e-5,
+    "warmup_steps": 100,
+    "weight_decay": 0.01,
+    "logging_steps": 50,
+    "save_steps": 200, 
+    "max_seq_length": 2048,
+    "models": [
+      "zephyr:7b",
+      "qwen2.5:32b",
+      "qwen2.5:14b",
+      "phi3:14b",
+      "llama3.1:8b",
+      "deepseek-r1:32b",
+      "gemma3:12b",
+      "deepseek-r1:7b",
+      "deepseek-r1:14b",
+      "gemma3:1b"
+    ]
+  }
+  
